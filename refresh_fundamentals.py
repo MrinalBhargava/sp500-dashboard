@@ -67,8 +67,15 @@ def main():
             meta = json.load(f)
         tickers = meta["tickers"]
     else:
+        import io
         import pandas as pd
-        table = pd.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
+        import requests as _req
+        html = _req.get(
+            "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+            headers={"User-Agent": "Mozilla/5.0 SP500-Dashboard/1.0"},
+            timeout=15,
+        ).text
+        table = pd.read_html(io.StringIO(html))[0]
         tickers = table["Symbol"].str.replace(".", "-", regex=False).tolist()
 
     print(f"Fetching fundamentals for {len(tickers)} stocks (throttled, ~5-10 min)...")

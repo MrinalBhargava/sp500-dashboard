@@ -34,7 +34,14 @@ SECTOR_ETFS = {
 
 def get_sp500():
     try:
-        table = pd.read_html("https://en.wikipedia.org/wiki/List_of_S%26P_500_companies")[0]
+        import io
+        import requests as _req
+        html = _req.get(
+            "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+            headers={"User-Agent": "Mozilla/5.0 SP500-Dashboard/1.0"},
+            timeout=15,
+        ).text
+        table = pd.read_html(io.StringIO(html))[0]
         tickers = table["Symbol"].str.replace(".", "-", regex=False).tolist()
         names = dict(zip(
             table["Symbol"].str.replace(".", "-", regex=False),
