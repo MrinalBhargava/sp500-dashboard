@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>S&P 500 Dashboard</title>
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#0f172a" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="SP500" />
+  <link rel="apple-touch-icon" href="icon-192.png" />
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div id="app">
+    <!-- Header -->
+    <header id="header">
+      <div class="header-inner">
+        <div class="header-left">
+          <span class="logo">SP500</span>
+          <span id="market-badge" class="badge badge-closed">CLOSED</span>
+        </div>
+        <div class="header-right">
+          <span id="last-updated" class="updated-time">—</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Tab bar -->
+    <nav id="tab-bar">
+      <button class="tab active" data-tab="top-pick">Top Pick</button>
+      <button class="tab" data-tab="leaderboard">Leaderboard</button>
+      <button class="tab" data-tab="screener">Screener</button>
+      <button class="tab" data-tab="sectors">Sectors</button>
+      <button class="tab" data-tab="eod">EOD</button>
+    </nav>
+
+    <!-- Main content -->
+    <main id="main">
+
+      <!-- ── TOP PICK TAB ─────────────────────────────────────────────── -->
+      <section id="tab-top-pick" class="tab-content active">
+        <div id="top-pick-hero" class="hero-card">
+          <div class="hero-header">
+            <div class="hero-left">
+              <div class="hero-ticker" id="hero-ticker">—</div>
+              <div class="hero-name" id="hero-name">Loading...</div>
+              <div class="hero-sector" id="hero-sector">—</div>
+            </div>
+            <div class="hero-right">
+              <div class="score-ring-wrapper">
+                <canvas id="score-ring" width="110" height="110"></canvas>
+                <div class="score-ring-label">
+                  <div id="hero-score" class="score-big">—</div>
+                  <div class="score-sub">/100</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="price-row">
+            <span id="hero-price" class="price-value">$—</span>
+            <span id="hero-change" class="price-change">—</span>
+          </div>
+
+          <div class="thesis-box">
+            <div class="thesis-label">ANALYST THESIS</div>
+            <p id="hero-thesis" class="thesis-text">Loading analysis...</p>
+          </div>
+
+          <div class="score-bars">
+            <div class="score-bar-row">
+              <span class="bar-label">Technical</span>
+              <div class="bar-track"><div class="bar-fill bar-tech" id="bar-tech"></div></div>
+              <span class="bar-val" id="val-tech">—</span>
+            </div>
+            <div class="score-bar-row">
+              <span class="bar-label">Fundamental</span>
+              <div class="bar-track"><div class="bar-fill bar-fund" id="bar-fund"></div></div>
+              <span class="bar-val" id="val-fund">—</span>
+            </div>
+            <div class="score-bar-row">
+              <span class="bar-label">Momentum</span>
+              <div class="bar-track"><div class="bar-fill bar-mom" id="bar-mom"></div></div>
+              <span class="bar-val" id="val-mom">—</span>
+            </div>
+            <div class="score-bar-row">
+              <span class="bar-label">Sector RS</span>
+              <div class="bar-track"><div class="bar-fill bar-sec" id="bar-sec"></div></div>
+              <span class="bar-val" id="val-sec">—</span>
+            </div>
+          </div>
+
+          <div class="signal-grid" id="signal-grid">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+
+        <div class="section-title">Also worth watching</div>
+        <div id="runner-up-list" class="runner-up-list">
+          <!-- Top 4 after top pick -->
+        </div>
+      </section>
+
+      <!-- ── LEADERBOARD TAB ──────────────────────────────────────────── -->
+      <section id="tab-leaderboard" class="tab-content">
+        <div class="section-title">Top 20 by Composite Score</div>
+        <div class="table-wrap">
+          <table id="leaderboard-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Ticker</th>
+                <th>Sector</th>
+                <th>Price</th>
+                <th>Score</th>
+                <th>Tech</th>
+                <th>Fund</th>
+                <th>Mom</th>
+                <th>Trend</th>
+              </tr>
+            </thead>
+            <tbody id="leaderboard-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- ── SCREENER TAB ──────────────────────────────────────────────── -->
+      <section id="tab-screener" class="tab-content">
+        <div class="filter-bar">
+          <select id="filter-sector">
+            <option value="">All Sectors</option>
+          </select>
+          <select id="filter-signal">
+            <option value="">All Signals</option>
+            <option value="75">Strong Buy (75+)</option>
+            <option value="60">Buy (60+)</option>
+            <option value="40">Hold (40+)</option>
+            <option value="0">All</option>
+          </select>
+          <input id="filter-search" type="text" placeholder="Search ticker..." />
+          <select id="sort-col">
+            <option value="rank">Score ↓</option>
+            <option value="ticker">Ticker</option>
+            <option value="rsi">RSI</option>
+            <option value="momentum3m">3M Mom</option>
+            <option value="pe">P/E</option>
+          </select>
+        </div>
+        <div class="table-wrap">
+          <table id="screener-table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Ticker</th>
+                <th>Name</th>
+                <th>Sector</th>
+                <th>Price</th>
+                <th>Score</th>
+                <th>RSI</th>
+                <th>MACD</th>
+                <th>P/E</th>
+                <th>3M Mom</th>
+                <th>Signal</th>
+              </tr>
+            </thead>
+            <tbody id="screener-body"></tbody>
+          </table>
+        </div>
+        <div class="pagination" id="screener-pagination"></div>
+      </section>
+
+      <!-- ── SECTORS TAB ───────────────────────────────────────────────── -->
+      <section id="tab-sectors" class="tab-content">
+        <div class="section-title">GICS Sector Heatmap</div>
+        <div id="sector-grid" class="sector-grid"></div>
+
+        <div class="section-title" style="margin-top:24px">Sector ETF Performance</div>
+        <div class="table-wrap">
+          <table id="sector-table">
+            <thead>
+              <tr>
+                <th>Sector</th>
+                <th>ETF</th>
+                <th>Avg Score</th>
+                <th>1M Return</th>
+                <th>3M Return</th>
+                <th>Top Stock</th>
+              </tr>
+            </thead>
+            <tbody id="sector-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- ── EOD SUMMARY TAB ───────────────────────────────────────────── -->
+      <section id="tab-eod" class="tab-content">
+        <div id="eod-date" class="eod-date">End of Day Summary</div>
+
+        <div class="eod-breadth" id="eod-breadth">
+          <!-- Breadth bars -->
+        </div>
+
+        <div class="eod-grid">
+          <div class="eod-col">
+            <div class="section-title">Score Risers</div>
+            <div id="eod-risers"></div>
+          </div>
+          <div class="eod-col">
+            <div class="section-title">Score Fallers</div>
+            <div id="eod-fallers"></div>
+          </div>
+        </div>
+
+        <div class="section-title" style="margin-top:16px">Top Pick of the Day</div>
+        <div id="eod-top-pick" class="eod-top-pick-card"></div>
+
+        <div id="eod-no-data" class="no-data-msg" style="display:none">
+          EOD summary will appear after market close (4:30pm ET). Check back tonight.
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- Data files (written by Python scripts) -->
+  <script src="data.js"></script>
+  <script src="eod_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

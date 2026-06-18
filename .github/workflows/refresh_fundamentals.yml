@@ -1,0 +1,42 @@
+name: Refresh Fundamentals (Daily)
+
+on:
+  schedule:
+    # 12:00 UTC = 8:00am ET (EDT) / 7:00am ET (EST)
+    - cron: '0 12 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh fundamentals
+        run: python refresh_fundamentals.py
+
+      - name: Commit cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fundamentals_cache.json
+          git diff --cached --quiet || git commit -m "chore: refresh fundamentals $(date -u '+%Y-%m-%d')"
+          git push

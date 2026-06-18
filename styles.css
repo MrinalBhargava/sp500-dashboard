@@ -1,0 +1,189 @@
+/* ── Reset & base ─────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0f172a;
+  --surface: #1e293b;
+  --surface2: #263348;
+  --border: #334155;
+  --text: #f1f5f9;
+  --muted: #94a3b8;
+  --green: #22c55e;
+  --red: #ef4444;
+  --amber: #f59e0b;
+  --blue: #3b82f6;
+  --purple: #a855f7;
+  --cyan: #06b6d4;
+  --accent: #3b82f6;
+  --header-h: 52px;
+  --tab-h: 44px;
+}
+
+html, body { height: 100%; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; -webkit-font-smoothing: antialiased; }
+
+/* ── Layout ───────────────────────────────────────────────────────────── */
+#app { display: flex; flex-direction: column; height: 100vh; }
+
+#header { height: var(--header-h); background: var(--surface); border-bottom: 1px solid var(--border); flex-shrink: 0; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; height: 100%; padding: 0 16px; }
+.logo { font-weight: 700; font-size: 16px; letter-spacing: 1px; color: var(--accent); }
+.updated-time { font-size: 11px; color: var(--muted); }
+
+/* ── Market badge ─────────────────────────────────────────────────────── */
+.badge { display: inline-block; padding: 2px 7px; border-radius: 4px; font-size: 10px; font-weight: 700; letter-spacing: 0.5px; margin-left: 8px; }
+.badge-open { background: #14532d; color: var(--green); }
+.badge-closed { background: #450a0a; color: var(--red); }
+.badge-pre { background: #1c1917; color: var(--amber); }
+.badge-after { background: #1e1b4b; color: var(--purple); }
+
+/* ── Tab bar ──────────────────────────────────────────────────────────── */
+#tab-bar { display: flex; height: var(--tab-h); background: var(--surface); border-bottom: 1px solid var(--border); flex-shrink: 0; overflow-x: auto; }
+#tab-bar::-webkit-scrollbar { display: none; }
+.tab { flex: 1; min-width: 72px; background: none; border: none; color: var(--muted); font-size: 12px; font-weight: 600; cursor: pointer; border-bottom: 2px solid transparent; transition: color 0.15s, border-color 0.15s; }
+.tab:hover { color: var(--text); }
+.tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+/* ── Main scroll area ─────────────────────────────────────────────────── */
+#main { flex: 1; overflow-y: auto; padding: 16px; }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+/* ── Section title ────────────────────────────────────────────────────── */
+.section-title { font-size: 11px; font-weight: 700; letter-spacing: 1px; color: var(--muted); text-transform: uppercase; margin-bottom: 10px; }
+
+/* ── Hero card ────────────────────────────────────────────────────────── */
+.hero-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 18px; margin-bottom: 16px; }
+.hero-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; }
+.hero-ticker { font-size: 28px; font-weight: 800; line-height: 1; }
+.hero-name { font-size: 13px; color: var(--muted); margin-top: 4px; max-width: 200px; }
+.hero-sector { font-size: 11px; color: var(--accent); margin-top: 2px; font-weight: 600; }
+
+/* ── Score ring ───────────────────────────────────────────────────────── */
+.score-ring-wrapper { position: relative; width: 110px; height: 110px; }
+.score-ring-label { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; pointer-events: none; }
+.score-big { font-size: 26px; font-weight: 800; line-height: 1; }
+.score-sub { font-size: 11px; color: var(--muted); }
+
+/* ── Price row ────────────────────────────────────────────────────────── */
+.price-row { display: flex; align-items: baseline; gap: 10px; margin-bottom: 14px; }
+.price-value { font-size: 22px; font-weight: 700; }
+.price-change { font-size: 14px; font-weight: 600; }
+.pos { color: var(--green); }
+.neg { color: var(--red); }
+.neu { color: var(--muted); }
+
+/* ── Thesis ───────────────────────────────────────────────────────────── */
+.thesis-box { background: var(--surface2); border-left: 3px solid var(--accent); border-radius: 6px; padding: 12px; margin-bottom: 16px; }
+.thesis-label { font-size: 10px; font-weight: 700; letter-spacing: 1px; color: var(--accent); margin-bottom: 6px; }
+.thesis-text { font-size: 13px; line-height: 1.6; color: var(--text); }
+
+/* ── Score bars ───────────────────────────────────────────────────────── */
+.score-bars { margin-bottom: 16px; display: flex; flex-direction: column; gap: 8px; }
+.score-bar-row { display: flex; align-items: center; gap: 10px; }
+.bar-label { font-size: 11px; color: var(--muted); width: 80px; flex-shrink: 0; }
+.bar-track { flex: 1; height: 6px; background: var(--border); border-radius: 3px; overflow: hidden; }
+.bar-fill { height: 100%; border-radius: 3px; transition: width 0.4s ease; }
+.bar-tech { background: var(--blue); }
+.bar-fund { background: var(--green); }
+.bar-mom { background: var(--purple); }
+.bar-sec { background: var(--cyan); }
+.bar-val { font-size: 12px; font-weight: 700; width: 32px; text-align: right; flex-shrink: 0; }
+
+/* ── Signal grid ──────────────────────────────────────────────────────── */
+.signal-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.signal-card { background: var(--surface2); border-radius: 8px; padding: 10px; text-align: center; }
+.signal-label { font-size: 10px; color: var(--muted); margin-bottom: 3px; font-weight: 600; letter-spacing: 0.5px; }
+.signal-value { font-size: 15px; font-weight: 700; }
+.signal-sub { font-size: 10px; color: var(--muted); margin-top: 1px; }
+
+/* ── Runner-up list ───────────────────────────────────────────────────── */
+.runner-up-list { display: flex; flex-direction: column; gap: 8px; }
+.runner-up-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px; display: flex; justify-content: space-between; align-items: center; cursor: pointer; }
+.runner-up-card:hover { border-color: var(--accent); }
+.ru-left { display: flex; flex-direction: column; gap: 2px; }
+.ru-ticker { font-weight: 700; font-size: 15px; }
+.ru-name { font-size: 11px; color: var(--muted); }
+.ru-right { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
+.score-chip { font-size: 13px; font-weight: 800; }
+.score-chip.high { color: var(--green); }
+.score-chip.mid { color: var(--amber); }
+.score-chip.low { color: var(--red); }
+
+/* ── Tables ───────────────────────────────────────────────────────────── */
+.table-wrap { overflow-x: auto; border-radius: 8px; border: 1px solid var(--border); }
+table { width: 100%; border-collapse: collapse; font-size: 12px; }
+thead { background: var(--surface2); }
+th { padding: 10px 12px; text-align: left; font-size: 10px; font-weight: 700; letter-spacing: 0.5px; color: var(--muted); text-transform: uppercase; white-space: nowrap; }
+td { padding: 9px 12px; border-top: 1px solid var(--border); white-space: nowrap; }
+tr:hover td { background: var(--surface2); }
+.ticker-cell { font-weight: 700; }
+.score-cell { font-weight: 700; }
+
+/* ── Signal label chips ───────────────────────────────────────────────── */
+.chip { display: inline-block; padding: 2px 7px; border-radius: 4px; font-size: 10px; font-weight: 700; }
+.chip-sbuy { background: #14532d; color: var(--green); }
+.chip-buy { background: #052e16; color: #86efac; }
+.chip-hold { background: #292524; color: var(--amber); }
+.chip-sell { background: #450a0a80; color: #fca5a5; }
+.chip-ssell { background: #450a0a; color: var(--red); }
+.chip-bull { background: #14532d40; color: var(--green); }
+.chip-bear { background: #450a0a40; color: var(--red); }
+
+/* ── Rank trend arrows ────────────────────────────────────────────────── */
+.trend-up { color: var(--green); font-size: 11px; }
+.trend-dn { color: var(--red); font-size: 11px; }
+.trend-flat { color: var(--muted); font-size: 11px; }
+
+/* ── Filter bar ───────────────────────────────────────────────────────── */
+.filter-bar { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+.filter-bar select, .filter-bar input { background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: 6px; padding: 6px 10px; font-size: 12px; }
+.filter-bar input { flex: 1; min-width: 120px; }
+
+/* ── Pagination ───────────────────────────────────────────────────────── */
+.pagination { display: flex; justify-content: center; gap: 6px; margin-top: 12px; flex-wrap: wrap; }
+.page-btn { background: var(--surface); border: 1px solid var(--border); color: var(--text); border-radius: 4px; padding: 5px 10px; font-size: 12px; cursor: pointer; }
+.page-btn.active { background: var(--accent); border-color: var(--accent); }
+
+/* ── Sector grid ──────────────────────────────────────────────────────── */
+.sector-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; margin-bottom: 8px; }
+.sector-card { border-radius: 10px; padding: 14px; cursor: default; }
+.sector-card-name { font-size: 11px; font-weight: 700; margin-bottom: 6px; line-height: 1.3; }
+.sector-card-score { font-size: 22px; font-weight: 800; }
+.sector-card-top { font-size: 10px; color: rgba(255,255,255,0.7); margin-top: 3px; }
+
+/* ── EOD tab ──────────────────────────────────────────────────────────── */
+.eod-date { font-size: 18px; font-weight: 700; margin-bottom: 16px; }
+.eod-breadth { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px; margin-bottom: 16px; }
+.breadth-label { font-size: 11px; font-weight: 700; letter-spacing: 0.5px; color: var(--muted); margin-bottom: 10px; text-transform: uppercase; }
+.breadth-bar { display: flex; height: 20px; border-radius: 4px; overflow: hidden; margin-bottom: 8px; }
+.breadth-seg { display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; }
+.breadth-stats { display: flex; gap: 16px; flex-wrap: wrap; }
+.breadth-stat { display: flex; flex-direction: column; gap: 2px; }
+.breadth-stat-val { font-size: 15px; font-weight: 700; }
+.breadth-stat-lbl { font-size: 10px; color: var(--muted); }
+
+.eod-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.eod-col { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 12px; }
+.eod-mover { display: flex; justify-content: space-between; align-items: center; padding: 7px 0; border-bottom: 1px solid var(--border); }
+.eod-mover:last-child { border-bottom: none; }
+.eod-mover-ticker { font-weight: 700; font-size: 13px; }
+.eod-mover-delta { font-weight: 700; font-size: 12px; }
+
+.eod-top-pick-card { background: var(--surface); border: 1px solid var(--accent); border-radius: 10px; padding: 14px; }
+.eod-top-ticker { font-size: 20px; font-weight: 800; }
+.eod-top-score { font-size: 13px; color: var(--muted); margin-top: 3px; }
+.eod-thesis { font-size: 13px; line-height: 1.6; margin-top: 10px; color: var(--text); }
+
+.no-data-msg { color: var(--muted); font-size: 13px; text-align: center; padding: 32px; }
+
+/* ── Scrollbar ────────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+
+/* ── Responsive ───────────────────────────────────────────────────────── */
+@media (max-width: 480px) {
+  .signal-grid { grid-template-columns: repeat(2, 1fr); }
+  .eod-grid { grid-template-columns: 1fr; }
+  .hero-name { font-size: 12px; max-width: 150px; }
+}
