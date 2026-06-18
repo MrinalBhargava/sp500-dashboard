@@ -228,7 +228,7 @@ def generate_thesis(ticker, name, tech, fund, mom, sector_outperf_3m, composite,
     s2 = f"Three-month price momentum of {sign}{m3:.1f}% reflects {mom_str} institutional {direction}{eps_phrase}, underpinned by {macd_phrase}."
 
     # Sentence 3: composite rank + sector outperformance
-    percentile = max(1, round((1 - rank / total) * 100))
+    percentile = max(1, round(rank / total * 100))
     if abs(sector_outperf_3m) > 1:
         outperf_phrase = f"outperforming its sector by {sector_outperf_3m:+.1f}% over the past quarter"
     else:
