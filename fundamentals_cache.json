@@ -10,17 +10,6 @@
     "name": "3M Company",
     "sector": "Industrials"
   },
-  "AES": {
-    "pe": 7.61,
-    "eps_growth": null,
-    "rev_growth": 0.087,
-    "fcf_yield": -0.2844,
-    "roe": 0.0526,
-    "debt_equity": 2.596,
-    "market_cap": 10426364928,
-    "name": "The AES Corporation",
-    "sector": "Utilities"
-  },
   "ABT": {
     "pe": 24.76,
     "eps_growth": -0.197,
@@ -30,17 +19,6 @@
     "debt_equity": 0.6477,
     "market_cap": 153993707520,
     "name": "Abbott Laboratories",
-    "sector": "Healthcare"
-  },
-  "ABBV": {
-    "pe": 105.6,
-    "eps_growth": -0.462,
-    "rev_growth": 0.124,
-    "fcf_yield": 0.0544,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 382492999680,
-    "name": "AbbVie Inc.",
     "sector": "Healthcare"
   },
   "ACN": {
@@ -54,16 +32,38 @@
     "name": "Accenture plc",
     "sector": "Technology"
   },
-  "AMD": {
-    "pe": 179.72,
-    "eps_growth": 0.912,
-    "rev_growth": 0.378,
-    "fcf_yield": 0.0082,
-    "roe": 0.0806,
-    "debt_equity": 0.06,
-    "market_cap": 876235849728,
-    "name": "Advanced Micro Devices, Inc.",
+  "ADBE": {
+    "pe": 11.16,
+    "eps_growth": 0.079,
+    "rev_growth": 0.127,
+    "fcf_yield": 0.1188,
+    "roe": 0.6295,
+    "debt_equity": 0.6144,
+    "market_cap": 77576101888,
+    "name": "Adobe Inc.",
     "sector": "Technology"
+  },
+  "AES": {
+    "pe": 7.61,
+    "eps_growth": null,
+    "rev_growth": 0.087,
+    "fcf_yield": -0.2844,
+    "roe": 0.0526,
+    "debt_equity": 2.596,
+    "market_cap": 10426364928,
+    "name": "The AES Corporation",
+    "sector": "Utilities"
+  },
+  "ABBV": {
+    "pe": 105.6,
+    "eps_growth": -0.462,
+    "rev_growth": 0.124,
+    "fcf_yield": 0.0544,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 382492999680,
+    "name": "AbbVie Inc.",
+    "sector": "Healthcare"
   },
   "AOS": {
     "pe": 15.53,
@@ -76,15 +76,48 @@
     "name": "A.O. Smith Corporation",
     "sector": "Industrials"
   },
-  "ADBE": {
-    "pe": 11.16,
-    "eps_growth": 0.079,
-    "rev_growth": 0.127,
-    "fcf_yield": 0.1188,
-    "roe": 0.6295,
-    "debt_equity": 0.6144,
-    "market_cap": 77576101888,
-    "name": "Adobe Inc.",
+  "AMD": {
+    "pe": 179.72,
+    "eps_growth": 0.912,
+    "rev_growth": 0.378,
+    "fcf_yield": 0.0082,
+    "roe": 0.0806,
+    "debt_equity": 0.06,
+    "market_cap": 876235849728,
+    "name": "Advanced Micro Devices, Inc.",
+    "sector": "Technology"
+  },
+  "AFL": {
+    "pe": 13.2,
+    "eps_growth": null,
+    "rev_growth": 0.279,
+    "fcf_yield": 0.0838,
+    "roe": 0.1647,
+    "debt_equity": 0.4828,
+    "market_cap": 58772488192,
+    "name": "AFLAC Incorporated",
+    "sector": "Financial Services"
+  },
+  "APD": {
+    "pe": 29.56,
+    "eps_growth": null,
+    "rev_growth": 0.088,
+    "fcf_yield": -0.0564,
+    "roe": 0.1235,
+    "debt_equity": 1.0161,
+    "market_cap": 62397353984,
+    "name": "Air Products and Chemicals, Inc",
+    "sector": "Basic Materials"
+  },
+  "AKAM": {
+    "pe": 42.2,
+    "eps_growth": -0.134,
+    "rev_growth": 0.058,
+    "fcf_yield": 0.0386,
+    "roe": 0.0917,
+    "debt_equity": 1.1953,
+    "market_cap": 18160097280,
+    "name": "Akamai Technologies, Inc.",
     "sector": "Technology"
   },
   "ABNB": {
@@ -98,28 +131,6 @@
     "name": "Airbnb, Inc.",
     "sector": "Consumer Cyclical"
   },
-  "APD": {
-    "pe": 29.56,
-    "eps_growth": null,
-    "rev_growth": 0.088,
-    "fcf_yield": -0.0564,
-    "roe": 0.1235,
-    "debt_equity": 1.0161,
-    "market_cap": 62397353984,
-    "name": "Air Products and Chemicals, Inc",
-    "sector": "Basic Materials"
-  },
-  "AFL": {
-    "pe": 13.2,
-    "eps_growth": null,
-    "rev_growth": 0.279,
-    "fcf_yield": 0.0838,
-    "roe": 0.1647,
-    "debt_equity": 0.4828,
-    "market_cap": 58772488192,
-    "name": "AFLAC Incorporated",
-    "sector": "Financial Services"
-  },
   "A": {
     "pe": 25.51,
     "eps_growth": 0.6,
@@ -130,17 +141,6 @@
     "market_cap": 35885801472,
     "name": "Agilent Technologies, Inc.",
     "sector": "Healthcare"
-  },
-  "AKAM": {
-    "pe": 42.2,
-    "eps_growth": -0.134,
-    "rev_growth": 0.058,
-    "fcf_yield": 0.0386,
-    "roe": 0.0917,
-    "debt_equity": 1.1953,
-    "market_cap": 18160097280,
-    "name": "Akamai Technologies, Inc.",
-    "sector": "Technology"
   },
   "ARE": {
     "pe": null,
@@ -153,17 +153,6 @@
     "name": "Alexandria Real Estate Equities",
     "sector": "Real Estate"
   },
-  "ALGN": {
-    "pe": 30.65,
-    "eps_growth": 0.239,
-    "rev_growth": 0.062,
-    "fcf_yield": 0.0413,
-    "roe": 0.1082,
-    "debt_equity": 0.028,
-    "market_cap": 13040229376,
-    "name": "Align Technology, Inc.",
-    "sector": "Healthcare"
-  },
   "ALB": {
     "pe": null,
     "eps_growth": null,
@@ -174,6 +163,17 @@
     "market_cap": 18910822400,
     "name": "Albemarle Corporation",
     "sector": "Basic Materials"
+  },
+  "ALGN": {
+    "pe": 30.65,
+    "eps_growth": 0.239,
+    "rev_growth": 0.062,
+    "fcf_yield": 0.0413,
+    "roe": 0.1082,
+    "debt_equity": 0.028,
+    "market_cap": 13040229376,
+    "name": "Align Technology, Inc.",
+    "sector": "Healthcare"
   },
   "LNT": {
     "pe": 22.96,
@@ -208,17 +208,6 @@
     "name": "Alphabet Inc.",
     "sector": "Communication Services"
   },
-  "GOOG": {
-    "pe": 28.05,
-    "eps_growth": 0.82,
-    "rev_growth": 0.218,
-    "fcf_yield": 0.0062,
-    "roe": 0.3888,
-    "debt_equity": 0.2003,
-    "market_cap": 4483957391360,
-    "name": "Alphabet Inc.",
-    "sector": "Communication Services"
-  },
   "MO": {
     "pe": 14.43,
     "eps_growth": 1.063,
@@ -230,16 +219,16 @@
     "name": "Altria Group, Inc.",
     "sector": "Consumer Defensive"
   },
-  "ALLE": {
-    "pe": 18.25,
-    "eps_growth": -0.07,
-    "rev_growth": 0.097,
-    "fcf_yield": 0.0431,
-    "roe": 0.3418,
-    "debt_equity": 1.0586,
-    "market_cap": 11478454272,
-    "name": "Allegion plc",
-    "sector": "Industrials"
+  "GOOG": {
+    "pe": 28.05,
+    "eps_growth": 0.82,
+    "rev_growth": 0.218,
+    "fcf_yield": 0.0062,
+    "roe": 0.3888,
+    "debt_equity": 0.2003,
+    "market_cap": 4483957391360,
+    "name": "Alphabet Inc.",
+    "sector": "Communication Services"
   },
   "AMZN": {
     "pe": 31.45,
@@ -252,6 +241,17 @@
     "name": "Amazon.com, Inc.",
     "sector": "Consumer Cyclical"
   },
+  "ALLE": {
+    "pe": 18.25,
+    "eps_growth": -0.07,
+    "rev_growth": 0.097,
+    "fcf_yield": 0.0431,
+    "roe": 0.3418,
+    "debt_equity": 1.0586,
+    "market_cap": 11478454272,
+    "name": "Allegion plc",
+    "sector": "Industrials"
+  },
   "AMCR": {
     "pe": 32.86,
     "eps_growth": -0.117,
@@ -263,28 +263,6 @@
     "name": "Amcor plc",
     "sector": "Consumer Cyclical"
   },
-  "AXP": {
-    "pe": 21.11,
-    "eps_growth": 0.176,
-    "rev_growth": 0.116,
-    "fcf_yield": null,
-    "roe": 0.3442,
-    "debt_equity": 1.7785,
-    "market_cap": 230626344960,
-    "name": "American Express Company",
-    "sector": "Financial Services"
-  },
-  "AEP": {
-    "pe": 18.89,
-    "eps_growth": 0.067,
-    "rev_growth": 0.102,
-    "fcf_yield": -0.1001,
-    "roe": 0.1258,
-    "debt_equity": 1.571,
-    "market_cap": 69476769792,
-    "name": "American Electric Power Company",
-    "sector": "Utilities"
-  },
   "AEE": {
     "pe": 19.54,
     "eps_growth": 0.196,
@@ -295,6 +273,17 @@
     "market_cap": 30074597376,
     "name": "Ameren Corporation",
     "sector": "Utilities"
+  },
+  "AXP": {
+    "pe": 21.11,
+    "eps_growth": 0.176,
+    "rev_growth": 0.116,
+    "fcf_yield": null,
+    "roe": 0.3442,
+    "debt_equity": 1.7785,
+    "market_cap": 230626344960,
+    "name": "American Express Company",
+    "sector": "Financial Services"
   },
   "AIG": {
     "pe": 13.03,
@@ -318,16 +307,27 @@
     "name": "American Tower Corporation (REI",
     "sector": "Real Estate"
   },
-  "AMP": {
-    "pe": 11.65,
-    "eps_growth": 0.66,
-    "rev_growth": 0.09,
-    "fcf_yield": 0.0799,
-    "roe": 0.6694,
-    "debt_equity": 0.5625,
-    "market_cap": 42020593664,
-    "name": "Ameriprise Financial, Inc.",
-    "sector": "Financial Services"
+  "AWK": {
+    "pe": 22.18,
+    "eps_growth": -0.048,
+    "rev_growth": 0.057,
+    "fcf_yield": -0.0777,
+    "roe": 0.1022,
+    "debt_equity": 1.4233,
+    "market_cap": 24423735296,
+    "name": "American Water Works Company, I",
+    "sector": "Utilities"
+  },
+  "AEP": {
+    "pe": 18.89,
+    "eps_growth": 0.067,
+    "rev_growth": 0.102,
+    "fcf_yield": -0.1001,
+    "roe": 0.1258,
+    "debt_equity": 1.571,
+    "market_cap": 69476769792,
+    "name": "American Electric Power Company",
+    "sector": "Utilities"
   },
   "AME": {
     "pe": 35.92,
@@ -340,27 +340,16 @@
     "name": "AMETEK, Inc.",
     "sector": "Industrials"
   },
-  "AMGN": {
-    "pe": 23.49,
-    "eps_growth": 0.044,
-    "rev_growth": 0.058,
-    "fcf_yield": 0.0408,
-    "roe": 1.0132,
-    "debt_equity": 6.2375,
-    "market_cap": 182205513728,
-    "name": "Amgen Inc.",
-    "sector": "Healthcare"
-  },
-  "ADI": {
-    "pe": 64.46,
-    "eps_growth": 1.105,
-    "rev_growth": 0.372,
-    "fcf_yield": 0.0183,
-    "roe": 0.0964,
-    "debt_equity": 0.2581,
-    "market_cap": 211619823616,
-    "name": "Analog Devices, Inc.",
-    "sector": "Technology"
+  "AMP": {
+    "pe": 11.65,
+    "eps_growth": 0.66,
+    "rev_growth": 0.09,
+    "fcf_yield": 0.0799,
+    "roe": 0.6694,
+    "debt_equity": 0.5625,
+    "market_cap": 42020593664,
+    "name": "Ameriprise Financial, Inc.",
+    "sector": "Financial Services"
   },
   "APH": {
     "pe": 47.11,
@@ -373,16 +362,16 @@
     "name": "Amphenol Corporation",
     "sector": "Technology"
   },
-  "AWK": {
-    "pe": 22.18,
-    "eps_growth": -0.048,
-    "rev_growth": 0.057,
-    "fcf_yield": -0.0777,
-    "roe": 0.1022,
-    "debt_equity": 1.4233,
-    "market_cap": 24423735296,
-    "name": "American Water Works Company, I",
-    "sector": "Utilities"
+  "AON": {
+    "pe": 17.43,
+    "eps_growth": 0.271,
+    "rev_growth": 0.065,
+    "fcf_yield": 0.0492,
+    "roe": 0.4645,
+    "debt_equity": 1.5505,
+    "market_cap": 67861934080,
+    "name": "Aon plc",
+    "sector": "Financial Services"
   },
   "APA": {
     "pe": 7.7,
@@ -395,17 +384,6 @@
     "name": "APA Corporation",
     "sector": "Energy"
   },
-  "AON": {
-    "pe": 17.43,
-    "eps_growth": 0.271,
-    "rev_growth": 0.065,
-    "fcf_yield": 0.0492,
-    "roe": 0.4645,
-    "debt_equity": 1.5505,
-    "market_cap": 67861934080,
-    "name": "Aon plc",
-    "sector": "Financial Services"
-  },
   "APO": {
     "pe": 86.48,
     "eps_growth": null,
@@ -416,6 +394,17 @@
     "market_cap": 79271157760,
     "name": "Apollo Global Management, Inc. ",
     "sector": "Financial Services"
+  },
+  "ADI": {
+    "pe": 64.46,
+    "eps_growth": 1.105,
+    "rev_growth": 0.372,
+    "fcf_yield": 0.0183,
+    "roe": 0.0964,
+    "debt_equity": 0.2581,
+    "market_cap": 211619823616,
+    "name": "Analog Devices, Inc.",
+    "sector": "Technology"
   },
   "AAPL": {
     "pe": 36.08,
@@ -428,6 +417,17 @@
     "name": "Apple Inc.",
     "sector": "Technology"
   },
+  "AMGN": {
+    "pe": 23.49,
+    "eps_growth": 0.044,
+    "rev_growth": 0.058,
+    "fcf_yield": 0.0408,
+    "roe": 1.0132,
+    "debt_equity": 6.2375,
+    "market_cap": 182205513728,
+    "name": "Amgen Inc.",
+    "sector": "Healthcare"
+  },
   "AMAT": {
     "pe": 58.05,
     "eps_growth": 0.335,
@@ -439,17 +439,6 @@
     "name": "Applied Materials, Inc.",
     "sector": "Technology"
   },
-  "APTV": {
-    "pe": 37.9,
-    "eps_growth": null,
-    "rev_growth": 0.054,
-    "fcf_yield": 0.081,
-    "roe": 0.0408,
-    "debt_equity": 1.0382,
-    "market_cap": 13475995648,
-    "name": "Aptiv PLC",
-    "sector": "Consumer Cyclical"
-  },
   "APP": {
     "pe": 40.88,
     "eps_growth": 1.131,
@@ -460,6 +449,17 @@
     "market_cap": 157794156544,
     "name": "Applovin Corporation",
     "sector": "Communication Services"
+  },
+  "APTV": {
+    "pe": 37.9,
+    "eps_growth": null,
+    "rev_growth": 0.054,
+    "fcf_yield": 0.081,
+    "roe": 0.0408,
+    "debt_equity": 1.0382,
+    "market_cap": 13475995648,
+    "name": "Aptiv PLC",
+    "sector": "Consumer Cyclical"
   },
   "ACGL": {
     "pe": 7.01,
@@ -483,28 +483,6 @@
     "name": "Archer-Daniels-Midland Company",
     "sector": "Consumer Defensive"
   },
-  "ANET": {
-    "pe": 58.31,
-    "eps_growth": 0.25,
-    "rev_growth": 0.351,
-    "fcf_yield": 0.0204,
-    "roe": 0.3152,
-    "debt_equity": null,
-    "market_cap": 213643264000,
-    "name": "Arista Networks, Inc.",
-    "sector": "Technology"
-  },
-  "AJG": {
-    "pe": 34.69,
-    "eps_growth": 0.162,
-    "rev_growth": 0.346,
-    "fcf_yield": 0.0196,
-    "roe": 0.0701,
-    "debt_equity": 0.5618,
-    "market_cap": 55001001984,
-    "name": "Arthur J. Gallagher & Co.",
-    "sector": "Financial Services"
-  },
   "ARES": {
     "pe": 59.6,
     "eps_growth": null,
@@ -515,6 +493,17 @@
     "market_cap": 42662363136,
     "name": "Ares Management Corporation",
     "sector": "Financial Services"
+  },
+  "ANET": {
+    "pe": 58.31,
+    "eps_growth": 0.25,
+    "rev_growth": 0.351,
+    "fcf_yield": 0.0204,
+    "roe": 0.3152,
+    "debt_equity": null,
+    "market_cap": 213643264000,
+    "name": "Arista Networks, Inc.",
+    "sector": "Technology"
   },
   "AIZ": {
     "pe": 13.31,
@@ -527,16 +516,27 @@
     "name": "Assurant, Inc.",
     "sector": "Financial Services"
   },
-  "ATO": {
-    "pe": 20.92,
-    "eps_growth": 0.145,
-    "rev_growth": 0.006,
-    "fcf_yield": -0.0778,
-    "roe": 0.096,
-    "debt_equity": 0.6459,
-    "market_cap": 28394731520,
-    "name": "Atmos Energy Corporation",
-    "sector": "Utilities"
+  "T": {
+    "pe": 7.24,
+    "eps_growth": -0.113,
+    "rev_growth": 0.029,
+    "fcf_yield": 0.0579,
+    "roe": 0.1837,
+    "debt_equity": 1.2517,
+    "market_cap": 152932941824,
+    "name": "AT&T Inc.",
+    "sector": "Communication Services"
+  },
+  "AJG": {
+    "pe": 34.69,
+    "eps_growth": 0.162,
+    "rev_growth": 0.346,
+    "fcf_yield": 0.0196,
+    "roe": 0.0701,
+    "debt_equity": 0.5618,
+    "market_cap": 55001001984,
+    "name": "Arthur J. Gallagher & Co.",
+    "sector": "Financial Services"
   },
   "ADSK": {
     "pe": 28.29,
@@ -559,17 +559,6 @@
     "market_cap": 87305961472,
     "name": "Automatic Data Processing, Inc.",
     "sector": "Technology"
-  },
-  "T": {
-    "pe": 7.24,
-    "eps_growth": -0.113,
-    "rev_growth": 0.029,
-    "fcf_yield": 0.0579,
-    "roe": 0.1837,
-    "debt_equity": 1.2517,
-    "market_cap": 152932941824,
-    "name": "AT&T Inc.",
-    "sector": "Communication Services"
   },
   "AZO": {
     "pe": 21.07,
@@ -604,6 +593,17 @@
     "name": "Avery Dennison Corporation",
     "sector": "Consumer Cyclical"
   },
+  "ATO": {
+    "pe": 20.92,
+    "eps_growth": 0.145,
+    "rev_growth": 0.006,
+    "fcf_yield": -0.0778,
+    "roe": 0.096,
+    "debt_equity": 0.6459,
+    "market_cap": 28394731520,
+    "name": "Atmos Energy Corporation",
+    "sector": "Utilities"
+  },
   "AXON": {
     "pe": 170.73,
     "eps_growth": 0.898,
@@ -614,6 +614,17 @@
     "market_cap": 34126919680,
     "name": "Axon Enterprise, Inc.",
     "sector": "Industrials"
+  },
+  "BAC": {
+    "pe": 13.95,
+    "eps_growth": 0.244,
+    "rev_growth": 0.081,
+    "fcf_yield": null,
+    "roe": 0.1064,
+    "debt_equity": null,
+    "market_cap": 398828404736,
+    "name": "Bank of America Corporation",
+    "sector": "Financial Services"
   },
   "BKR": {
     "pe": 18.66,
@@ -636,17 +647,6 @@
     "market_cap": 15367748608,
     "name": "Ball Corporation",
     "sector": "Consumer Cyclical"
-  },
-  "BAC": {
-    "pe": 13.95,
-    "eps_growth": 0.244,
-    "rev_growth": 0.081,
-    "fcf_yield": null,
-    "roe": 0.1064,
-    "debt_equity": null,
-    "market_cap": 398828404736,
-    "name": "Bank of America Corporation",
-    "sector": "Financial Services"
   },
   "BAX": {
     "pe": null,
@@ -692,27 +692,16 @@
     "name": "Berkshire Hathaway Inc. New",
     "sector": "Financial Services"
   },
-  "BIIB": {
-    "pe": 21.16,
-    "eps_growth": 0.311,
-    "rev_growth": 0.019,
-    "fcf_yield": 0.0665,
-    "roe": 0.077,
-    "debt_equity": 0.3518,
-    "market_cap": 29022504960,
-    "name": "Biogen Inc.",
+  "TECH": {
+    "pe": 82.77,
+    "eps_growth": 1.286,
+    "rev_growth": -0.015,
+    "fcf_yield": 0.0331,
+    "roe": 0.0534,
+    "debt_equity": 0.1392,
+    "market_cap": 9071593472,
+    "name": "Bio-Techne Corp",
     "sector": "Healthcare"
-  },
-  "BLK": {
-    "pe": 26.4,
-    "eps_growth": 0.459,
-    "rev_growth": 0.27,
-    "fcf_yield": 0.0414,
-    "roe": 0.119,
-    "debt_equity": 0.2364,
-    "market_cap": 171005591552,
-    "name": "BlackRock, Inc.",
-    "sector": "Financial Services"
   },
   "BX": {
     "pe": 31.74,
@@ -736,6 +725,17 @@
     "name": "Block, Inc.",
     "sector": "Technology"
   },
+  "BLK": {
+    "pe": 26.4,
+    "eps_growth": 0.459,
+    "rev_growth": 0.27,
+    "fcf_yield": 0.0414,
+    "roe": 0.119,
+    "debt_equity": 0.2364,
+    "market_cap": 171005591552,
+    "name": "BlackRock, Inc.",
+    "sector": "Financial Services"
+  },
   "BNY": {
     "pe": 17.82,
     "eps_growth": 0.418,
@@ -746,6 +746,17 @@
     "market_cap": 98584633344,
     "name": "The Bank of New York Mellon Cor",
     "sector": "Financial Services"
+  },
+  "BIIB": {
+    "pe": 21.16,
+    "eps_growth": 0.311,
+    "rev_growth": 0.019,
+    "fcf_yield": 0.0665,
+    "roe": 0.077,
+    "debt_equity": 0.3518,
+    "market_cap": 29022504960,
+    "name": "Biogen Inc.",
+    "sector": "Healthcare"
   },
   "BA": {
     "pe": 88.03,
@@ -769,17 +780,6 @@
     "name": "Booking Holdings Inc. Common St",
     "sector": "Consumer Cyclical"
   },
-  "BSX": {
-    "pe": 18.95,
-    "eps_growth": 1.0,
-    "rev_growth": 0.116,
-    "fcf_yield": 0.0417,
-    "roe": 0.1466,
-    "debt_equity": 0.4225,
-    "market_cap": 67317026816,
-    "name": "Boston Scientific Corporation",
-    "sector": "Healthcare"
-  },
   "BMY": {
     "pe": 15.13,
     "eps_growth": 0.092,
@@ -789,6 +789,17 @@
     "debt_equity": 2.3097,
     "market_cap": 110271848448,
     "name": "Bristol-Myers Squibb Company",
+    "sector": "Healthcare"
+  },
+  "BSX": {
+    "pe": 18.95,
+    "eps_growth": 1.0,
+    "rev_growth": 0.116,
+    "fcf_yield": 0.0417,
+    "roe": 0.1466,
+    "debt_equity": 0.4225,
+    "market_cap": 67317026816,
+    "name": "Boston Scientific Corporation",
     "sector": "Healthcare"
   },
   "AVGO": {
@@ -802,17 +813,6 @@
     "name": "Broadcom Inc.",
     "sector": "Technology"
   },
-  "BR": {
-    "pe": 14.72,
-    "eps_growth": 0.151,
-    "rev_growth": 0.078,
-    "fcf_yield": 0.0746,
-    "roe": 0.4231,
-    "debt_equity": 1.2088,
-    "market_cap": 15914582016,
-    "name": "Broadridge Financial Solutions,",
-    "sector": "Technology"
-  },
   "BRO": {
     "pe": 19.25,
     "eps_growth": -0.079,
@@ -823,6 +823,17 @@
     "market_cap": 20031817728,
     "name": "Brown & Brown, Inc.",
     "sector": "Financial Services"
+  },
+  "BR": {
+    "pe": 14.72,
+    "eps_growth": 0.151,
+    "rev_growth": 0.078,
+    "fcf_yield": 0.0746,
+    "roe": 0.4231,
+    "debt_equity": 1.2088,
+    "market_cap": 15914582016,
+    "name": "Broadridge Financial Solutions,",
+    "sector": "Technology"
   },
   "BF-B": {
     "pe": 17.41,
@@ -857,28 +868,6 @@
     "name": "BXP, Inc.",
     "sector": "Real Estate"
   },
-  "BG": {
-    "pe": 29.63,
-    "eps_growth": -0.764,
-    "rev_growth": 0.878,
-    "fcf_yield": -0.3126,
-    "roe": 0.0493,
-    "debt_equity": 0.9321,
-    "market_cap": 21842558976,
-    "name": "Bunge Limited",
-    "sector": "Consumer Defensive"
-  },
-  "TECH": {
-    "pe": 82.77,
-    "eps_growth": 1.286,
-    "rev_growth": -0.015,
-    "fcf_yield": 0.0331,
-    "roe": 0.0534,
-    "debt_equity": 0.1392,
-    "market_cap": 9071593472,
-    "name": "Bio-Techne Corp",
-    "sector": "Healthcare"
-  },
   "CHRW": {
     "pe": 37.38,
     "eps_growth": 0.099,
@@ -900,6 +889,28 @@
     "market_cap": 106848362496,
     "name": "Cadence Design Systems, Inc.",
     "sector": "Technology"
+  },
+  "BG": {
+    "pe": 29.63,
+    "eps_growth": -0.764,
+    "rev_growth": 0.878,
+    "fcf_yield": -0.3126,
+    "roe": 0.0493,
+    "debt_equity": 0.9321,
+    "market_cap": 21842558976,
+    "name": "Bunge Limited",
+    "sector": "Consumer Defensive"
+  },
+  "COF": {
+    "pe": 62.01,
+    "eps_growth": -0.032,
+    "rev_growth": 0.463,
+    "fcf_yield": null,
+    "roe": 0.0326,
+    "debt_equity": null,
+    "market_cap": 125410664448,
+    "name": "Capital One Financial Corporati",
+    "sector": "Financial Services"
   },
   "CPT": {
     "pe": 30.44,
@@ -923,17 +934,6 @@
     "name": "The Campbell's Company",
     "sector": "Consumer Defensive"
   },
-  "COF": {
-    "pe": 62.01,
-    "eps_growth": -0.032,
-    "rev_growth": 0.463,
-    "fcf_yield": null,
-    "roe": 0.0326,
-    "debt_equity": null,
-    "market_cap": 125410664448,
-    "name": "Capital One Financial Corporati",
-    "sector": "Financial Services"
-  },
   "CAH": {
     "pe": 33.91,
     "eps_growth": -0.195,
@@ -956,17 +956,6 @@
     "name": "Carnival Corporation Ltd.",
     "sector": "Consumer Cyclical"
   },
-  "CARR": {
-    "pe": 47.87,
-    "eps_growth": -0.407,
-    "rev_growth": 0.024,
-    "fcf_yield": 0.0142,
-    "roe": 0.0991,
-    "debt_equity": 0.911,
-    "market_cap": 59643977728,
-    "name": "Carrier Global Corporation",
-    "sector": "Industrials"
-  },
   "CVNA": {
     "pe": 38.7,
     "eps_growth": 0.119,
@@ -976,6 +965,17 @@
     "debt_equity": 1.2135,
     "market_cap": 73005383680,
     "name": "Carvana Co.",
+    "sector": "Consumer Cyclical"
+  },
+  "CASY": {
+    "pe": 44.03,
+    "eps_growth": 0.66,
+    "rev_growth": 0.145,
+    "fcf_yield": 0.0175,
+    "roe": 0.1915,
+    "debt_equity": 0.7316,
+    "market_cap": 31219623936,
+    "name": "Caseys General Stores, Inc.",
     "sector": "Consumer Cyclical"
   },
   "CAT": {
@@ -989,27 +989,16 @@
     "name": "Caterpillar, Inc.",
     "sector": "Industrials"
   },
-  "CASY": {
-    "pe": 44.03,
-    "eps_growth": 0.66,
-    "rev_growth": 0.145,
-    "fcf_yield": 0.0175,
-    "roe": 0.1915,
-    "debt_equity": 0.7316,
-    "market_cap": 31219623936,
-    "name": "Caseys General Stores, Inc.",
-    "sector": "Consumer Cyclical"
-  },
-  "CBOE": {
-    "pe": 21.29,
-    "eps_growth": 0.544,
-    "rev_growth": 0.065,
-    "fcf_yield": 0.0385,
-    "roe": 0.2514,
-    "debt_equity": 0.2949,
-    "market_cap": 26069258240,
-    "name": "Cboe Global Markets, Inc.",
-    "sector": "Financial Services"
+  "CARR": {
+    "pe": 47.87,
+    "eps_growth": -0.407,
+    "rev_growth": 0.024,
+    "fcf_yield": 0.0142,
+    "roe": 0.0991,
+    "debt_equity": 0.911,
+    "market_cap": 59643977728,
+    "name": "Carrier Global Corporation",
+    "sector": "Industrials"
   },
   "CBRE": {
     "pe": 30.03,
@@ -1022,6 +1011,17 @@
     "name": "CBRE Group Inc",
     "sector": "Real Estate"
   },
+  "CBOE": {
+    "pe": 21.29,
+    "eps_growth": 0.544,
+    "rev_growth": 0.065,
+    "fcf_yield": 0.0385,
+    "roe": 0.2514,
+    "debt_equity": 0.2949,
+    "market_cap": 26069258240,
+    "name": "Cboe Global Markets, Inc.",
+    "sector": "Financial Services"
+  },
   "CDW": {
     "pe": 15.64,
     "eps_growth": 0.077,
@@ -1032,17 +1032,6 @@
     "market_cap": 16399709184,
     "name": "CDW Corporation",
     "sector": "Technology"
-  },
-  "COR": {
-    "pe": 20.81,
-    "eps_growth": 1.283,
-    "rev_growth": 0.038,
-    "fcf_yield": -0.006,
-    "roe": 1.0713,
-    "debt_equity": 4.2099,
-    "market_cap": 52887527424,
-    "name": "Cencora, Inc.",
-    "sector": "Healthcare"
   },
   "CNC": {
     "pe": null,
@@ -1055,16 +1044,16 @@
     "name": "Centene Corporation",
     "sector": "Healthcare"
   },
-  "CNP": {
-    "pe": 26.27,
-    "eps_growth": 0.067,
-    "rev_growth": 0.019,
-    "fcf_yield": -0.1765,
-    "roe": 0.0956,
-    "debt_equity": 2.1559,
-    "market_cap": 28011536384,
-    "name": "CenterPoint Energy, Inc (Holdin",
-    "sector": "Utilities"
+  "COR": {
+    "pe": 20.81,
+    "eps_growth": 1.283,
+    "rev_growth": 0.038,
+    "fcf_yield": -0.006,
+    "roe": 1.0713,
+    "debt_equity": 4.2099,
+    "market_cap": 52887527424,
+    "name": "Cencora, Inc.",
+    "sector": "Healthcare"
   },
   "CF": {
     "pe": 9.27,
@@ -1077,16 +1066,27 @@
     "name": "CF Industries Holdings, Inc.",
     "sector": "Basic Materials"
   },
-  "SCHW": {
-    "pe": 18.23,
-    "eps_growth": 0.386,
-    "rev_growth": 0.158,
-    "fcf_yield": null,
-    "roe": 0.1908,
-    "debt_equity": 1.2077,
-    "market_cap": 159478726656,
-    "name": "Charles Schwab Corporation (The",
-    "sector": "Financial Services"
+  "CNP": {
+    "pe": 26.27,
+    "eps_growth": 0.067,
+    "rev_growth": 0.019,
+    "fcf_yield": -0.1765,
+    "roe": 0.0956,
+    "debt_equity": 2.1559,
+    "market_cap": 28011536384,
+    "name": "CenterPoint Energy, Inc (Holdin",
+    "sector": "Utilities"
+  },
+  "CRL": {
+    "pe": null,
+    "eps_growth": null,
+    "rev_growth": 0.012,
+    "fcf_yield": 0.0572,
+    "roe": -0.0587,
+    "debt_equity": 1.0255,
+    "market_cap": 8911029248,
+    "name": "Charles River Laboratories Inte",
+    "sector": "Healthcare"
   },
   "CHTR": {
     "pe": 3.42,
@@ -1099,6 +1099,17 @@
     "name": "Charter Communications, Inc.",
     "sector": "Communication Services"
   },
+  "SCHW": {
+    "pe": 18.23,
+    "eps_growth": 0.386,
+    "rev_growth": 0.158,
+    "fcf_yield": null,
+    "roe": 0.1908,
+    "debt_equity": 1.2077,
+    "market_cap": 159478726656,
+    "name": "Charles Schwab Corporation (The",
+    "sector": "Financial Services"
+  },
   "CVX": {
     "pe": 30.2,
     "eps_growth": -0.445,
@@ -1109,6 +1120,17 @@
     "market_cap": 345801129984,
     "name": "Chevron Corporation",
     "sector": "Energy"
+  },
+  "CB": {
+    "pe": 11.44,
+    "eps_growth": 0.787,
+    "rev_growth": 0.102,
+    "fcf_yield": 0.1006,
+    "roe": 0.1543,
+    "debt_equity": 0.3146,
+    "market_cap": 125433954304,
+    "name": "Chubb Limited",
+    "sector": "Financial Services"
   },
   "CMG": {
     "pe": 29.81,
@@ -1132,17 +1154,6 @@
     "name": "Church & Dwight Company, Inc.",
     "sector": "Consumer Defensive"
   },
-  "CB": {
-    "pe": 11.44,
-    "eps_growth": 0.787,
-    "rev_growth": 0.102,
-    "fcf_yield": 0.1006,
-    "roe": 0.1543,
-    "debt_equity": 0.3146,
-    "market_cap": 125433954304,
-    "name": "Chubb Limited",
-    "sector": "Financial Services"
-  },
   "CIEN": {
     "pe": 142.27,
     "eps_growth": null,
@@ -1153,28 +1164,6 @@
     "market_cap": 60615794688,
     "name": "Ciena Corporation",
     "sector": "Technology"
-  },
-  "CRL": {
-    "pe": null,
-    "eps_growth": null,
-    "rev_growth": 0.012,
-    "fcf_yield": 0.0572,
-    "roe": -0.0587,
-    "debt_equity": 1.0255,
-    "market_cap": 8911029248,
-    "name": "Charles River Laboratories Inte",
-    "sector": "Healthcare"
-  },
-  "CI": {
-    "pe": 11.17,
-    "eps_growth": 0.291,
-    "rev_growth": 0.046,
-    "fcf_yield": 0.0937,
-    "roe": 0.1627,
-    "debt_equity": 0.7281,
-    "market_cap": 73875963904,
-    "name": "The Cigna Group",
-    "sector": "Healthcare"
   },
   "CINF": {
     "pe": 9.73,
@@ -1187,6 +1176,17 @@
     "name": "Cincinnati Financial Corporatio",
     "sector": "Financial Services"
   },
+  "CI": {
+    "pe": 11.17,
+    "eps_growth": 0.291,
+    "rev_growth": 0.046,
+    "fcf_yield": 0.0937,
+    "roe": 0.1627,
+    "debt_equity": 0.7281,
+    "market_cap": 73875963904,
+    "name": "The Cigna Group",
+    "sector": "Healthcare"
+  },
   "CTAS": {
     "pe": 36.04,
     "eps_growth": 0.097,
@@ -1197,28 +1197,6 @@
     "market_cap": 68363390976,
     "name": "Cintas Corporation",
     "sector": "Industrials"
-  },
-  "CSCO": {
-    "pe": 39.85,
-    "eps_growth": 0.371,
-    "rev_growth": 0.12,
-    "fcf_yield": 0.0197,
-    "roe": 0.2523,
-    "debt_equity": 0.6754,
-    "market_cap": 471159111680,
-    "name": "Cisco Systems, Inc.",
-    "sector": "Technology"
-  },
-  "CLX": {
-    "pe": 15.58,
-    "eps_growth": 0.027,
-    "rev_growth": 0.001,
-    "fcf_yield": 0.0054,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 11584266240,
-    "name": "Clorox Company (The)",
-    "sector": "Consumer Defensive"
   },
   "C": {
     "pe": 17.68,
@@ -1242,6 +1220,39 @@
     "name": "Citizens Financial Group, Inc.",
     "sector": "Financial Services"
   },
+  "CLX": {
+    "pe": 15.58,
+    "eps_growth": 0.027,
+    "rev_growth": 0.001,
+    "fcf_yield": 0.0054,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 11584266240,
+    "name": "Clorox Company (The)",
+    "sector": "Consumer Defensive"
+  },
+  "CSCO": {
+    "pe": 39.85,
+    "eps_growth": 0.371,
+    "rev_growth": 0.12,
+    "fcf_yield": 0.0197,
+    "roe": 0.2523,
+    "debt_equity": 0.6754,
+    "market_cap": 471159111680,
+    "name": "Cisco Systems, Inc.",
+    "sector": "Technology"
+  },
+  "KO": {
+    "pe": 24.97,
+    "eps_growth": 0.182,
+    "rev_growth": 0.121,
+    "fcf_yield": 0.0091,
+    "roe": 0.4337,
+    "debt_equity": 1.2494,
+    "market_cap": 341574090752,
+    "name": "Coca-Cola Company (The)",
+    "sector": "Consumer Defensive"
+  },
   "CMS": {
     "pe": 20.33,
     "eps_growth": 0.089,
@@ -1264,17 +1275,6 @@
     "name": "CME Group Inc.",
     "sector": "Financial Services"
   },
-  "KO": {
-    "pe": 24.97,
-    "eps_growth": 0.182,
-    "rev_growth": 0.121,
-    "fcf_yield": 0.0091,
-    "roe": 0.4337,
-    "debt_equity": 1.2494,
-    "market_cap": 341574090752,
-    "name": "Coca-Cola Company (The)",
-    "sector": "Consumer Defensive"
-  },
   "CTSH": {
     "pe": 9.48,
     "eps_growth": 0.036,
@@ -1286,16 +1286,16 @@
     "name": "Cognizant Technology Solutions ",
     "sector": "Technology"
   },
-  "COHR": {
-    "pe": 184.63,
+  "COIN": {
+    "pe": 59.8,
     "eps_growth": null,
-    "rev_growth": 0.205,
-    "fcf_yield": -0.0026,
-    "roe": 0.0472,
-    "debt_equity": 0.3109,
-    "market_cap": 76215214080,
-    "name": "Coherent Corp.",
-    "sector": "Technology"
+    "rev_growth": -0.308,
+    "fcf_yield": 0.056,
+    "roe": 0.0669,
+    "debt_equity": 0.5908,
+    "market_cap": 43012603904,
+    "name": "Coinbase Global, Inc.",
+    "sector": "Financial Services"
   },
   "CL": {
     "pe": 34.68,
@@ -1308,16 +1308,16 @@
     "name": "Colgate-Palmolive Company",
     "sector": "Consumer Defensive"
   },
-  "COIN": {
-    "pe": 59.8,
+  "COHR": {
+    "pe": 184.63,
     "eps_growth": null,
-    "rev_growth": -0.308,
-    "fcf_yield": 0.056,
-    "roe": 0.0669,
-    "debt_equity": 0.5908,
-    "market_cap": 43012603904,
-    "name": "Coinbase Global, Inc.",
-    "sector": "Financial Services"
+    "rev_growth": 0.205,
+    "fcf_yield": -0.0026,
+    "roe": 0.0472,
+    "debt_equity": 0.3109,
+    "market_cap": 76215214080,
+    "name": "Coherent Corp.",
+    "sector": "Technology"
   },
   "FIX": {
     "pe": 56.8,
@@ -1352,17 +1352,6 @@
     "name": "Comcast Corporation",
     "sector": "Communication Services"
   },
-  "COP": {
-    "pe": 18.26,
-    "eps_growth": -0.202,
-    "rev_growth": -0.053,
-    "fcf_yield": 0.0403,
-    "roe": 0.1128,
-    "debt_equity": 0.3614,
-    "market_cap": 131258990592,
-    "name": "ConocoPhillips",
-    "sector": "Energy"
-  },
   "ED": {
     "pe": 17.94,
     "eps_growth": 0.129,
@@ -1374,14 +1363,36 @@
     "name": "Consolidated Edison, Inc.",
     "sector": "Utilities"
   },
+  "COP": {
+    "pe": 18.26,
+    "eps_growth": -0.202,
+    "rev_growth": -0.053,
+    "fcf_yield": 0.0403,
+    "roe": 0.1128,
+    "debt_equity": 0.3614,
+    "market_cap": 131258990592,
+    "name": "ConocoPhillips",
+    "sector": "Energy"
+  },
+  "CEG": {
+    "pe": 23.83,
+    "eps_growth": null,
+    "rev_growth": 0.638,
+    "fcf_yield": -0.0458,
+    "roe": 0.161,
+    "debt_equity": 0.6643,
+    "market_cap": 97867374592,
+    "name": "Constellation Energy Corporatio",
+    "sector": "Utilities"
+  },
   "STZ": {
     "pe": 14.69,
     "eps_growth": null,
     "rev_growth": -0.113,
-    "fcf_yield": 0.0842,
+    "fcf_yield": 0.0846,
     "roe": 0.2264,
     "debt_equity": 1.3357,
-    "market_cap": 24314677248,
+    "market_cap": 24215013376,
     "name": "Constellation Brands, Inc.",
     "sector": "Consumer Defensive"
   },
@@ -1396,17 +1407,6 @@
     "name": "The Cooper Companies, Inc.",
     "sector": "Healthcare"
   },
-  "CEG": {
-    "pe": 23.83,
-    "eps_growth": null,
-    "rev_growth": 0.638,
-    "fcf_yield": -0.0458,
-    "roe": 0.161,
-    "debt_equity": 0.6643,
-    "market_cap": 97867374592,
-    "name": "Constellation Energy Corporatio",
-    "sector": "Utilities"
-  },
   "GLW": {
     "pe": 98.94,
     "eps_growth": 1.389,
@@ -1417,6 +1417,17 @@
     "market_cap": 167755530240,
     "name": "Corning Incorporated",
     "sector": "Technology"
+  },
+  "CPRT": {
+    "pe": 18.78,
+    "eps_growth": 0.023,
+    "rev_growth": 0.021,
+    "fcf_yield": 0.0357,
+    "roe": 0.1761,
+    "debt_equity": 0.0106,
+    "market_cap": 27987279872,
+    "name": "Copart, Inc.",
+    "sector": "Industrials"
   },
   "CTVA": {
     "pe": 42.48,
@@ -1429,28 +1440,6 @@
     "name": "Corteva, Inc.",
     "sector": "Basic Materials"
   },
-  "CPAY": {
-    "pe": 20.69,
-    "eps_growth": 0.491,
-    "rev_growth": 0.254,
-    "fcf_yield": 0.0928,
-    "roe": 0.3212,
-    "debt_equity": 2.7134,
-    "market_cap": 22568163328,
-    "name": "Corpay, Inc.",
-    "sector": "Technology"
-  },
-  "CPRT": {
-    "pe": 18.78,
-    "eps_growth": 0.023,
-    "rev_growth": 0.021,
-    "fcf_yield": 0.0343,
-    "roe": 0.1761,
-    "debt_equity": 0.0106,
-    "market_cap": 29120813056,
-    "name": "Copart, Inc.",
-    "sector": "Industrials"
-  },
   "CSGP": {
     "pe": 430.29,
     "eps_growth": null,
@@ -1462,6 +1451,17 @@
     "name": "CoStar Group, Inc.",
     "sector": "Real Estate"
   },
+  "CPAY": {
+    "pe": 20.69,
+    "eps_growth": 0.491,
+    "rev_growth": 0.254,
+    "fcf_yield": 0.0928,
+    "roe": 0.3212,
+    "debt_equity": 2.7134,
+    "market_cap": 22568163328,
+    "name": "Corpay, Inc.",
+    "sector": "Technology"
+  },
   "COST": {
     "pe": 47.98,
     "eps_growth": 0.455,
@@ -1472,17 +1472,6 @@
     "market_cap": 421947932672,
     "name": "Costco Wholesale Corporation",
     "sector": "Consumer Defensive"
-  },
-  "CRWD": {
-    "pe": null,
-    "eps_growth": null,
-    "rev_growth": 0.256,
-    "fcf_yield": 0.011,
-    "roe": -0.0025,
-    "debt_equity": 0.1757,
-    "market_cap": 174341259264,
-    "name": "CrowdStrike Holdings, Inc.",
-    "sector": "Technology"
   },
   "CRH": {
     "pe": 20.64,
@@ -1506,6 +1495,17 @@
     "name": "Crown Castle Inc.",
     "sector": "Real Estate"
   },
+  "CRWD": {
+    "pe": null,
+    "eps_growth": null,
+    "rev_growth": 0.256,
+    "fcf_yield": 0.011,
+    "roe": -0.0025,
+    "debt_equity": 0.1757,
+    "market_cap": 174341259264,
+    "name": "CrowdStrike Holdings, Inc.",
+    "sector": "Technology"
+  },
   "CSX": {
     "pe": 27.99,
     "eps_growth": 0.265,
@@ -1515,6 +1515,17 @@
     "debt_equity": 1.4306,
     "market_cap": 84786880512,
     "name": "CSX Corporation",
+    "sector": "Industrials"
+  },
+  "CMI": {
+    "pe": 37.24,
+    "eps_growth": -0.21,
+    "rev_growth": 0.027,
+    "fcf_yield": 0.0171,
+    "roe": 0.2199,
+    "debt_equity": 0.6162,
+    "market_cap": 98918842368,
+    "name": "Cummins Inc.",
     "sector": "Industrials"
   },
   "DHR": {
@@ -1528,17 +1539,6 @@
     "name": "Danaher Corporation",
     "sector": "Healthcare"
   },
-  "CVS": {
-    "pe": 43.12,
-    "eps_growth": 0.631,
-    "rev_growth": 0.061,
-    "fcf_yield": 0.0415,
-    "roe": 0.0375,
-    "debt_equity": 1.0091,
-    "market_cap": 125449175040,
-    "name": "CVS Health Corporation",
-    "sector": "Healthcare"
-  },
   "DRI": {
     "pe": 22.49,
     "eps_growth": -0.033,
@@ -1549,17 +1549,6 @@
     "market_cap": 24447496192,
     "name": "Darden Restaurants, Inc.",
     "sector": "Consumer Cyclical"
-  },
-  "CMI": {
-    "pe": 37.24,
-    "eps_growth": -0.21,
-    "rev_growth": 0.027,
-    "fcf_yield": 0.0171,
-    "roe": 0.2199,
-    "debt_equity": 0.6162,
-    "market_cap": 98918842368,
-    "name": "Cummins Inc.",
-    "sector": "Industrials"
   },
   "DDOG": {
     "pe": 571.79,
@@ -1572,15 +1561,15 @@
     "name": "Datadog, Inc.",
     "sector": "Technology"
   },
-  "DVA": {
-    "pe": 20.01,
-    "eps_growth": 0.435,
-    "rev_growth": 0.06,
-    "fcf_yield": 0.0749,
-    "roe": 0.8098,
-    "debt_equity": 12.6133,
-    "market_cap": 13344703488,
-    "name": "DaVita Inc.",
+  "CVS": {
+    "pe": 43.12,
+    "eps_growth": 0.631,
+    "rev_growth": 0.061,
+    "fcf_yield": 0.0415,
+    "roe": 0.0375,
+    "debt_equity": 1.0091,
+    "market_cap": 125449175040,
+    "name": "CVS Health Corporation",
     "sector": "Healthcare"
   },
   "DECK": {
@@ -1594,16 +1583,16 @@
     "name": "Deckers Outdoor Corporation",
     "sector": "Consumer Cyclical"
   },
-  "DE": {
-    "pe": 33.33,
-    "eps_growth": -0.085,
-    "rev_growth": -0.111,
-    "fcf_yield": 0.0069,
-    "roe": 0.1835,
-    "debt_equity": 3.7602,
-    "market_cap": 159158026240,
-    "name": "Deere & Company",
-    "sector": "Industrials"
+  "DVA": {
+    "pe": 20.01,
+    "eps_growth": 0.435,
+    "rev_growth": 0.06,
+    "fcf_yield": 0.0749,
+    "roe": 0.8098,
+    "debt_equity": 12.6133,
+    "market_cap": 13344703488,
+    "name": "DaVita Inc.",
+    "sector": "Healthcare"
   },
   "DELL": {
     "pe": 32.58,
@@ -1615,6 +1604,17 @@
     "market_cap": 265400205312,
     "name": "Dell Technologies Inc.",
     "sector": "Technology"
+  },
+  "DE": {
+    "pe": 33.33,
+    "eps_growth": -0.085,
+    "rev_growth": -0.111,
+    "fcf_yield": 0.0069,
+    "roe": 0.1835,
+    "debt_equity": 3.7602,
+    "market_cap": 159057936384,
+    "name": "Deere & Company",
+    "sector": "Industrials"
   },
   "DAL": {
     "pe": 12.29,
@@ -1638,6 +1638,17 @@
     "name": "Devon Energy Corporation",
     "sector": "Energy"
   },
+  "DXCM": {
+    "pe": 31.1,
+    "eps_growth": 0.922,
+    "rev_growth": 0.15,
+    "fcf_yield": 0.0378,
+    "roe": 0.3562,
+    "debt_equity": 0.4683,
+    "market_cap": 27964215296,
+    "name": "DexCom, Inc.",
+    "sector": "Healthcare"
+  },
   "DLR": {
     "pe": 49.91,
     "eps_growth": 0.676,
@@ -1648,17 +1659,6 @@
     "market_cap": 67301076992,
     "name": "Digital Realty Trust, Inc.",
     "sector": "Real Estate"
-  },
-  "FANG": {
-    "pe": 187.24,
-    "eps_growth": -0.984,
-    "rev_growth": 0.042,
-    "fcf_yield": 0.0271,
-    "roe": 0.0047,
-    "debt_equity": 0.3259,
-    "market_cap": 51620990976,
-    "name": "Diamondback Energy, Inc.",
-    "sector": "Energy"
   },
   "DG": {
     "pe": 16.02,
@@ -1671,16 +1671,16 @@
     "name": "Dollar General Corporation",
     "sector": "Consumer Defensive"
   },
-  "DLTR": {
-    "pe": 17.92,
-    "eps_growth": 0.095,
-    "rev_growth": 0.072,
-    "fcf_yield": 0.0673,
-    "roe": 0.3398,
-    "debt_equity": 2.1652,
-    "market_cap": 21456293888,
-    "name": "Dollar Tree, Inc.",
-    "sector": "Consumer Defensive"
+  "FANG": {
+    "pe": 187.24,
+    "eps_growth": -0.984,
+    "rev_growth": 0.042,
+    "fcf_yield": 0.0271,
+    "roe": 0.0047,
+    "debt_equity": 0.3259,
+    "market_cap": 51620990976,
+    "name": "Diamondback Energy, Inc.",
+    "sector": "Energy"
   },
   "D": {
     "pe": 20.18,
@@ -1704,27 +1704,16 @@
     "name": "Domino's Pizza Inc",
     "sector": "Consumer Cyclical"
   },
-  "DASH": {
-    "pe": 82.21,
-    "eps_growth": -0.061,
-    "rev_growth": 0.331,
-    "fcf_yield": 0.0304,
-    "roe": 0.0992,
-    "debt_equity": 0.3219,
-    "market_cap": 75579768832,
-    "name": "DoorDash, Inc.",
-    "sector": "Consumer Cyclical"
-  },
-  "DXCM": {
-    "pe": 31.1,
-    "eps_growth": 0.922,
-    "rev_growth": 0.15,
-    "fcf_yield": 0.0378,
-    "roe": 0.3562,
-    "debt_equity": 0.4683,
-    "market_cap": 27964215296,
-    "name": "DexCom, Inc.",
-    "sector": "Healthcare"
+  "DLTR": {
+    "pe": 17.92,
+    "eps_growth": 0.095,
+    "rev_growth": 0.072,
+    "fcf_yield": 0.0673,
+    "roe": 0.3398,
+    "debt_equity": 2.1652,
+    "market_cap": 21456293888,
+    "name": "Dollar Tree, Inc.",
+    "sector": "Consumer Defensive"
   },
   "DOV": {
     "pe": 27.98,
@@ -1737,6 +1726,17 @@
     "name": "Dover Corporation",
     "sector": "Industrials"
   },
+  "DASH": {
+    "pe": 82.21,
+    "eps_growth": -0.061,
+    "rev_growth": 0.331,
+    "fcf_yield": 0.0304,
+    "roe": 0.0992,
+    "debt_equity": 0.3219,
+    "market_cap": 75579768832,
+    "name": "DoorDash, Inc.",
+    "sector": "Consumer Cyclical"
+  },
   "DOW": {
     "pe": null,
     "eps_growth": null,
@@ -1748,6 +1748,17 @@
     "name": "Dow Inc.",
     "sector": "Basic Materials"
   },
+  "DTE": {
+    "pe": 24.31,
+    "eps_growth": -0.444,
+    "rev_growth": 0.158,
+    "fcf_yield": -0.0713,
+    "roe": 0.1042,
+    "debt_equity": 2.1879,
+    "market_cap": 30696658944,
+    "name": "DTE Energy Company",
+    "sector": "Utilities"
+  },
   "DHI": {
     "pe": 14.82,
     "eps_growth": -0.132,
@@ -1758,6 +1769,17 @@
     "market_cap": 44751699968,
     "name": "D.R. Horton, Inc.",
     "sector": "Consumer Cyclical"
+  },
+  "ETN": {
+    "pe": 41.23,
+    "eps_growth": -0.094,
+    "rev_growth": 0.168,
+    "fcf_yield": 0.0162,
+    "roe": 0.2084,
+    "debt_equity": 1.1046,
+    "market_cap": 163773284352,
+    "name": "Eaton Corporation, PLC",
+    "sector": "Industrials"
   },
   "DD": {
     "pe": 125.55,
@@ -1781,17 +1803,6 @@
     "name": "Duke Energy Corporation (Holdin",
     "sector": "Utilities"
   },
-  "ETN": {
-    "pe": 41.23,
-    "eps_growth": -0.094,
-    "rev_growth": 0.168,
-    "fcf_yield": 0.0162,
-    "roe": 0.2084,
-    "debt_equity": 1.1046,
-    "market_cap": 163773284352,
-    "name": "Eaton Corporation, PLC",
-    "sector": "Industrials"
-  },
   "EBAY": {
     "pe": 25.0,
     "eps_growth": 0.071,
@@ -1814,16 +1825,27 @@
     "name": "EchoStar Corporation",
     "sector": "Communication Services"
   },
-  "DTE": {
-    "pe": 24.31,
-    "eps_growth": -0.444,
-    "rev_growth": 0.158,
-    "fcf_yield": -0.0713,
-    "roe": 0.1042,
-    "debt_equity": 2.1879,
-    "market_cap": 30696658944,
-    "name": "DTE Energy Company",
+  "EIX": {
+    "pe": 7.81,
+    "eps_growth": -0.632,
+    "rev_growth": 0.077,
+    "fcf_yield": -0.041,
+    "roe": 0.1886,
+    "debt_equity": 2.261,
+    "market_cap": 27662837760,
+    "name": "Edison International",
     "sector": "Utilities"
+  },
+  "EW": {
+    "pe": 47.22,
+    "eps_growth": 0.082,
+    "rev_growth": 0.167,
+    "fcf_yield": 0.0179,
+    "roe": 0.1046,
+    "debt_equity": 0.0681,
+    "market_cap": 50301886464,
+    "name": "Edwards Lifesciences Corporatio",
+    "sector": "Healthcare"
   },
   "ECL": {
     "pe": 36.42,
@@ -1835,17 +1857,6 @@
     "market_cap": 75740463104,
     "name": "Ecolab Inc.",
     "sector": "Basic Materials"
-  },
-  "EIX": {
-    "pe": 7.81,
-    "eps_growth": -0.632,
-    "rev_growth": 0.077,
-    "fcf_yield": -0.041,
-    "roe": 0.1886,
-    "debt_equity": 2.261,
-    "market_cap": 27662837760,
-    "name": "Edison International",
-    "sector": "Utilities"
   },
   "ELV": {
     "pe": 16.47,
@@ -1891,39 +1902,6 @@
     "name": "Entergy Corporation",
     "sector": "Utilities"
   },
-  "EMR": {
-    "pe": 34.88,
-    "eps_growth": 0.279,
-    "rev_growth": 0.029,
-    "fcf_yield": 0.0388,
-    "roe": 0.1233,
-    "debt_equity": 0.6918,
-    "market_cap": 84384661504,
-    "name": "Emerson Electric Company",
-    "sector": "Industrials"
-  },
-  "EW": {
-    "pe": 47.22,
-    "eps_growth": 0.082,
-    "rev_growth": 0.167,
-    "fcf_yield": 0.0179,
-    "roe": 0.1046,
-    "debt_equity": 0.0681,
-    "market_cap": 50301886464,
-    "name": "Edwards Lifesciences Corporatio",
-    "sector": "Healthcare"
-  },
-  "EOG": {
-    "pe": 12.78,
-    "eps_growth": 0.396,
-    "rev_growth": 0.156,
-    "fcf_yield": 0.0414,
-    "roe": 0.182,
-    "debt_equity": 0.2687,
-    "market_cap": 69231058944,
-    "name": "EOG Resources, Inc.",
-    "sector": "Energy"
-  },
   "EQT": {
     "pe": 9.62,
     "eps_growth": 4.9,
@@ -1934,17 +1912,6 @@
     "market_cap": 31724244992,
     "name": "EQT Corporation",
     "sector": "Energy"
-  },
-  "EFX": {
-    "pe": 27.1,
-    "eps_growth": 0.34,
-    "rev_growth": 0.143,
-    "fcf_yield": 0.0552,
-    "roe": 0.1437,
-    "debt_equity": 1.1335,
-    "market_cap": 18569283584,
-    "name": "Equifax, Inc.",
-    "sector": "Industrials"
   },
   "EQIX": {
     "pe": 75.58,
@@ -1968,6 +1935,50 @@
     "name": "Equity Residential",
     "sector": "Real Estate"
   },
+  "EOG": {
+    "pe": 12.78,
+    "eps_growth": 0.396,
+    "rev_growth": 0.156,
+    "fcf_yield": 0.0414,
+    "roe": 0.182,
+    "debt_equity": 0.2687,
+    "market_cap": 69231058944,
+    "name": "EOG Resources, Inc.",
+    "sector": "Energy"
+  },
+  "EFX": {
+    "pe": 27.1,
+    "eps_growth": 0.34,
+    "rev_growth": 0.143,
+    "fcf_yield": 0.0552,
+    "roe": 0.1437,
+    "debt_equity": 1.1335,
+    "market_cap": 18569283584,
+    "name": "Equifax, Inc.",
+    "sector": "Industrials"
+  },
+  "ERIE": {
+    "pe": 20.27,
+    "eps_growth": 0.087,
+    "rev_growth": 0.023,
+    "fcf_yield": 0.0387,
+    "roe": 0.2585,
+    "debt_equity": 0.0211,
+    "market_cap": 11563381760,
+    "name": "Erie Indemnity Company",
+    "sector": "Financial Services"
+  },
+  "EMR": {
+    "pe": 34.88,
+    "eps_growth": 0.279,
+    "rev_growth": 0.029,
+    "fcf_yield": 0.0388,
+    "roe": 0.1233,
+    "debt_equity": 0.6918,
+    "market_cap": 84384661504,
+    "name": "Emerson Electric Company",
+    "sector": "Industrials"
+  },
   "ESS": {
     "pe": 30.79,
     "eps_growth": -0.478,
@@ -1979,15 +1990,37 @@
     "name": "Essex Property Trust, Inc.",
     "sector": "Real Estate"
   },
-  "ERIE": {
-    "pe": 20.27,
-    "eps_growth": 0.087,
-    "rev_growth": 0.023,
-    "fcf_yield": 0.0387,
-    "roe": 0.2585,
-    "debt_equity": 0.0211,
-    "market_cap": 11563381760,
-    "name": "Erie Indemnity Company",
+  "ES": {
+    "pe": 14.9,
+    "eps_growth": 0.074,
+    "rev_growth": 0.094,
+    "fcf_yield": 0.0224,
+    "roe": 0.1091,
+    "debt_equity": 1.8182,
+    "market_cap": 26171408384,
+    "name": "Eversource Energy (D/B/A)",
+    "sector": "Utilities"
+  },
+  "EVRG": {
+    "pe": 21.94,
+    "eps_growth": 0.185,
+    "rev_growth": 0.05,
+    "fcf_yield": -0.0579,
+    "roe": 0.0887,
+    "debt_equity": 1.5555,
+    "market_cap": 19017324544,
+    "name": "Evergy, Inc.",
+    "sector": "Utilities"
+  },
+  "EG": {
+    "pe": 6.83,
+    "eps_growth": 2.307,
+    "rev_growth": -0.047,
+    "fcf_yield": 0.3007,
+    "roe": 0.1382,
+    "debt_equity": 0.2347,
+    "market_cap": 13281416192,
+    "name": "Everest Group, Ltd.",
     "sector": "Financial Services"
   },
   "EL": {
@@ -2001,41 +2034,8 @@
     "name": "Estee Lauder Companies, Inc. (T",
     "sector": "Consumer Defensive"
   },
-  "EG": {
-    "pe": 6.83,
-    "eps_growth": 2.307,
-    "rev_growth": -0.047,
-    "fcf_yield": 0.3007,
-    "roe": 0.1382,
-    "debt_equity": 0.2347,
-    "market_cap": 13281416192,
-    "name": "Everest Group, Ltd.",
-    "sector": "Financial Services"
-  },
-  "EVRG": {
-    "pe": 21.94,
-    "eps_growth": 0.185,
-    "rev_growth": 0.05,
-    "fcf_yield": -0.0579,
-    "roe": 0.0887,
-    "debt_equity": 1.5555,
-    "market_cap": 19017324544,
-    "name": "Evergy, Inc.",
-    "sector": "Utilities"
-  },
-  "ES": {
-    "pe": 14.9,
-    "eps_growth": 0.074,
-    "rev_growth": 0.094,
-    "fcf_yield": 0.0224,
-    "roe": 0.1091,
-    "debt_equity": 1.8182,
-    "market_cap": 26171408384,
-    "name": "Eversource Energy (D/B/A)",
-    "sector": "Utilities"
-  },
   "EXC": {
-    "pe": 16.78,
+    "pe": 16.66,
     "eps_growth": -0.003,
     "rev_growth": 0.079,
     "fcf_yield": -0.0599,
@@ -2044,17 +2044,6 @@
     "market_cap": 46873165824,
     "name": "Exelon Corporation",
     "sector": "Utilities"
-  },
-  "EXE": {
-    "pe": 6.47,
-    "eps_growth": null,
-    "rev_growth": 0.41,
-    "fcf_yield": 0.0811,
-    "roe": 0.1757,
-    "debt_equity": 0.2588,
-    "market_cap": 20808126464,
-    "name": "Expand Energy Corporation",
-    "sector": "Energy"
   },
   "EXPE": {
     "pe": 21.26,
@@ -2067,6 +2056,17 @@
     "name": "Expedia Group, Inc.",
     "sector": "Consumer Cyclical"
   },
+  "EXE": {
+    "pe": 6.47,
+    "eps_growth": null,
+    "rev_growth": 0.41,
+    "fcf_yield": 0.0811,
+    "roe": 0.1757,
+    "debt_equity": 0.2588,
+    "market_cap": 20808126464,
+    "name": "Expand Energy Corporation",
+    "sector": "Energy"
+  },
   "EXPD": {
     "pe": 26.1,
     "eps_growth": 0.163,
@@ -2077,6 +2077,39 @@
     "market_cap": 21099227136,
     "name": "Expeditors International of Was",
     "sector": "Industrials"
+  },
+  "FICO": {
+    "pe": 34.75,
+    "eps_growth": 0.69,
+    "rev_growth": 0.387,
+    "fcf_yield": 0.0287,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 25428363264,
+    "name": "Fair Isaac Corporation",
+    "sector": "Technology"
+  },
+  "FDS": {
+    "pe": 14.24,
+    "eps_growth": -0.045,
+    "rev_growth": 0.071,
+    "fcf_yield": 0.0732,
+    "roe": 0.2808,
+    "debt_equity": 0.7297,
+    "market_cap": 8061843968,
+    "name": "FactSet Research Systems Inc.",
+    "sector": "Financial Services"
+  },
+  "FRT": {
+    "pe": 20.86,
+    "eps_growth": 1.525,
+    "rev_growth": 0.103,
+    "fcf_yield": 0.0429,
+    "roe": 0.1478,
+    "debt_equity": 1.3843,
+    "market_cap": 10464106496,
+    "name": "Federal Realty Investment Trust",
+    "sector": "Real Estate"
   },
   "EXR": {
     "pe": 32.66,
@@ -2111,50 +2144,6 @@
     "name": "F5, Inc.",
     "sector": "Technology"
   },
-  "FDS": {
-    "pe": 14.24,
-    "eps_growth": -0.045,
-    "rev_growth": 0.071,
-    "fcf_yield": 0.0732,
-    "roe": 0.2808,
-    "debt_equity": 0.7297,
-    "market_cap": 8061843968,
-    "name": "FactSet Research Systems Inc.",
-    "sector": "Financial Services"
-  },
-  "FAST": {
-    "pe": 40.61,
-    "eps_growth": 0.138,
-    "rev_growth": 0.124,
-    "fcf_yield": 0.0172,
-    "roe": 0.3384,
-    "debt_equity": 0.1117,
-    "market_cap": 52683329536,
-    "name": "Fastenal Company",
-    "sector": "Industrials"
-  },
-  "FICO": {
-    "pe": 34.75,
-    "eps_growth": 0.69,
-    "rev_growth": 0.387,
-    "fcf_yield": 0.0287,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 25428363264,
-    "name": "Fair Isaac Corporation",
-    "sector": "Technology"
-  },
-  "FRT": {
-    "pe": 20.86,
-    "eps_growth": 1.525,
-    "rev_growth": 0.103,
-    "fcf_yield": 0.0429,
-    "roe": 0.1478,
-    "debt_equity": 1.3843,
-    "market_cap": 10464106496,
-    "name": "Federal Realty Investment Trust",
-    "sector": "Real Estate"
-  },
   "FDX": {
     "pe": 17.42,
     "eps_growth": 0.173,
@@ -2165,6 +2154,17 @@
     "market_cap": 77833527296,
     "name": "FedEx Corporation",
     "sector": "Industrials"
+  },
+  "FSLR": {
+    "pe": 16.64,
+    "eps_growth": 0.651,
+    "rev_growth": 0.236,
+    "fcf_yield": 0.0414,
+    "roe": 0.1844,
+    "debt_equity": 0.0594,
+    "market_cap": 27690731520,
+    "name": "First Solar, Inc.",
+    "sector": "Technology"
   },
   "FDXF": {
     "pe": 35.79,
@@ -2188,6 +2188,17 @@
     "name": "Fidelity National Information S",
     "sector": "Technology"
   },
+  "FE": {
+    "pe": 25.24,
+    "eps_growth": 0.129,
+    "rev_growth": 0.116,
+    "fcf_yield": -0.0683,
+    "roe": 0.0946,
+    "debt_equity": 1.9892,
+    "market_cap": 26868127744,
+    "name": "FirstEnergy Corp.",
+    "sector": "Utilities"
+  },
   "FITB": {
     "pe": 17.76,
     "eps_growth": -0.789,
@@ -2199,27 +2210,16 @@
     "name": "Fifth Third Bancorp",
     "sector": "Financial Services"
   },
-  "FSLR": {
-    "pe": 16.64,
-    "eps_growth": 0.651,
-    "rev_growth": 0.236,
-    "fcf_yield": 0.0414,
-    "roe": 0.1844,
-    "debt_equity": 0.0594,
-    "market_cap": 27690731520,
-    "name": "First Solar, Inc.",
-    "sector": "Technology"
-  },
-  "FISV": {
-    "pe": 8.11,
-    "eps_growth": null,
-    "rev_growth": null,
-    "fcf_yield": null,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 25521534976,
-    "name": "Fiserv, Inc.",
-    "sector": "Unknown"
+  "FAST": {
+    "pe": 40.61,
+    "eps_growth": 0.138,
+    "rev_growth": 0.124,
+    "fcf_yield": 0.0172,
+    "roe": 0.3384,
+    "debt_equity": 0.1117,
+    "market_cap": 52683329536,
+    "name": "Fastenal Company",
+    "sector": "Industrials"
   },
   "F": {
     "pe": null,
@@ -2232,38 +2232,16 @@
     "name": "Ford Motor Company",
     "sector": "Consumer Cyclical"
   },
-  "FTV": {
-    "pe": 35.9,
-    "eps_growth": -0.124,
-    "rev_growth": 0.077,
-    "fcf_yield": 0.0513,
-    "roe": 0.0681,
-    "debt_equity": 0.5881,
-    "market_cap": 18605668352,
-    "name": "Fortive Corporation",
-    "sector": "Technology"
-  },
-  "FOXA": {
-    "pe": 13.74,
-    "eps_growth": -0.493,
-    "rev_growth": -0.086,
-    "fcf_yield": 0.0641,
-    "roe": 0.152,
-    "debt_equity": 0.6787,
-    "market_cap": 21931409408,
-    "name": "Fox Corporation",
-    "sector": "Communication Services"
-  },
-  "FE": {
-    "pe": 25.24,
-    "eps_growth": 0.129,
-    "rev_growth": 0.116,
-    "fcf_yield": -0.0683,
-    "roe": 0.0946,
-    "debt_equity": 1.9892,
-    "market_cap": 26868127744,
-    "name": "FirstEnergy Corp.",
-    "sector": "Utilities"
+  "FISV": {
+    "pe": 8.11,
+    "eps_growth": null,
+    "rev_growth": null,
+    "fcf_yield": null,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 25521534976,
+    "name": "Fiserv, Inc.",
+    "sector": "Unknown"
   },
   "FTNT": {
     "pe": 56.32,
@@ -2276,27 +2254,16 @@
     "name": "Fortinet, Inc.",
     "sector": "Technology"
   },
-  "FOX": {
-    "pe": 12.36,
-    "eps_growth": -0.493,
-    "rev_growth": -0.086,
-    "fcf_yield": 0.0713,
-    "roe": 0.152,
-    "debt_equity": 0.6787,
-    "market_cap": 19714334720,
-    "name": "Fox Corporation",
-    "sector": "Communication Services"
-  },
-  "BEN": {
-    "pe": 25.23,
-    "eps_growth": 0.872,
-    "rev_growth": 0.087,
-    "fcf_yield": -0.0141,
-    "roe": 0.067,
-    "debt_equity": 0.2347,
-    "market_cap": 17174007808,
-    "name": "Franklin Resources, Inc.",
-    "sector": "Financial Services"
+  "FTV": {
+    "pe": 35.9,
+    "eps_growth": -0.124,
+    "rev_growth": 0.077,
+    "fcf_yield": 0.0513,
+    "roe": 0.0681,
+    "debt_equity": 0.5881,
+    "market_cap": 18605668352,
+    "name": "Fortive Corporation",
+    "sector": "Technology"
   },
   "FCX": {
     "pe": 36.34,
@@ -2309,16 +2276,16 @@
     "name": "Freeport-McMoRan, Inc.",
     "sector": "Basic Materials"
   },
-  "GRMN": {
-    "pe": 26.17,
-    "eps_growth": 0.215,
-    "rev_growth": 0.142,
-    "fcf_yield": 0.0179,
-    "roe": 0.199,
-    "debt_equity": 0.0233,
-    "market_cap": 45166923776,
-    "name": "Garmin Ltd.",
-    "sector": "Technology"
+  "FOX": {
+    "pe": 12.36,
+    "eps_growth": -0.493,
+    "rev_growth": -0.086,
+    "fcf_yield": 0.0713,
+    "roe": 0.152,
+    "debt_equity": 0.6787,
+    "market_cap": 19714334720,
+    "name": "Fox Corporation",
+    "sector": "Communication Services"
   },
   "IT": {
     "pe": 12.61,
@@ -2331,16 +2298,38 @@
     "name": "Gartner, Inc.",
     "sector": "Technology"
   },
-  "GE": {
-    "pe": 44.43,
-    "eps_growth": -0.018,
-    "rev_growth": 0.247,
-    "fcf_yield": 0.0152,
-    "roe": 0.4543,
-    "debt_equity": 1.1653,
-    "market_cap": 373672869888,
-    "name": "GE Aerospace",
-    "sector": "Industrials"
+  "GRMN": {
+    "pe": 26.17,
+    "eps_growth": 0.215,
+    "rev_growth": 0.142,
+    "fcf_yield": 0.0179,
+    "roe": 0.199,
+    "debt_equity": 0.0233,
+    "market_cap": 45166923776,
+    "name": "Garmin Ltd.",
+    "sector": "Technology"
+  },
+  "BEN": {
+    "pe": 25.23,
+    "eps_growth": 0.872,
+    "rev_growth": 0.087,
+    "fcf_yield": -0.0141,
+    "roe": 0.067,
+    "debt_equity": 0.2347,
+    "market_cap": 17174007808,
+    "name": "Franklin Resources, Inc.",
+    "sector": "Financial Services"
+  },
+  "FOXA": {
+    "pe": 13.74,
+    "eps_growth": -0.493,
+    "rev_growth": -0.086,
+    "fcf_yield": 0.0641,
+    "roe": 0.152,
+    "debt_equity": 0.6787,
+    "market_cap": 21931409408,
+    "name": "Fox Corporation",
+    "sector": "Communication Services"
   },
   "GEHC": {
     "pe": 14.77,
@@ -2353,17 +2342,6 @@
     "name": "GE HealthCare Technologies Inc.",
     "sector": "Healthcare"
   },
-  "GEN": {
-    "pe": 15.4,
-    "eps_growth": 2.652,
-    "rev_growth": 0.27,
-    "fcf_yield": 0.0976,
-    "roe": 0.3988,
-    "debt_equity": 3.1635,
-    "market_cap": 14566850560,
-    "name": "Gen Digital Inc.",
-    "sector": "Technology"
-  },
   "GEV": {
     "pe": 32.46,
     "eps_growth": null,
@@ -2374,6 +2352,28 @@
     "market_cap": 298206625792,
     "name": "GE Vernova Inc.",
     "sector": "Industrials"
+  },
+  "GE": {
+    "pe": 44.43,
+    "eps_growth": -0.018,
+    "rev_growth": 0.247,
+    "fcf_yield": 0.0152,
+    "roe": 0.4543,
+    "debt_equity": 1.1653,
+    "market_cap": 373672869888,
+    "name": "GE Aerospace",
+    "sector": "Industrials"
+  },
+  "GEN": {
+    "pe": 15.4,
+    "eps_growth": 2.652,
+    "rev_growth": 0.27,
+    "fcf_yield": 0.0976,
+    "roe": 0.3988,
+    "debt_equity": 3.1635,
+    "market_cap": 14566850560,
+    "name": "Gen Digital Inc.",
+    "sector": "Technology"
   },
   "GNRC": {
     "pe": 87.51,
@@ -2386,17 +2386,6 @@
     "name": "Generac Holdlings Inc.",
     "sector": "Industrials"
   },
-  "GD": {
-    "pe": 21.75,
-    "eps_growth": 0.12,
-    "rev_growth": 0.103,
-    "fcf_yield": 0.0559,
-    "roe": 0.1797,
-    "debt_equity": 0.377,
-    "market_cap": 94653267968,
-    "name": "General Dynamics Corporation",
-    "sector": "Industrials"
-  },
   "GIS": {
     "pe": 8.17,
     "eps_growth": -0.145,
@@ -2407,6 +2396,17 @@
     "market_cap": 17835624448,
     "name": "General Mills, Inc.",
     "sector": "Consumer Defensive"
+  },
+  "GD": {
+    "pe": 21.75,
+    "eps_growth": 0.12,
+    "rev_growth": 0.103,
+    "fcf_yield": 0.0559,
+    "roe": 0.1797,
+    "debt_equity": 0.377,
+    "market_cap": 94653267968,
+    "name": "General Dynamics Corporation",
+    "sector": "Industrials"
   },
   "GM": {
     "pe": 28.94,
@@ -2441,17 +2441,6 @@
     "name": "Gilead Sciences, Inc.",
     "sector": "Healthcare"
   },
-  "GL": {
-    "pe": 11.82,
-    "eps_growth": 0.126,
-    "rev_growth": 0.054,
-    "fcf_yield": 0.0993,
-    "roe": 0.2046,
-    "debt_equity": 0.5359,
-    "market_cap": 13258618880,
-    "name": "Globe Life Inc.",
-    "sector": "Financial Services"
-  },
   "GPN": {
     "pe": 24.59,
     "eps_growth": null,
@@ -2463,6 +2452,17 @@
     "name": "Global Payments Inc.",
     "sector": "Industrials"
   },
+  "GL": {
+    "pe": 11.82,
+    "eps_growth": 0.126,
+    "rev_growth": 0.054,
+    "fcf_yield": 0.0993,
+    "roe": 0.2046,
+    "debt_equity": 0.5359,
+    "market_cap": 13258618880,
+    "name": "Globe Life Inc.",
+    "sector": "Financial Services"
+  },
   "GDDY": {
     "pe": 12.21,
     "eps_growth": 0.06,
@@ -2473,17 +2473,6 @@
     "market_cap": 10200854528,
     "name": "GoDaddy Inc.",
     "sector": "Technology"
-  },
-  "HAL": {
-    "pe": 19.3,
-    "eps_growth": 1.335,
-    "rev_growth": -0.003,
-    "fcf_yield": 0.0695,
-    "roe": 0.1463,
-    "debt_equity": 0.7465,
-    "market_cap": 29180444672,
-    "name": "Halliburton Company",
-    "sector": "Energy"
   },
   "GS": {
     "pe": 20.03,
@@ -2507,17 +2496,6 @@
     "name": "The Hartford Insurance Group, I",
     "sector": "Financial Services"
   },
-  "HCA": {
-    "pe": 12.93,
-    "eps_growth": 0.109,
-    "rev_growth": 0.043,
-    "fcf_yield": 0.0688,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 83227639808,
-    "name": "HCA Healthcare, Inc.",
-    "sector": "Healthcare"
-  },
   "HAS": {
     "pe": null,
     "eps_growth": 0.986,
@@ -2528,6 +2506,17 @@
     "market_cap": 11989920768,
     "name": "Hasbro, Inc.",
     "sector": "Consumer Cyclical"
+  },
+  "HAL": {
+    "pe": 19.3,
+    "eps_growth": 1.335,
+    "rev_growth": -0.003,
+    "fcf_yield": 0.0695,
+    "roe": 0.1463,
+    "debt_equity": 0.7465,
+    "market_cap": 29180444672,
+    "name": "Halliburton Company",
+    "sector": "Energy"
   },
   "DOC": {
     "pe": 61.12,
@@ -2540,6 +2529,17 @@
     "name": "Healthpeak Properties, Inc.",
     "sector": "Real Estate"
   },
+  "HSY": {
+    "pe": 32.15,
+    "eps_growth": 0.936,
+    "rev_growth": 0.106,
+    "fcf_yield": 0.0436,
+    "roe": 0.2323,
+    "debt_equity": 1.2001,
+    "market_cap": 35016851456,
+    "name": "The Hershey Company",
+    "sector": "Consumer Defensive"
+  },
   "HSIC": {
     "pe": 24.15,
     "eps_growth": 0.045,
@@ -2551,16 +2551,16 @@
     "name": "Henry Schein, Inc.",
     "sector": "Healthcare"
   },
-  "HSY": {
-    "pe": 32.15,
-    "eps_growth": 0.936,
-    "rev_growth": 0.106,
-    "fcf_yield": 0.0436,
-    "roe": 0.2323,
-    "debt_equity": 1.2001,
-    "market_cap": 35016851456,
-    "name": "The Hershey Company",
-    "sector": "Consumer Defensive"
+  "HCA": {
+    "pe": 12.93,
+    "eps_growth": 0.109,
+    "rev_growth": 0.043,
+    "fcf_yield": 0.0688,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 83227639808,
+    "name": "HCA Healthcare, Inc.",
+    "sector": "Healthcare"
   },
   "HPE": {
     "pe": 44.31,
@@ -2573,17 +2573,6 @@
     "name": "Hewlett Packard Enterprise Comp",
     "sector": "Technology"
   },
-  "HLT": {
-    "pe": 53.26,
-    "eps_growth": 0.35,
-    "rev_growth": 0.11,
-    "fcf_yield": 0.0212,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 79412854784,
-    "name": "Hilton Worldwide Holdings Inc.",
-    "sector": "Consumer Cyclical"
-  },
   "HD": {
     "pe": 23.72,
     "eps_growth": -0.043,
@@ -2594,17 +2583,6 @@
     "market_cap": 333316161536,
     "name": "Home Depot, Inc. (The)",
     "sector": "Consumer Cyclical"
-  },
-  "HRL": {
-    "pe": 28.42,
-    "eps_growth": -0.051,
-    "rev_growth": -0.029,
-    "fcf_yield": 0.0354,
-    "roe": 0.0583,
-    "debt_equity": 0.0424,
-    "market_cap": 13294866432,
-    "name": "Hormel Foods Corporation",
-    "sector": "Consumer Defensive"
   },
   "HON": {
     "pe": 36.52,
@@ -2628,6 +2606,28 @@
     "name": "Host Hotels & Resorts, Inc.",
     "sector": "Real Estate"
   },
+  "HRL": {
+    "pe": 28.42,
+    "eps_growth": -0.051,
+    "rev_growth": -0.029,
+    "fcf_yield": 0.0354,
+    "roe": 0.0583,
+    "debt_equity": 0.0424,
+    "market_cap": 13295608832,
+    "name": "Hormel Foods Corporation",
+    "sector": "Consumer Defensive"
+  },
+  "HLT": {
+    "pe": 53.26,
+    "eps_growth": 0.35,
+    "rev_growth": 0.11,
+    "fcf_yield": 0.0212,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 79412854784,
+    "name": "Hilton Worldwide Holdings Inc.",
+    "sector": "Consumer Cyclical"
+  },
   "HWM": {
     "pe": 64.57,
     "eps_growth": 0.714,
@@ -2637,6 +2637,17 @@
     "debt_equity": 0.8779,
     "market_cap": 111093850112,
     "name": "Howmet Aerospace Inc.",
+    "sector": "Industrials"
+  },
+  "HUBB": {
+    "pe": 30.99,
+    "eps_growth": 0.125,
+    "rev_growth": 0.111,
+    "fcf_yield": 0.0196,
+    "roe": 0.2582,
+    "debt_equity": 0.7247,
+    "market_cap": 27672709120,
+    "name": "Hubbell Inc",
     "sector": "Industrials"
   },
   "HPQ": {
@@ -2650,50 +2661,6 @@
     "name": "HP Inc.",
     "sector": "Technology"
   },
-  "HUBB": {
-    "pe": 30.91,
-    "eps_growth": 0.125,
-    "rev_growth": 0.111,
-    "fcf_yield": 0.0196,
-    "roe": 0.2582,
-    "debt_equity": 0.7247,
-    "market_cap": 27672709120,
-    "name": "Hubbell Inc",
-    "sector": "Industrials"
-  },
-  "HBAN": {
-    "pe": 12.97,
-    "eps_growth": -0.265,
-    "rev_growth": 0.336,
-    "fcf_yield": null,
-    "roe": 0.0839,
-    "debt_equity": null,
-    "market_cap": 34177423360,
-    "name": "Huntington Bancshares Incorpora",
-    "sector": "Financial Services"
-  },
-  "HII": {
-    "pe": 18.53,
-    "eps_growth": null,
-    "rev_growth": 0.134,
-    "fcf_yield": 0.0564,
-    "roe": 0.122,
-    "debt_equity": 0.5695,
-    "market_cap": 11247091712,
-    "name": "Huntington Ingalls Industries, ",
-    "sector": "Industrials"
-  },
-  "IEX": {
-    "pe": 33.27,
-    "eps_growth": 0.278,
-    "rev_growth": 0.089,
-    "fcf_yield": 0.0315,
-    "roe": 0.1275,
-    "debt_equity": 0.4692,
-    "market_cap": 16648206336,
-    "name": "IDEX Corporation",
-    "sector": "Industrials"
-  },
   "HUM": {
     "pe": 38.41,
     "eps_growth": -0.046,
@@ -2704,28 +2671,6 @@
     "market_cap": 43300179968,
     "name": "Humana Inc.",
     "sector": "Healthcare"
-  },
-  "IDXX": {
-    "pe": 41.39,
-    "eps_growth": 0.172,
-    "rev_growth": 0.143,
-    "fcf_yield": 0.0177,
-    "roe": 0.7291,
-    "debt_equity": 0.7104,
-    "market_cap": 44339347456,
-    "name": "IDEXX Laboratories, Inc.",
-    "sector": "Healthcare"
-  },
-  "ITW": {
-    "pe": 24.54,
-    "eps_growth": 0.118,
-    "rev_growth": 0.046,
-    "fcf_yield": 0.0292,
-    "roe": 0.9685,
-    "debt_equity": 2.8322,
-    "market_cap": 75978694656,
-    "name": "Illinois Tool Works Inc.",
-    "sector": "Industrials"
   },
   "IBM": {
     "pe": 22.06,
@@ -2738,6 +2683,50 @@
     "name": "International Business Machines",
     "sector": "Technology"
   },
+  "HBAN": {
+    "pe": 12.97,
+    "eps_growth": -0.265,
+    "rev_growth": 0.336,
+    "fcf_yield": null,
+    "roe": 0.0839,
+    "debt_equity": null,
+    "market_cap": 34177423360,
+    "name": "Huntington Bancshares Incorpora",
+    "sector": "Financial Services"
+  },
+  "ITW": {
+    "pe": 24.54,
+    "eps_growth": 0.118,
+    "rev_growth": 0.046,
+    "fcf_yield": 0.0292,
+    "roe": 0.9685,
+    "debt_equity": 2.8322,
+    "market_cap": 75978694656,
+    "name": "Illinois Tool Works Inc.",
+    "sector": "Industrials"
+  },
+  "HII": {
+    "pe": 18.53,
+    "eps_growth": null,
+    "rev_growth": 0.134,
+    "fcf_yield": 0.0564,
+    "roe": 0.122,
+    "debt_equity": 0.5695,
+    "market_cap": 11247091712,
+    "name": "Huntington Ingalls Industries, ",
+    "sector": "Industrials"
+  },
+  "IDXX": {
+    "pe": 41.39,
+    "eps_growth": 0.172,
+    "rev_growth": 0.143,
+    "fcf_yield": 0.0177,
+    "roe": 0.7291,
+    "debt_equity": 0.7104,
+    "market_cap": 44339347456,
+    "name": "IDEXX Laboratories, Inc.",
+    "sector": "Healthcare"
+  },
   "INCY": {
     "pe": 13.87,
     "eps_growth": 0.838,
@@ -2748,6 +2737,17 @@
     "market_cap": 19622604800,
     "name": "Incyte Corporation",
     "sector": "Healthcare"
+  },
+  "IEX": {
+    "pe": 33.27,
+    "eps_growth": 0.278,
+    "rev_growth": 0.089,
+    "fcf_yield": 0.0315,
+    "roe": 0.1275,
+    "debt_equity": 0.4692,
+    "market_cap": 16648206336,
+    "name": "IDEX Corporation",
+    "sector": "Industrials"
   },
   "IR": {
     "pe": 52.64,
@@ -2771,17 +2771,6 @@
     "name": "Insulet Corporation",
     "sector": "Healthcare"
   },
-  "IBKR": {
-    "pe": 41.2,
-    "eps_growth": 0.229,
-    "rev_growth": 0.168,
-    "fcf_yield": null,
-    "roe": 0.2356,
-    "debt_equity": 1.5219,
-    "market_cap": 162837331968,
-    "name": "Interactive Brokers Group, Inc.",
-    "sector": "Financial Services"
-  },
   "INTC": {
     "pe": null,
     "eps_growth": null,
@@ -2792,17 +2781,6 @@
     "market_cap": 673433780224,
     "name": "Intel Corporation",
     "sector": "Technology"
-  },
-  "ICE": {
-    "pe": 19.49,
-    "eps_growth": 0.797,
-    "rev_growth": 0.204,
-    "fcf_yield": 0.0494,
-    "roe": 0.1385,
-    "debt_equity": 0.7099,
-    "market_cap": 75710816256,
-    "name": "Intercontinental Exchange Inc.",
-    "sector": "Financial Services"
   },
   "IFF": {
     "pe": 23.75,
@@ -2815,6 +2793,17 @@
     "name": "International Flavors & Fragran",
     "sector": "Basic Materials"
   },
+  "ICE": {
+    "pe": 19.49,
+    "eps_growth": 0.797,
+    "rev_growth": 0.204,
+    "fcf_yield": 0.0494,
+    "roe": 0.1385,
+    "debt_equity": 0.7099,
+    "market_cap": 75710816256,
+    "name": "Intercontinental Exchange Inc.",
+    "sector": "Financial Services"
+  },
   "INTU": {
     "pe": 16.3,
     "eps_growth": 0.107,
@@ -2826,6 +2815,17 @@
     "name": "Intuit Inc.",
     "sector": "Technology"
   },
+  "IBKR": {
+    "pe": 41.2,
+    "eps_growth": 0.229,
+    "rev_growth": 0.168,
+    "fcf_yield": null,
+    "roe": 0.2356,
+    "debt_equity": 1.5219,
+    "market_cap": 162837331968,
+    "name": "Interactive Brokers Group, Inc.",
+    "sector": "Financial Services"
+  },
   "IP": {
     "pe": null,
     "eps_growth": null,
@@ -2836,6 +2836,17 @@
     "market_cap": 19496814592,
     "name": "International Paper Company",
     "sector": "Consumer Cyclical"
+  },
+  "ISRG": {
+    "pe": 49.49,
+    "eps_growth": 0.188,
+    "rev_growth": 0.23,
+    "fcf_yield": 0.0156,
+    "roe": 0.1723,
+    "debt_equity": null,
+    "market_cap": 144066363392,
+    "name": "Intuitive Surgical, Inc.",
+    "sector": "Healthcare"
   },
   "IVZ": {
     "pe": null,
@@ -2859,27 +2870,16 @@
     "name": "Invitation Homes Inc.",
     "sector": "Real Estate"
   },
-  "IQV": {
-    "pe": 20.87,
-    "eps_growth": 0.15,
-    "rev_growth": 0.084,
-    "fcf_yield": 0.077,
-    "roe": 0.2249,
-    "debt_equity": 2.5543,
-    "market_cap": 28000813056,
-    "name": "IQVIA Holdings, Inc.",
-    "sector": "Healthcare"
-  },
-  "IRM": {
-    "pe": 138.95,
-    "eps_growth": null,
-    "rev_growth": 0.216,
-    "fcf_yield": -0.0131,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 38032580608,
-    "name": "Iron Mountain Incorporated (Del",
-    "sector": "Real Estate"
+  "JBL": {
+    "pe": 49.98,
+    "eps_growth": 0.962,
+    "rev_growth": 0.231,
+    "fcf_yield": 0.0307,
+    "roe": 0.597,
+    "debt_equity": 3.2891,
+    "market_cap": 39234318336,
+    "name": "Jabil Inc.",
+    "sector": "Technology"
   },
   "JBHT": {
     "pe": 42.11,
@@ -2892,48 +2892,26 @@
     "name": "J.B. Hunt Transport Services, I",
     "sector": "Industrials"
   },
-  "JKHY": {
-    "pe": 17.63,
-    "eps_growth": 0.125,
-    "rev_growth": 0.087,
-    "fcf_yield": 0.0416,
-    "roe": 0.2489,
-    "debt_equity": 0.064,
-    "market_cap": 8968740864,
-    "name": "Jack Henry & Associates, Inc.",
-    "sector": "Technology"
-  },
-  "JBL": {
-    "pe": 49.98,
-    "eps_growth": 0.962,
-    "rev_growth": 0.231,
-    "fcf_yield": 0.0307,
-    "roe": 0.597,
-    "debt_equity": 3.2891,
-    "market_cap": 39234318336,
-    "name": "Jabil Inc.",
-    "sector": "Technology"
-  },
-  "ISRG": {
-    "pe": 49.49,
-    "eps_growth": 0.188,
-    "rev_growth": 0.23,
-    "fcf_yield": 0.0156,
-    "roe": 0.1723,
+  "IRM": {
+    "pe": 138.95,
+    "eps_growth": null,
+    "rev_growth": 0.216,
+    "fcf_yield": -0.0131,
+    "roe": null,
     "debt_equity": null,
-    "market_cap": 144066363392,
-    "name": "Intuitive Surgical, Inc.",
-    "sector": "Healthcare"
+    "market_cap": 38032580608,
+    "name": "Iron Mountain Incorporated (Del",
+    "sector": "Real Estate"
   },
-  "JNJ": {
-    "pe": 26.46,
-    "eps_growth": -0.529,
-    "rev_growth": 0.099,
-    "fcf_yield": 0.0228,
-    "roe": 0.2642,
-    "debt_equity": 0.6773,
-    "market_cap": 549784256512,
-    "name": "Johnson & Johnson",
+  "IQV": {
+    "pe": 20.87,
+    "eps_growth": 0.15,
+    "rev_growth": 0.084,
+    "fcf_yield": 0.077,
+    "roe": 0.2249,
+    "debt_equity": 2.5543,
+    "market_cap": 28000813056,
+    "name": "IQVIA Holdings, Inc.",
     "sector": "Healthcare"
   },
   "J": {
@@ -2947,6 +2925,28 @@
     "name": "Jacobs Solutions Inc.",
     "sector": "Industrials"
   },
+  "JKHY": {
+    "pe": 17.63,
+    "eps_growth": 0.125,
+    "rev_growth": 0.087,
+    "fcf_yield": 0.0416,
+    "roe": 0.2489,
+    "debt_equity": 0.064,
+    "market_cap": 8968740864,
+    "name": "Jack Henry & Associates, Inc.",
+    "sector": "Technology"
+  },
+  "JNJ": {
+    "pe": 26.46,
+    "eps_growth": -0.529,
+    "rev_growth": 0.099,
+    "fcf_yield": 0.0228,
+    "roe": 0.2642,
+    "debt_equity": 0.6773,
+    "market_cap": 549784256512,
+    "name": "Johnson & Johnson",
+    "sector": "Healthcare"
+  },
   "JCI": {
     "pe": 44.29,
     "eps_growth": 0.389,
@@ -2957,28 +2957,6 @@
     "market_cap": 88356945920,
     "name": "Johnson Controls International ",
     "sector": "Industrials"
-  },
-  "JPM": {
-    "pe": 15.57,
-    "eps_growth": 0.172,
-    "rev_growth": 0.127,
-    "fcf_yield": null,
-    "roe": 0.1647,
-    "debt_equity": null,
-    "market_cap": 871430684672,
-    "name": "JP Morgan Chase & Co.",
-    "sector": "Financial Services"
-  },
-  "KVUE": {
-    "pe": 21.57,
-    "eps_growth": 0.469,
-    "rev_growth": 0.045,
-    "fcf_yield": 0.0534,
-    "roe": 0.157,
-    "debt_equity": 0.8297,
-    "market_cap": 34790559744,
-    "name": "Kenvue Inc.",
-    "sector": "Consumer Defensive"
   },
   "KDP": {
     "pe": 22.79,
@@ -2991,26 +2969,26 @@
     "name": "Keurig Dr Pepper Inc.",
     "sector": "Consumer Defensive"
   },
-  "KEYS": {
-    "pe": 58.66,
-    "eps_growth": 0.356,
-    "rev_growth": 0.315,
-    "fcf_yield": 0.0175,
-    "roe": 0.1817,
-    "debt_equity": 0.4364,
-    "market_cap": 62149517312,
-    "name": "Keysight Technologies Inc.",
-    "sector": "Technology"
+  "KVUE": {
+    "pe": 21.57,
+    "eps_growth": 0.469,
+    "rev_growth": 0.045,
+    "fcf_yield": 0.0534,
+    "roe": 0.157,
+    "debt_equity": 0.8297,
+    "market_cap": 34790559744,
+    "name": "Kenvue Inc.",
+    "sector": "Consumer Defensive"
   },
-  "KEY": {
-    "pe": 13.86,
-    "eps_growth": 0.333,
-    "rev_growth": 0.118,
+  "JPM": {
+    "pe": 15.57,
+    "eps_growth": 0.172,
+    "rev_growth": 0.127,
     "fcf_yield": null,
-    "roe": 0.0998,
+    "roe": 0.1647,
     "debt_equity": null,
-    "market_cap": 24382939136,
-    "name": "KeyCorp",
+    "market_cap": 871430684672,
+    "name": "JP Morgan Chase & Co.",
     "sector": "Financial Services"
   },
   "KMB": {
@@ -3035,15 +3013,26 @@
     "name": "Kimco Realty Corporation (HC)",
     "sector": "Real Estate"
   },
-  "KKR": {
-    "pe": 33.0,
-    "eps_growth": null,
-    "rev_growth": -0.066,
+  "KEYS": {
+    "pe": 58.66,
+    "eps_growth": 0.356,
+    "rev_growth": 0.315,
+    "fcf_yield": 0.0175,
+    "roe": 0.1817,
+    "debt_equity": 0.4364,
+    "market_cap": 62149517312,
+    "name": "Keysight Technologies Inc.",
+    "sector": "Technology"
+  },
+  "KEY": {
+    "pe": 13.86,
+    "eps_growth": 0.333,
+    "rev_growth": 0.118,
     "fcf_yield": null,
-    "roe": 0.0766,
-    "debt_equity": 0.6903,
-    "market_cap": 90456154112,
-    "name": "KKR & Co. Inc.",
+    "roe": 0.0998,
+    "debt_equity": null,
+    "market_cap": 24382939136,
+    "name": "KeyCorp",
     "sector": "Financial Services"
   },
   "KLAC": {
@@ -3057,16 +3046,16 @@
     "name": "KLA Corporation",
     "sector": "Technology"
   },
-  "KHC": {
-    "pe": null,
-    "eps_growth": 0.136,
-    "rev_growth": 0.008,
-    "fcf_yield": 0.1187,
-    "roe": -0.1258,
-    "debt_equity": 0.5026,
-    "market_cap": 27059445760,
-    "name": "The Kraft Heinz Company",
-    "sector": "Consumer Defensive"
+  "KKR": {
+    "pe": 33.0,
+    "eps_growth": null,
+    "rev_growth": -0.066,
+    "fcf_yield": null,
+    "roe": 0.0766,
+    "debt_equity": 0.6903,
+    "market_cap": 90456154112,
+    "name": "KKR & Co. Inc.",
+    "sector": "Financial Services"
   },
   "KMI": {
     "pe": 21.2,
@@ -3088,6 +3077,17 @@
     "debt_equity": 4.1597,
     "market_cap": 34903502848,
     "name": "Kroger Company (The)",
+    "sector": "Consumer Defensive"
+  },
+  "KHC": {
+    "pe": null,
+    "eps_growth": 0.136,
+    "rev_growth": 0.008,
+    "fcf_yield": 0.1187,
+    "roe": -0.1258,
+    "debt_equity": 0.5026,
+    "market_cap": 27059445760,
+    "name": "The Kraft Heinz Company",
     "sector": "Consumer Defensive"
   },
   "LHX": {
@@ -3112,6 +3112,17 @@
     "name": "Labcorp Holdings Inc.",
     "sector": "Healthcare"
   },
+  "LDOS": {
+    "pe": 9.8,
+    "eps_growth": -0.076,
+    "rev_growth": 0.037,
+    "fcf_yield": 0.0887,
+    "roe": 0.3058,
+    "debt_equity": 1.3713,
+    "market_cap": 13474139136,
+    "name": "Leidos Holdings, Inc.",
+    "sector": "Technology"
+  },
   "LRCX": {
     "pe": 73.68,
     "eps_growth": 0.408,
@@ -3134,17 +3145,6 @@
     "name": "Las Vegas Sands Corp.",
     "sector": "Consumer Cyclical"
   },
-  "LDOS": {
-    "pe": 9.8,
-    "eps_growth": -0.076,
-    "rev_growth": 0.037,
-    "fcf_yield": 0.0887,
-    "roe": 0.3058,
-    "debt_equity": 1.3713,
-    "market_cap": 13474139136,
-    "name": "Leidos Holdings, Inc.",
-    "sector": "Technology"
-  },
   "LEN": {
     "pe": 14.06,
     "eps_growth": -0.315,
@@ -3155,28 +3155,6 @@
     "market_cap": 22100346880,
     "name": "Lennar Corporation",
     "sector": "Consumer Cyclical"
-  },
-  "LLY": {
-    "pe": 39.0,
-    "eps_growth": 1.699,
-    "rev_growth": 0.555,
-    "fcf_yield": 0.0093,
-    "roe": 1.0746,
-    "debt_equity": 1.3901,
-    "market_cap": 979640254464,
-    "name": "Eli Lilly and Company",
-    "sector": "Healthcare"
-  },
-  "LII": {
-    "pe": 23.65,
-    "eps_growth": -0.077,
-    "rev_growth": 0.058,
-    "fcf_yield": 0.0101,
-    "roe": 0.7679,
-    "debt_equity": 1.6104,
-    "market_cap": 18528546816,
-    "name": "Lennox International, Inc.",
-    "sector": "Industrials"
   },
   "LIN": {
     "pe": 33.96,
@@ -3189,6 +3167,17 @@
     "name": "Linde plc",
     "sector": "Basic Materials"
   },
+  "LLY": {
+    "pe": 39.0,
+    "eps_growth": 1.699,
+    "rev_growth": 0.555,
+    "fcf_yield": 0.0093,
+    "roe": 1.0746,
+    "debt_equity": 1.3901,
+    "market_cap": 979640254464,
+    "name": "Eli Lilly and Company",
+    "sector": "Healthcare"
+  },
   "LYV": {
     "pe": null,
     "eps_growth": null,
@@ -3199,6 +3188,17 @@
     "market_cap": 39849742336,
     "name": "Live Nation Entertainment, Inc.",
     "sector": "Communication Services"
+  },
+  "LII": {
+    "pe": 23.65,
+    "eps_growth": -0.077,
+    "rev_growth": 0.058,
+    "fcf_yield": 0.0101,
+    "roe": 0.7679,
+    "debt_equity": 1.6104,
+    "market_cap": 18528546816,
+    "name": "Lennox International, Inc.",
+    "sector": "Industrials"
   },
   "LMT": {
     "pe": 24.77,
@@ -3233,6 +3233,17 @@
     "name": "lululemon athletica inc.",
     "sector": "Consumer Cyclical"
   },
+  "LOW": {
+    "pe": 18.78,
+    "eps_growth": -0.007,
+    "rev_growth": 0.103,
+    "fcf_yield": 0.0387,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 124589113344,
+    "name": "Lowe's Companies, Inc.",
+    "sector": "Consumer Cyclical"
+  },
   "LYB": {
     "pe": null,
     "eps_growth": -0.295,
@@ -3243,17 +3254,6 @@
     "market_cap": 19389681664,
     "name": "LyondellBasell Industries NV",
     "sector": "Basic Materials"
-  },
-  "MTB": {
-    "pe": 12.64,
-    "eps_growth": 0.244,
-    "rev_growth": 0.057,
-    "fcf_yield": null,
-    "roe": 0.1029,
-    "debt_equity": null,
-    "market_cap": 32967710720,
-    "name": "M&T Bank Corporation",
-    "sector": "Financial Services"
   },
   "LITE": {
     "pe": 149.38,
@@ -3266,16 +3266,16 @@
     "name": "Lumentum Holdings Inc.",
     "sector": "Technology"
   },
-  "LOW": {
-    "pe": 18.78,
-    "eps_growth": -0.007,
-    "rev_growth": 0.103,
-    "fcf_yield": 0.0386,
-    "roe": null,
+  "MTB": {
+    "pe": 12.64,
+    "eps_growth": 0.244,
+    "rev_growth": 0.057,
+    "fcf_yield": null,
+    "roe": 0.1029,
     "debt_equity": null,
-    "market_cap": 124654198784,
-    "name": "Lowe's Companies, Inc.",
-    "sector": "Consumer Cyclical"
+    "market_cap": 32967710720,
+    "name": "M&T Bank Corporation",
+    "sector": "Financial Services"
   },
   "MPC": {
     "pe": 16.0,
@@ -3288,17 +3288,6 @@
     "name": "Marathon Petroleum Corporation",
     "sector": "Energy"
   },
-  "MAR": {
-    "pe": 41.53,
-    "eps_growth": 0.017,
-    "rev_growth": 0.126,
-    "fcf_yield": 0.0172,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 104473436160,
-    "name": "Marriott International",
-    "sector": "Consumer Cyclical"
-  },
   "MRSH": {
     "pe": 20.28,
     "eps_growth": -0.154,
@@ -3309,6 +3298,17 @@
     "market_cap": 78248247296,
     "name": "Marsh",
     "sector": "Financial Services"
+  },
+  "MAS": {
+    "pe": 18.41,
+    "eps_growth": 0.2,
+    "rev_growth": 0.065,
+    "fcf_yield": 0.0492,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 15005006848,
+    "name": "Masco Corporation",
+    "sector": "Industrials"
   },
   "MLM": {
     "pe": 38.17,
@@ -3321,16 +3321,16 @@
     "name": "Martin Marietta Materials, Inc.",
     "sector": "Basic Materials"
   },
-  "MAS": {
-    "pe": 18.41,
-    "eps_growth": 0.2,
-    "rev_growth": 0.065,
-    "fcf_yield": 0.0492,
+  "MAR": {
+    "pe": 41.53,
+    "eps_growth": 0.017,
+    "rev_growth": 0.126,
+    "fcf_yield": 0.0172,
     "roe": null,
     "debt_equity": null,
-    "market_cap": 15005006848,
-    "name": "Masco Corporation",
-    "sector": "Industrials"
+    "market_cap": 104473436160,
+    "name": "Marriott International",
+    "sector": "Consumer Cyclical"
   },
   "MA": {
     "pe": 28.31,
@@ -3365,6 +3365,39 @@
     "name": "McDonald's Corporation",
     "sector": "Consumer Cyclical"
   },
+  "MET": {
+    "pe": 16.55,
+    "eps_growth": 0.359,
+    "rev_growth": 0.027,
+    "fcf_yield": -0.3165,
+    "roe": 0.1301,
+    "debt_equity": 1.7802,
+    "market_cap": 55065321472,
+    "name": "MetLife, Inc.",
+    "sector": "Financial Services"
+  },
+  "META": {
+    "pe": 21.0,
+    "eps_growth": 0.624,
+    "rev_growth": 0.331,
+    "fcf_yield": 0.0174,
+    "roe": 0.3293,
+    "debt_equity": 0.3561,
+    "market_cap": 1465228591104,
+    "name": "Meta Platforms, Inc.",
+    "sector": "Communication Services"
+  },
+  "MRK": {
+    "pe": 32.08,
+    "eps_growth": null,
+    "rev_growth": 0.049,
+    "fcf_yield": 0.05,
+    "roe": 0.1894,
+    "debt_equity": 1.0694,
+    "market_cap": 281238929408,
+    "name": "Merck & Company, Inc.",
+    "sector": "Healthcare"
+  },
   "MCK": {
     "pe": 19.54,
     "eps_growth": 0.372,
@@ -3387,39 +3420,6 @@
     "name": "Medtronic plc.",
     "sector": "Healthcare"
   },
-  "MRK": {
-    "pe": 32.08,
-    "eps_growth": null,
-    "rev_growth": 0.049,
-    "fcf_yield": 0.05,
-    "roe": 0.1894,
-    "debt_equity": 1.0694,
-    "market_cap": 281238929408,
-    "name": "Merck & Company, Inc.",
-    "sector": "Healthcare"
-  },
-  "META": {
-    "pe": 21.0,
-    "eps_growth": 0.624,
-    "rev_growth": 0.331,
-    "fcf_yield": 0.0174,
-    "roe": 0.3293,
-    "debt_equity": 0.3561,
-    "market_cap": 1465228591104,
-    "name": "Meta Platforms, Inc.",
-    "sector": "Communication Services"
-  },
-  "MET": {
-    "pe": 16.55,
-    "eps_growth": 0.359,
-    "rev_growth": 0.027,
-    "fcf_yield": -0.3165,
-    "roe": 0.1301,
-    "debt_equity": 1.7802,
-    "market_cap": 55065321472,
-    "name": "MetLife, Inc.",
-    "sector": "Financial Services"
-  },
   "MTD": {
     "pe": 26.87,
     "eps_growth": 0.067,
@@ -3431,6 +3431,17 @@
     "name": "Mettler-Toledo International, I",
     "sector": "Healthcare"
   },
+  "MGM": {
+    "pe": 64.16,
+    "eps_growth": -0.059,
+    "rev_growth": 0.042,
+    "fcf_yield": 0.0441,
+    "roe": 0.1349,
+    "debt_equity": 9.5119,
+    "market_cap": 11984071680,
+    "name": "MGM Resorts International",
+    "sector": "Consumer Cyclical"
+  },
   "MU": {
     "pe": 53.41,
     "eps_growth": null,
@@ -3440,17 +3451,6 @@
     "debt_equity": 0.149,
     "market_cap": 1278839095296,
     "name": "Micron Technology, Inc.",
-    "sector": "Technology"
-  },
-  "MCHP": {
-    "pe": 453.5,
-    "eps_growth": null,
-    "rev_growth": 0.351,
-    "fcf_yield": 0.0211,
-    "roe": 0.034,
-    "debt_equity": 0.8771,
-    "market_cap": 54083248128,
-    "name": "Microchip Technology Incorporat",
     "sector": "Technology"
   },
   "MAA": {
@@ -3464,28 +3464,6 @@
     "name": "Mid-America Apartment Communiti",
     "sector": "Real Estate"
   },
-  "MSFT": {
-    "pe": 22.61,
-    "eps_growth": 0.234,
-    "rev_growth": 0.183,
-    "fcf_yield": 0.0131,
-    "roe": 0.3401,
-    "debt_equity": 0.3027,
-    "market_cap": 2818348154880,
-    "name": "Microsoft Corporation",
-    "sector": "Technology"
-  },
-  "MGM": {
-    "pe": 64.16,
-    "eps_growth": -0.059,
-    "rev_growth": 0.042,
-    "fcf_yield": 0.0441,
-    "roe": 0.1349,
-    "debt_equity": 9.5119,
-    "market_cap": 11984071680,
-    "name": "MGM Resorts International",
-    "sector": "Consumer Cyclical"
-  },
   "MRNA": {
     "pe": null,
     "eps_growth": null,
@@ -3496,6 +3474,28 @@
     "market_cap": 25378449408,
     "name": "Moderna, Inc.",
     "sector": "Healthcare"
+  },
+  "MCHP": {
+    "pe": 453.5,
+    "eps_growth": null,
+    "rev_growth": 0.351,
+    "fcf_yield": 0.0211,
+    "roe": 0.034,
+    "debt_equity": 0.8771,
+    "market_cap": 54083248128,
+    "name": "Microchip Technology Incorporat",
+    "sector": "Technology"
+  },
+  "MSFT": {
+    "pe": 22.61,
+    "eps_growth": 0.234,
+    "rev_growth": 0.183,
+    "fcf_yield": 0.0131,
+    "roe": 0.3401,
+    "debt_equity": 0.3027,
+    "market_cap": 2818348154880,
+    "name": "Microsoft Corporation",
+    "sector": "Technology"
   },
   "MDLZ": {
     "pe": 29.76,
@@ -3508,16 +3508,16 @@
     "name": "Mondelez International, Inc.",
     "sector": "Consumer Defensive"
   },
-  "TAP": {
-    "pe": null,
-    "eps_growth": 0.356,
-    "rev_growth": 0.02,
-    "fcf_yield": 0.1048,
-    "roe": -0.1808,
-    "debt_equity": 0.6257,
-    "market_cap": 7389523968,
-    "name": "Molson Coors Beverage Company",
-    "sector": "Consumer Defensive"
+  "MPWR": {
+    "pe": 112.17,
+    "eps_growth": 0.395,
+    "rev_growth": 0.261,
+    "fcf_yield": 0.0064,
+    "roe": 0.1957,
+    "debt_equity": 0.0054,
+    "market_cap": 76824576000,
+    "name": "Monolithic Power Systems, Inc.",
+    "sector": "Technology"
   },
   "MNST": {
     "pe": 44.13,
@@ -3528,6 +3528,28 @@
     "debt_equity": 0.0108,
     "market_cap": 89331261440,
     "name": "Monster Beverage Corporation",
+    "sector": "Consumer Defensive"
+  },
+  "MCO": {
+    "pe": 32.28,
+    "eps_growth": 0.078,
+    "rev_growth": 0.081,
+    "fcf_yield": 0.0288,
+    "roe": 0.7136,
+    "debt_equity": 2.3554,
+    "market_cap": 78721433600,
+    "name": "Moody's Corporation",
+    "sector": "Financial Services"
+  },
+  "TAP": {
+    "pe": null,
+    "eps_growth": 0.356,
+    "rev_growth": 0.02,
+    "fcf_yield": 0.1048,
+    "roe": -0.1808,
+    "debt_equity": 0.6257,
+    "market_cap": 7389523968,
+    "name": "Molson Coors Beverage Company",
     "sector": "Consumer Defensive"
   },
   "MS": {
@@ -3541,17 +3563,6 @@
     "name": "Morgan Stanley",
     "sector": "Financial Services"
   },
-  "MCO": {
-    "pe": 32.28,
-    "eps_growth": 0.078,
-    "rev_growth": 0.081,
-    "fcf_yield": 0.0288,
-    "roe": 0.7136,
-    "debt_equity": 2.3554,
-    "market_cap": 78721433600,
-    "name": "Moody's Corporation",
-    "sector": "Financial Services"
-  },
   "MOS": {
     "pe": 163.57,
     "eps_growth": null,
@@ -3562,28 +3573,6 @@
     "market_cap": 7278688256,
     "name": "Mosaic Company (The)",
     "sector": "Basic Materials"
-  },
-  "MSI": {
-    "pe": 31.89,
-    "eps_growth": -0.138,
-    "rev_growth": 0.074,
-    "fcf_yield": 0.0277,
-    "roe": 0.9929,
-    "debt_equity": 3.7413,
-    "market_cap": 65596477440,
-    "name": "Motorola Solutions, Inc.",
-    "sector": "Technology"
-  },
-  "MPWR": {
-    "pe": 112.17,
-    "eps_growth": 0.395,
-    "rev_growth": 0.261,
-    "fcf_yield": 0.0064,
-    "roe": 0.1957,
-    "debt_equity": 0.0054,
-    "market_cap": 76824576000,
-    "name": "Monolithic Power Systems, Inc.",
-    "sector": "Technology"
   },
   "MSCI": {
     "pe": 33.17,
@@ -3596,6 +3585,17 @@
     "name": "MSCI Inc.",
     "sector": "Financial Services"
   },
+  "MSI": {
+    "pe": 31.89,
+    "eps_growth": -0.138,
+    "rev_growth": 0.074,
+    "fcf_yield": 0.0277,
+    "roe": 0.9929,
+    "debt_equity": 3.7413,
+    "market_cap": 65596477440,
+    "name": "Motorola Solutions, Inc.",
+    "sector": "Technology"
+  },
   "NDAQ": {
     "pe": 24.77,
     "eps_growth": 0.338,
@@ -3607,16 +3607,27 @@
     "name": "Nasdaq, Inc.",
     "sector": "Financial Services"
   },
-  "NTAP": {
-    "pe": 25.15,
-    "eps_growth": 0.234,
-    "rev_growth": 0.125,
-    "fcf_yield": 0.0414,
-    "roe": 1.0673,
-    "debt_equity": 2.0229,
-    "market_cap": 31290372096,
-    "name": "NetApp, Inc.",
-    "sector": "Technology"
+  "NFLX": {
+    "pe": 24.96,
+    "eps_growth": 0.864,
+    "rev_growth": 0.162,
+    "fcf_yield": 0.0798,
+    "roe": 0.4849,
+    "debt_equity": 0.5379,
+    "market_cap": 325831589888,
+    "name": "Netflix, Inc.",
+    "sector": "Communication Services"
+  },
+  "NEM": {
+    "pe": 13.46,
+    "eps_growth": 0.786,
+    "rev_growth": 0.458,
+    "fcf_yield": 0.0885,
+    "roe": 0.2583,
+    "debt_equity": 0.1576,
+    "market_cap": 110801305600,
+    "name": "Newmont Corporation",
+    "sector": "Basic Materials"
   },
   "NWSA": {
     "pe": 32.0,
@@ -3629,16 +3640,16 @@
     "name": "News Corporation",
     "sector": "Communication Services"
   },
-  "NFLX": {
-    "pe": 24.96,
-    "eps_growth": 0.864,
-    "rev_growth": 0.162,
-    "fcf_yield": 0.0798,
-    "roe": 0.4849,
-    "debt_equity": 0.5379,
-    "market_cap": 325831589888,
-    "name": "Netflix, Inc.",
-    "sector": "Communication Services"
+  "NTAP": {
+    "pe": 25.15,
+    "eps_growth": 0.234,
+    "rev_growth": 0.125,
+    "fcf_yield": 0.0414,
+    "roe": 1.0673,
+    "debt_equity": 2.0229,
+    "market_cap": 31290372096,
+    "name": "NetApp, Inc.",
+    "sector": "Technology"
   },
   "NEE": {
     "pe": 22.02,
@@ -3673,17 +3684,6 @@
     "name": "Nike, Inc.",
     "sector": "Consumer Cyclical"
   },
-  "NEM": {
-    "pe": 13.46,
-    "eps_growth": 0.786,
-    "rev_growth": 0.458,
-    "fcf_yield": 0.0885,
-    "roe": 0.2583,
-    "debt_equity": 0.1576,
-    "market_cap": 110801305600,
-    "name": "Newmont Corporation",
-    "sector": "Basic Materials"
-  },
   "NI": {
     "pe": 23.51,
     "eps_growth": 0.06,
@@ -3706,6 +3706,17 @@
     "name": "Nordson Corporation",
     "sector": "Industrials"
   },
+  "NOC": {
+    "pe": 16.34,
+    "eps_growth": 0.849,
+    "rev_growth": 0.044,
+    "fcf_yield": 0.028,
+    "roe": 0.2851,
+    "debt_equity": 1.0268,
+    "market_cap": 74070458368,
+    "name": "Northrop Grumman Corporation",
+    "sector": "Industrials"
+  },
   "NTRS": {
     "pe": 18.02,
     "eps_growth": 0.426,
@@ -3717,15 +3728,15 @@
     "name": "Northern Trust Corporation",
     "sector": "Financial Services"
   },
-  "NOC": {
-    "pe": 16.34,
-    "eps_growth": 0.849,
-    "rev_growth": 0.044,
-    "fcf_yield": 0.028,
-    "roe": 0.2851,
-    "debt_equity": 1.0268,
-    "market_cap": 74070458368,
-    "name": "Northrop Grumman Corporation",
+  "NSC": {
+    "pe": 25.28,
+    "eps_growth": -0.266,
+    "rev_growth": 0.002,
+    "fcf_yield": 0.0193,
+    "roe": 0.1762,
+    "debt_equity": 1.1159,
+    "market_cap": 67396165632,
+    "name": "Norfolk Southern Corporation",
     "sector": "Industrials"
   },
   "NCLH": {
@@ -3739,17 +3750,6 @@
     "name": "Norwegian Cruise Line Holdings ",
     "sector": "Consumer Cyclical"
   },
-  "NUE": {
-    "pe": 24.19,
-    "eps_growth": 3.821,
-    "rev_growth": 0.213,
-    "fcf_yield": -0.0069,
-    "roe": 0.1229,
-    "debt_equity": 0.316,
-    "market_cap": 55530074112,
-    "name": "Nucor Corporation",
-    "sector": "Basic Materials"
-  },
   "NRG": {
     "pe": 148.42,
     "eps_growth": -0.856,
@@ -3761,6 +3761,17 @@
     "name": "NRG Energy, Inc.",
     "sector": "Utilities"
   },
+  "NUE": {
+    "pe": 24.19,
+    "eps_growth": 3.821,
+    "rev_growth": 0.213,
+    "fcf_yield": -0.0069,
+    "roe": 0.1229,
+    "debt_equity": 0.316,
+    "market_cap": 55530074112,
+    "name": "Nucor Corporation",
+    "sector": "Basic Materials"
+  },
   "NVDA": {
     "pe": 32.26,
     "eps_growth": 2.145,
@@ -3771,17 +3782,6 @@
     "market_cap": 5103122644992,
     "name": "NVIDIA Corporation",
     "sector": "Technology"
-  },
-  "NSC": {
-    "pe": 25.28,
-    "eps_growth": -0.266,
-    "rev_growth": 0.002,
-    "fcf_yield": 0.0193,
-    "roe": 0.1762,
-    "debt_equity": 1.1159,
-    "market_cap": 67396165632,
-    "name": "Norfolk Southern Corporation",
-    "sector": "Industrials"
   },
   "NVR": {
     "pe": 15.85,
@@ -3849,17 +3849,6 @@
     "name": "Omnicom Group Inc.",
     "sector": "Communication Services"
   },
-  "OKE": {
-    "pe": 15.16,
-    "eps_growth": 0.18,
-    "rev_growth": 0.196,
-    "fcf_yield": 0.0085,
-    "roe": 0.159,
-    "debt_equity": 1.4964,
-    "market_cap": 53571690496,
-    "name": "ONEOK, Inc.",
-    "sector": "Energy"
-  },
   "ON": {
     "pe": 89.43,
     "eps_growth": null,
@@ -3871,6 +3860,17 @@
     "name": "ON Semiconductor Corporation",
     "sector": "Technology"
   },
+  "OKE": {
+    "pe": 15.16,
+    "eps_growth": 0.18,
+    "rev_growth": 0.196,
+    "fcf_yield": 0.0085,
+    "roe": 0.159,
+    "debt_equity": 1.4964,
+    "market_cap": 53571690496,
+    "name": "ONEOK, Inc.",
+    "sector": "Energy"
+  },
   "ORCL": {
     "pe": 31.56,
     "eps_growth": 0.219,
@@ -3881,28 +3881,6 @@
     "market_cap": 530026528768,
     "name": "Oracle Corporation",
     "sector": "Technology"
-  },
-  "OTIS": {
-    "pe": 19.49,
-    "eps_growth": 0.426,
-    "rev_growth": 0.064,
-    "fcf_yield": 0.0598,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 28114874368,
-    "name": "Otis Worldwide Corporation",
-    "sector": "Industrials"
-  },
-  "PCAR": {
-    "pe": 25.31,
-    "eps_growth": 0.197,
-    "rev_growth": -0.089,
-    "fcf_yield": 0.0237,
-    "roe": 0.1311,
-    "debt_equity": 0.7616,
-    "market_cap": 62601748480,
-    "name": "PACCAR Inc.",
-    "sector": "Industrials"
   },
   "PKG": {
     "pe": 27.79,
@@ -3937,27 +3915,27 @@
     "name": "Palo Alto Networks, Inc.",
     "sector": "Technology"
   },
-  "PH": {
-    "pe": 35.15,
-    "eps_growth": -0.042,
-    "rev_growth": 0.106,
-    "fcf_yield": 0.0231,
-    "roe": 0.2484,
-    "debt_equity": 0.6555,
-    "market_cap": 120194375680,
-    "name": "Parker-Hannifin Corporation",
+  "PCAR": {
+    "pe": 25.31,
+    "eps_growth": 0.197,
+    "rev_growth": -0.089,
+    "fcf_yield": 0.0237,
+    "roe": 0.1311,
+    "debt_equity": 0.7616,
+    "market_cap": 62601748480,
+    "name": "PACCAR Inc.",
     "sector": "Industrials"
   },
-  "PAYX": {
-    "pe": 21.69,
-    "eps_growth": 0.091,
-    "rev_growth": 0.199,
-    "fcf_yield": null,
+  "OTIS": {
+    "pe": 19.49,
+    "eps_growth": 0.426,
+    "rev_growth": 0.064,
+    "fcf_yield": 0.0598,
     "roe": null,
-    "debt_equity": 1.2491,
-    "market_cap": 35198496768,
-    "name": "Paychex, Inc.",
-    "sector": "Technology"
+    "debt_equity": null,
+    "market_cap": 28114874368,
+    "name": "Otis Worldwide Corporation",
+    "sector": "Industrials"
   },
   "PSKY": {
     "pe": 331.33,
@@ -3970,15 +3948,15 @@
     "name": "Paramount Skydance Corporation",
     "sector": "Communication Services"
   },
-  "PNR": {
-    "pe": 18.44,
-    "eps_growth": 0.13,
-    "rev_growth": 0.026,
-    "fcf_yield": 0.0478,
-    "roe": 0.1761,
-    "debt_equity": 0.5463,
-    "market_cap": 12010523648,
-    "name": "Pentair plc.",
+  "PH": {
+    "pe": 35.15,
+    "eps_growth": -0.042,
+    "rev_growth": 0.106,
+    "fcf_yield": 0.0231,
+    "roe": 0.2484,
+    "debt_equity": 0.6555,
+    "market_cap": 120194375680,
+    "name": "Parker-Hannifin Corporation",
     "sector": "Industrials"
   },
   "PYPL": {
@@ -4003,6 +3981,28 @@
     "name": "Pepsico, Inc.",
     "sector": "Consumer Defensive"
   },
+  "PNR": {
+    "pe": 18.67,
+    "eps_growth": 0.13,
+    "rev_growth": 0.026,
+    "fcf_yield": 0.0478,
+    "roe": 0.1761,
+    "debt_equity": 0.5463,
+    "market_cap": 12010523648,
+    "name": "Pentair plc.",
+    "sector": "Industrials"
+  },
+  "PAYX": {
+    "pe": 21.69,
+    "eps_growth": 0.091,
+    "rev_growth": 0.199,
+    "fcf_yield": null,
+    "roe": null,
+    "debt_equity": 1.2491,
+    "market_cap": 35198496768,
+    "name": "Paychex, Inc.",
+    "sector": "Technology"
+  },
   "PFE": {
     "pe": 19.24,
     "eps_growth": -0.101,
@@ -4025,6 +4025,17 @@
     "name": "Pacific Gas & Electric Co.",
     "sector": "Utilities"
   },
+  "PM": {
+    "pe": 25.13,
+    "eps_growth": -0.093,
+    "rev_growth": 0.091,
+    "fcf_yield": 0.0308,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 278046900224,
+    "name": "Philip Morris International Inc",
+    "sector": "Consumer Defensive"
+  },
   "PSX": {
     "pe": 16.43,
     "eps_growth": -0.568,
@@ -4035,6 +4046,17 @@
     "market_cap": 66611343360,
     "name": "Phillips 66",
     "sector": "Energy"
+  },
+  "PNW": {
+    "pe": 19.09,
+    "eps_growth": null,
+    "rev_growth": 0.114,
+    "fcf_yield": -0.067,
+    "roe": 0.0956,
+    "debt_equity": 2.1296,
+    "market_cap": 12399870976,
+    "name": "Pinnacle West Capital Corporati",
+    "sector": "Utilities"
   },
   "PNC": {
     "pe": 13.49,
@@ -4058,49 +4080,16 @@
     "name": "Pool Corporation",
     "sector": "Industrials"
   },
-  "PM": {
-    "pe": 25.13,
-    "eps_growth": -0.093,
-    "rev_growth": 0.091,
-    "fcf_yield": 0.0308,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 278046900224,
-    "name": "Philip Morris International Inc",
-    "sector": "Consumer Defensive"
-  },
-  "PPG": {
-    "pe": 16.92,
-    "eps_growth": 0.042,
-    "rev_growth": 0.067,
-    "fcf_yield": 0.0277,
-    "roe": 0.2075,
-    "debt_equity": 0.9374,
-    "market_cap": 26357925888,
-    "name": "PPG Industries, Inc.",
-    "sector": "Basic Materials"
-  },
-  "PNW": {
-    "pe": 19.09,
+  "PFG": {
+    "pe": 15.72,
     "eps_growth": null,
-    "rev_growth": 0.114,
-    "fcf_yield": -0.067,
-    "roe": 0.0956,
-    "debt_equity": 2.1296,
-    "market_cap": 12399870976,
-    "name": "Pinnacle West Capital Corporati",
-    "sector": "Utilities"
-  },
-  "PPL": {
-    "pe": 21.71,
-    "eps_growth": 0.073,
-    "rev_growth": 0.108,
-    "fcf_yield": -0.0607,
-    "roe": 0.0832,
-    "debt_equity": 1.3512,
-    "market_cap": 26618155008,
-    "name": "PPL Corporation",
-    "sector": "Utilities"
+    "rev_growth": -0.045,
+    "fcf_yield": 0.0616,
+    "roe": 0.1339,
+    "debt_equity": 0.3362,
+    "market_cap": 23668475904,
+    "name": "Principal Financial Group Inc",
+    "sector": "Financial Services"
   },
   "PG": {
     "pe": 21.95,
@@ -4113,16 +4102,27 @@
     "name": "Procter & Gamble Company (The)",
     "sector": "Consumer Defensive"
   },
-  "PFG": {
-    "pe": 15.72,
-    "eps_growth": null,
-    "rev_growth": -0.045,
-    "fcf_yield": 0.0616,
-    "roe": 0.1339,
-    "debt_equity": 0.3362,
-    "market_cap": 23668475904,
-    "name": "Principal Financial Group Inc",
-    "sector": "Financial Services"
+  "PPL": {
+    "pe": 21.71,
+    "eps_growth": 0.073,
+    "rev_growth": 0.108,
+    "fcf_yield": -0.0607,
+    "roe": 0.0832,
+    "debt_equity": 1.3512,
+    "market_cap": 26618155008,
+    "name": "PPL Corporation",
+    "sector": "Utilities"
+  },
+  "PPG": {
+    "pe": 16.92,
+    "eps_growth": 0.042,
+    "rev_growth": 0.067,
+    "fcf_yield": 0.0277,
+    "roe": 0.2075,
+    "debt_equity": 0.9374,
+    "market_cap": 26357925888,
+    "name": "PPG Industries, Inc.",
+    "sector": "Basic Materials"
   },
   "PGR": {
     "pe": 10.42,
@@ -4134,6 +4134,28 @@
     "market_cap": 119541645312,
     "name": "Progressive Corporation (The)",
     "sector": "Financial Services"
+  },
+  "PLD": {
+    "pe": 35.4,
+    "eps_growth": 0.652,
+    "rev_growth": 0.083,
+    "fcf_yield": 0.0369,
+    "roe": 0.0684,
+    "debt_equity": 0.6093,
+    "market_cap": 131692150784,
+    "name": "Prologis, Inc.",
+    "sector": "Real Estate"
+  },
+  "PEG": {
+    "pe": 17.67,
+    "eps_growth": 0.254,
+    "rev_growth": 0.194,
+    "fcf_yield": -0.0043,
+    "roe": 0.1344,
+    "debt_equity": 1.4101,
+    "market_cap": 39810895872,
+    "name": "Public Service Enterprise Group",
+    "sector": "Utilities"
   },
   "PRU": {
     "pe": 10.96,
@@ -4157,17 +4179,6 @@
     "name": "PTC Inc.",
     "sector": "Technology"
   },
-  "PEG": {
-    "pe": 17.67,
-    "eps_growth": 0.254,
-    "rev_growth": 0.194,
-    "fcf_yield": -0.0043,
-    "roe": 0.1344,
-    "debt_equity": 1.4101,
-    "market_cap": 39810895872,
-    "name": "Public Service Enterprise Group",
-    "sector": "Utilities"
-  },
   "PSA": {
     "pe": 32.9,
     "eps_growth": 0.328,
@@ -4178,6 +4189,17 @@
     "market_cap": 55855394816,
     "name": "Public Storage",
     "sector": "Real Estate"
+  },
+  "QCOM": {
+    "pe": 24.34,
+    "eps_growth": 1.73,
+    "rev_growth": -0.035,
+    "fcf_yield": 0.0402,
+    "roe": 0.3608,
+    "debt_equity": 0.5598,
+    "market_cap": 238319943680,
+    "name": "QUALCOMM Incorporated",
+    "sector": "Technology"
   },
   "PHM": {
     "pe": 12.28,
@@ -4201,26 +4223,15 @@
     "name": "Quanta Services, Inc.",
     "sector": "Industrials"
   },
-  "PLD": {
-    "pe": 35.4,
-    "eps_growth": 0.652,
-    "rev_growth": 0.083,
-    "fcf_yield": 0.0369,
-    "roe": 0.0684,
-    "debt_equity": 0.6093,
-    "market_cap": 131692150784,
-    "name": "Prologis, Inc.",
-    "sector": "Real Estate"
-  },
-  "QCOM": {
-    "pe": 24.34,
-    "eps_growth": 1.73,
-    "rev_growth": -0.035,
-    "fcf_yield": 0.0402,
-    "roe": 0.3608,
-    "debt_equity": 0.5598,
-    "market_cap": 238319943680,
-    "name": "QUALCOMM Incorporated",
+  "Q": {
+    "pe": 54.33,
+    "eps_growth": -0.217,
+    "rev_growth": 0.176,
+    "fcf_yield": 0.0199,
+    "roe": 0.0748,
+    "debt_equity": 0.6076,
+    "market_cap": 35374137344,
+    "name": "Qnity Electronics, Inc.",
     "sector": "Technology"
   },
   "DGX": {
@@ -4245,17 +4256,6 @@
     "name": "Ralph Lauren Corporation",
     "sector": "Consumer Cyclical"
   },
-  "Q": {
-    "pe": 54.33,
-    "eps_growth": -0.217,
-    "rev_growth": 0.176,
-    "fcf_yield": 0.0199,
-    "roe": 0.0748,
-    "debt_equity": 0.6076,
-    "market_cap": 35374137344,
-    "name": "Qnity Electronics, Inc.",
-    "sector": "Technology"
-  },
   "RJF": {
     "pe": 14.72,
     "eps_growth": 0.153,
@@ -4265,6 +4265,50 @@
     "debt_equity": 0.4848,
     "market_cap": 30374471680,
     "name": "Raymond James Financial, Inc.",
+    "sector": "Financial Services"
+  },
+  "RTX": {
+    "pe": 34.89,
+    "eps_growth": 0.325,
+    "rev_growth": 0.087,
+    "fcf_yield": 0.0289,
+    "roe": 0.1157,
+    "debt_equity": 0.5723,
+    "market_cap": 249944440832,
+    "name": "RTX Corporation",
+    "sector": "Industrials"
+  },
+  "REGN": {
+    "pe": 14.9,
+    "eps_growth": -0.072,
+    "rev_growth": 0.19,
+    "fcf_yield": 0.0512,
+    "roe": 0.1455,
+    "debt_equity": 0.0861,
+    "market_cap": 63945519104,
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "sector": "Healthcare"
+  },
+  "O": {
+    "pe": 49.38,
+    "eps_growth": 0.179,
+    "rev_growth": 0.12,
+    "fcf_yield": 0.032,
+    "roe": 0.0283,
+    "debt_equity": 0.7347,
+    "market_cap": 56173350912,
+    "name": "Realty Income Corporation",
+    "sector": "Real Estate"
+  },
+  "RF": {
+    "pe": 11.88,
+    "eps_growth": 0.216,
+    "rev_growth": 0.073,
+    "fcf_yield": null,
+    "roe": 0.119,
+    "debt_equity": null,
+    "market_cap": 24423723008,
+    "name": "Regions Financial Corporation",
     "sector": "Financial Services"
   },
   "REG": {
@@ -4278,49 +4322,16 @@
     "name": "Regency Centers Corporation",
     "sector": "Real Estate"
   },
-  "RTX": {
-    "pe": 34.89,
-    "eps_growth": 0.325,
-    "rev_growth": 0.087,
-    "fcf_yield": 0.0289,
-    "roe": 0.1157,
-    "debt_equity": 0.5723,
-    "market_cap": 249944440832,
-    "name": "RTX Corporation",
-    "sector": "Industrials"
-  },
-  "O": {
-    "pe": 49.38,
-    "eps_growth": 0.179,
-    "rev_growth": 0.12,
-    "fcf_yield": 0.032,
-    "roe": 0.0283,
-    "debt_equity": 0.7347,
-    "market_cap": 56173350912,
-    "name": "Realty Income Corporation",
-    "sector": "Real Estate"
-  },
-  "REGN": {
-    "pe": 14.9,
-    "eps_growth": -0.072,
-    "rev_growth": 0.19,
-    "fcf_yield": 0.0512,
-    "roe": 0.1455,
-    "debt_equity": 0.0861,
-    "market_cap": 63945519104,
-    "name": "Regeneron Pharmaceuticals, Inc.",
+  "RMD": {
+    "pe": 18.17,
+    "eps_growth": 0.105,
+    "rev_growth": 0.108,
+    "fcf_yield": 0.0529,
+    "roe": 0.2525,
+    "debt_equity": 0.1299,
+    "market_cap": 27361986560,
+    "name": "ResMed Inc.",
     "sector": "Healthcare"
-  },
-  "RF": {
-    "pe": 11.88,
-    "eps_growth": 0.216,
-    "rev_growth": 0.073,
-    "fcf_yield": null,
-    "roe": 0.119,
-    "debt_equity": null,
-    "market_cap": 24423723008,
-    "name": "Regions Financial Corporation",
-    "sector": "Financial Services"
   },
   "RSG": {
     "pe": 29.45,
@@ -4333,17 +4344,6 @@
     "name": "Republic Services, Inc.",
     "sector": "Industrials"
   },
-  "RMD": {
-    "pe": 18.17,
-    "eps_growth": 0.105,
-    "rev_growth": 0.108,
-    "fcf_yield": 0.0529,
-    "roe": 0.2525,
-    "debt_equity": 0.1299,
-    "market_cap": 27361986560,
-    "name": "ResMed Inc.",
-    "sector": "Healthcare"
-  },
   "RVTY": {
     "pe": 48.08,
     "eps_growth": 0.035,
@@ -4354,17 +4354,6 @@
     "market_cap": 11155977216,
     "name": "Revvity, Inc.",
     "sector": "Healthcare"
-  },
-  "ROK": {
-    "pe": 49.1,
-    "eps_growth": 0.396,
-    "rev_growth": 0.119,
-    "fcf_yield": 0.0185,
-    "roe": 0.2718,
-    "debt_equity": 1.1337,
-    "market_cap": 52720488448,
-    "name": "Rockwell Automation, Inc.",
-    "sector": "Industrials"
   },
   "HOOD": {
     "pe": 52.5,
@@ -4410,16 +4399,16 @@
     "name": "Royal Caribbean Cruises Ltd.",
     "sector": "Consumer Cyclical"
   },
-  "SPGI": {
-    "pe": 25.99,
-    "eps_growth": 0.325,
-    "rev_growth": 0.104,
-    "fcf_yield": 0.0436,
-    "roe": 0.1394,
-    "debt_equity": 0.3839,
-    "market_cap": 121632325632,
-    "name": "S&P Global Inc.",
-    "sector": "Financial Services"
+  "ROST": {
+    "pe": 32.56,
+    "eps_growth": 0.374,
+    "rev_growth": 0.206,
+    "fcf_yield": 0.0274,
+    "roe": 0.3898,
+    "debt_equity": 0.7491,
+    "market_cap": 74677837824,
+    "name": "Ross Stores, Inc.",
+    "sector": "Consumer Cyclical"
   },
   "CRM": {
     "pe": 17.57,
@@ -4432,27 +4421,38 @@
     "name": "Salesforce, Inc.",
     "sector": "Technology"
   },
-  "SBAC": {
-    "pe": 19.69,
-    "eps_growth": -0.147,
-    "rev_growth": 0.059,
-    "fcf_yield": -0.0152,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 19819995136,
-    "name": "SBA Communications Corporation",
-    "sector": "Real Estate"
+  "SNDK": {
+    "pe": 74.62,
+    "eps_growth": null,
+    "rev_growth": 2.51,
+    "fcf_yield": 0.007,
+    "roe": 0.393,
+    "debt_equity": 0.015,
+    "market_cap": 323539107840,
+    "name": "Sandisk Corporation",
+    "sector": "Technology"
   },
-  "ROST": {
-    "pe": 32.56,
-    "eps_growth": 0.374,
-    "rev_growth": 0.206,
-    "fcf_yield": 0.0274,
-    "roe": 0.3898,
-    "debt_equity": 0.7491,
-    "market_cap": 74677837824,
-    "name": "Ross Stores, Inc.",
-    "sector": "Consumer Cyclical"
+  "ROK": {
+    "pe": 49.1,
+    "eps_growth": 0.396,
+    "rev_growth": 0.119,
+    "fcf_yield": 0.0185,
+    "roe": 0.2718,
+    "debt_equity": 1.1337,
+    "market_cap": 52720488448,
+    "name": "Rockwell Automation, Inc.",
+    "sector": "Industrials"
+  },
+  "SPGI": {
+    "pe": 25.99,
+    "eps_growth": 0.325,
+    "rev_growth": 0.104,
+    "fcf_yield": 0.0436,
+    "roe": 0.1394,
+    "debt_equity": 0.3839,
+    "market_cap": 121632325632,
+    "name": "S&P Global Inc.",
+    "sector": "Financial Services"
   },
   "SLB": {
     "pe": 21.19,
@@ -4465,25 +4465,36 @@
     "name": "SLB Limited",
     "sector": "Energy"
   },
-  "SNDK": {
-    "pe": 74.62,
-    "eps_growth": null,
-    "rev_growth": 2.51,
-    "fcf_yield": 0.007,
-    "roe": 0.393,
-    "debt_equity": 0.015,
-    "market_cap": 323539107840,
-    "name": "Sandisk Corporation",
-    "sector": "Technology"
+  "SBAC": {
+    "pe": 19.69,
+    "eps_growth": -0.147,
+    "rev_growth": 0.059,
+    "fcf_yield": -0.0152,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 19819995136,
+    "name": "SBA Communications Corporation",
+    "sector": "Real Estate"
+  },
+  "SRE": {
+    "pe": 30.85,
+    "eps_growth": 0.137,
+    "rev_growth": -0.039,
+    "fcf_yield": -0.4764,
+    "roe": 0.0569,
+    "debt_equity": 0.8527,
+    "market_cap": 59284725760,
+    "name": "DBA Sempra",
+    "sector": "Utilities"
   },
   "STX": {
     "pe": 101.73,
     "eps_growth": 1.083,
     "rev_growth": 0.441,
-    "fcf_yield": 0.0067,
+    "fcf_yield": 0.0066,
     "roe": null,
     "debt_equity": 3.8155,
-    "market_cap": 239976595456,
+    "market_cap": 242141790208,
     "name": "Seagate Technology Holdings PLC",
     "sector": "Technology"
   },
@@ -4498,16 +4509,16 @@
     "name": "ServiceNow, Inc.",
     "sector": "Technology"
   },
-  "SRE": {
-    "pe": 30.85,
-    "eps_growth": 0.137,
-    "rev_growth": -0.039,
-    "fcf_yield": -0.4764,
-    "roe": 0.0569,
-    "debt_equity": 0.8527,
-    "market_cap": 59284725760,
-    "name": "DBA Sempra",
-    "sector": "Utilities"
+  "SWKS": {
+    "pe": 30.19,
+    "eps_growth": -0.449,
+    "rev_growth": -0.01,
+    "fcf_yield": 0.0631,
+    "roe": 0.0617,
+    "debt_equity": 0.2063,
+    "market_cap": 10896912384,
+    "name": "Skyworks Solutions, Inc.",
+    "sector": "Technology"
   },
   "SPG": {
     "pe": 14.7,
@@ -4531,16 +4542,16 @@
     "name": "Sherwin-Williams Company (The)",
     "sector": "Basic Materials"
   },
-  "SWKS": {
-    "pe": 30.19,
-    "eps_growth": -0.449,
-    "rev_growth": -0.01,
-    "fcf_yield": 0.0631,
-    "roe": 0.0617,
-    "debt_equity": 0.2063,
-    "market_cap": 10896912384,
-    "name": "Skyworks Solutions, Inc.",
-    "sector": "Technology"
+  "SJM": {
+    "pe": null,
+    "eps_growth": null,
+    "rev_growth": 0.058,
+    "fcf_yield": 0.0851,
+    "roe": -0.0239,
+    "debt_equity": 1.2861,
+    "market_cap": 11823032320,
+    "name": "The J.M. Smucker Company",
+    "sector": "Consumer Defensive"
   },
   "SW": {
     "pe": 61.39,
@@ -4553,17 +4564,6 @@
     "name": "Smurfit WestRock plc",
     "sector": "Consumer Cyclical"
   },
-  "SNA": {
-    "pe": 20.01,
-    "eps_growth": 0.04,
-    "rev_growth": 0.052,
-    "fcf_yield": 0.0523,
-    "roe": 0.182,
-    "debt_equity": 0.2173,
-    "market_cap": 20060291072,
-    "name": "Snap-On Incorporated",
-    "sector": "Industrials"
-  },
   "SOLV": {
     "pe": 9.23,
     "eps_growth": -0.91,
@@ -4575,38 +4575,27 @@
     "name": "Solventum Corporation",
     "sector": "Healthcare"
   },
-  "SO": {
-    "pe": 23.81,
-    "eps_growth": -0.008,
-    "rev_growth": 0.08,
-    "fcf_yield": -0.0376,
-    "roe": 0.1099,
-    "debt_equity": 1.9043,
-    "market_cap": 104940453888,
-    "name": "Southern Company (The)",
-    "sector": "Utilities"
+  "SNA": {
+    "pe": 20.01,
+    "eps_growth": 0.04,
+    "rev_growth": 0.052,
+    "fcf_yield": 0.0523,
+    "roe": 0.182,
+    "debt_equity": 0.2173,
+    "market_cap": 20060291072,
+    "name": "Snap-On Incorporated",
+    "sector": "Industrials"
   },
-  "SJM": {
-    "pe": null,
+  "LUV": {
+    "pe": 31.98,
     "eps_growth": null,
-    "rev_growth": 0.058,
-    "fcf_yield": 0.0851,
-    "roe": -0.0239,
-    "debt_equity": 1.2861,
-    "market_cap": 11823032320,
-    "name": "The J.M. Smucker Company",
-    "sector": "Consumer Defensive"
-  },
-  "SBUX": {
-    "pe": 76.83,
-    "eps_growth": 0.326,
-    "rev_growth": 0.088,
-    "fcf_yield": -0.0114,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 114710806528,
-    "name": "Starbucks Corporation",
-    "sector": "Consumer Cyclical"
+    "rev_growth": 0.128,
+    "fcf_yield": -0.0159,
+    "roe": 0.1006,
+    "debt_equity": 0.9303,
+    "market_cap": 23446476800,
+    "name": "Southwest Airlines Company",
+    "sector": "Industrials"
   },
   "SWK": {
     "pe": 35.55,
@@ -4619,6 +4608,28 @@
     "name": "Stanley Black & Decker, Inc.",
     "sector": "Industrials"
   },
+  "SO": {
+    "pe": 23.81,
+    "eps_growth": -0.008,
+    "rev_growth": 0.08,
+    "fcf_yield": -0.0376,
+    "roe": 0.1099,
+    "debt_equity": 1.9043,
+    "market_cap": 104940453888,
+    "name": "Southern Company (The)",
+    "sector": "Utilities"
+  },
+  "SBUX": {
+    "pe": 76.83,
+    "eps_growth": 0.326,
+    "rev_growth": 0.088,
+    "fcf_yield": -0.0114,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 114710806528,
+    "name": "Starbucks Corporation",
+    "sector": "Consumer Cyclical"
+  },
   "STT": {
     "pe": 17.09,
     "eps_growth": -0.241,
@@ -4629,17 +4640,6 @@
     "market_cap": 46582661120,
     "name": "State Street Corporation",
     "sector": "Financial Services"
-  },
-  "LUV": {
-    "pe": 31.98,
-    "eps_growth": null,
-    "rev_growth": 0.128,
-    "fcf_yield": -0.0159,
-    "roe": 0.1006,
-    "debt_equity": 0.9303,
-    "market_cap": 23446476800,
-    "name": "Southwest Airlines Company",
-    "sector": "Industrials"
   },
   "STLD": {
     "pe": 26.79,
@@ -4663,17 +4663,6 @@
     "name": "STERIS plc (Ireland)",
     "sector": "Healthcare"
   },
-  "SMCI": {
-    "pe": 16.14,
-    "eps_growth": 3.26,
-    "rev_growth": 1.227,
-    "fcf_yield": -0.4039,
-    "roe": 0.1788,
-    "debt_equity": 1.208,
-    "market_cap": 18439491584,
-    "name": "Super Micro Computer, Inc.",
-    "sector": "Technology"
-  },
   "SYK": {
     "pe": 35.67,
     "eps_growth": 0.142,
@@ -4685,16 +4674,16 @@
     "name": "Stryker Corporation",
     "sector": "Healthcare"
   },
-  "SYF": {
-    "pe": 7.79,
-    "eps_growth": 0.201,
-    "rev_growth": 0.061,
-    "fcf_yield": null,
-    "roe": 0.2178,
-    "debt_equity": null,
-    "market_cap": 25315225600,
-    "name": "Synchrony Financial",
-    "sector": "Financial Services"
+  "SMCI": {
+    "pe": 16.14,
+    "eps_growth": 3.26,
+    "rev_growth": 1.227,
+    "fcf_yield": -0.4039,
+    "roe": 0.1788,
+    "debt_equity": 1.208,
+    "market_cap": 18439491584,
+    "name": "Super Micro Computer, Inc.",
+    "sector": "Technology"
   },
   "SNPS": {
     "pe": 104.71,
@@ -4706,6 +4695,17 @@
     "market_cap": 87220748288,
     "name": "Synopsys, Inc.",
     "sector": "Technology"
+  },
+  "SYF": {
+    "pe": 7.79,
+    "eps_growth": 0.201,
+    "rev_growth": 0.061,
+    "fcf_yield": null,
+    "roe": 0.2178,
+    "debt_equity": null,
+    "market_cap": 25315225600,
+    "name": "Synchrony Financial",
+    "sector": "Financial Services"
   },
   "SYY": {
     "pe": 21.86,
@@ -4729,17 +4729,6 @@
     "name": "T-Mobile US, Inc.",
     "sector": "Communication Services"
   },
-  "TTWO": {
-    "pe": null,
-    "eps_growth": null,
-    "rev_growth": 0.061,
-    "fcf_yield": 0.0326,
-    "roe": -0.1056,
-    "debt_equity": 0.8426,
-    "market_cap": 44426317824,
-    "name": "Take-Two Interactive Software, ",
-    "sector": "Communication Services"
-  },
   "TROW": {
     "pe": 11.54,
     "eps_growth": 0.037,
@@ -4751,27 +4740,16 @@
     "name": "T. Rowe Price Group, Inc.",
     "sector": "Financial Services"
   },
-  "TGT": {
-    "pe": 17.29,
-    "eps_growth": -0.247,
-    "rev_growth": 0.067,
-    "fcf_yield": 0.0529,
-    "roe": 0.2202,
-    "debt_equity": 1.1755,
-    "market_cap": 59380948992,
-    "name": "Target Corporation",
-    "sector": "Consumer Defensive"
-  },
-  "TRGP": {
-    "pe": 26.41,
-    "eps_growth": 1.429,
-    "rev_growth": -0.102,
-    "fcf_yield": -0.0057,
-    "roe": 0.741,
-    "debt_equity": 5.8525,
-    "market_cap": 55502618624,
-    "name": "Targa Resources, Inc.",
-    "sector": "Energy"
+  "TTWO": {
+    "pe": null,
+    "eps_growth": null,
+    "rev_growth": 0.061,
+    "fcf_yield": 0.0326,
+    "roe": -0.1056,
+    "debt_equity": 0.8426,
+    "market_cap": 44426317824,
+    "name": "Take-Two Interactive Software, ",
+    "sector": "Communication Services"
   },
   "TPR": {
     "pe": 43.62,
@@ -4784,6 +4762,17 @@
     "name": "Tapestry, Inc.",
     "sector": "Consumer Cyclical"
   },
+  "TRGP": {
+    "pe": 26.41,
+    "eps_growth": 1.429,
+    "rev_growth": -0.102,
+    "fcf_yield": -0.0057,
+    "roe": 0.741,
+    "debt_equity": 5.8525,
+    "market_cap": 55502618624,
+    "name": "Targa Resources, Inc.",
+    "sector": "Energy"
+  },
   "TEL": {
     "pe": 22.23,
     "eps_growth": null,
@@ -4794,6 +4783,17 @@
     "market_cap": 63528202240,
     "name": "TE Connectivity plc",
     "sector": "Technology"
+  },
+  "TGT": {
+    "pe": 17.29,
+    "eps_growth": -0.247,
+    "rev_growth": 0.067,
+    "fcf_yield": 0.0529,
+    "roe": 0.2202,
+    "debt_equity": 1.1755,
+    "market_cap": 59380948992,
+    "name": "Target Corporation",
+    "sector": "Consumer Defensive"
   },
   "TDY": {
     "pe": 31.42,
@@ -4817,6 +4817,17 @@
     "name": "Teradyne, Inc.",
     "sector": "Technology"
   },
+  "TPL": {
+    "pe": 48.58,
+    "eps_growth": 0.183,
+    "rev_growth": 0.208,
+    "fcf_yield": -0.0023,
+    "roe": 0.3647,
+    "debt_equity": 0.0116,
+    "market_cap": 24493508608,
+    "name": "Texas Pacific Land Corporation",
+    "sector": "Energy"
+  },
   "TSLA": {
     "pe": 367.42,
     "eps_growth": 0.083,
@@ -4839,16 +4850,16 @@
     "name": "Texas Instruments Incorporated",
     "sector": "Technology"
   },
-  "TPL": {
-    "pe": 48.58,
-    "eps_growth": 0.183,
-    "rev_growth": 0.208,
-    "fcf_yield": -0.0023,
-    "roe": 0.3647,
-    "debt_equity": 0.0116,
-    "market_cap": 24493508608,
-    "name": "Texas Pacific Land Corporation",
-    "sector": "Energy"
+  "TJX": {
+    "pe": 31.87,
+    "eps_growth": 0.293,
+    "rev_growth": 0.092,
+    "fcf_yield": 0.0238,
+    "roe": 0.6125,
+    "debt_equity": 1.3631,
+    "market_cap": 180961624064,
+    "name": "TJX Companies, Inc. (The)",
+    "sector": "Consumer Cyclical"
   },
   "TXT": {
     "pe": 17.07,
@@ -4872,16 +4883,16 @@
     "name": "Thermo Fisher Scientific Inc",
     "sector": "Healthcare"
   },
-  "TJX": {
-    "pe": 31.87,
-    "eps_growth": 0.293,
-    "rev_growth": 0.092,
-    "fcf_yield": 0.0238,
-    "roe": 0.6125,
-    "debt_equity": 1.3631,
-    "market_cap": 180961624064,
-    "name": "TJX Companies, Inc. (The)",
-    "sector": "Consumer Cyclical"
+  "TTD": {
+    "pe": 21.03,
+    "eps_growth": -0.2,
+    "rev_growth": 0.118,
+    "fcf_yield": 0.0654,
+    "roe": 0.1674,
+    "debt_equity": 0.1726,
+    "market_cap": 8701705216,
+    "name": "The Trade Desk, Inc.",
+    "sector": "Communication Services"
   },
   "TKO": {
     "pe": 74.17,
@@ -4892,17 +4903,6 @@
     "debt_equity": 0.5823,
     "market_cap": 37992083456,
     "name": "TKO Group Holdings, Inc.",
-    "sector": "Communication Services"
-  },
-  "TTD": {
-    "pe": 21.03,
-    "eps_growth": -0.2,
-    "rev_growth": 0.118,
-    "fcf_yield": 0.0654,
-    "roe": 0.1674,
-    "debt_equity": 0.1726,
-    "market_cap": 8701705216,
-    "name": "The Trade Desk, Inc.",
     "sector": "Communication Services"
   },
   "TSCO": {
@@ -4938,15 +4938,15 @@
     "name": "Transdigm Group Incorporated",
     "sector": "Industrials"
   },
-  "TFC": {
-    "pe": 11.96,
-    "eps_growth": 0.253,
-    "rev_growth": 0.052,
-    "fcf_yield": null,
-    "roe": 0.0858,
-    "debt_equity": null,
-    "market_cap": 60213350400,
-    "name": "Truist Financial Corporation",
+  "TRV": {
+    "pe": 9.16,
+    "eps_growth": 3.576,
+    "rev_growth": 0.01,
+    "fcf_yield": 0.2033,
+    "roe": 0.2527,
+    "debt_equity": 0.2898,
+    "market_cap": 65454161920,
+    "name": "The Travelers Companies, Inc.",
     "sector": "Financial Services"
   },
   "TRMB": {
@@ -4960,6 +4960,17 @@
     "name": "Trimble Inc.",
     "sector": "Technology"
   },
+  "TFC": {
+    "pe": 11.96,
+    "eps_growth": 0.253,
+    "rev_growth": 0.052,
+    "fcf_yield": null,
+    "roe": 0.0858,
+    "debt_equity": null,
+    "market_cap": 60213350400,
+    "name": "Truist Financial Corporation",
+    "sector": "Financial Services"
+  },
   "TSN": {
     "pe": 43.67,
     "eps_growth": null,
@@ -4970,28 +4981,6 @@
     "market_cap": 19529097216,
     "name": "Tyson Foods, Inc.",
     "sector": "Consumer Defensive"
-  },
-  "TYL": {
-    "pe": 38.47,
-    "eps_growth": 0.022,
-    "rev_growth": 0.086,
-    "fcf_yield": 0.0475,
-    "roe": 0.0893,
-    "debt_equity": 0.0135,
-    "market_cap": 11474512896,
-    "name": "Tyler Technologies, Inc.",
-    "sector": "Technology"
-  },
-  "TRV": {
-    "pe": 9.16,
-    "eps_growth": 3.576,
-    "rev_growth": 0.01,
-    "fcf_yield": 0.2033,
-    "roe": 0.2527,
-    "debt_equity": 0.2898,
-    "market_cap": 65454161920,
-    "name": "The Travelers Companies, Inc.",
-    "sector": "Financial Services"
   },
   "USB": {
     "pe": 12.19,
@@ -5004,6 +4993,17 @@
     "name": "U.S. Bancorp",
     "sector": "Financial Services"
   },
+  "TYL": {
+    "pe": 38.47,
+    "eps_growth": 0.022,
+    "rev_growth": 0.086,
+    "fcf_yield": 0.0475,
+    "roe": 0.0893,
+    "debt_equity": 0.0135,
+    "market_cap": 11474512896,
+    "name": "Tyler Technologies, Inc.",
+    "sector": "Technology"
+  },
   "UBER": {
     "pe": 17.78,
     "eps_growth": -0.846,
@@ -5014,6 +5014,28 @@
     "market_cap": 145830313984,
     "name": "Uber Technologies, Inc.",
     "sector": "Technology"
+  },
+  "UNP": {
+    "pe": 21.16,
+    "eps_growth": 0.062,
+    "rev_growth": 0.032,
+    "fcf_yield": 0.0265,
+    "roe": 0.4069,
+    "debt_equity": 1.6225,
+    "market_cap": 152513052672,
+    "name": "Union Pacific Corporation",
+    "sector": "Industrials"
+  },
+  "UAL": {
+    "pe": 10.58,
+    "eps_growth": 0.845,
+    "rev_growth": 0.106,
+    "fcf_yield": 0.0429,
+    "roe": 0.2573,
+    "debt_equity": 1.9508,
+    "market_cap": 38403088384,
+    "name": "United Airlines Holdings, Inc.",
+    "sector": "Industrials"
   },
   "UDR": {
     "pe": 25.55,
@@ -5037,15 +5059,26 @@
     "name": "Ulta Beauty, Inc.",
     "sector": "Consumer Cyclical"
   },
-  "UNP": {
-    "pe": 21.16,
-    "eps_growth": 0.062,
-    "rev_growth": 0.032,
-    "fcf_yield": 0.0265,
-    "roe": 0.4069,
-    "debt_equity": 1.6225,
-    "market_cap": 152513052672,
-    "name": "Union Pacific Corporation",
+  "UNH": {
+    "pe": 30.17,
+    "eps_growth": 0.007,
+    "rev_growth": 0.02,
+    "fcf_yield": 0.0486,
+    "roe": 0.1218,
+    "debt_equity": 0.7398,
+    "market_cap": 364129550336,
+    "name": "UnitedHealth Group Incorporated",
+    "sector": "Healthcare"
+  },
+  "URI": {
+    "pe": 27.5,
+    "eps_growth": 0.066,
+    "rev_growth": 0.072,
+    "fcf_yield": 0.0277,
+    "roe": 0.2824,
+    "debt_equity": 1.6747,
+    "market_cap": 67458441216,
+    "name": "United Rentals, Inc.",
     "sector": "Industrials"
   },
   "UPS": {
@@ -5059,27 +5092,16 @@
     "name": "United Parcel Service, Inc.",
     "sector": "Industrials"
   },
-  "UAL": {
-    "pe": 10.58,
-    "eps_growth": 0.845,
-    "rev_growth": 0.106,
-    "fcf_yield": 0.0429,
-    "roe": 0.2573,
-    "debt_equity": 1.9508,
-    "market_cap": 38403088384,
-    "name": "United Airlines Holdings, Inc.",
-    "sector": "Industrials"
-  },
-  "URI": {
-    "pe": 27.5,
-    "eps_growth": 0.066,
-    "rev_growth": 0.072,
-    "fcf_yield": 0.0277,
-    "roe": 0.2824,
-    "debt_equity": 1.6747,
-    "market_cap": 67458441216,
-    "name": "United Rentals, Inc.",
-    "sector": "Industrials"
+  "UHS": {
+    "pe": 5.9,
+    "eps_growth": 0.177,
+    "rev_growth": 0.096,
+    "fcf_yield": 0.0762,
+    "roe": 0.2137,
+    "debt_equity": 0.6741,
+    "market_cap": 8545916928,
+    "name": "Universal Health Services, Inc.",
+    "sector": "Healthcare"
   },
   "VLO": {
     "pe": 17.25,
@@ -5092,28 +5114,6 @@
     "name": "Valero Energy Corporation",
     "sector": "Energy"
   },
-  "UNH": {
-    "pe": 30.17,
-    "eps_growth": 0.007,
-    "rev_growth": 0.02,
-    "fcf_yield": 0.0486,
-    "roe": 0.1218,
-    "debt_equity": 0.7398,
-    "market_cap": 364129550336,
-    "name": "UnitedHealth Group Incorporated",
-    "sector": "Healthcare"
-  },
-  "UHS": {
-    "pe": 5.9,
-    "eps_growth": 0.177,
-    "rev_growth": 0.096,
-    "fcf_yield": 0.0762,
-    "roe": 0.2137,
-    "debt_equity": 0.6741,
-    "market_cap": 8545916928,
-    "name": "Universal Health Services, Inc.",
-    "sector": "Healthcare"
-  },
   "VEEV": {
     "pe": 27.18,
     "eps_growth": 0.146,
@@ -5124,17 +5124,6 @@
     "market_cap": 24902557696,
     "name": "Veeva Systems Inc.",
     "sector": "Healthcare"
-  },
-  "VLTO": {
-    "pe": 21.65,
-    "eps_growth": 0.133,
-    "rev_growth": 0.068,
-    "fcf_yield": 0.0372,
-    "roe": 0.3646,
-    "debt_equity": 0.9554,
-    "market_cap": 20635248640,
-    "name": "Veralto Corp",
-    "sector": "Industrials"
   },
   "VTR": {
     "pe": 148.36,
@@ -5147,6 +5136,17 @@
     "name": "Ventas, Inc.",
     "sector": "Real Estate"
   },
+  "VLTO": {
+    "pe": 21.65,
+    "eps_growth": 0.133,
+    "rev_growth": 0.068,
+    "fcf_yield": 0.0372,
+    "roe": 0.3646,
+    "debt_equity": 0.9554,
+    "market_cap": 20635248640,
+    "name": "Veralto Corp",
+    "sector": "Industrials"
+  },
   "VRSN": {
     "pe": 29.27,
     "eps_growth": 0.114,
@@ -5157,28 +5157,6 @@
     "market_cap": 24082241536,
     "name": "VeriSign, Inc.",
     "sector": "Technology"
-  },
-  "VRSK": {
-    "pe": 26.49,
-    "eps_growth": 0.048,
-    "rev_growth": 0.039,
-    "fcf_yield": 0.0415,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 22771595264,
-    "name": "Verisk Analytics, Inc.",
-    "sector": "Industrials"
-  },
-  "VZ": {
-    "pe": 11.07,
-    "eps_growth": 0.043,
-    "rev_growth": 0.029,
-    "fcf_yield": 0.1035,
-    "roe": 0.172,
-    "debt_equity": 1.9204,
-    "market_cap": 189445095424,
-    "name": "Verizon Communications Inc.",
-    "sector": "Communication Services"
   },
   "VRTX": {
     "pe": 26.79,
@@ -5191,6 +5169,17 @@
     "name": "Vertex Pharmaceuticals Incorpor",
     "sector": "Healthcare"
   },
+  "VRSK": {
+    "pe": 26.49,
+    "eps_growth": 0.048,
+    "rev_growth": 0.039,
+    "fcf_yield": 0.0415,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 22771595264,
+    "name": "Verisk Analytics, Inc.",
+    "sector": "Industrials"
+  },
   "VRT": {
     "pe": 83.68,
     "eps_growth": 1.357,
@@ -5202,17 +5191,6 @@
     "name": "Vertiv Holdings, LLC",
     "sector": "Industrials"
   },
-  "VTRS": {
-    "pe": null,
-    "eps_growth": null,
-    "rev_growth": 0.081,
-    "fcf_yield": 0.1251,
-    "roe": -0.0196,
-    "debt_equity": 0.9968,
-    "market_cap": 17899175936,
-    "name": "Viatris Inc.",
-    "sector": "Healthcare"
-  },
   "VICI": {
     "pe": 9.0,
     "eps_growth": 0.601,
@@ -5223,6 +5201,28 @@
     "market_cap": 28297783296,
     "name": "VICI Properties Inc.",
     "sector": "Real Estate"
+  },
+  "VZ": {
+    "pe": 11.07,
+    "eps_growth": 0.043,
+    "rev_growth": 0.029,
+    "fcf_yield": 0.1035,
+    "roe": 0.172,
+    "debt_equity": 1.9204,
+    "market_cap": 189445095424,
+    "name": "Verizon Communications Inc.",
+    "sector": "Communication Services"
+  },
+  "VTRS": {
+    "pe": null,
+    "eps_growth": null,
+    "rev_growth": 0.081,
+    "fcf_yield": 0.1251,
+    "roe": -0.0196,
+    "debt_equity": 0.9968,
+    "market_cap": 17899175936,
+    "name": "Viatris Inc.",
+    "sector": "Healthcare"
   },
   "V": {
     "pe": 28.55,
@@ -5245,6 +5245,17 @@
     "market_cap": 39294967808,
     "name": "Vulcan Materials Company (Holdi",
     "sector": "Basic Materials"
+  },
+  "VST": {
+    "pe": 27.38,
+    "eps_growth": null,
+    "rev_growth": 0.434,
+    "fcf_yield": 0.0086,
+    "roe": 0.429,
+    "debt_equity": 3.5519,
+    "market_cap": 55213629440,
+    "name": "Vistra Corp.",
+    "sector": "Utilities"
   },
   "WRB": {
     "pe": 14.23,
@@ -5279,16 +5290,16 @@
     "name": "Westinghouse Air Brake Technolo",
     "sector": "Industrials"
   },
-  "VST": {
-    "pe": 27.38,
+  "WBD": {
+    "pe": null,
     "eps_growth": null,
-    "rev_growth": 0.434,
-    "fcf_yield": 0.0086,
-    "roe": 0.429,
-    "debt_equity": 3.5519,
-    "market_cap": 55213629440,
-    "name": "Vistra Corp.",
-    "sector": "Utilities"
+    "rev_growth": -0.01,
+    "fcf_yield": 0.2811,
+    "roe": -0.0496,
+    "debt_equity": 0.9632,
+    "market_cap": 65686986752,
+    "name": "Warner Bros. Discovery, Inc. - ",
+    "sector": "Communication Services"
   },
   "WMT": {
     "pe": 41.26,
@@ -5301,16 +5312,16 @@
     "name": "Walmart Inc.",
     "sector": "Consumer Defensive"
   },
-  "WBD": {
-    "pe": null,
+  "WAT": {
+    "pe": 45.22,
     "eps_growth": null,
-    "rev_growth": -0.01,
-    "fcf_yield": 0.2811,
-    "roe": -0.0496,
-    "debt_equity": 0.9632,
-    "market_cap": 65686986752,
-    "name": "Warner Bros. Discovery, Inc. - ",
-    "sector": "Communication Services"
+    "rev_growth": 0.914,
+    "fcf_yield": -0.0144,
+    "roe": 0.0521,
+    "debt_equity": 0.3663,
+    "market_cap": 34899181568,
+    "name": "Waters Corporation",
+    "sector": "Healthcare"
   },
   "DIS": {
     "pe": 16.62,
@@ -5322,28 +5333,6 @@
     "market_cap": 180406173696,
     "name": "Walt Disney Company (The)",
     "sector": "Communication Services"
-  },
-  "WM": {
-    "pe": 31.06,
-    "eps_growth": 0.133,
-    "rev_growth": 0.035,
-    "fcf_yield": 0.0248,
-    "roe": 0.2994,
-    "debt_equity": 2.2841,
-    "market_cap": 86178160640,
-    "name": "Waste Management, Inc.",
-    "sector": "Industrials"
-  },
-  "WAT": {
-    "pe": 45.22,
-    "eps_growth": null,
-    "rev_growth": 0.914,
-    "fcf_yield": -0.0144,
-    "roe": 0.0521,
-    "debt_equity": 0.3663,
-    "market_cap": 34899181568,
-    "name": "Waters Corporation",
-    "sector": "Healthcare"
   },
   "WEC": {
     "pe": 22.48,
@@ -5367,16 +5356,27 @@
     "name": "Wells Fargo & Company",
     "sector": "Financial Services"
   },
-  "WELL": {
-    "pe": 99.83,
-    "eps_growth": 1.579,
-    "rev_growth": 0.383,
-    "fcf_yield": 0.0178,
-    "roe": 0.0367,
-    "debt_equity": 0.4449,
-    "market_cap": 145877204992,
-    "name": "Welltower Inc.",
-    "sector": "Real Estate"
+  "WDC": {
+    "pe": 44.71,
+    "eps_growth": 4.829,
+    "rev_growth": 0.455,
+    "fcf_yield": 0.0081,
+    "roe": 0.8592,
+    "debt_equity": 0.1781,
+    "market_cap": 257212153856,
+    "name": "Western Digital Corporation",
+    "sector": "Technology"
+  },
+  "WM": {
+    "pe": 31.06,
+    "eps_growth": 0.133,
+    "rev_growth": 0.035,
+    "fcf_yield": 0.0248,
+    "roe": 0.2994,
+    "debt_equity": 2.2841,
+    "market_cap": 86178160640,
+    "name": "Waste Management, Inc.",
+    "sector": "Industrials"
   },
   "WST": {
     "pe": 43.84,
@@ -5388,6 +5388,28 @@
     "market_cap": 23168878592,
     "name": "West Pharmaceutical Services, I",
     "sector": "Healthcare"
+  },
+  "WELL": {
+    "pe": 99.83,
+    "eps_growth": 1.579,
+    "rev_growth": 0.383,
+    "fcf_yield": 0.0178,
+    "roe": 0.0367,
+    "debt_equity": 0.4449,
+    "market_cap": 145877204992,
+    "name": "Welltower Inc.",
+    "sector": "Real Estate"
+  },
+  "WSM": {
+    "pe": 25.41,
+    "eps_growth": 0.043,
+    "rev_growth": 0.044,
+    "fcf_yield": 0.0331,
+    "roe": 0.5401,
+    "debt_equity": 0.7988,
+    "market_cap": 26719059968,
+    "name": "Williams-Sonoma, Inc.",
+    "sector": "Consumer Cyclical"
   },
   "WY": {
     "pe": 43.43,
@@ -5411,28 +5433,6 @@
     "name": "Williams Companies, Inc. (The)",
     "sector": "Energy"
   },
-  "WDAY": {
-    "pe": 36.43,
-    "eps_growth": 2.48,
-    "rev_growth": 0.135,
-    "fcf_yield": 0.108,
-    "roe": 0.1086,
-    "debt_equity": 0.5694,
-    "market_cap": 28878608384,
-    "name": "Workday, Inc.",
-    "sector": "Technology"
-  },
-  "WDC": {
-    "pe": 44.71,
-    "eps_growth": 4.829,
-    "rev_growth": 0.455,
-    "fcf_yield": 0.0081,
-    "roe": 0.8592,
-    "debt_equity": 0.1781,
-    "market_cap": 257212153856,
-    "name": "Western Digital Corporation",
-    "sector": "Technology"
-  },
   "WTW": {
     "pe": 14.99,
     "eps_growth": 0.33,
@@ -5443,28 +5443,6 @@
     "market_cap": 24103122944,
     "name": "Willis Towers Watson Public Lim",
     "sector": "Financial Services"
-  },
-  "WYNN": {
-    "pe": 30.24,
-    "eps_growth": 0.509,
-    "rev_growth": 0.092,
-    "fcf_yield": 0.0326,
-    "roe": null,
-    "debt_equity": null,
-    "market_cap": 10952612864,
-    "name": "Wynn Resorts, Limited",
-    "sector": "Consumer Cyclical"
-  },
-  "WSM": {
-    "pe": 25.41,
-    "eps_growth": 0.043,
-    "rev_growth": 0.044,
-    "fcf_yield": 0.0331,
-    "roe": 0.5401,
-    "debt_equity": 0.7988,
-    "market_cap": 26719059968,
-    "name": "Williams-Sonoma, Inc.",
-    "sector": "Consumer Cyclical"
   },
   "XEL": {
     "pe": 22.31,
@@ -5488,16 +5466,16 @@
     "name": "Xylem Inc.",
     "sector": "Industrials"
   },
-  "ZBH": {
-    "pe": 22.79,
-    "eps_growth": 0.341,
-    "rev_growth": 0.093,
-    "fcf_yield": 0.0614,
-    "roe": 0.0607,
-    "debt_equity": 0.5983,
-    "market_cap": 17018894336,
-    "name": "Zimmer Biomet Holdings, Inc.",
-    "sector": "Healthcare"
+  "WDAY": {
+    "pe": 36.43,
+    "eps_growth": 2.48,
+    "rev_growth": 0.135,
+    "fcf_yield": 0.108,
+    "roe": 0.1086,
+    "debt_equity": 0.5694,
+    "market_cap": 28878608384,
+    "name": "Workday, Inc.",
+    "sector": "Technology"
   },
   "ZBRA": {
     "pe": 28.47,
@@ -5510,6 +5488,17 @@
     "name": "Zebra Technologies Corporation",
     "sector": "Technology"
   },
+  "YUM": {
+    "pe": 24.51,
+    "eps_growth": 0.722,
+    "rev_growth": 0.152,
+    "fcf_yield": 0.0301,
+    "roe": null,
+    "debt_equity": null,
+    "market_cap": 41891672064,
+    "name": "Yum! Brands, Inc.",
+    "sector": "Consumer Cyclical"
+  },
   "ZTS": {
     "pe": 12.9,
     "eps_growth": 0.06,
@@ -5521,15 +5510,26 @@
     "name": "Zoetis Inc.",
     "sector": "Healthcare"
   },
-  "YUM": {
-    "pe": 24.51,
-    "eps_growth": 0.722,
-    "rev_growth": 0.152,
-    "fcf_yield": 0.0301,
+  "ZBH": {
+    "pe": 22.79,
+    "eps_growth": 0.341,
+    "rev_growth": 0.093,
+    "fcf_yield": 0.0614,
+    "roe": 0.0607,
+    "debt_equity": 0.5983,
+    "market_cap": 17018894336,
+    "name": "Zimmer Biomet Holdings, Inc.",
+    "sector": "Healthcare"
+  },
+  "WYNN": {
+    "pe": 30.24,
+    "eps_growth": 0.509,
+    "rev_growth": 0.092,
+    "fcf_yield": 0.0326,
     "roe": null,
     "debt_equity": null,
-    "market_cap": 41891672064,
-    "name": "Yum! Brands, Inc.",
+    "market_cap": 10952612864,
+    "name": "Wynn Resorts, Limited",
     "sector": "Consumer Cyclical"
   }
 }
