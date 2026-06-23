@@ -18,6 +18,7 @@ warnings.filterwarnings("ignore")
 
 def fetch_fundamentals(ticker):
     try:
+        time.sleep(0.1)  # per-thread throttle to avoid rate limiting
         info = yf.Ticker(ticker).info
         market_cap = info.get("marketCap") or 0
         fcf = info.get("freeCashflow") or 0
@@ -93,9 +94,8 @@ def main():
             completed += 1
             if completed % 50 == 0:
                 print(f"  {completed}/{len(tickers)} done...")
-            time.sleep(0.05)  # gentle throttle
 
-    with open("fundamentals_cache.json", "w") as f:
+    with open("fundamentals_cache.json", "w", encoding="utf-8") as f:
         json.dump(cache, f, indent=2)
 
     print(f"fundamentals_cache.json written — {len(cache)} stocks cached.")

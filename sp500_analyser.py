@@ -30,8 +30,8 @@ def _sanitize(obj):
 
 
 SECTOR_ETFS = {
-    "Technology": "XLK",
-    "Healthcare": "XLV",
+    "Information Technology": "XLK",
+    "Health Care": "XLV",
     "Financials": "XLF",
     "Consumer Discretionary": "XLY",
     "Consumer Staples": "XLP",
@@ -69,7 +69,7 @@ def get_sp500():
     except Exception as e:
         print(f"Wikipedia fetch failed: {e}, using cached list")
         if os.path.exists("sp500_meta.json"):
-            with open("sp500_meta.json") as f:
+            with open("sp500_meta.json", encoding="utf-8") as f:
                 meta = json.load(f)
             return meta["tickers"], meta["names"], meta["sectors"]
         raise
@@ -260,7 +260,7 @@ def main():
     tickers, names, sectors = get_sp500()
 
     # Save meta for fallback
-    with open("sp500_meta.json", "w") as f:
+    with open("sp500_meta.json", "w", encoding="utf-8") as f:
         json.dump({"tickers": tickers, "names": names, "sectors": sectors}, f)
 
     # All tickers we need: S&P 500 + sector ETFs
@@ -280,7 +280,7 @@ def main():
     # Load cached fundamentals
     fund_cache = {}
     if os.path.exists("fundamentals_cache.json"):
-        with open("fundamentals_cache.json") as f:
+        with open("fundamentals_cache.json", encoding="utf-8") as f:
             fund_cache = json.load(f)
     else:
         print("WARNING: No fundamentals cache found. Run refresh_fundamentals.py first.")
@@ -342,18 +342,22 @@ def main():
     # Build arrays for normalization
     n = len(results)
 
-    pe_arr = np.array([r["fund"].get("pe") or np.nan for r in results])
-    eps_arr = np.array([r["fund"].get("eps_growth") or np.nan for r in results])
-    rev_arr = np.array([r["fund"].get("rev_growth") or np.nan for r in results])
-    fcf_arr = np.array([r["fund"].get("fcf_yield") or np.nan for r in results])
-    roe_arr = np.array([r["fund"].get("roe") or np.nan for r in results])
-    de_arr = np.array([r["fund"].get("debt_equity") or np.nan for r in results])
+    def _fval(d, key):
+        v = d.get(key)
+        return float(v) if v is not None else np.nan
+
+    pe_arr = np.array([_fval(r["fund"], "pe") for r in results])
+    eps_arr = np.array([_fval(r["fund"], "eps_growth") for r in results])
+    rev_arr = np.array([_fval(r["fund"], "rev_growth") for r in results])
+    fcf_arr = np.array([_fval(r["fund"], "fcf_yield") for r in results])
+    roe_arr = np.array([_fval(r["fund"], "roe") for r in results])
+    de_arr = np.array([_fval(r["fund"], "debt_equity") for r in results])
 
     def pct_rank_arr(arr, ascending=True):
         series = pd.Series(arr)
         filled = series.fillna(series.median())
         ranks = filled.rank(pct=True)
-        return (ranks * 100).values if ascending else ((1 - ranks) * 100 + 1).values
+        return (ranks * 100).values if ascending else ((1 - ranks) * 100).values
 
     pe_rank = pct_rank_arr(pe_arr, ascending=False)    # lower P/E → higher score
     eps_rank = pct_rank_arr(eps_arr, ascending=True)
