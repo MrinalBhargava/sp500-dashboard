@@ -63,11 +63,15 @@ def fetch_fundamentals(ticker):
 
 def main():
     # Load ticker list
+    tickers = None
     if os.path.exists("sp500_meta.json"):
-        with open("sp500_meta.json") as f:
-            meta = json.load(f)
-        tickers = meta["tickers"]
-    else:
+        try:
+            with open("sp500_meta.json", encoding="utf-8") as f:
+                meta = json.load(f)
+            tickers = meta["tickers"]
+        except (json.JSONDecodeError, KeyError, OSError) as e:
+            print(f"sp500_meta.json unreadable ({e}), falling back to Wikipedia")
+    if tickers is None:
         import io
         import pandas as pd
         import requests as _req

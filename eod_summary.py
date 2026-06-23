@@ -18,7 +18,10 @@ def load_data(path):
     match = re.search(r"const DATA = ({[\s\S]+});", content)
     if not match:
         return None
-    return json.loads(match.group(1))
+    try:
+        return json.loads(match.group(1))
+    except json.JSONDecodeError:
+        return None
 
 
 def main():
@@ -35,8 +38,9 @@ def main():
     # Top gainers / losers by composite score change vs previous session
     score_moves = []
     for s in stocks:
-        prev_score = prev_stocks.get(s["ticker"], {}).get("compositeScore", s["compositeScore"])
-        delta = round(s["compositeScore"] - prev_score, 1)
+        cur_score = s["compositeScore"] or 0
+        prev_score = prev_stocks.get(s["ticker"], {}).get("compositeScore") or cur_score
+        delta = round(cur_score - prev_score, 1)
         score_moves.append({**s, "scoreDelta": delta})
 
     score_moves.sort(key=lambda x: x["scoreDelta"], reverse=True)
@@ -49,13 +53,14 @@ def main():
     price_losers = list(reversed(by_momentum[-5:]))
 
     # Market breadth from scores
-    strong_buy = sum(1 for s in stocks if s["compositeScore"] >= 75)
-    buy = sum(1 for s in stocks if 60 <= s["compositeScore"] < 75)
-    hold = sum(1 for s in stocks if 40 <= s["compositeScore"] < 60)
-    sell = sum(1 for s in stocks if 25 <= s["compositeScore"] < 40)
-    strong_sell = sum(1 for s in stocks if s["compositeScore"] < 25)
+    scores = [s["compositeScore"] or 0 for s in stocks]
+    strong_buy = sum(1 for sc in scores if sc >= 75)
+    buy = sum(1 for sc in scores if 60 <= sc < 75)
+    hold = sum(1 for sc in scores if 40 <= sc < 60)
+    sell = sum(1 for sc in scores if 25 <= sc < 40)
+    strong_sell = sum(1 for sc in scores if sc < 25)
 
-    avg_composite = round(sum(s["compositeScore"] for s in stocks) / len(stocks), 1) if stocks else 0
+    avg_composite = round(sum(scores) / len(scores), 1) if scores else 0
 
     def slim(s):
         return {

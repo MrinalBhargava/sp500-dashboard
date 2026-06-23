@@ -2,7 +2,11 @@ const CACHE = 'sp500-v1';
 const STATIC = ['./index.html', './styles.css', './app.js', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(STATIC)));
+  e.waitUntil(
+    caches.open(CACHE).then(c =>
+      Promise.allSettled(STATIC.map(url => c.add(url)))
+    )
+  );
   self.skipWaiting();
 });
 

@@ -280,8 +280,11 @@ def main():
     # Load cached fundamentals
     fund_cache = {}
     if os.path.exists("fundamentals_cache.json"):
-        with open("fundamentals_cache.json", encoding="utf-8") as f:
-            fund_cache = json.load(f)
+        try:
+            with open("fundamentals_cache.json", encoding="utf-8") as f:
+                fund_cache = json.load(f)
+        except (json.JSONDecodeError, OSError) as e:
+            print(f"WARNING: Could not load fundamentals cache ({e}) — running without fundamentals.")
     else:
         print("WARNING: No fundamentals cache found. Run refresh_fundamentals.py first.")
 

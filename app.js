@@ -248,7 +248,7 @@ function renderScreenerPage(filtered) {
       <tr>
         <td>${s.rank}</td>
         <td class="ticker-cell">${s.ticker}</td>
-        <td style="max-width:140px;overflow:hidden;text-overflow:ellipsis">${s.name}</td>
+        <td style="max-width:140px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${s.name}</td>
         <td>${(s.sector || '').split(' ').slice(0, 2).join(' ')}</td>
         <td>${fmt.price(s.price)}</td>
         <td class="score-cell" style="color:${scoreColor(s.compositeScore)}">${fmt.score(s.compositeScore)}</td>
