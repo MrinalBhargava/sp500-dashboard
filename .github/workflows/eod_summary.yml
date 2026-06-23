@@ -38,4 +38,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add eod_data.js
           git diff --cached --quiet || git commit -m "chore: eod summary $(date -u '+%Y-%m-%d')"
+          git pull --rebase origin master
           git push

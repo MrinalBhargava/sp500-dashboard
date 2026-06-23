@@ -6,6 +6,10 @@ on:
     - cron: '0,15,30,45 13,14,15,16,17,18,19,20 * * 1-5'
   workflow_dispatch:
 
+concurrency:
+  group: sp500-prices
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -38,4 +42,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.js data_prev.js sp500_meta.json
           git diff --cached --quiet || git commit -m "chore: update prices $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin master
           git push
