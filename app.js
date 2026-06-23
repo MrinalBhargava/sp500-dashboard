@@ -60,6 +60,7 @@ function relTime(isoStr) {
 let ringChart = null;
 
 function drawScoreRing(score) {
+  if (typeof Chart === 'undefined') return;
   const ctx = document.getElementById('score-ring').getContext('2d');
   const color = scoreColor(score);
   if (ringChart) {
@@ -341,18 +342,18 @@ function renderEOD() {
   bEl.innerHTML = `
     <div class="breadth-label">Market Breadth — Avg Score: ${b.avgComposite || '—'}</div>
     <div class="breadth-bar">
-      <div class="breadth-seg" style="width:${(b.strongBuy/total*100).toFixed(1)}%;background:#14532d;color:#86efac">${b.strongBuy}</div>
-      <div class="breadth-seg" style="width:${(b.buy/total*100).toFixed(1)}%;background:#052e16;color:#bbf7d0">${b.buy}</div>
-      <div class="breadth-seg" style="width:${(b.hold/total*100).toFixed(1)}%;background:#292524;color:#fde68a">${b.hold}</div>
-      <div class="breadth-seg" style="width:${(b.sell/total*100).toFixed(1)}%;background:#450a0a80;color:#fca5a5">${b.sell}</div>
-      <div class="breadth-seg" style="width:${(b.strongSell/total*100).toFixed(1)}%;background:#450a0a;color:#f87171">${b.strongSell}</div>
+      <div class="breadth-seg" style="width:${((b.strongBuy||0)/total*100).toFixed(1)}%;background:#14532d;color:#86efac">${b.strongBuy||0}</div>
+      <div class="breadth-seg" style="width:${((b.buy||0)/total*100).toFixed(1)}%;background:#052e16;color:#bbf7d0">${b.buy||0}</div>
+      <div class="breadth-seg" style="width:${((b.hold||0)/total*100).toFixed(1)}%;background:#292524;color:#fde68a">${b.hold||0}</div>
+      <div class="breadth-seg" style="width:${((b.sell||0)/total*100).toFixed(1)}%;background:#450a0a80;color:#fca5a5">${b.sell||0}</div>
+      <div class="breadth-seg" style="width:${((b.strongSell||0)/total*100).toFixed(1)}%;background:#450a0a;color:#f87171">${b.strongSell||0}</div>
     </div>
     <div class="breadth-stats">
-      <div class="breadth-stat"><div class="breadth-stat-val" style="color:var(--green)">${b.strongBuy}</div><div class="breadth-stat-lbl">Str Buy</div></div>
-      <div class="breadth-stat"><div class="breadth-stat-val" style="color:#86efac">${b.buy}</div><div class="breadth-stat-lbl">Buy</div></div>
-      <div class="breadth-stat"><div class="breadth-stat-val" style="color:var(--amber)">${b.hold}</div><div class="breadth-stat-lbl">Hold</div></div>
-      <div class="breadth-stat"><div class="breadth-stat-val" style="color:#fca5a5">${b.sell}</div><div class="breadth-stat-lbl">Sell</div></div>
-      <div class="breadth-stat"><div class="breadth-stat-val" style="color:var(--red)">${b.strongSell}</div><div class="breadth-stat-lbl">Str Sell</div></div>
+      <div class="breadth-stat"><div class="breadth-stat-val" style="color:var(--green)">${b.strongBuy||0}</div><div class="breadth-stat-lbl">Str Buy</div></div>
+      <div class="breadth-stat"><div class="breadth-stat-val" style="color:#86efac">${b.buy||0}</div><div class="breadth-stat-lbl">Buy</div></div>
+      <div class="breadth-stat"><div class="breadth-stat-val" style="color:var(--amber)">${b.hold||0}</div><div class="breadth-stat-lbl">Hold</div></div>
+      <div class="breadth-stat"><div class="breadth-stat-val" style="color:#fca5a5">${b.sell||0}</div><div class="breadth-stat-lbl">Sell</div></div>
+      <div class="breadth-stat"><div class="breadth-stat-val" style="color:var(--red)">${b.strongSell||0}</div><div class="breadth-stat-lbl">Str Sell</div></div>
     </div>
   `;
 
@@ -399,14 +400,16 @@ function renderEOD() {
   document.getElementById('last-updated').textContent = relTime(DATA.lastUpdated);
   setInterval(() => document.getElementById('last-updated').textContent = relTime(DATA.lastUpdated), 30000);
 
-  if (DATA.topPick) renderTopPick(DATA.topPick);
-  if (DATA.stocks) {
-    renderRunnerUps(DATA.stocks);
-    renderLeaderboard(DATA.stocks);
-    initScreener(DATA.stocks, DATA.sectors || {});
-  }
-  if (DATA.sectors) renderSectors(DATA.sectors);
-  renderEOD();
+  try { if (DATA.topPick) renderTopPick(DATA.topPick); } catch (e) { console.error('Top pick render failed:', e); }
+  try {
+    if (DATA.stocks) {
+      renderRunnerUps(DATA.stocks);
+      renderLeaderboard(DATA.stocks);
+      initScreener(DATA.stocks, DATA.sectors || {});
+    }
+  } catch (e) { console.error('Stocks render failed:', e); }
+  try { if (DATA.sectors) renderSectors(DATA.sectors); } catch (e) { console.error('Sectors render failed:', e); }
+  try { renderEOD(); } catch (e) { console.error('EOD render failed:', e); }
 
   // Register service worker
   if ('serviceWorker' in navigator) {

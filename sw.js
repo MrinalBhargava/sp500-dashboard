@@ -18,7 +18,13 @@ self.addEventListener('fetch', e => {
   // Always network-first for data files so updates come through
   if (url.pathname.endsWith('data.js') || url.pathname.endsWith('eod_data.js') || url.pathname.endsWith('fundamentals_cache.json')) {
     e.respondWith(
-      fetch(e.request).catch(() => caches.match(e.request))
+      fetch(e.request).then(res => {
+        if (res.ok) {
+          const clone = res.clone();
+          caches.open(CACHE).then(c => c.put(e.request, clone));
+        }
+        return res;
+      }).catch(() => caches.match(e.request))
     );
     return;
   }
