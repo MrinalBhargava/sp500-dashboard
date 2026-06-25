@@ -43,7 +43,7 @@ def main():
     top_fallers = list(reversed(score_moves[-5:]))
 
     # Price movers by 1M momentum proxy
-    by_momentum = sorted(stocks, key=lambda x: x["signals"].get("momentum1m", 0), reverse=True)
+    by_momentum = sorted(stocks, key=lambda x: x["signals"].get("momentum1m") or 0, reverse=True)
     price_gainers = by_momentum[:5]
     price_losers = list(reversed(by_momentum[-5:]))
 
