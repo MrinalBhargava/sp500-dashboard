@@ -1,4 +1,4 @@
-const CACHE = 'sp500-v1';
+const CACHE = 'sp500-v2';
 const STATIC = ['./index.html', './styles.css', './app.js', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
@@ -20,7 +20,7 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
   // Always network-first for data files so updates come through
-  if (url.pathname.endsWith('data.js') || url.pathname.endsWith('eod_data.js') || url.pathname.endsWith('fundamentals_cache.json')) {
+  if (url.pathname.endsWith('data.js') || url.pathname.endsWith('data.json') || url.pathname.endsWith('eod_data.js') || url.pathname.endsWith('fundamentals_cache.json')) {
     e.respondWith(
       fetch(e.request).then(res => {
         if (res.ok) {

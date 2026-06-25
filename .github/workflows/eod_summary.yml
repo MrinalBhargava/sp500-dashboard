@@ -2,8 +2,8 @@ name: EOD Summary (Daily Close)
 
 on:
   schedule:
-    # 20:30 UTC = 4:30pm ET (EDT) / 3:30pm ET (EST)
-    - cron: '30 20 * * 1-5'
+    # 21:05 UTC = 5:05pm ET (EDT) / 4:05pm ET (EST) — safely after market close and last price update
+    - cron: '5 21 * * 1-5'
   workflow_dispatch:
 
 permissions:
@@ -12,6 +12,7 @@ permissions:
 jobs:
   eod:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 

@@ -5,31 +5,26 @@ writing eod_data.js for the EOD Summary tab.
 """
 
 import json
-import re
 import os
 from datetime import datetime, timezone
 
 
-def load_data(path):
+def load_json(path):
     if not os.path.exists(path):
         return None
-    with open(path, encoding="utf-8") as f:
-        content = f.read()
-    match = re.search(r"const DATA = ({[\s\S]+});", content)
-    if not match:
-        return None
     try:
-        return json.loads(match.group(1))
-    except json.JSONDecodeError:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except (json.JSONDecodeError, OSError):
         return None
 
 
 def main():
-    data = load_data("data.js")
-    prev = load_data("data_prev.js")
+    data = load_json("data.json")
+    prev = load_json("data_prev.json")
 
     if not data:
-        print("data.js not found — aborting.")
+        print("data.json not found — aborting.")
         return
 
     stocks = data.get("stocks", [])

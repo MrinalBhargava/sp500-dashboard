@@ -209,7 +209,7 @@ let screenerData = [];
 let screenerPage = 1;
 const PAGE_SIZE = 30;
 
-function applyFilters() {
+function applyFilters(resetPage = true) {
   const sector = document.getElementById('filter-sector').value;
   const minScore = parseFloat(document.getElementById('filter-signal').value) || 0;
   const search = document.getElementById('filter-search').value.trim().toUpperCase();
@@ -231,7 +231,7 @@ function applyFilters() {
   };
   filtered.sort(sortMap[sortKey] || sortMap.rank);
 
-  screenerPage = 1;
+  if (resetPage) screenerPage = 1;
   renderScreenerPage(filtered);
 }
 
@@ -385,6 +385,31 @@ function renderEOD() {
 
 // ── Boot ──────────────────────────────────────────────────────────────────────
 
+let _lastUpdated = null;
+
+function refreshWithData(d) {
+  _lastUpdated = d.lastUpdated;
+  document.getElementById('last-updated').textContent = relTime(_lastUpdated);
+  setMarketBadge(d.marketStatus);
+  try { if (d.topPick) renderTopPick(d.topPick); } catch (e) { console.error('Top pick render failed:', e); }
+  try {
+    if (d.stocks) {
+      renderRunnerUps(d.stocks);
+      renderLeaderboard(d.stocks);
+      screenerData = d.stocks;
+      applyFilters(false);
+    }
+  } catch (e) { console.error('Stocks render failed:', e); }
+  try { if (d.sectors) renderSectors(d.sectors); } catch (e) { console.error('Sectors render failed:', e); }
+}
+
+function autoRefresh() {
+  fetch('data.json?_t=' + Date.now())
+    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(d => refreshWithData(d))
+    .catch(() => {});
+}
+
 (function init() {
   if (typeof DATA === 'undefined' || !DATA) {
     document.getElementById('main').innerHTML = `
@@ -396,9 +421,9 @@ function renderEOD() {
     return;
   }
 
-  setMarketBadge(DATA.marketStatus);
-  document.getElementById('last-updated').textContent = relTime(DATA.lastUpdated);
-  setInterval(() => document.getElementById('last-updated').textContent = relTime(DATA.lastUpdated), 30000);
+  _lastUpdated = DATA.lastUpdated;
+  document.getElementById('last-updated').textContent = relTime(_lastUpdated);
+  setInterval(() => document.getElementById('last-updated').textContent = relTime(_lastUpdated), 30000);
 
   try { if (DATA.topPick) renderTopPick(DATA.topPick); } catch (e) { console.error('Top pick render failed:', e); }
   try {
@@ -410,6 +435,10 @@ function renderEOD() {
   } catch (e) { console.error('Stocks render failed:', e); }
   try { if (DATA.sectors) renderSectors(DATA.sectors); } catch (e) { console.error('Sectors render failed:', e); }
   try { renderEOD(); } catch (e) { console.error('EOD render failed:', e); }
+
+  // Refresh immediately if data is already stale, then every 15 minutes
+  if (Date.now() - new Date(_lastUpdated) > 2 * 60 * 1000) autoRefresh();
+  setInterval(autoRefresh, 15 * 60 * 1000);
 
   // Register service worker
   if ('serviceWorker' in navigator) {
