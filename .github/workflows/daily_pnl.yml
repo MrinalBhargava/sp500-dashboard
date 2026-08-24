@@ -1,0 +1,61 @@
+name: Daily P&L Backtest
+
+on:
+  schedule:
+    # 22:10 UTC — after the price loop has stopped for the day (it breaks at
+    # 22:00) and well after the US close in both EDT and EST, so the daily bar
+    # is final and there is no race with a price-update push.
+    - cron: '10 22 * * 1-5'
+    # 12:40 UTC backstop before the next open, in case the evening run was
+    # dropped by GitHub's scheduler. daily_pnl.py recomputes every day from
+    # scratch, so running twice is harmless and a missed run self-heals.
+    - cron: '40 12 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: sp500-pnl
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  pnl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # daily_pnl.py reconstructs each day's recommendation basket from the
+          # commit history of data.json, so it needs the full history.
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Compute daily P&L
+        run: python daily_pnl.py
+
+      - name: Commit P&L
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily_pnl.csv positions_pnl.csv
+          if git diff --cached --quiet; then
+            echo "No P&L change."
+          else
+            git commit -m "chore: daily P&L $(date -u '+%Y-%m-%d')"
+            git pull --rebase origin master
+            git push
+          fi
