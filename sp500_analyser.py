@@ -417,9 +417,31 @@ def main():
             sector_score * 0.20
         )
 
+        # ── Challenger score (V2) ────────────────────────────────────────────
+        # A factor study over the first 40 days of this repo's own history found the
+        # composite above had no cross-sectional information at a one-day horizon
+        # (long-minus-short t = -0.18). The fundamental component was the only
+        # reliably positive one; momentum and sector — 45% of the weight — were
+        # anti-predictive over that window and cancelled it out.
+        #
+        # This challenger tilts hard toward fundamentals but deliberately keeps a
+        # residual momentum/sector weight rather than zeroing it: momentum is a
+        # well-documented factor at 3-12 month horizons, and deleting it on the
+        # strength of 40 days would be fitting noise.
+        #
+        # It does NOT replace the composite. Both are published every run and
+        # daily_pnl.py scores them side by side, so the forward record decides.
+        challenger = (
+            tech_score * 0.15 +
+            fund_score * 0.70 +
+            mom_score * 0.075 +
+            sector_score * 0.075
+        )
+
         output.append({
             **r,
             "composite": round(composite, 1),
+            "challenger": round(challenger, 1),
             "fund_score": round(fund_score, 1),
             "mom_score": round(mom_score, 1),
             "sector_score": round(sector_score, 1),
@@ -495,6 +517,7 @@ def main():
             "price": x["price"],
             "changePct": round(x["mom"]["m1"] / 21 if x["mom"]["m1"] else 0, 2),
             "compositeScore": x["composite"],
+            "challengerScore": x["challenger"],
             "technicalScore": x["tech"]["score"],
             "fundamentalScore": x["fund_score"],
             "momentumScore": x["mom_score"],
