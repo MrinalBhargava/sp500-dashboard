@@ -1,0 +1,57 @@
+name: Monthly Rebalance P&L
+
+on:
+  schedule:
+    # Once a day, after the price loop and the daily P&L job, is plenty — this
+    # only changes on the first trading day of a new month. Running daily just
+    # means a missed run self-heals within 24h, not that anything churns.
+    - cron: '30 22 * * 1-5'
+  workflow_dispatch:
+
+concurrency:
+  group: sp500-monthly-pnl
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  monthly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # monthly_pnl.py reconstructs rankings from the commit history of
+          # data.json, so it needs the full history, same as daily_pnl.py.
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ hashFiles('requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Compute monthly P&L
+        run: python monthly_pnl.py
+
+      - name: Commit monthly P&L
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add monthly_pnl.csv monthly_positions.csv
+          if git diff --cached --quiet; then
+            echo "No monthly P&L change."
+          else
+            git commit -m "chore: monthly P&L $(date -u '+%Y-%m-%d')"
+            git pull --rebase origin master
+            git push
+          fi
