@@ -2,12 +2,22 @@ name: Update Prices (15-min)
 
 on:
   schedule:
-    # Every 15 min, 1:00pm–9:45pm UTC (covers full 9:30am–4pm ET session in both EDT and EST)
-    - cron: '0,15,30,45 13,14,15,16,17,18,19,20,21 * * 1-5'
+    # Hourly trigger at :05 past (avoids the top-of-hour congestion peak where
+    # GitHub drops the most scheduled events). Each run then loops INTERNALLY on
+    # a 15-minute cadence — see "Run analyser on a 15-minute loop" below.
+    #
+    # Why not cron '0,15,30,45'? GitHub runs scheduled workflows on a best-effort
+    # basis and silently drops them under load. Measured on this repo: ~14 of 36
+    # requested 15-min slots actually fired per day (~39%), giving a real cadence
+    # of 35-60 min. Hourly triggers get through reliably, so we ask for 1/hour and
+    # generate the 15-min granularity ourselves inside the job.
+    - cron: '5 13,14,15,16,17,18,19,20,21 * * 1-5'
   workflow_dispatch:
 
 concurrency:
   group: sp500-prices
+  # If the next hourly trigger fires while this run's loop is still going,
+  # the new run takes over. That is intended — it self-heals drift.
   cancel-in-progress: true
 
 permissions:
@@ -16,7 +26,8 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    # 6 iterations x 15 min = 75 min span, + setup/analyser overhead.
+    timeout-minutes: 95
     steps:
       - uses: actions/checkout@v4
 
@@ -34,14 +45,50 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run analyser
-        run: python sp500_analyser.py
-
-      - name: Commit data
+      - name: Run analyser on a 15-minute loop
         run: |
+          set -u
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.js data.json data_prev.js data_prev.json sp500_meta.json
-          git diff --cached --quiet || git commit -m "chore: update prices $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin master
-          git push
+
+          # 6 iterations: 4 cover this hour, 2 are overlap insurance in case the
+          # next hourly trigger is dropped. If it isn't dropped, cancel-in-progress
+          # ends this run early and no work is wasted.
+          ITERATIONS=6
+          INTERVAL=900
+
+          for i in $(seq 1 $ITERATIONS); do
+            # Stop cleanly once the US session is over (22:00 UTC covers EST close).
+            if [ "$(date -u +%H)" -ge 22 ]; then
+              echo "Past 22:00 UTC — session over, ending loop."
+              break
+            fi
+
+            START=$(date +%s)
+            echo "::group::Iteration $i/$ITERATIONS at $(date -u '+%H:%M:%S UTC')"
+
+            if python sp500_analyser.py; then
+              git add data.js data.json data_prev.js data_prev.json sp500_meta.json
+              if git diff --cached --quiet; then
+                echo "No data change — nothing to commit."
+              else
+                git commit -m "chore: update prices $(date -u '+%Y-%m-%d %H:%M UTC')"
+                git pull --rebase origin master
+                git push
+              fi
+            else
+              # A single yfinance hiccup must not kill the remaining iterations.
+              echo "::warning::Analyser failed on iteration $i — continuing to next slot."
+              git reset
+            fi
+            echo "::endgroup::"
+
+            if [ "$i" -lt "$ITERATIONS" ]; then
+              ELAPSED=$(( $(date +%s) - START ))
+              SLEEP=$(( INTERVAL - ELAPSED ))
+              if [ "$SLEEP" -gt 0 ]; then
+                echo "Sleeping ${SLEEP}s until next 15-min slot."
+                sleep "$SLEEP"
+              fi
+            fi
+          done
