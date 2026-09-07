@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T18:44:05Z",
+  "lastUpdated": "2026-09-07T18:59:05Z",
   "marketStatus": "open",
   "totalStocks": 503,
   "topPick": {
@@ -17142,22 +17142,6 @@
     }
   ],
   "sectors": {
-    "Utilities": {
-      "avgScore": 43.3,
-      "topStock": "ED",
-      "stockCount": 31,
-      "etf": "XLU",
-      "etfReturn1m": -1.22,
-      "etfReturn3m": -0.38
-    },
-    "Consumer Discretionary": {
-      "avgScore": 48.5,
-      "topStock": "EXPE",
-      "stockCount": 47,
-      "etf": "XLY",
-      "etfReturn1m": -4.13,
-      "etfReturn3m": -0.22
-    },
     "Industrials": {
       "avgScore": null,
       "topStock": "SWK",
@@ -17166,29 +17150,13 @@
       "etfReturn1m": -5.35,
       "etfReturn3m": 1.19
     },
-    "Health Care": {
-      "avgScore": 53.0,
-      "topStock": "VEEV",
-      "stockCount": 59,
-      "etf": "XLV",
-      "etfReturn1m": 3.48,
-      "etfReturn3m": 12.81
-    },
-    "Energy": {
-      "avgScore": 58.1,
-      "topStock": "VLO",
-      "stockCount": 21,
-      "etf": "XLE",
-      "etfReturn1m": 11.41,
-      "etfReturn3m": 10.62
-    },
-    "Financials": {
-      "avgScore": 56.7,
-      "topStock": "ALL",
-      "stockCount": 76,
-      "etf": "XLF",
-      "etfReturn1m": 0.87,
-      "etfReturn3m": 12.19
+    "Utilities": {
+      "avgScore": 43.3,
+      "topStock": "ED",
+      "stockCount": 31,
+      "etf": "XLU",
+      "etfReturn1m": -1.22,
+      "etfReturn3m": -0.38
     },
     "Consumer Staples": {
       "avgScore": 49.0,
@@ -17206,13 +17174,21 @@
       "etfReturn1m": 0.7,
       "etfReturn3m": 1.11
     },
-    "Information Technology": {
-      "avgScore": 53.5,
-      "topStock": "DELL",
-      "stockCount": 73,
-      "etf": "XLK",
-      "etfReturn1m": -0.37,
-      "etfReturn3m": 1.8
+    "Financials": {
+      "avgScore": 56.7,
+      "topStock": "ALL",
+      "stockCount": 76,
+      "etf": "XLF",
+      "etfReturn1m": 0.87,
+      "etfReturn3m": 12.19
+    },
+    "Real Estate": {
+      "avgScore": 46.6,
+      "topStock": "WELL",
+      "stockCount": 30,
+      "etf": "XLRE",
+      "etfReturn1m": -2.33,
+      "etfReturn3m": 0.65
     },
     "Materials": {
       "avgScore": 50.1,
@@ -17222,13 +17198,37 @@
       "etfReturn1m": -0.79,
       "etfReturn3m": 5.36
     },
-    "Real Estate": {
-      "avgScore": 46.6,
-      "topStock": "WELL",
-      "stockCount": 30,
-      "etf": "XLRE",
-      "etfReturn1m": -2.33,
-      "etfReturn3m": 0.65
+    "Information Technology": {
+      "avgScore": 53.5,
+      "topStock": "DELL",
+      "stockCount": 73,
+      "etf": "XLK",
+      "etfReturn1m": -0.37,
+      "etfReturn3m": 1.8
+    },
+    "Energy": {
+      "avgScore": 58.1,
+      "topStock": "VLO",
+      "stockCount": 21,
+      "etf": "XLE",
+      "etfReturn1m": 11.41,
+      "etfReturn3m": 10.62
+    },
+    "Consumer Discretionary": {
+      "avgScore": 48.5,
+      "topStock": "EXPE",
+      "stockCount": 47,
+      "etf": "XLY",
+      "etfReturn1m": -4.13,
+      "etfReturn3m": -0.22
+    },
+    "Health Care": {
+      "avgScore": 53.0,
+      "topStock": "VEEV",
+      "stockCount": 59,
+      "etf": "XLV",
+      "etfReturn1m": 3.48,
+      "etfReturn3m": 12.81
     }
   }
 }
