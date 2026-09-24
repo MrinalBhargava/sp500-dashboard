@@ -2,22 +2,38 @@ name: Update Prices (15-min)
 
 on:
   schedule:
-    # Hourly trigger at :05 past (avoids the top-of-hour congestion peak where
-    # GitHub drops the most scheduled events). Each run then loops INTERNALLY on
-    # a 15-minute cadence — see "Run analyser on a 15-minute loop" below.
+    # TWO-TIER SCHEDULE. Read this before changing it.
     #
-    # Why not cron '0,15,30,45'? GitHub runs scheduled workflows on a best-effort
-    # basis and silently drops them under load. Measured on this repo: ~14 of 36
-    # requested 15-min slots actually fired per day (~39%), giving a real cadence
-    # of 35-60 min. Hourly triggers get through reliably, so we ask for 1/hour and
-    # generate the 15-min granularity ourselves inside the job.
-    - cron: '5 13,14,15,16,17,18,19,20,21 * * 1-5'
+    # GitHub runs `schedule` events best-effort and silently DROPS them under
+    # load. Every dropped trigger still leaves the Actions tab all-green, so
+    # cadence must be diagnosed from the SPACING OF COMMIT TIMESTAMPS, never
+    # from the pass/fail column.
+    #
+    # Measured on this repo:
+    #   - 15-min cron  (0,15,30,45): ~39% of slots fired.
+    #   - hourly cron  (5 13..21):   2-3 of 9 fired per day through Sep 2026,
+    #                                30-45 min late, so the first update of the
+    #                                day landed 17:00-18:40 UTC against a 13:30
+    #                                open, with 140-min mid-session blackouts.
+    #
+    # So we stop treating the trigger as the cadence mechanism. The trigger only
+    # has to IGNITE the day; the job then generates 15-min granularity itself and
+    # keeps going for hours (see "Run analyser on a 15-minute loop").
+    #
+    # Tier 1 - ignition. Four attempts an hour across the pre-open and first
+    # hours of the session. At the measured ~39% hit rate, the chance all twelve
+    # are dropped is negligible. Any one that lands starts the day.
+    - cron: '2,17,32,47 13,14,15 * * 1-5'
+    # Tier 2 - handoff/backstop. Picks the session back up if the whole morning
+    # was dropped, and takes over from a run that has hit its 5h30m cap.
+    - cron: '5 16,17,18,19,20,21 * * 1-5'
   workflow_dispatch:
 
 concurrency:
   group: sp500-prices
-  # If the next hourly trigger fires while this run's loop is still going,
-  # the new run takes over. That is intended — it self-heals drift.
+  # A later trigger takes over from the run in flight. A fresh run scores on its
+  # first iteration, so a takeover costs ~90s of setup and immediately resumes
+  # the cadence. This is what makes the dense ignition tier safe.
   cancel-in-progress: true
 
 permissions:
@@ -26,8 +42,9 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    # 6 iterations x 15 min = 75 min span, + setup/analyser overhead.
-    timeout-minutes: 95
+    # The loop self-limits to 5h30m (see MAX_RUN_SECONDS); GitHub hard-kills any
+    # hosted job at 6h, so this ceiling sits between the two.
+    timeout-minutes: 345
     steps:
       - uses: actions/checkout@v4
 
@@ -51,26 +68,39 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 6 iterations: 4 cover this hour, 2 are overlap insurance in case the
-          # next hourly trigger is dropped. If it isn't dropped, cancel-in-progress
-          # ends this run early and no work is wasted.
-          ITERATIONS=6
-          INTERVAL=900
+          INTERVAL=900          # 15 minutes
+          MAX_RUN_SECONDS=19800 # 5h30m, under GitHub's 6h hard job limit
+          END_HOUR_UTC=22       # covers the 21:00 UTC close under EST and 20:00 under EDT
 
-          for i in $(seq 1 $ITERATIONS); do
-            # Stop cleanly once the US session is over (22:00 UTC covers EST close).
-            if [ "$(date -u +%H)" -ge 22 ]; then
-              echo "Past 22:00 UTC — session over, ending loop."
+          RUN_START=$(date +%s)
+          i=0
+
+          # TIME-bounded, not count-bounded. The old version ran a fixed 6
+          # iterations (75 min) and then exited, so a day with two surviving
+          # triggers produced two tight clusters and hours of silence between
+          # them. Running until the close means ONE surviving trigger covers the
+          # rest of the session on its own.
+          while :; do
+            i=$((i + 1))
+
+            if [ "$(date -u +%H)" -ge "$END_HOUR_UTC" ]; then
+              echo "Past ${END_HOUR_UTC}:00 UTC - session over, ending loop."
+              break
+            fi
+
+            ELAPSED_TOTAL=$(( $(date +%s) - RUN_START ))
+            if [ "$ELAPSED_TOTAL" -ge "$MAX_RUN_SECONDS" ]; then
+              echo "Hit the 5h30m cap - exiting cleanly for the next hourly trigger to take over."
               break
             fi
 
             START=$(date +%s)
-            echo "::group::Iteration $i/$ITERATIONS at $(date -u '+%H:%M:%S UTC')"
+            echo "::group::Iteration $i at $(date -u '+%H:%M:%S UTC') (${ELAPSED_TOTAL}s into run)"
 
             if python sp500_analyser.py; then
               git add data.js data.json data_prev.js data_prev.json sp500_meta.json
               if git diff --cached --quiet; then
-                echo "No data change — nothing to commit."
+                echo "No data change - nothing to commit."
               else
                 git commit -m "chore: update prices $(date -u '+%Y-%m-%d %H:%M UTC')"
                 git pull --rebase origin master
@@ -78,17 +108,17 @@ jobs:
               fi
             else
               # A single yfinance hiccup must not kill the remaining iterations.
-              echo "::warning::Analyser failed on iteration $i — continuing to next slot."
+              echo "::warning::Analyser failed on iteration $i - continuing to next slot."
               git reset
+              git rebase --abort 2>/dev/null || true
+              git checkout -- . 2>/dev/null || true
             fi
             echo "::endgroup::"
 
-            if [ "$i" -lt "$ITERATIONS" ]; then
-              ELAPSED=$(( $(date +%s) - START ))
-              SLEEP=$(( INTERVAL - ELAPSED ))
-              if [ "$SLEEP" -gt 0 ]; then
-                echo "Sleeping ${SLEEP}s until next 15-min slot."
-                sleep "$SLEEP"
-              fi
+            ELAPSED=$(( $(date +%s) - START ))
+            SLEEP=$(( INTERVAL - ELAPSED ))
+            if [ "$SLEEP" -gt 0 ]; then
+              echo "Sleeping ${SLEEP}s until next 15-min slot."
+              sleep "$SLEEP"
             fi
           done
