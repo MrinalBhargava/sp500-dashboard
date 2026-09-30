@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T21:41:40Z",
+  "lastUpdated": "2026-09-29T21:56:39Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -17150,6 +17150,14 @@
       "etfReturn1m": -6.08,
       "etfReturn3m": -1.06
     },
+    "Information Technology": {
+      "avgScore": 55.6,
+      "topStock": "SMCI",
+      "stockCount": 74,
+      "etf": "XLK",
+      "etfReturn1m": 4.41,
+      "etfReturn3m": 4.91
+    },
     "Health Care": {
       "avgScore": 53.5,
       "topStock": "INCY",
@@ -17182,13 +17190,13 @@
       "etfReturn1m": -3.17,
       "etfReturn3m": -7.51
     },
-    "Energy": {
-      "avgScore": 57.2,
-      "topStock": "MPC",
-      "stockCount": 21,
-      "etf": "XLE",
-      "etfReturn1m": -3.21,
-      "etfReturn3m": 17.22
+    "Consumer Staples": {
+      "avgScore": 49.7,
+      "topStock": "TGT",
+      "stockCount": 33,
+      "etf": "XLP",
+      "etfReturn1m": -3.05,
+      "etfReturn3m": -1.09
     },
     "Materials": {
       "avgScore": 49.5,
@@ -17198,6 +17206,14 @@
       "etfReturn1m": -6.38,
       "etfReturn3m": -3.32
     },
+    "Utilities": {
+      "avgScore": 42.3,
+      "topStock": "AES",
+      "stockCount": 31,
+      "etf": "XLU",
+      "etfReturn1m": -5.28,
+      "etfReturn3m": -10.65
+    },
     "Real Estate": {
       "avgScore": 47.3,
       "topStock": "WELL",
@@ -17206,29 +17222,13 @@
       "etfReturn1m": -5.49,
       "etfReturn3m": -5.64
     },
-    "Information Technology": {
-      "avgScore": 55.6,
-      "topStock": "SMCI",
-      "stockCount": 74,
-      "etf": "XLK",
-      "etfReturn1m": 4.41,
-      "etfReturn3m": 4.91
-    },
-    "Consumer Staples": {
-      "avgScore": 49.7,
-      "topStock": "TGT",
-      "stockCount": 33,
-      "etf": "XLP",
-      "etfReturn1m": -3.05,
-      "etfReturn3m": -1.09
-    },
-    "Utilities": {
-      "avgScore": 42.3,
-      "topStock": "AES",
-      "stockCount": 31,
-      "etf": "XLU",
-      "etfReturn1m": -5.28,
-      "etfReturn3m": -10.65
+    "Energy": {
+      "avgScore": 57.2,
+      "topStock": "MPC",
+      "stockCount": 21,
+      "etf": "XLE",
+      "etfReturn1m": -3.21,
+      "etfReturn3m": 17.22
     }
   }
 }
