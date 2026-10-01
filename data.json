@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T00:29:38Z",
+  "lastUpdated": "2026-10-01T00:44:41Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -17142,51 +17142,11 @@
     }
   ],
   "sectors": {
-    "Health Care": {
-      "avgScore": null,
-      "topStock": "ABT",
-      "stockCount": 60,
-      "etf": "XLV",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Consumer Discretionary": {
-      "avgScore": null,
-      "topStock": "ABNB",
-      "stockCount": 47,
-      "etf": "XLY",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
     "Financials": {
       "avgScore": null,
       "topStock": "AFL",
       "stockCount": 76,
       "etf": "XLF",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Information Technology": {
-      "avgScore": null,
-      "topStock": "ACN",
-      "stockCount": 74,
-      "etf": "XLK",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Energy": {
-      "avgScore": null,
-      "topStock": "APA",
-      "stockCount": 21,
-      "etf": "XLE",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Industrials": {
-      "avgScore": null,
-      "topStock": "MMM",
-      "stockCount": 83,
-      "etf": "XLI",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17214,11 +17174,51 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
+    "Industrials": {
+      "avgScore": null,
+      "topStock": "MMM",
+      "stockCount": 83,
+      "etf": "XLI",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
     "Consumer Staples": {
       "avgScore": null,
       "topStock": "MO",
       "stockCount": 33,
       "etf": "XLP",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Health Care": {
+      "avgScore": null,
+      "topStock": "ABT",
+      "stockCount": 60,
+      "etf": "XLV",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Energy": {
+      "avgScore": null,
+      "topStock": "APA",
+      "stockCount": 21,
+      "etf": "XLE",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Information Technology": {
+      "avgScore": null,
+      "topStock": "ACN",
+      "stockCount": 74,
+      "etf": "XLK",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Consumer Discretionary": {
+      "avgScore": null,
+      "topStock": "ABNB",
+      "stockCount": 47,
+      "etf": "XLY",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
