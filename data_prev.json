@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T00:59:29Z",
+  "lastUpdated": "2026-10-01T01:14:26Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -17142,27 +17142,11 @@
     }
   ],
   "sectors": {
-    "Communication Services": {
+    "Energy": {
       "avgScore": null,
-      "topStock": "GOOGL",
-      "stockCount": 23,
-      "etf": "XLC",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Financials": {
-      "avgScore": null,
-      "topStock": "AFL",
-      "stockCount": 76,
-      "etf": "XLF",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Consumer Discretionary": {
-      "avgScore": null,
-      "topStock": "ABNB",
-      "stockCount": 47,
-      "etf": "XLY",
+      "topStock": "APA",
+      "stockCount": 21,
+      "etf": "XLE",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17174,19 +17158,19 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Energy": {
+    "Financials": {
       "avgScore": null,
-      "topStock": "APA",
-      "stockCount": 21,
-      "etf": "XLE",
+      "topStock": "AFL",
+      "stockCount": 76,
+      "etf": "XLF",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Real Estate": {
+    "Communication Services": {
       "avgScore": null,
-      "topStock": "ARE",
-      "stockCount": 30,
-      "etf": "XLRE",
+      "topStock": "GOOGL",
+      "stockCount": 23,
+      "etf": "XLC",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17195,6 +17179,14 @@
       "topStock": "ACN",
       "stockCount": 74,
       "etf": "XLK",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Consumer Discretionary": {
+      "avgScore": null,
+      "topStock": "ABNB",
+      "stockCount": 47,
+      "etf": "XLY",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17214,19 +17206,27 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Consumer Staples": {
-      "avgScore": null,
-      "topStock": "MO",
-      "stockCount": 33,
-      "etf": "XLP",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
     "Materials": {
       "avgScore": null,
       "topStock": "APD",
       "stockCount": 25,
       "etf": "XLB",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Real Estate": {
+      "avgScore": null,
+      "topStock": "ARE",
+      "stockCount": 30,
+      "etf": "XLRE",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Consumer Staples": {
+      "avgScore": null,
+      "topStock": "MO",
+      "stockCount": 33,
+      "etf": "XLP",
       "etfReturn1m": null,
       "etfReturn3m": null
     }
