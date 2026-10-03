@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T03:23:13Z",
+  "lastUpdated": "2026-10-03T03:38:16Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -17142,22 +17142,6 @@
     }
   ],
   "sectors": {
-    "Consumer Staples": {
-      "avgScore": 49.2,
-      "topStock": "TGT",
-      "stockCount": 33,
-      "etf": "XLP",
-      "etfReturn1m": -4.93,
-      "etfReturn3m": -4.48
-    },
-    "Consumer Discretionary": {
-      "avgScore": 48.9,
-      "topStock": "BBY",
-      "stockCount": 47,
-      "etf": "XLY",
-      "etfReturn1m": -5.3,
-      "etfReturn3m": -6.05
-    },
     "Energy": {
       "avgScore": 56.5,
       "topStock": "MPC",
@@ -17165,46 +17149,6 @@
       "etf": "XLE",
       "etfReturn1m": -2.21,
       "etfReturn3m": 15.65
-    },
-    "Health Care": {
-      "avgScore": 53.2,
-      "topStock": "VEEV",
-      "stockCount": 60,
-      "etf": "XLV",
-      "etfReturn1m": -3.72,
-      "etfReturn3m": 1.44
-    },
-    "Utilities": {
-      "avgScore": 42.4,
-      "topStock": "AES",
-      "stockCount": 31,
-      "etf": "XLU",
-      "etfReturn1m": -6.76,
-      "etfReturn3m": -12.2
-    },
-    "Communication Services": {
-      "avgScore": 50.5,
-      "topStock": "META",
-      "stockCount": 23,
-      "etf": "XLC",
-      "etfReturn1m": -2.38,
-      "etfReturn3m": -0.3
-    },
-    "Financials": {
-      "avgScore": 54.0,
-      "topStock": "TRV",
-      "stockCount": 76,
-      "etf": "XLF",
-      "etfReturn1m": -8.33,
-      "etfReturn3m": -4.23
-    },
-    "Real Estate": {
-      "avgScore": 46.8,
-      "topStock": "HST",
-      "stockCount": 30,
-      "etf": "XLRE",
-      "etfReturn1m": -7.0,
-      "etfReturn3m": -8.32
     },
     "Information Technology": {
       "avgScore": 56.7,
@@ -17214,13 +17158,13 @@
       "etfReturn1m": 7.57,
       "etfReturn3m": 11.64
     },
-    "Industrials": {
-      "avgScore": 49.7,
-      "topStock": "EXPD",
-      "stockCount": 83,
-      "etf": "XLI",
-      "etfReturn1m": -2.38,
-      "etfReturn3m": -6.56
+    "Real Estate": {
+      "avgScore": 46.8,
+      "topStock": "HST",
+      "stockCount": 30,
+      "etf": "XLRE",
+      "etfReturn1m": -7.0,
+      "etfReturn3m": -8.32
     },
     "Materials": {
       "avgScore": 48.8,
@@ -17229,6 +17173,62 @@
       "etf": "XLB",
       "etfReturn1m": -6.72,
       "etfReturn3m": -4.71
+    },
+    "Industrials": {
+      "avgScore": 49.7,
+      "topStock": "EXPD",
+      "stockCount": 83,
+      "etf": "XLI",
+      "etfReturn1m": -2.38,
+      "etfReturn3m": -6.56
+    },
+    "Health Care": {
+      "avgScore": 53.2,
+      "topStock": "VEEV",
+      "stockCount": 60,
+      "etf": "XLV",
+      "etfReturn1m": -3.72,
+      "etfReturn3m": 1.44
+    },
+    "Consumer Staples": {
+      "avgScore": 49.2,
+      "topStock": "TGT",
+      "stockCount": 33,
+      "etf": "XLP",
+      "etfReturn1m": -4.93,
+      "etfReturn3m": -4.48
+    },
+    "Financials": {
+      "avgScore": 54.0,
+      "topStock": "TRV",
+      "stockCount": 76,
+      "etf": "XLF",
+      "etfReturn1m": -8.33,
+      "etfReturn3m": -4.23
+    },
+    "Communication Services": {
+      "avgScore": 50.5,
+      "topStock": "META",
+      "stockCount": 23,
+      "etf": "XLC",
+      "etfReturn1m": -2.38,
+      "etfReturn3m": -0.3
+    },
+    "Utilities": {
+      "avgScore": 42.4,
+      "topStock": "AES",
+      "stockCount": 31,
+      "etf": "XLU",
+      "etfReturn1m": -6.76,
+      "etfReturn3m": -12.2
+    },
+    "Consumer Discretionary": {
+      "avgScore": 48.9,
+      "topStock": "BBY",
+      "stockCount": 47,
+      "etf": "XLY",
+      "etfReturn1m": -5.3,
+      "etfReturn3m": -6.05
     }
   }
 }
