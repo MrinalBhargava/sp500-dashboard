@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T00:56:56Z",
+  "lastUpdated": "2026-10-10T01:11:44Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -15,7 +15,7 @@
     "momentumScore": 50.1,
     "sectorScore": null,
     "rank": 1,
-    "prevRank": 72,
+    "prevRank": 1,
     "signals": {
       "rsi": null,
       "macd": "bearish",
@@ -51,7 +51,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 1,
-      "prevRank": 72,
+      "prevRank": 1,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -85,7 +85,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 2,
-      "prevRank": 170,
+      "prevRank": 2,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -119,7 +119,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 3,
-      "prevRank": 122,
+      "prevRank": 3,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -153,7 +153,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 4,
-      "prevRank": 66,
+      "prevRank": 4,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -187,7 +187,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 5,
-      "prevRank": 6,
+      "prevRank": 5,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -221,7 +221,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 6,
-      "prevRank": 69,
+      "prevRank": 6,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -255,7 +255,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 7,
-      "prevRank": 54,
+      "prevRank": 7,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -289,7 +289,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 8,
-      "prevRank": 74,
+      "prevRank": 8,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -323,7 +323,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 9,
-      "prevRank": 107,
+      "prevRank": 9,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -357,7 +357,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 10,
-      "prevRank": 43,
+      "prevRank": 10,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -391,7 +391,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 11,
-      "prevRank": 220,
+      "prevRank": 11,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -425,7 +425,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 12,
-      "prevRank": 22,
+      "prevRank": 12,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -459,7 +459,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 13,
-      "prevRank": 239,
+      "prevRank": 13,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -493,7 +493,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 14,
-      "prevRank": 240,
+      "prevRank": 14,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -527,7 +527,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 15,
-      "prevRank": 121,
+      "prevRank": 15,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -561,7 +561,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 16,
-      "prevRank": 245,
+      "prevRank": 16,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -595,7 +595,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 17,
-      "prevRank": 37,
+      "prevRank": 17,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -629,7 +629,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 18,
-      "prevRank": 255,
+      "prevRank": 18,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -663,7 +663,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 19,
-      "prevRank": 91,
+      "prevRank": 19,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -697,7 +697,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 20,
-      "prevRank": 55,
+      "prevRank": 20,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -731,7 +731,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 21,
-      "prevRank": 65,
+      "prevRank": 21,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -765,7 +765,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 22,
-      "prevRank": 83,
+      "prevRank": 22,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -799,7 +799,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 23,
-      "prevRank": 26,
+      "prevRank": 23,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -833,7 +833,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 24,
-      "prevRank": 79,
+      "prevRank": 24,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -867,7 +867,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 25,
-      "prevRank": 207,
+      "prevRank": 25,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -901,7 +901,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 26,
-      "prevRank": 205,
+      "prevRank": 26,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -935,7 +935,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 27,
-      "prevRank": 218,
+      "prevRank": 27,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -969,7 +969,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 28,
-      "prevRank": 116,
+      "prevRank": 28,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1003,7 +1003,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 29,
-      "prevRank": 33,
+      "prevRank": 29,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1037,7 +1037,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 30,
-      "prevRank": 142,
+      "prevRank": 30,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1071,7 +1071,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 31,
-      "prevRank": 67,
+      "prevRank": 31,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1105,7 +1105,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 32,
-      "prevRank": 70,
+      "prevRank": 32,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1139,7 +1139,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 33,
-      "prevRank": 28,
+      "prevRank": 33,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1173,7 +1173,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 34,
-      "prevRank": 78,
+      "prevRank": 34,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1207,7 +1207,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 35,
-      "prevRank": 105,
+      "prevRank": 35,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1241,7 +1241,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 36,
-      "prevRank": 247,
+      "prevRank": 36,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1275,7 +1275,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 37,
-      "prevRank": 7,
+      "prevRank": 37,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1309,7 +1309,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 38,
-      "prevRank": 97,
+      "prevRank": 38,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1343,7 +1343,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 39,
-      "prevRank": 95,
+      "prevRank": 39,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1377,7 +1377,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 40,
-      "prevRank": 176,
+      "prevRank": 40,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1411,7 +1411,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 41,
-      "prevRank": 228,
+      "prevRank": 41,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1445,7 +1445,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 42,
-      "prevRank": 258,
+      "prevRank": 42,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1479,7 +1479,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 43,
-      "prevRank": 144,
+      "prevRank": 43,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1513,7 +1513,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 44,
-      "prevRank": 108,
+      "prevRank": 44,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1547,7 +1547,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 45,
-      "prevRank": 137,
+      "prevRank": 45,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1581,7 +1581,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 46,
-      "prevRank": 48,
+      "prevRank": 46,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1615,7 +1615,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 47,
-      "prevRank": 199,
+      "prevRank": 47,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1649,7 +1649,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 48,
-      "prevRank": 45,
+      "prevRank": 48,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1683,7 +1683,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 49,
-      "prevRank": 92,
+      "prevRank": 49,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1717,7 +1717,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 50,
-      "prevRank": 200,
+      "prevRank": 50,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1751,7 +1751,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 51,
-      "prevRank": 73,
+      "prevRank": 51,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1785,7 +1785,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 52,
-      "prevRank": 23,
+      "prevRank": 52,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1819,7 +1819,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 53,
-      "prevRank": 186,
+      "prevRank": 53,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1853,7 +1853,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 54,
-      "prevRank": 62,
+      "prevRank": 54,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -1887,7 +1887,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 55,
-      "prevRank": 235,
+      "prevRank": 55,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1921,7 +1921,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 56,
-      "prevRank": 206,
+      "prevRank": 56,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1955,7 +1955,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 57,
-      "prevRank": 147,
+      "prevRank": 57,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -1989,7 +1989,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 58,
-      "prevRank": 192,
+      "prevRank": 58,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2023,7 +2023,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 59,
-      "prevRank": 102,
+      "prevRank": 59,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2057,7 +2057,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 60,
-      "prevRank": 64,
+      "prevRank": 60,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2091,7 +2091,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 61,
-      "prevRank": 27,
+      "prevRank": 61,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2125,7 +2125,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 62,
-      "prevRank": 16,
+      "prevRank": 62,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2159,7 +2159,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 63,
-      "prevRank": 177,
+      "prevRank": 63,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2193,7 +2193,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 64,
-      "prevRank": 106,
+      "prevRank": 64,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2227,7 +2227,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 65,
-      "prevRank": 47,
+      "prevRank": 65,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2261,7 +2261,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 66,
-      "prevRank": 150,
+      "prevRank": 66,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2295,7 +2295,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 67,
-      "prevRank": 171,
+      "prevRank": 67,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2329,7 +2329,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 68,
-      "prevRank": 35,
+      "prevRank": 68,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2363,7 +2363,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 69,
-      "prevRank": 138,
+      "prevRank": 69,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2397,7 +2397,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 70,
-      "prevRank": 226,
+      "prevRank": 70,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2431,7 +2431,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 71,
-      "prevRank": 149,
+      "prevRank": 71,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2465,7 +2465,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 72,
-      "prevRank": 194,
+      "prevRank": 72,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2499,7 +2499,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 73,
-      "prevRank": 93,
+      "prevRank": 73,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2533,7 +2533,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 74,
-      "prevRank": 184,
+      "prevRank": 74,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2567,7 +2567,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 75,
-      "prevRank": 36,
+      "prevRank": 75,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2601,7 +2601,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 76,
-      "prevRank": 179,
+      "prevRank": 76,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2635,7 +2635,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 77,
-      "prevRank": 101,
+      "prevRank": 77,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2669,7 +2669,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 78,
-      "prevRank": 229,
+      "prevRank": 78,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2703,7 +2703,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 79,
-      "prevRank": 219,
+      "prevRank": 79,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2737,7 +2737,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 80,
-      "prevRank": 248,
+      "prevRank": 80,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -2771,7 +2771,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 81,
-      "prevRank": 153,
+      "prevRank": 81,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2805,7 +2805,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 82,
-      "prevRank": 257,
+      "prevRank": 82,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2839,7 +2839,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 83,
-      "prevRank": 119,
+      "prevRank": 83,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2873,7 +2873,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 84,
-      "prevRank": 127,
+      "prevRank": 84,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2907,7 +2907,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 85,
-      "prevRank": 146,
+      "prevRank": 85,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2941,7 +2941,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 86,
-      "prevRank": 259,
+      "prevRank": 86,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -2975,7 +2975,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 87,
-      "prevRank": 185,
+      "prevRank": 87,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3009,7 +3009,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 88,
-      "prevRank": 252,
+      "prevRank": 88,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3043,7 +3043,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 89,
-      "prevRank": 211,
+      "prevRank": 89,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3077,7 +3077,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 90,
-      "prevRank": 34,
+      "prevRank": 90,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3111,7 +3111,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 91,
-      "prevRank": 136,
+      "prevRank": 91,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3145,7 +3145,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 92,
-      "prevRank": 118,
+      "prevRank": 92,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3179,7 +3179,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 93,
-      "prevRank": 141,
+      "prevRank": 93,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3213,7 +3213,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 94,
-      "prevRank": 148,
+      "prevRank": 94,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3247,7 +3247,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 95,
-      "prevRank": 227,
+      "prevRank": 95,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3281,7 +3281,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 96,
-      "prevRank": 109,
+      "prevRank": 96,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3315,7 +3315,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 97,
-      "prevRank": 38,
+      "prevRank": 97,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3349,7 +3349,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 98,
-      "prevRank": 129,
+      "prevRank": 98,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3383,7 +3383,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 99,
-      "prevRank": 221,
+      "prevRank": 99,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3417,7 +3417,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 100,
-      "prevRank": 19,
+      "prevRank": 100,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3451,7 +3451,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 101,
-      "prevRank": 236,
+      "prevRank": 101,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3485,7 +3485,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 102,
-      "prevRank": 80,
+      "prevRank": 102,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3519,7 +3519,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 103,
-      "prevRank": 132,
+      "prevRank": 103,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3553,7 +3553,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 104,
-      "prevRank": 162,
+      "prevRank": 104,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3587,7 +3587,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 105,
-      "prevRank": 175,
+      "prevRank": 105,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3621,7 +3621,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 106,
-      "prevRank": 113,
+      "prevRank": 106,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3655,7 +3655,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 107,
-      "prevRank": 57,
+      "prevRank": 107,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3689,7 +3689,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 108,
-      "prevRank": 117,
+      "prevRank": 108,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3723,7 +3723,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 109,
-      "prevRank": 96,
+      "prevRank": 109,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3757,7 +3757,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 110,
-      "prevRank": 173,
+      "prevRank": 110,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3791,7 +3791,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 111,
-      "prevRank": 243,
+      "prevRank": 111,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3825,7 +3825,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 112,
-      "prevRank": 76,
+      "prevRank": 112,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3859,7 +3859,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 113,
-      "prevRank": 256,
+      "prevRank": 113,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3893,7 +3893,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 114,
-      "prevRank": 56,
+      "prevRank": 114,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3927,7 +3927,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 115,
-      "prevRank": 58,
+      "prevRank": 115,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -3961,7 +3961,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 116,
-      "prevRank": 154,
+      "prevRank": 116,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -3995,7 +3995,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 117,
-      "prevRank": 53,
+      "prevRank": 117,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -4029,7 +4029,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 118,
-      "prevRank": 164,
+      "prevRank": 118,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4063,7 +4063,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 119,
-      "prevRank": 223,
+      "prevRank": 119,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -4097,7 +4097,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 120,
-      "prevRank": 90,
+      "prevRank": 120,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4131,7 +4131,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 121,
-      "prevRank": 21,
+      "prevRank": 121,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4165,7 +4165,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 122,
-      "prevRank": 135,
+      "prevRank": 122,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4199,7 +4199,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 123,
-      "prevRank": 187,
+      "prevRank": 123,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4233,7 +4233,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 124,
-      "prevRank": 85,
+      "prevRank": 124,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4267,7 +4267,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 125,
-      "prevRank": 224,
+      "prevRank": 125,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4301,7 +4301,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 126,
-      "prevRank": 168,
+      "prevRank": 126,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -4335,7 +4335,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 127,
-      "prevRank": 241,
+      "prevRank": 127,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4369,7 +4369,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 128,
-      "prevRank": 24,
+      "prevRank": 128,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4403,7 +4403,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 129,
-      "prevRank": 115,
+      "prevRank": 129,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4437,7 +4437,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 130,
-      "prevRank": 158,
+      "prevRank": 130,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4471,7 +4471,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 131,
-      "prevRank": 237,
+      "prevRank": 131,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4505,7 +4505,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 132,
-      "prevRank": 49,
+      "prevRank": 132,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -4539,7 +4539,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 133,
-      "prevRank": 140,
+      "prevRank": 133,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4573,7 +4573,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 134,
-      "prevRank": 143,
+      "prevRank": 134,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4607,7 +4607,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 135,
-      "prevRank": 246,
+      "prevRank": 135,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4641,7 +4641,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 136,
-      "prevRank": 197,
+      "prevRank": 136,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4675,7 +4675,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 137,
-      "prevRank": 112,
+      "prevRank": 137,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -4709,7 +4709,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 138,
-      "prevRank": 120,
+      "prevRank": 138,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -4743,7 +4743,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 139,
-      "prevRank": 110,
+      "prevRank": 139,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4777,7 +4777,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 140,
-      "prevRank": 165,
+      "prevRank": 140,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4811,7 +4811,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 141,
-      "prevRank": 234,
+      "prevRank": 141,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4845,7 +4845,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 142,
-      "prevRank": 98,
+      "prevRank": 142,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -4879,7 +4879,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 143,
-      "prevRank": 30,
+      "prevRank": 143,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -4913,7 +4913,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 144,
-      "prevRank": 71,
+      "prevRank": 144,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4947,7 +4947,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 145,
-      "prevRank": 42,
+      "prevRank": 145,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -4981,7 +4981,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 146,
-      "prevRank": 32,
+      "prevRank": 146,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -5015,7 +5015,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 147,
-      "prevRank": 131,
+      "prevRank": 147,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5049,7 +5049,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 148,
-      "prevRank": 104,
+      "prevRank": 148,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5083,7 +5083,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 149,
-      "prevRank": 46,
+      "prevRank": 149,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5117,7 +5117,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 150,
-      "prevRank": 123,
+      "prevRank": 150,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5151,7 +5151,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 151,
-      "prevRank": 231,
+      "prevRank": 151,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5185,7 +5185,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 152,
-      "prevRank": 163,
+      "prevRank": 152,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5219,7 +5219,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 153,
-      "prevRank": 81,
+      "prevRank": 153,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5253,7 +5253,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 154,
-      "prevRank": 214,
+      "prevRank": 154,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5287,7 +5287,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 155,
-      "prevRank": 201,
+      "prevRank": 155,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5321,7 +5321,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 156,
-      "prevRank": 180,
+      "prevRank": 156,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -5355,7 +5355,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 157,
-      "prevRank": 253,
+      "prevRank": 157,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5389,7 +5389,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 158,
-      "prevRank": 181,
+      "prevRank": 158,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5423,7 +5423,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 159,
-      "prevRank": 130,
+      "prevRank": 159,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5457,7 +5457,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 160,
-      "prevRank": 111,
+      "prevRank": 160,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -5491,7 +5491,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 161,
-      "prevRank": 94,
+      "prevRank": 161,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5525,7 +5525,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 162,
-      "prevRank": 183,
+      "prevRank": 162,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5559,7 +5559,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 163,
-      "prevRank": 125,
+      "prevRank": 163,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5593,7 +5593,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 164,
-      "prevRank": 254,
+      "prevRank": 164,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5627,7 +5627,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 165,
-      "prevRank": 198,
+      "prevRank": 165,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -5661,7 +5661,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 166,
-      "prevRank": 152,
+      "prevRank": 166,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -5695,7 +5695,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 167,
-      "prevRank": 75,
+      "prevRank": 167,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5729,7 +5729,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 168,
-      "prevRank": 29,
+      "prevRank": 168,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5763,7 +5763,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 169,
-      "prevRank": 244,
+      "prevRank": 169,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5797,7 +5797,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 170,
-      "prevRank": 31,
+      "prevRank": 170,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5831,7 +5831,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 171,
-      "prevRank": 156,
+      "prevRank": 171,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5865,7 +5865,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 172,
-      "prevRank": 230,
+      "prevRank": 172,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5899,7 +5899,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 173,
-      "prevRank": 89,
+      "prevRank": 173,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5933,7 +5933,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 174,
-      "prevRank": 189,
+      "prevRank": 174,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -5967,7 +5967,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 175,
-      "prevRank": 182,
+      "prevRank": 175,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6001,7 +6001,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 176,
-      "prevRank": 40,
+      "prevRank": 176,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -6035,7 +6035,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 177,
-      "prevRank": 87,
+      "prevRank": 177,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -6069,7 +6069,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 178,
-      "prevRank": 151,
+      "prevRank": 178,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6103,7 +6103,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 179,
-      "prevRank": 14,
+      "prevRank": 179,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6137,7 +6137,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 180,
-      "prevRank": 212,
+      "prevRank": 180,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6171,7 +6171,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 181,
-      "prevRank": 216,
+      "prevRank": 181,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6205,7 +6205,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 182,
-      "prevRank": 188,
+      "prevRank": 182,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6239,7 +6239,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 183,
-      "prevRank": 18,
+      "prevRank": 183,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6273,7 +6273,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 184,
-      "prevRank": 12,
+      "prevRank": 184,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6307,7 +6307,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 185,
-      "prevRank": 160,
+      "prevRank": 185,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6341,7 +6341,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 186,
-      "prevRank": 44,
+      "prevRank": 186,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6375,7 +6375,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 187,
-      "prevRank": 82,
+      "prevRank": 187,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6409,7 +6409,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 188,
-      "prevRank": 15,
+      "prevRank": 188,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6443,7 +6443,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 189,
-      "prevRank": 233,
+      "prevRank": 189,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -6477,7 +6477,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 190,
-      "prevRank": 41,
+      "prevRank": 190,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6511,7 +6511,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 191,
-      "prevRank": 232,
+      "prevRank": 191,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -6545,7 +6545,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 192,
-      "prevRank": 155,
+      "prevRank": 192,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6579,7 +6579,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 193,
-      "prevRank": 250,
+      "prevRank": 193,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6613,7 +6613,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 194,
-      "prevRank": 204,
+      "prevRank": 194,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6647,7 +6647,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 195,
-      "prevRank": 208,
+      "prevRank": 195,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6681,7 +6681,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 196,
-      "prevRank": 193,
+      "prevRank": 196,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6715,7 +6715,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 197,
-      "prevRank": 213,
+      "prevRank": 197,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6749,7 +6749,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 198,
-      "prevRank": 196,
+      "prevRank": 198,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6783,7 +6783,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 199,
-      "prevRank": 195,
+      "prevRank": 199,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6817,7 +6817,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 200,
-      "prevRank": 174,
+      "prevRank": 200,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6851,7 +6851,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 201,
-      "prevRank": 242,
+      "prevRank": 201,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -6885,7 +6885,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 202,
-      "prevRank": 50,
+      "prevRank": 202,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6919,7 +6919,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 203,
-      "prevRank": 190,
+      "prevRank": 203,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -6953,7 +6953,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 204,
-      "prevRank": 52,
+      "prevRank": 204,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -6987,7 +6987,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 205,
-      "prevRank": 60,
+      "prevRank": 205,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7021,7 +7021,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 206,
-      "prevRank": 86,
+      "prevRank": 206,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7055,7 +7055,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 207,
-      "prevRank": 59,
+      "prevRank": 207,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7089,7 +7089,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 208,
-      "prevRank": 39,
+      "prevRank": 208,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7123,7 +7123,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 209,
-      "prevRank": 8,
+      "prevRank": 209,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7157,7 +7157,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 210,
-      "prevRank": 202,
+      "prevRank": 210,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7191,7 +7191,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 211,
-      "prevRank": 133,
+      "prevRank": 211,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7225,7 +7225,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 212,
-      "prevRank": 114,
+      "prevRank": 212,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7259,7 +7259,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 213,
-      "prevRank": 166,
+      "prevRank": 213,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7293,7 +7293,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 214,
-      "prevRank": 99,
+      "prevRank": 214,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7327,7 +7327,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 215,
-      "prevRank": 161,
+      "prevRank": 215,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7361,7 +7361,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 216,
-      "prevRank": 251,
+      "prevRank": 216,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7395,7 +7395,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 217,
-      "prevRank": 103,
+      "prevRank": 217,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7429,7 +7429,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 218,
-      "prevRank": 128,
+      "prevRank": 218,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7463,7 +7463,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 219,
-      "prevRank": 77,
+      "prevRank": 219,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7497,7 +7497,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 220,
-      "prevRank": 63,
+      "prevRank": 220,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7531,7 +7531,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 221,
-      "prevRank": 124,
+      "prevRank": 221,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7565,7 +7565,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 222,
-      "prevRank": 17,
+      "prevRank": 222,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7599,7 +7599,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 223,
-      "prevRank": 209,
+      "prevRank": 223,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7633,7 +7633,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 224,
-      "prevRank": 217,
+      "prevRank": 224,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7667,7 +7667,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 225,
-      "prevRank": 126,
+      "prevRank": 225,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7701,7 +7701,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 226,
-      "prevRank": 25,
+      "prevRank": 226,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7735,7 +7735,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 227,
-      "prevRank": 61,
+      "prevRank": 227,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7769,7 +7769,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 228,
-      "prevRank": 178,
+      "prevRank": 228,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7803,7 +7803,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 229,
-      "prevRank": 191,
+      "prevRank": 229,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -7837,7 +7837,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 230,
-      "prevRank": 169,
+      "prevRank": 230,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7871,7 +7871,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 231,
-      "prevRank": 13,
+      "prevRank": 231,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7905,7 +7905,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 232,
-      "prevRank": 172,
+      "prevRank": 232,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7939,7 +7939,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 233,
-      "prevRank": 222,
+      "prevRank": 233,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -7973,7 +7973,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 234,
-      "prevRank": 249,
+      "prevRank": 234,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8007,7 +8007,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 235,
-      "prevRank": 134,
+      "prevRank": 235,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8041,7 +8041,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 236,
-      "prevRank": 238,
+      "prevRank": 236,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8075,7 +8075,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 237,
-      "prevRank": 68,
+      "prevRank": 237,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8109,7 +8109,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 238,
-      "prevRank": 225,
+      "prevRank": 238,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8143,7 +8143,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 239,
-      "prevRank": 20,
+      "prevRank": 239,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8177,7 +8177,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 240,
-      "prevRank": 167,
+      "prevRank": 240,
       "signals": {
         "rsi": 62.7,
         "macd": "bullish",
@@ -8211,7 +8211,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 241,
-      "prevRank": 100,
+      "prevRank": 241,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8245,7 +8245,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 242,
-      "prevRank": 215,
+      "prevRank": 242,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8279,7 +8279,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 243,
-      "prevRank": 159,
+      "prevRank": 243,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8313,7 +8313,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 244,
-      "prevRank": 157,
+      "prevRank": 244,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8347,7 +8347,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 245,
-      "prevRank": 88,
+      "prevRank": 245,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8381,7 +8381,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 246,
-      "prevRank": 203,
+      "prevRank": 246,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8415,7 +8415,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 247,
-      "prevRank": 139,
+      "prevRank": 247,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8449,7 +8449,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 248,
-      "prevRank": 51,
+      "prevRank": 248,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8483,7 +8483,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 249,
-      "prevRank": 84,
+      "prevRank": 249,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8517,7 +8517,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 250,
-      "prevRank": 145,
+      "prevRank": 250,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8551,7 +8551,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 251,
-      "prevRank": 210,
+      "prevRank": 251,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8585,7 +8585,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 252,
-      "prevRank": 355,
+      "prevRank": 252,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8619,7 +8619,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 253,
-      "prevRank": 399,
+      "prevRank": 253,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8653,7 +8653,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 254,
-      "prevRank": 295,
+      "prevRank": 254,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8687,7 +8687,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 255,
-      "prevRank": 356,
+      "prevRank": 255,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8721,7 +8721,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 256,
-      "prevRank": 469,
+      "prevRank": 256,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8755,7 +8755,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 257,
-      "prevRank": 379,
+      "prevRank": 257,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8789,7 +8789,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 258,
-      "prevRank": 382,
+      "prevRank": 258,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8823,7 +8823,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 259,
-      "prevRank": 274,
+      "prevRank": 259,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8857,7 +8857,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 260,
-      "prevRank": 397,
+      "prevRank": 260,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8891,7 +8891,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 261,
-      "prevRank": 273,
+      "prevRank": 261,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -8925,7 +8925,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 262,
-      "prevRank": 365,
+      "prevRank": 262,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8959,7 +8959,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 263,
-      "prevRank": 444,
+      "prevRank": 263,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -8993,7 +8993,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 264,
-      "prevRank": 398,
+      "prevRank": 264,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9027,7 +9027,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 265,
-      "prevRank": 342,
+      "prevRank": 265,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9061,7 +9061,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 266,
-      "prevRank": 331,
+      "prevRank": 266,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9095,7 +9095,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 267,
-      "prevRank": 389,
+      "prevRank": 267,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9129,7 +9129,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 268,
-      "prevRank": 312,
+      "prevRank": 268,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9163,7 +9163,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 269,
-      "prevRank": 308,
+      "prevRank": 269,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9197,7 +9197,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 270,
-      "prevRank": 364,
+      "prevRank": 270,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9231,7 +9231,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 271,
-      "prevRank": 301,
+      "prevRank": 271,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9265,7 +9265,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 272,
-      "prevRank": 454,
+      "prevRank": 272,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9299,7 +9299,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 273,
-      "prevRank": 289,
+      "prevRank": 273,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9333,7 +9333,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 274,
-      "prevRank": 442,
+      "prevRank": 274,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9367,7 +9367,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 275,
-      "prevRank": 452,
+      "prevRank": 275,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9401,7 +9401,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 276,
-      "prevRank": 402,
+      "prevRank": 276,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9435,7 +9435,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 277,
-      "prevRank": 431,
+      "prevRank": 277,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9469,7 +9469,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 278,
-      "prevRank": 451,
+      "prevRank": 278,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9503,7 +9503,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 279,
-      "prevRank": 447,
+      "prevRank": 279,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9537,7 +9537,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 280,
-      "prevRank": 371,
+      "prevRank": 280,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9571,7 +9571,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 281,
-      "prevRank": 466,
+      "prevRank": 281,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9605,7 +9605,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 282,
-      "prevRank": 306,
+      "prevRank": 282,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9639,7 +9639,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 283,
-      "prevRank": 383,
+      "prevRank": 283,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9673,7 +9673,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 284,
-      "prevRank": 489,
+      "prevRank": 284,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9707,7 +9707,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 285,
-      "prevRank": 319,
+      "prevRank": 285,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9741,7 +9741,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 286,
-      "prevRank": 450,
+      "prevRank": 286,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9775,7 +9775,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 287,
-      "prevRank": 497,
+      "prevRank": 287,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9809,7 +9809,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 288,
-      "prevRank": 346,
+      "prevRank": 288,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9843,7 +9843,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 289,
-      "prevRank": 455,
+      "prevRank": 289,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9877,7 +9877,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 290,
-      "prevRank": 386,
+      "prevRank": 290,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9911,7 +9911,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 291,
-      "prevRank": 317,
+      "prevRank": 291,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -9945,7 +9945,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 292,
-      "prevRank": 401,
+      "prevRank": 292,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -9979,7 +9979,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 293,
-      "prevRank": 432,
+      "prevRank": 293,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10013,7 +10013,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 294,
-      "prevRank": 465,
+      "prevRank": 294,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -10047,7 +10047,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 295,
-      "prevRank": 275,
+      "prevRank": 295,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10081,7 +10081,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 296,
-      "prevRank": 344,
+      "prevRank": 296,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10115,7 +10115,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 297,
-      "prevRank": 424,
+      "prevRank": 297,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10149,7 +10149,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 298,
-      "prevRank": 1,
+      "prevRank": 298,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10183,7 +10183,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 299,
-      "prevRank": 361,
+      "prevRank": 299,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10217,7 +10217,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 300,
-      "prevRank": 347,
+      "prevRank": 300,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10251,7 +10251,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 301,
-      "prevRank": 493,
+      "prevRank": 301,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10285,7 +10285,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 302,
-      "prevRank": 276,
+      "prevRank": 302,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10319,7 +10319,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 303,
-      "prevRank": 404,
+      "prevRank": 303,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10353,7 +10353,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 304,
-      "prevRank": 284,
+      "prevRank": 304,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10387,7 +10387,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 305,
-      "prevRank": 475,
+      "prevRank": 305,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -10421,7 +10421,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 306,
-      "prevRank": 467,
+      "prevRank": 306,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10455,7 +10455,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 307,
-      "prevRank": 327,
+      "prevRank": 307,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10489,7 +10489,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 308,
-      "prevRank": 322,
+      "prevRank": 308,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -10523,7 +10523,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 309,
-      "prevRank": 302,
+      "prevRank": 309,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -10557,7 +10557,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 310,
-      "prevRank": 282,
+      "prevRank": 310,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -10591,7 +10591,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 311,
-      "prevRank": 307,
+      "prevRank": 311,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10625,7 +10625,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 312,
-      "prevRank": 310,
+      "prevRank": 312,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10659,7 +10659,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 313,
-      "prevRank": 495,
+      "prevRank": 313,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -10693,7 +10693,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 314,
-      "prevRank": 480,
+      "prevRank": 314,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10727,7 +10727,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 315,
-      "prevRank": 285,
+      "prevRank": 315,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -10761,7 +10761,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 316,
-      "prevRank": 265,
+      "prevRank": 316,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10795,7 +10795,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 317,
-      "prevRank": 473,
+      "prevRank": 317,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10829,7 +10829,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 318,
-      "prevRank": 279,
+      "prevRank": 318,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -10863,7 +10863,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 319,
-      "prevRank": 334,
+      "prevRank": 319,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10897,7 +10897,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 320,
-      "prevRank": 360,
+      "prevRank": 320,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10931,7 +10931,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 321,
-      "prevRank": 411,
+      "prevRank": 321,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -10965,7 +10965,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 322,
-      "prevRank": 384,
+      "prevRank": 322,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -10999,7 +10999,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 323,
-      "prevRank": 446,
+      "prevRank": 323,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11033,7 +11033,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 324,
-      "prevRank": 500,
+      "prevRank": 324,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11067,7 +11067,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 325,
-      "prevRank": 376,
+      "prevRank": 325,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11101,7 +11101,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 326,
-      "prevRank": 417,
+      "prevRank": 326,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11135,7 +11135,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 327,
-      "prevRank": 298,
+      "prevRank": 327,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11169,7 +11169,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 328,
-      "prevRank": 266,
+      "prevRank": 328,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11203,7 +11203,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 329,
-      "prevRank": 405,
+      "prevRank": 329,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11237,7 +11237,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 330,
-      "prevRank": 263,
+      "prevRank": 330,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11271,7 +11271,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 331,
-      "prevRank": 294,
+      "prevRank": 331,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11305,7 +11305,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 332,
-      "prevRank": 325,
+      "prevRank": 332,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11339,7 +11339,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 333,
-      "prevRank": 471,
+      "prevRank": 333,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11373,7 +11373,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 334,
-      "prevRank": 486,
+      "prevRank": 334,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11407,7 +11407,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 335,
-      "prevRank": 496,
+      "prevRank": 335,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11441,7 +11441,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 336,
-      "prevRank": 268,
+      "prevRank": 336,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11475,7 +11475,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 337,
-      "prevRank": 393,
+      "prevRank": 337,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11509,7 +11509,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 338,
-      "prevRank": 372,
+      "prevRank": 338,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11543,7 +11543,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 339,
-      "prevRank": 453,
+      "prevRank": 339,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11577,7 +11577,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 340,
-      "prevRank": 499,
+      "prevRank": 340,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11611,7 +11611,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 341,
-      "prevRank": 502,
+      "prevRank": 341,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11645,7 +11645,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 342,
-      "prevRank": 277,
+      "prevRank": 342,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11679,7 +11679,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 343,
-      "prevRank": 280,
+      "prevRank": 343,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11713,7 +11713,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 344,
-      "prevRank": 418,
+      "prevRank": 344,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11747,7 +11747,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 345,
-      "prevRank": 434,
+      "prevRank": 345,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11781,7 +11781,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 346,
-      "prevRank": 410,
+      "prevRank": 346,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11815,7 +11815,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 347,
-      "prevRank": 296,
+      "prevRank": 347,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11849,7 +11849,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 348,
-      "prevRank": 487,
+      "prevRank": 348,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11883,7 +11883,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 349,
-      "prevRank": 390,
+      "prevRank": 349,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11917,7 +11917,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 350,
-      "prevRank": 458,
+      "prevRank": 350,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -11951,7 +11951,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 351,
-      "prevRank": 387,
+      "prevRank": 351,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -11985,7 +11985,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 352,
-      "prevRank": 373,
+      "prevRank": 352,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12019,7 +12019,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 353,
-      "prevRank": 427,
+      "prevRank": 353,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12053,7 +12053,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 354,
-      "prevRank": 481,
+      "prevRank": 354,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12087,7 +12087,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 355,
-      "prevRank": 352,
+      "prevRank": 355,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12121,7 +12121,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 356,
-      "prevRank": 10,
+      "prevRank": 356,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12155,7 +12155,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 357,
-      "prevRank": 287,
+      "prevRank": 357,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12189,7 +12189,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 358,
-      "prevRank": 343,
+      "prevRank": 358,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12223,7 +12223,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 359,
-      "prevRank": 338,
+      "prevRank": 359,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12257,7 +12257,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 360,
-      "prevRank": 267,
+      "prevRank": 360,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12291,7 +12291,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 361,
-      "prevRank": 488,
+      "prevRank": 361,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12325,7 +12325,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 362,
-      "prevRank": 413,
+      "prevRank": 362,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12359,7 +12359,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 363,
-      "prevRank": 333,
+      "prevRank": 363,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12393,7 +12393,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 364,
-      "prevRank": 501,
+      "prevRank": 364,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12427,7 +12427,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 365,
-      "prevRank": 297,
+      "prevRank": 365,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12461,7 +12461,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 366,
-      "prevRank": 3,
+      "prevRank": 366,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12495,7 +12495,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 367,
-      "prevRank": 430,
+      "prevRank": 367,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12529,7 +12529,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 368,
-      "prevRank": 445,
+      "prevRank": 368,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12563,7 +12563,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 369,
-      "prevRank": 419,
+      "prevRank": 369,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12597,7 +12597,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 370,
-      "prevRank": 400,
+      "prevRank": 370,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12631,7 +12631,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 371,
-      "prevRank": 349,
+      "prevRank": 371,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12665,7 +12665,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 372,
-      "prevRank": 341,
+      "prevRank": 372,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12699,7 +12699,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 373,
-      "prevRank": 328,
+      "prevRank": 373,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12733,7 +12733,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 374,
-      "prevRank": 388,
+      "prevRank": 374,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12767,7 +12767,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 375,
-      "prevRank": 270,
+      "prevRank": 375,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12801,7 +12801,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 376,
-      "prevRank": 483,
+      "prevRank": 376,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12835,7 +12835,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 377,
-      "prevRank": 269,
+      "prevRank": 377,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12903,7 +12903,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 379,
-      "prevRank": 436,
+      "prevRank": 379,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -12937,7 +12937,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 380,
-      "prevRank": 290,
+      "prevRank": 380,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -12971,7 +12971,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 381,
-      "prevRank": 366,
+      "prevRank": 381,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13005,7 +13005,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 382,
-      "prevRank": 329,
+      "prevRank": 382,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13039,7 +13039,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 383,
-      "prevRank": 491,
+      "prevRank": 383,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13073,7 +13073,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 384,
-      "prevRank": 332,
+      "prevRank": 384,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13107,7 +13107,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 385,
-      "prevRank": 339,
+      "prevRank": 385,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13141,7 +13141,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 386,
-      "prevRank": 422,
+      "prevRank": 386,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13175,7 +13175,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 387,
-      "prevRank": 377,
+      "prevRank": 387,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13209,7 +13209,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 388,
-      "prevRank": 492,
+      "prevRank": 388,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13243,7 +13243,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 389,
-      "prevRank": 414,
+      "prevRank": 389,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13277,7 +13277,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 390,
-      "prevRank": 324,
+      "prevRank": 390,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13311,7 +13311,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 391,
-      "prevRank": 456,
+      "prevRank": 391,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13345,7 +13345,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 392,
-      "prevRank": 385,
+      "prevRank": 392,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13379,7 +13379,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 393,
-      "prevRank": 304,
+      "prevRank": 393,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13413,7 +13413,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 394,
-      "prevRank": 311,
+      "prevRank": 394,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13447,7 +13447,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 395,
-      "prevRank": 326,
+      "prevRank": 395,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13481,7 +13481,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 396,
-      "prevRank": 394,
+      "prevRank": 396,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13515,7 +13515,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 397,
-      "prevRank": 503,
+      "prevRank": 397,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13549,7 +13549,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 398,
-      "prevRank": 345,
+      "prevRank": 398,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13583,7 +13583,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 399,
-      "prevRank": 318,
+      "prevRank": 399,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13617,7 +13617,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 400,
-      "prevRank": 392,
+      "prevRank": 400,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13651,7 +13651,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 401,
-      "prevRank": 408,
+      "prevRank": 401,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13685,7 +13685,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 402,
-      "prevRank": 11,
+      "prevRank": 402,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13719,7 +13719,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 403,
-      "prevRank": 359,
+      "prevRank": 403,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13753,7 +13753,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 404,
-      "prevRank": 381,
+      "prevRank": 404,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13787,7 +13787,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 405,
-      "prevRank": 421,
+      "prevRank": 405,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13821,7 +13821,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 406,
-      "prevRank": 407,
+      "prevRank": 406,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13855,7 +13855,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 407,
-      "prevRank": 490,
+      "prevRank": 407,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13889,7 +13889,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 408,
-      "prevRank": 281,
+      "prevRank": 408,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13923,7 +13923,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 409,
-      "prevRank": 391,
+      "prevRank": 409,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -13957,7 +13957,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 410,
-      "prevRank": 362,
+      "prevRank": 410,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -13991,7 +13991,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 411,
-      "prevRank": 415,
+      "prevRank": 411,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -14025,7 +14025,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 412,
-      "prevRank": 309,
+      "prevRank": 412,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -14059,7 +14059,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 413,
-      "prevRank": 303,
+      "prevRank": 413,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -14093,7 +14093,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 414,
-      "prevRank": 412,
+      "prevRank": 414,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -14127,7 +14127,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 415,
-      "prevRank": 425,
+      "prevRank": 415,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14161,7 +14161,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 416,
-      "prevRank": 291,
+      "prevRank": 416,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -14195,7 +14195,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 417,
-      "prevRank": 457,
+      "prevRank": 417,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14229,7 +14229,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 418,
-      "prevRank": 426,
+      "prevRank": 418,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14263,7 +14263,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 419,
-      "prevRank": 278,
+      "prevRank": 419,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14297,7 +14297,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 420,
-      "prevRank": 463,
+      "prevRank": 420,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14331,7 +14331,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 421,
-      "prevRank": 330,
+      "prevRank": 421,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -14365,7 +14365,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 422,
-      "prevRank": 300,
+      "prevRank": 422,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14399,7 +14399,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 423,
-      "prevRank": 433,
+      "prevRank": 423,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14433,7 +14433,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 424,
-      "prevRank": 470,
+      "prevRank": 424,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14467,7 +14467,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 425,
-      "prevRank": 4,
+      "prevRank": 425,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14501,7 +14501,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 426,
-      "prevRank": 348,
+      "prevRank": 426,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14535,7 +14535,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 427,
-      "prevRank": 293,
+      "prevRank": 427,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14569,7 +14569,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 428,
-      "prevRank": 409,
+      "prevRank": 428,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14603,7 +14603,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 429,
-      "prevRank": 479,
+      "prevRank": 429,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14637,7 +14637,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 430,
-      "prevRank": 353,
+      "prevRank": 430,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14671,7 +14671,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 431,
-      "prevRank": 478,
+      "prevRank": 431,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14705,7 +14705,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 432,
-      "prevRank": 464,
+      "prevRank": 432,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14739,7 +14739,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 433,
-      "prevRank": 367,
+      "prevRank": 433,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14773,7 +14773,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 434,
-      "prevRank": 9,
+      "prevRank": 434,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -14807,7 +14807,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 435,
-      "prevRank": 337,
+      "prevRank": 435,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14841,7 +14841,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 436,
-      "prevRank": 423,
+      "prevRank": 436,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14875,7 +14875,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 437,
-      "prevRank": 286,
+      "prevRank": 437,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14909,7 +14909,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 438,
-      "prevRank": 395,
+      "prevRank": 438,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14943,7 +14943,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 439,
-      "prevRank": 380,
+      "prevRank": 439,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -14977,7 +14977,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 440,
-      "prevRank": 485,
+      "prevRank": 440,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15011,7 +15011,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 441,
-      "prevRank": 484,
+      "prevRank": 441,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15045,7 +15045,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 442,
-      "prevRank": 288,
+      "prevRank": 442,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15079,7 +15079,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 443,
-      "prevRank": 437,
+      "prevRank": 443,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15113,7 +15113,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 444,
-      "prevRank": 438,
+      "prevRank": 444,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15147,7 +15147,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 445,
-      "prevRank": 368,
+      "prevRank": 445,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15181,7 +15181,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 446,
-      "prevRank": 369,
+      "prevRank": 446,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15215,7 +15215,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 447,
-      "prevRank": 459,
+      "prevRank": 447,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15249,7 +15249,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 448,
-      "prevRank": 5,
+      "prevRank": 448,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15283,7 +15283,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 449,
-      "prevRank": 350,
+      "prevRank": 449,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15317,7 +15317,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 450,
-      "prevRank": 449,
+      "prevRank": 450,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15351,7 +15351,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 451,
-      "prevRank": 283,
+      "prevRank": 451,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15385,7 +15385,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 452,
-      "prevRank": 363,
+      "prevRank": 452,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15419,7 +15419,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 453,
-      "prevRank": 460,
+      "prevRank": 453,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15453,7 +15453,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 454,
-      "prevRank": 396,
+      "prevRank": 454,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15487,7 +15487,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 455,
-      "prevRank": 315,
+      "prevRank": 455,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15521,7 +15521,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 456,
-      "prevRank": 461,
+      "prevRank": 456,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15555,7 +15555,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 457,
-      "prevRank": 272,
+      "prevRank": 457,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15589,7 +15589,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 458,
-      "prevRank": 370,
+      "prevRank": 458,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15623,7 +15623,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 459,
-      "prevRank": 403,
+      "prevRank": 459,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15657,7 +15657,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 460,
-      "prevRank": 468,
+      "prevRank": 460,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15691,7 +15691,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 461,
-      "prevRank": 313,
+      "prevRank": 461,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15725,7 +15725,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 462,
-      "prevRank": 406,
+      "prevRank": 462,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15759,7 +15759,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 463,
-      "prevRank": 299,
+      "prevRank": 463,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15793,7 +15793,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 464,
-      "prevRank": 2,
+      "prevRank": 464,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15827,7 +15827,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 465,
-      "prevRank": 262,
+      "prevRank": 465,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15861,7 +15861,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 466,
-      "prevRank": 476,
+      "prevRank": 466,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -15895,7 +15895,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 467,
-      "prevRank": 323,
+      "prevRank": 467,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15929,7 +15929,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 468,
-      "prevRank": 336,
+      "prevRank": 468,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15963,7 +15963,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 469,
-      "prevRank": 420,
+      "prevRank": 469,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -15997,7 +15997,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 470,
-      "prevRank": 374,
+      "prevRank": 470,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16031,7 +16031,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 471,
-      "prevRank": 354,
+      "prevRank": 471,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16065,7 +16065,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 472,
-      "prevRank": 474,
+      "prevRank": 472,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16099,7 +16099,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 473,
-      "prevRank": 340,
+      "prevRank": 473,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16133,7 +16133,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 474,
-      "prevRank": 462,
+      "prevRank": 474,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16167,7 +16167,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 475,
-      "prevRank": 292,
+      "prevRank": 475,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16201,7 +16201,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 476,
-      "prevRank": 357,
+      "prevRank": 476,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16235,7 +16235,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 477,
-      "prevRank": 440,
+      "prevRank": 477,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16269,7 +16269,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 478,
-      "prevRank": 494,
+      "prevRank": 478,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16303,7 +16303,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 479,
-      "prevRank": 260,
+      "prevRank": 479,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16337,7 +16337,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 480,
-      "prevRank": 305,
+      "prevRank": 480,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16371,7 +16371,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 481,
-      "prevRank": 375,
+      "prevRank": 481,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16405,7 +16405,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 482,
-      "prevRank": 314,
+      "prevRank": 482,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16439,7 +16439,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 483,
-      "prevRank": 441,
+      "prevRank": 483,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16473,7 +16473,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 484,
-      "prevRank": 320,
+      "prevRank": 484,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16507,7 +16507,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 485,
-      "prevRank": 482,
+      "prevRank": 485,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16541,7 +16541,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 486,
-      "prevRank": 316,
+      "prevRank": 486,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16575,7 +16575,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 487,
-      "prevRank": 448,
+      "prevRank": 487,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16609,7 +16609,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 488,
-      "prevRank": 335,
+      "prevRank": 488,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16643,7 +16643,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 489,
-      "prevRank": 351,
+      "prevRank": 489,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16677,7 +16677,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 490,
-      "prevRank": 358,
+      "prevRank": 490,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16711,7 +16711,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 491,
-      "prevRank": 435,
+      "prevRank": 491,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16745,7 +16745,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 492,
-      "prevRank": 498,
+      "prevRank": 492,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16779,7 +16779,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 493,
-      "prevRank": 271,
+      "prevRank": 493,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16813,7 +16813,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 494,
-      "prevRank": 439,
+      "prevRank": 494,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16847,7 +16847,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 495,
-      "prevRank": 321,
+      "prevRank": 495,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16881,7 +16881,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 496,
-      "prevRank": 261,
+      "prevRank": 496,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16915,7 +16915,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 497,
-      "prevRank": 477,
+      "prevRank": 497,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -16949,7 +16949,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 498,
-      "prevRank": 429,
+      "prevRank": 498,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -16983,7 +16983,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 499,
-      "prevRank": 472,
+      "prevRank": 499,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -17017,7 +17017,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 500,
-      "prevRank": 416,
+      "prevRank": 500,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -17051,7 +17051,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 501,
-      "prevRank": 264,
+      "prevRank": 501,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -17085,7 +17085,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 502,
-      "prevRank": 428,
+      "prevRank": 502,
       "signals": {
         "rsi": null,
         "macd": "bearish",
@@ -17119,7 +17119,7 @@
       "momentumScore": 50.1,
       "sectorScore": null,
       "rank": 503,
-      "prevRank": 443,
+      "prevRank": 503,
       "signals": {
         "rsi": null,
         "macd": "bullish",
@@ -17142,27 +17142,11 @@
     }
   ],
   "sectors": {
-    "Energy": {
+    "Consumer Staples": {
       "avgScore": null,
-      "topStock": "APA",
-      "stockCount": 21,
-      "etf": "XLE",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Real Estate": {
-      "avgScore": null,
-      "topStock": "ARE",
-      "stockCount": 30,
-      "etf": "XLRE",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Industrials": {
-      "avgScore": null,
-      "topStock": "MMM",
-      "stockCount": 83,
-      "etf": "XLI",
+      "topStock": "MO",
+      "stockCount": 34,
+      "etf": "XLP",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17174,27 +17158,19 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Information Technology": {
+    "Health Care": {
       "avgScore": null,
-      "topStock": "ACN",
-      "stockCount": 75,
-      "etf": "XLK",
+      "topStock": "ABT",
+      "stockCount": 60,
+      "etf": "XLV",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Financials": {
+    "Energy": {
       "avgScore": null,
-      "topStock": "AFL",
-      "stockCount": 76,
-      "etf": "XLF",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Materials": {
-      "avgScore": null,
-      "topStock": "APD",
-      "stockCount": 24,
-      "etf": "XLB",
+      "topStock": "APA",
+      "stockCount": 21,
+      "etf": "XLE",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17206,11 +17182,11 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Health Care": {
+    "Materials": {
       "avgScore": null,
-      "topStock": "ABT",
-      "stockCount": 60,
-      "etf": "XLV",
+      "topStock": "APD",
+      "stockCount": 24,
+      "etf": "XLB",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17222,11 +17198,35 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Consumer Staples": {
+    "Real Estate": {
       "avgScore": null,
-      "topStock": "MO",
-      "stockCount": 34,
-      "etf": "XLP",
+      "topStock": "ARE",
+      "stockCount": 30,
+      "etf": "XLRE",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Financials": {
+      "avgScore": null,
+      "topStock": "AFL",
+      "stockCount": 76,
+      "etf": "XLF",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Industrials": {
+      "avgScore": null,
+      "topStock": "MMM",
+      "stockCount": 83,
+      "etf": "XLI",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Information Technology": {
+      "avgScore": null,
+      "topStock": "ACN",
+      "stockCount": 75,
+      "etf": "XLK",
       "etfReturn1m": null,
       "etfReturn3m": null
     }
