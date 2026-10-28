@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T21:27:19Z",
+  "lastUpdated": "2026-10-28T21:42:20Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -2839,7 +2839,7 @@
       "momentumScore": 82.7,
       "sectorScore": 76.7,
       "rank": 83,
-      "prevRank": 84,
+      "prevRank": 83,
       "signals": {
         "rsi": 70.5,
         "macd": "bullish",
@@ -2873,7 +2873,7 @@
       "momentumScore": 91.5,
       "sectorScore": 68.3,
       "rank": 84,
-      "prevRank": 83,
+      "prevRank": 84,
       "signals": {
         "rsi": 82.8,
         "macd": "bullish",
@@ -3417,7 +3417,7 @@
       "momentumScore": 71.1,
       "sectorScore": 69.7,
       "rank": 100,
-      "prevRank": 102,
+      "prevRank": 100,
       "signals": {
         "rsi": 71.7,
         "macd": "bullish",
@@ -3451,7 +3451,7 @@
       "momentumScore": 52.1,
       "sectorScore": 60.5,
       "rank": 101,
-      "prevRank": 100,
+      "prevRank": 101,
       "signals": {
         "rsi": 56.5,
         "macd": "bullish",
@@ -3485,7 +3485,7 @@
       "momentumScore": 61.1,
       "sectorScore": 72.9,
       "rank": 102,
-      "prevRank": 101,
+      "prevRank": 102,
       "signals": {
         "rsi": 35.6,
         "macd": "bearish",
@@ -3859,7 +3859,7 @@
       "momentumScore": 61.9,
       "sectorScore": 67.1,
       "rank": 113,
-      "prevRank": 122,
+      "prevRank": 113,
       "signals": {
         "rsi": 61.8,
         "macd": "bullish",
@@ -3893,7 +3893,7 @@
       "momentumScore": 63.9,
       "sectorScore": 88.2,
       "rank": 114,
-      "prevRank": 113,
+      "prevRank": 114,
       "signals": {
         "rsi": 67.7,
         "macd": "bullish",
@@ -3927,7 +3927,7 @@
       "momentumScore": 59.7,
       "sectorScore": 59.2,
       "rank": 115,
-      "prevRank": 114,
+      "prevRank": 115,
       "signals": {
         "rsi": 59.5,
         "macd": "bullish",
@@ -3961,7 +3961,7 @@
       "momentumScore": 72.1,
       "sectorScore": 54.2,
       "rank": 116,
-      "prevRank": 115,
+      "prevRank": 116,
       "signals": {
         "rsi": 82.7,
         "macd": "bullish",
@@ -3995,7 +3995,7 @@
       "momentumScore": 75.9,
       "sectorScore": 50.0,
       "rank": 117,
-      "prevRank": 116,
+      "prevRank": 117,
       "signals": {
         "rsi": 57.3,
         "macd": "bearish",
@@ -4029,7 +4029,7 @@
       "momentumScore": 83.4,
       "sectorScore": 95.8,
       "rank": 118,
-      "prevRank": 117,
+      "prevRank": 118,
       "signals": {
         "rsi": 72.2,
         "macd": "bullish",
@@ -4063,7 +4063,7 @@
       "momentumScore": 50.0,
       "sectorScore": 68.2,
       "rank": 119,
-      "prevRank": 118,
+      "prevRank": 119,
       "signals": {
         "rsi": 54.4,
         "macd": "bullish",
@@ -4097,7 +4097,7 @@
       "momentumScore": 46.6,
       "sectorScore": 53.9,
       "rank": 120,
-      "prevRank": 119,
+      "prevRank": 120,
       "signals": {
         "rsi": 39.5,
         "macd": "bullish",
@@ -4131,7 +4131,7 @@
       "momentumScore": 71.1,
       "sectorScore": 66.7,
       "rank": 121,
-      "prevRank": 120,
+      "prevRank": 121,
       "signals": {
         "rsi": 59.1,
         "macd": "bearish",
@@ -4165,7 +4165,7 @@
       "momentumScore": 47.2,
       "sectorScore": 42.6,
       "rank": 122,
-      "prevRank": 121,
+      "prevRank": 122,
       "signals": {
         "rsi": 52.7,
         "macd": "bullish",
@@ -4947,7 +4947,7 @@
       "momentumScore": 62.7,
       "sectorScore": 93.5,
       "rank": 145,
-      "prevRank": 147,
+      "prevRank": 145,
       "signals": {
         "rsi": 69.4,
         "macd": "bullish",
@@ -4981,7 +4981,7 @@
       "momentumScore": 48.6,
       "sectorScore": 49.3,
       "rank": 146,
-      "prevRank": 145,
+      "prevRank": 146,
       "signals": {
         "rsi": 65.8,
         "macd": "bullish",
@@ -5015,7 +5015,7 @@
       "momentumScore": 39.4,
       "sectorScore": 97.4,
       "rank": 147,
-      "prevRank": 146,
+      "prevRank": 147,
       "signals": {
         "rsi": 43.4,
         "macd": "bearish",
@@ -6239,7 +6239,7 @@
       "momentumScore": 43.5,
       "sectorScore": 45.5,
       "rank": 183,
-      "prevRank": 184,
+      "prevRank": 183,
       "signals": {
         "rsi": 60.8,
         "macd": "bullish",
@@ -6273,7 +6273,7 @@
       "momentumScore": 42.3,
       "sectorScore": 57.8,
       "rank": 184,
-      "prevRank": 183,
+      "prevRank": 184,
       "signals": {
         "rsi": 67.5,
         "macd": "bullish",
@@ -11883,7 +11883,7 @@
       "momentumScore": 4.7,
       "sectorScore": 8.5,
       "rank": 349,
-      "prevRank": 351,
+      "prevRank": 349,
       "signals": {
         "rsi": 50.9,
         "macd": "bullish",
@@ -11917,7 +11917,7 @@
       "momentumScore": 25.7,
       "sectorScore": 3.6,
       "rank": 350,
-      "prevRank": 349,
+      "prevRank": 350,
       "signals": {
         "rsi": 33.7,
         "macd": "bullish",
@@ -11951,7 +11951,7 @@
       "momentumScore": 27.9,
       "sectorScore": 13.3,
       "rank": 351,
-      "prevRank": 350,
+      "prevRank": 351,
       "signals": {
         "rsi": 45.9,
         "macd": "bearish",
@@ -12121,7 +12121,7 @@
       "momentumScore": 23.6,
       "sectorScore": 18.4,
       "rank": 356,
-      "prevRank": 357,
+      "prevRank": 356,
       "signals": {
         "rsi": 58.0,
         "macd": "bullish",
@@ -12155,7 +12155,7 @@
       "momentumScore": 35.6,
       "sectorScore": 29.0,
       "rank": 357,
-      "prevRank": 356,
+      "prevRank": 357,
       "signals": {
         "rsi": 63.9,
         "macd": "bullish",
@@ -17142,14 +17142,6 @@
     }
   ],
   "sectors": {
-    "Health Care": {
-      "avgScore": 53.4,
-      "topStock": "MRNA",
-      "stockCount": 60,
-      "etf": "XLV",
-      "etfReturn1m": 6.71,
-      "etfReturn3m": 10.99
-    },
     "Information Technology": {
       "avgScore": 54.2,
       "topStock": "ACN",
@@ -17157,38 +17149,6 @@
       "etf": "XLK",
       "etfReturn1m": -2.43,
       "etfReturn3m": 9.05
-    },
-    "Consumer Discretionary": {
-      "avgScore": 48.4,
-      "topStock": "HAS",
-      "stockCount": 47,
-      "etf": "XLY",
-      "etfReturn1m": 5.96,
-      "etfReturn3m": -0.44
-    },
-    "Industrials": {
-      "avgScore": 48.3,
-      "topStock": "EXPD",
-      "stockCount": 83,
-      "etf": "XLI",
-      "etfReturn1m": 0.9,
-      "etfReturn3m": -6.06
-    },
-    "Real Estate": {
-      "avgScore": 43.8,
-      "topStock": "HST",
-      "stockCount": 30,
-      "etf": "XLRE",
-      "etfReturn1m": 2.98,
-      "etfReturn3m": -5.74
-    },
-    "Financials": {
-      "avgScore": 51.6,
-      "topStock": "FDS",
-      "stockCount": 76,
-      "etf": "XLF",
-      "etfReturn1m": 5.11,
-      "etfReturn3m": -1.07
     },
     "Energy": {
       "avgScore": 58.4,
@@ -17198,13 +17158,37 @@
       "etfReturn1m": 11.3,
       "etfReturn3m": 15.63
     },
-    "Communication Services": {
-      "avgScore": 49.2,
-      "topStock": "META",
-      "stockCount": 22,
-      "etf": "XLC",
-      "etfReturn1m": -7.06,
-      "etfReturn3m": -4.4
+    "Consumer Staples": {
+      "avgScore": null,
+      "topStock": "EL",
+      "stockCount": 34,
+      "etf": "XLP",
+      "etfReturn1m": 7.74,
+      "etfReturn3m": 2.78
+    },
+    "Industrials": {
+      "avgScore": 48.3,
+      "topStock": "EXPD",
+      "stockCount": 83,
+      "etf": "XLI",
+      "etfReturn1m": 0.9,
+      "etfReturn3m": -6.06
+    },
+    "Consumer Discretionary": {
+      "avgScore": 48.4,
+      "topStock": "HAS",
+      "stockCount": 47,
+      "etf": "XLY",
+      "etfReturn1m": 5.96,
+      "etfReturn3m": -0.44
+    },
+    "Real Estate": {
+      "avgScore": 43.8,
+      "topStock": "HST",
+      "stockCount": 30,
+      "etf": "XLRE",
+      "etfReturn1m": 2.98,
+      "etfReturn3m": -5.74
     },
     "Utilities": {
       "avgScore": 42.4,
@@ -17214,13 +17198,13 @@
       "etfReturn1m": 7.73,
       "etfReturn3m": -3.49
     },
-    "Consumer Staples": {
-      "avgScore": null,
-      "topStock": "EL",
-      "stockCount": 34,
-      "etf": "XLP",
-      "etfReturn1m": 7.74,
-      "etfReturn3m": 2.78
+    "Health Care": {
+      "avgScore": 53.4,
+      "topStock": "MRNA",
+      "stockCount": 60,
+      "etf": "XLV",
+      "etfReturn1m": 6.71,
+      "etfReturn3m": 10.99
     },
     "Materials": {
       "avgScore": 50.1,
@@ -17229,6 +17213,22 @@
       "etf": "XLB",
       "etfReturn1m": 6.49,
       "etfReturn3m": 3.31
+    },
+    "Communication Services": {
+      "avgScore": 49.2,
+      "topStock": "META",
+      "stockCount": 22,
+      "etf": "XLC",
+      "etfReturn1m": -7.06,
+      "etfReturn3m": -4.4
+    },
+    "Financials": {
+      "avgScore": 51.6,
+      "topStock": "FDS",
+      "stockCount": 76,
+      "etf": "XLF",
+      "etfReturn1m": 5.11,
+      "etfReturn3m": -1.07
     }
   }
 }
