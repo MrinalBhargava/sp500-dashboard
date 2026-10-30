@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T00:47:39Z",
+  "lastUpdated": "2026-10-30T01:02:41Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -17142,22 +17142,6 @@
     }
   ],
   "sectors": {
-    "Energy": {
-      "avgScore": null,
-      "topStock": "APA",
-      "stockCount": 21,
-      "etf": "XLE",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Health Care": {
-      "avgScore": null,
-      "topStock": "ABT",
-      "stockCount": 60,
-      "etf": "XLV",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
     "Communication Services": {
       "avgScore": null,
       "topStock": "GOOGL",
@@ -17166,19 +17150,27 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Financials": {
-      "avgScore": null,
-      "topStock": "AFL",
-      "stockCount": 76,
-      "etf": "XLF",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
     "Information Technology": {
       "avgScore": null,
       "topStock": "ACN",
       "stockCount": 75,
       "etf": "XLK",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Real Estate": {
+      "avgScore": null,
+      "topStock": "ARE",
+      "stockCount": 30,
+      "etf": "XLRE",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Materials": {
+      "avgScore": null,
+      "topStock": "APD",
+      "stockCount": 24,
+      "etf": "XLB",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17198,14 +17190,6 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Materials": {
-      "avgScore": null,
-      "topStock": "APD",
-      "stockCount": 24,
-      "etf": "XLB",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
     "Utilities": {
       "avgScore": null,
       "topStock": "AES",
@@ -17214,11 +17198,27 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Real Estate": {
+    "Financials": {
       "avgScore": null,
-      "topStock": "ARE",
-      "stockCount": 30,
-      "etf": "XLRE",
+      "topStock": "AFL",
+      "stockCount": 76,
+      "etf": "XLF",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Health Care": {
+      "avgScore": null,
+      "topStock": "ABT",
+      "stockCount": 60,
+      "etf": "XLV",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Energy": {
+      "avgScore": null,
+      "topStock": "APA",
+      "stockCount": 21,
+      "etf": "XLE",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
