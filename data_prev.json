@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T21:21:20Z",
+  "lastUpdated": "2026-11-10T21:36:20Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -137,7 +137,7 @@
         "momentum1m": 21.05,
         "momentum3m": 45.99,
         "momentum6m": 65.19,
-        "sectorOutperf3m": 57.34
+        "sectorOutperf3m": 57.35
       }
     },
     {
@@ -255,7 +255,7 @@
       "momentumScore": 58.8,
       "sectorScore": 81.0,
       "rank": 7,
-      "prevRank": 13,
+      "prevRank": 9,
       "signals": {
         "rsi": 42.1,
         "macd": "bearish",
@@ -289,7 +289,7 @@
       "momentumScore": 92.9,
       "sectorScore": 97.9,
       "rank": 8,
-      "prevRank": 8,
+      "prevRank": 7,
       "signals": {
         "rsi": 73.9,
         "macd": "bearish",
@@ -323,7 +323,7 @@
       "momentumScore": 78.1,
       "sectorScore": 82.9,
       "rank": 9,
-      "prevRank": 7,
+      "prevRank": 8,
       "signals": {
         "rsi": 41.4,
         "macd": "bearish",
@@ -341,7 +341,7 @@
         "momentum1m": 5.98,
         "momentum3m": 10.27,
         "momentum6m": 43.23,
-        "sectorOutperf3m": 21.62
+        "sectorOutperf3m": 21.63
       }
     },
     {
@@ -357,7 +357,7 @@
       "momentumScore": 95.9,
       "sectorScore": 94.7,
       "rank": 10,
-      "prevRank": 9,
+      "prevRank": 10,
       "signals": {
         "rsi": 76.6,
         "macd": "bullish",
@@ -375,7 +375,7 @@
         "momentum1m": 28.79,
         "momentum3m": 19.66,
         "momentum6m": 50.78,
-        "sectorOutperf3m": 31.01
+        "sectorOutperf3m": 31.02
       }
     },
     {
@@ -391,7 +391,7 @@
       "momentumScore": 94.2,
       "sectorScore": 97.6,
       "rank": 11,
-      "prevRank": 10,
+      "prevRank": 11,
       "signals": {
         "rsi": 79.2,
         "macd": "bullish",
@@ -425,7 +425,7 @@
       "momentumScore": 97.1,
       "sectorScore": 100.0,
       "rank": 12,
-      "prevRank": 11,
+      "prevRank": 12,
       "signals": {
         "rsi": 51.5,
         "macd": "bullish",
@@ -443,7 +443,7 @@
         "momentum1m": 15.99,
         "momentum3m": 294.08,
         "momentum6m": 397.48,
-        "sectorOutperf3m": 281.46
+        "sectorOutperf3m": 281.48
       }
     },
     {
@@ -459,7 +459,7 @@
       "momentumScore": 91.8,
       "sectorScore": 96.1,
       "rank": 13,
-      "prevRank": 12,
+      "prevRank": 13,
       "signals": {
         "rsi": 57.6,
         "macd": "bullish",
@@ -477,7 +477,7 @@
         "momentum1m": 11.44,
         "momentum3m": 19.8,
         "momentum6m": 70.5,
-        "sectorOutperf3m": 31.15
+        "sectorOutperf3m": 31.16
       }
     },
     {
@@ -527,7 +527,7 @@
       "momentumScore": 92.4,
       "sectorScore": 95.2,
       "rank": 15,
-      "prevRank": 16,
+      "prevRank": 15,
       "signals": {
         "rsi": 77.9,
         "macd": "bullish",
@@ -623,20 +623,20 @@
       "price": 211.22,
       "changePct": -0.14,
       "compositeScore": 69.2,
-      "challengerScore": 75.5,
-      "technicalScore": 59.7,
+      "challengerScore": 75.6,
+      "technicalScore": 60.0,
       "fundamentalScore": 80.6,
       "momentumScore": 59.3,
       "sectorScore": 76.2,
       "rank": 18,
-      "prevRank": 15,
+      "prevRank": 19,
       "signals": {
         "rsi": 32.4,
         "macd": "bearish",
         "bbPct": 0.082,
         "ma50": 215.17,
         "ma200": 193.17,
-        "volRatio": 0.89,
+        "volRatio": 0.97,
         "pe": 15.52,
         "sectorPe": 14.3,
         "epsGrowth": 1.78,
@@ -663,7 +663,7 @@
       "momentumScore": 88.0,
       "sectorScore": 96.9,
       "rank": 19,
-      "prevRank": 19,
+      "prevRank": 16,
       "signals": {
         "rsi": 67.2,
         "macd": "bullish",
@@ -765,7 +765,7 @@
       "momentumScore": 62.8,
       "sectorScore": 77.6,
       "rank": 22,
-      "prevRank": 29,
+      "prevRank": 27,
       "signals": {
         "rsi": 26.5,
         "macd": "bearish",
@@ -783,7 +783,7 @@
         "momentum1m": -10.31,
         "momentum3m": 6.2,
         "momentum6m": 29.29,
-        "sectorOutperf3m": 17.55
+        "sectorOutperf3m": 17.56
       }
     },
     {
@@ -851,7 +851,7 @@
         "momentum1m": 12.55,
         "momentum3m": 26.5,
         "momentum6m": 47.17,
-        "sectorOutperf3m": 13.88
+        "sectorOutperf3m": 13.9
       }
     },
     {
@@ -867,7 +867,7 @@
       "momentumScore": 95.2,
       "sectorScore": 98.7,
       "rank": 25,
-      "prevRank": 25,
+      "prevRank": 24,
       "signals": {
         "rsi": 67.2,
         "macd": "bullish",
@@ -885,7 +885,7 @@
         "momentum1m": 21.55,
         "momentum3m": 28.18,
         "momentum6m": 41.22,
-        "sectorOutperf3m": 39.53
+        "sectorOutperf3m": 39.54
       }
     },
     {
@@ -901,7 +901,7 @@
       "momentumScore": 84.6,
       "sectorScore": 85.0,
       "rank": 26,
-      "prevRank": 24,
+      "prevRank": 25,
       "signals": {
         "rsi": 36.1,
         "macd": "bearish",
@@ -919,7 +919,7 @@
         "momentum1m": 1.3,
         "momentum3m": 20.94,
         "momentum6m": 96.2,
-        "sectorOutperf3m": 8.32
+        "sectorOutperf3m": 8.34
       }
     },
     {
@@ -953,7 +953,7 @@
         "momentum1m": 9.8,
         "momentum3m": 12.57,
         "momentum6m": 32.5,
-        "sectorOutperf3m": 23.92
+        "sectorOutperf3m": 23.93
       }
     },
     {
@@ -969,7 +969,7 @@
       "momentumScore": 80.9,
       "sectorScore": 94.7,
       "rank": 28,
-      "prevRank": 27,
+      "prevRank": 28,
       "signals": {
         "rsi": 59.3,
         "macd": "bullish",
@@ -1003,7 +1003,7 @@
       "momentumScore": 83.8,
       "sectorScore": 98.7,
       "rank": 29,
-      "prevRank": 28,
+      "prevRank": 29,
       "signals": {
         "rsi": 62.5,
         "macd": "bullish",
@@ -1037,7 +1037,7 @@
       "momentumScore": 89.4,
       "sectorScore": 86.8,
       "rank": 30,
-      "prevRank": 32,
+      "prevRank": 35,
       "signals": {
         "rsi": 52.7,
         "macd": "bearish",
@@ -1071,7 +1071,7 @@
       "momentumScore": 50.3,
       "sectorScore": 81.8,
       "rank": 31,
-      "prevRank": 35,
+      "prevRank": 30,
       "signals": {
         "rsi": 54.5,
         "macd": "bullish",
@@ -1105,7 +1105,7 @@
       "momentumScore": 91.8,
       "sectorScore": 100.0,
       "rank": 32,
-      "prevRank": 30,
+      "prevRank": 31,
       "signals": {
         "rsi": 66.6,
         "macd": "bullish",
@@ -1139,7 +1139,7 @@
       "momentumScore": 71.3,
       "sectorScore": 100.0,
       "rank": 33,
-      "prevRank": 33,
+      "prevRank": 32,
       "signals": {
         "rsi": 71.1,
         "macd": "bullish",
@@ -1173,7 +1173,7 @@
       "momentumScore": 84.5,
       "sectorScore": 89.2,
       "rank": 34,
-      "prevRank": 34,
+      "prevRank": 33,
       "signals": {
         "rsi": 57.6,
         "macd": "bullish",
@@ -1207,7 +1207,7 @@
       "momentumScore": 88.4,
       "sectorScore": 62.5,
       "rank": 35,
-      "prevRank": 31,
+      "prevRank": 34,
       "signals": {
         "rsi": 60.8,
         "macd": "bullish",
@@ -1259,7 +1259,7 @@
         "momentum1m": 20.87,
         "momentum3m": 30.96,
         "momentum6m": 21.82,
-        "sectorOutperf3m": 18.34
+        "sectorOutperf3m": 18.36
       }
     },
     {
@@ -1270,7 +1270,7 @@
       "changePct": 1.02,
       "compositeScore": 66.2,
       "challengerScore": 56.2,
-      "technicalScore": 47.3,
+      "technicalScore": 47.4,
       "fundamentalScore": 51.7,
       "momentumScore": 90.2,
       "sectorScore": 81.6,
@@ -1282,7 +1282,7 @@
         "bbPct": 0.77,
         "ma50": 250.6,
         "ma200": 232.15,
-        "volRatio": 0.71,
+        "volRatio": 0.74,
         "pe": 43.25,
         "sectorPe": 15.0,
         "epsGrowth": 0.49,
@@ -1309,7 +1309,7 @@
       "momentumScore": 75.1,
       "sectorScore": 69.7,
       "rank": 38,
-      "prevRank": 38,
+      "prevRank": 37,
       "signals": {
         "rsi": 80.3,
         "macd": "bullish",
@@ -1327,7 +1327,7 @@
         "momentum1m": 26.04,
         "momentum3m": 1.94,
         "momentum6m": 30.12,
-        "sectorOutperf3m": 13.29
+        "sectorOutperf3m": 13.3
       }
     },
     {
@@ -1343,7 +1343,7 @@
       "momentumScore": 85.5,
       "sectorScore": 94.0,
       "rank": 39,
-      "prevRank": 41,
+      "prevRank": 42,
       "signals": {
         "rsi": 67.9,
         "macd": "bullish",
@@ -1377,7 +1377,7 @@
       "momentumScore": 77.7,
       "sectorScore": 92.1,
       "rank": 40,
-      "prevRank": 37,
+      "prevRank": 38,
       "signals": {
         "rsi": 36.4,
         "macd": "bearish",
@@ -1395,7 +1395,7 @@
         "momentum1m": -21.26,
         "momentum3m": 15.11,
         "momentum6m": 128.08,
-        "sectorOutperf3m": 26.46
+        "sectorOutperf3m": 26.47
       }
     },
     {
@@ -1411,7 +1411,7 @@
       "momentumScore": 92.6,
       "sectorScore": 90.0,
       "rank": 41,
-      "prevRank": 42,
+      "prevRank": 39,
       "signals": {
         "rsi": 73.9,
         "macd": "bullish",
@@ -1429,7 +1429,7 @@
         "momentum1m": 33.89,
         "momentum3m": 22.88,
         "momentum6m": 31.77,
-        "sectorOutperf3m": 10.26
+        "sectorOutperf3m": 10.28
       }
     },
     {
@@ -1445,7 +1445,7 @@
       "momentumScore": 92.7,
       "sectorScore": 100.0,
       "rank": 42,
-      "prevRank": 39,
+      "prevRank": 41,
       "signals": {
         "rsi": 88.3,
         "macd": "bullish",
@@ -1479,7 +1479,7 @@
       "momentumScore": 92.7,
       "sectorScore": 80.0,
       "rank": 43,
-      "prevRank": 45,
+      "prevRank": 46,
       "signals": {
         "rsi": 68.4,
         "macd": "bullish",
@@ -1497,7 +1497,7 @@
         "momentum1m": 15.46,
         "momentum3m": 19.98,
         "momentum6m": 49.2,
-        "sectorOutperf3m": 7.36
+        "sectorOutperf3m": 7.38
       }
     },
     {
@@ -1513,7 +1513,7 @@
       "momentumScore": 47.5,
       "sectorScore": 75.0,
       "rank": 44,
-      "prevRank": 43,
+      "prevRank": 44,
       "signals": {
         "rsi": 52.9,
         "macd": "bullish",
@@ -1547,7 +1547,7 @@
       "momentumScore": 57.3,
       "sectorScore": 88.2,
       "rank": 45,
-      "prevRank": 44,
+      "prevRank": 43,
       "signals": {
         "rsi": 60.0,
         "macd": "bullish",
@@ -1565,7 +1565,7 @@
         "momentum1m": 15.57,
         "momentum3m": 13.29,
         "momentum6m": -11.66,
-        "sectorOutperf3m": 24.64
+        "sectorOutperf3m": 24.65
       }
     },
     {
@@ -1581,7 +1581,7 @@
       "momentumScore": 86.4,
       "sectorScore": 60.0,
       "rank": 46,
-      "prevRank": 47,
+      "prevRank": 45,
       "signals": {
         "rsi": 68.8,
         "macd": "bullish",
@@ -1599,7 +1599,7 @@
         "momentum1m": 21.64,
         "momentum3m": 13.79,
         "momentum6m": 27.59,
-        "sectorOutperf3m": 1.17
+        "sectorOutperf3m": 1.19
       }
     },
     {
@@ -1615,7 +1615,7 @@
       "momentumScore": 61.5,
       "sectorScore": 73.7,
       "rank": 47,
-      "prevRank": 51,
+      "prevRank": 48,
       "signals": {
         "rsi": 51.5,
         "macd": "bearish",
@@ -1649,7 +1649,7 @@
       "momentumScore": 76.6,
       "sectorScore": 72.4,
       "rank": 48,
-      "prevRank": 46,
+      "prevRank": 50,
       "signals": {
         "rsi": 51.4,
         "macd": "bearish",
@@ -1683,7 +1683,7 @@
       "momentumScore": 81.9,
       "sectorScore": 84.2,
       "rank": 49,
-      "prevRank": 49,
+      "prevRank": 47,
       "signals": {
         "rsi": 70.8,
         "macd": "bullish",
@@ -1717,7 +1717,7 @@
       "momentumScore": 86.5,
       "sectorScore": 98.3,
       "rank": 50,
-      "prevRank": 50,
+      "prevRank": 49,
       "signals": {
         "rsi": 52.2,
         "macd": "bearish",
@@ -1735,7 +1735,7 @@
         "momentum1m": 2.64,
         "momentum3m": 35.46,
         "momentum6m": 67.64,
-        "sectorOutperf3m": 22.84
+        "sectorOutperf3m": 22.86
       }
     },
     {
@@ -1751,7 +1751,7 @@
       "momentumScore": 80.0,
       "sectorScore": 93.4,
       "rank": 51,
-      "prevRank": 48,
+      "prevRank": 52,
       "signals": {
         "rsi": 75.6,
         "macd": "bullish",
@@ -1785,7 +1785,7 @@
       "momentumScore": 49.2,
       "sectorScore": 77.3,
       "rank": 52,
-      "prevRank": 52,
+      "prevRank": 51,
       "signals": {
         "rsi": 53.6,
         "macd": "bullish",
@@ -1853,7 +1853,7 @@
       "momentumScore": 83.3,
       "sectorScore": 85.5,
       "rank": 54,
-      "prevRank": 57,
+      "prevRank": 54,
       "signals": {
         "rsi": 77.6,
         "macd": "bullish",
@@ -1887,7 +1887,7 @@
       "momentumScore": 64.8,
       "sectorScore": 100.0,
       "rank": 55,
-      "prevRank": 54,
+      "prevRank": 55,
       "signals": {
         "rsi": 76.5,
         "macd": "bullish",
@@ -1921,7 +1921,7 @@
       "momentumScore": 74.7,
       "sectorScore": 80.3,
       "rank": 56,
-      "prevRank": 55,
+      "prevRank": 56,
       "signals": {
         "rsi": 67.9,
         "macd": "bullish",
@@ -1950,19 +1950,19 @@
       "changePct": -0.26,
       "compositeScore": 63.7,
       "challengerScore": 71.0,
-      "technicalScore": 59.4,
+      "technicalScore": 59.6,
       "fundamentalScore": 76.1,
       "momentumScore": 50.6,
       "sectorScore": 66.7,
       "rank": 57,
-      "prevRank": 56,
+      "prevRank": 57,
       "signals": {
         "rsi": 33.9,
         "macd": "bearish",
         "bbPct": 0.067,
         "ma50": 169.06,
         "ma200": 154.78,
-        "volRatio": 0.76,
+        "volRatio": 0.8,
         "pe": 16.94,
         "sectorPe": 14.3,
         "epsGrowth": 1.114,
@@ -1996,7 +1996,7 @@
         "bbPct": 0.786,
         "ma50": 110.25,
         "ma200": 112.09,
-        "volRatio": 0.58,
+        "volRatio": 0.59,
         "pe": 17.46,
         "sectorPe": 25.2,
         "epsGrowth": 0.011,
@@ -2023,14 +2023,14 @@
       "momentumScore": 61.4,
       "sectorScore": 72.4,
       "rank": 59,
-      "prevRank": 60,
+      "prevRank": 59,
       "signals": {
         "rsi": 35.0,
         "macd": "bearish",
         "bbPct": 0.109,
         "ma50": 196.97,
         "ma200": 168.25,
-        "volRatio": 0.65,
+        "volRatio": 0.66,
         "pe": 13.43,
         "sectorPe": 29.6,
         "epsGrowth": null,
@@ -2041,7 +2041,41 @@
         "momentum1m": -4.08,
         "momentum3m": 3.07,
         "momentum6m": 30.78,
-        "sectorOutperf3m": 14.42
+        "sectorOutperf3m": 14.43
+      }
+    },
+    {
+      "ticker": "LLY",
+      "name": "Lilly (Eli)",
+      "sector": "Health Care",
+      "price": 1432.29,
+      "changePct": 1.08,
+      "compositeScore": 63.2,
+      "challengerScore": 50.6,
+      "technicalScore": 46.2,
+      "fundamentalScore": 44.3,
+      "momentumScore": 93.5,
+      "sectorScore": 75.0,
+      "rank": 60,
+      "prevRank": 62,
+      "signals": {
+        "rsi": 71.7,
+        "macd": "bullish",
+        "bbPct": 0.865,
+        "ma50": 1224.51,
+        "ma200": 1101.44,
+        "volRatio": 0.9,
+        "pe": 46.5,
+        "sectorPe": 33.9,
+        "epsGrowth": 0.163,
+        "revGrowth": 0.386,
+        "fcfYield": 0.0073,
+        "roe": 0.8602,
+        "debtEquity": 1.2292,
+        "momentum1m": 22.78,
+        "momentum3m": 18.64,
+        "momentum6m": 41.45,
+        "sectorOutperf3m": 6.04
       }
     },
     {
@@ -2056,8 +2090,8 @@
       "fundamentalScore": 47.8,
       "momentumScore": 79.3,
       "sectorScore": 88.3,
-      "rank": 60,
-      "prevRank": 59,
+      "rank": 61,
+      "prevRank": 61,
       "signals": {
         "rsi": 65.4,
         "macd": "bullish",
@@ -2075,41 +2109,7 @@
         "momentum1m": 9.48,
         "momentum3m": 22.74,
         "momentum6m": 18.44,
-        "sectorOutperf3m": 10.12
-      }
-    },
-    {
-      "ticker": "LLY",
-      "name": "Lilly (Eli)",
-      "sector": "Health Care",
-      "price": 1432.29,
-      "changePct": 1.08,
-      "compositeScore": 63.1,
-      "challengerScore": 50.5,
-      "technicalScore": 45.6,
-      "fundamentalScore": 44.3,
-      "momentumScore": 93.5,
-      "sectorScore": 75.0,
-      "rank": 61,
-      "prevRank": 62,
-      "signals": {
-        "rsi": 71.7,
-        "macd": "bullish",
-        "bbPct": 0.865,
-        "ma50": 1224.51,
-        "ma200": 1101.44,
-        "volRatio": 0.75,
-        "pe": 46.5,
-        "sectorPe": 33.9,
-        "epsGrowth": 0.163,
-        "revGrowth": 0.386,
-        "fcfYield": 0.0073,
-        "roe": 0.8602,
-        "debtEquity": 1.2292,
-        "momentum1m": 22.78,
-        "momentum3m": 18.64,
-        "momentum6m": 41.45,
-        "sectorOutperf3m": 6.02
+        "sectorOutperf3m": 10.14
       }
     },
     {
@@ -2125,7 +2125,7 @@
       "momentumScore": 59.9,
       "sectorScore": 57.9,
       "rank": 62,
-      "prevRank": 63,
+      "prevRank": 60,
       "signals": {
         "rsi": 63.5,
         "macd": "bullish",
@@ -2159,7 +2159,7 @@
       "momentumScore": 82.0,
       "sectorScore": 69.7,
       "rank": 63,
-      "prevRank": 61,
+      "prevRank": 63,
       "signals": {
         "rsi": 77.2,
         "macd": "bullish",
@@ -2193,7 +2193,7 @@
       "momentumScore": 81.7,
       "sectorScore": 82.9,
       "rank": 64,
-      "prevRank": 67,
+      "prevRank": 66,
       "signals": {
         "rsi": 67.7,
         "macd": "bullish",
@@ -2245,7 +2245,7 @@
         "momentum1m": 15.52,
         "momentum3m": 24.39,
         "momentum6m": 30.0,
-        "sectorOutperf3m": 11.77
+        "sectorOutperf3m": 11.79
       }
     },
     {
@@ -2283,6 +2283,40 @@
       }
     },
     {
+      "ticker": "CF",
+      "name": "CF Industries",
+      "sector": "Materials",
+      "price": 122.36,
+      "changePct": 0.21,
+      "compositeScore": 62.6,
+      "challengerScore": 71.8,
+      "technicalScore": 53.9,
+      "fundamentalScore": 78.6,
+      "momentumScore": 45.5,
+      "sectorScore": 70.8,
+      "rank": 67,
+      "prevRank": 76,
+      "signals": {
+        "rsi": 58.7,
+        "macd": "bullish",
+        "bbPct": 0.828,
+        "ma50": 122.14,
+        "ma200": 116.75,
+        "volRatio": 1.17,
+        "pe": 8.62,
+        "sectorPe": 25.2,
+        "epsGrowth": 0.311,
+        "revGrowth": 0.121,
+        "fcfYield": 0.0889,
+        "roe": 0.3085,
+        "debtEquity": 0.4108,
+        "momentum1m": 4.36,
+        "momentum3m": 5.08,
+        "momentum6m": -1.6,
+        "sectorOutperf3m": 3.58
+      }
+    },
+    {
       "ticker": "GEHC",
       "name": "GE HealthCare",
       "sector": "Health Care",
@@ -2294,8 +2328,8 @@
       "fundamentalScore": 61.9,
       "momentumScore": 89.0,
       "sectorScore": 58.3,
-      "rank": 67,
-      "prevRank": 72,
+      "rank": 68,
+      "prevRank": 67,
       "signals": {
         "rsi": 80.5,
         "macd": "bullish",
@@ -2313,41 +2347,7 @@
         "momentum1m": 21.67,
         "momentum3m": 13.43,
         "momentum6m": 35.31,
-        "sectorOutperf3m": 0.81
-      }
-    },
-    {
-      "ticker": "CF",
-      "name": "CF Industries",
-      "sector": "Materials",
-      "price": 122.36,
-      "changePct": 0.21,
-      "compositeScore": 62.5,
-      "challengerScore": 71.7,
-      "technicalScore": 53.4,
-      "fundamentalScore": 78.6,
-      "momentumScore": 45.5,
-      "sectorScore": 70.8,
-      "rank": 68,
-      "prevRank": 74,
-      "signals": {
-        "rsi": 58.7,
-        "macd": "bullish",
-        "bbPct": 0.828,
-        "ma50": 122.14,
-        "ma200": 116.75,
-        "volRatio": 1.07,
-        "pe": 8.62,
-        "sectorPe": 25.2,
-        "epsGrowth": 0.311,
-        "revGrowth": 0.121,
-        "fcfYield": 0.0889,
-        "roe": 0.3085,
-        "debtEquity": 0.4108,
-        "momentum1m": 4.36,
-        "momentum3m": 5.08,
-        "momentum6m": -1.6,
-        "sectorOutperf3m": 3.58
+        "sectorOutperf3m": 0.83
       }
     },
     {
@@ -2363,7 +2363,7 @@
       "momentumScore": 85.9,
       "sectorScore": 93.6,
       "rank": 69,
-      "prevRank": 66,
+      "prevRank": 68,
       "signals": {
         "rsi": 65.7,
         "macd": "bullish",
@@ -2397,7 +2397,7 @@
       "momentumScore": 82.1,
       "sectorScore": 98.8,
       "rank": 70,
-      "prevRank": 68,
+      "prevRank": 69,
       "signals": {
         "rsi": 68.2,
         "macd": "bullish",
@@ -2465,7 +2465,7 @@
       "momentumScore": 72.9,
       "sectorScore": 85.5,
       "rank": 72,
-      "prevRank": 76,
+      "prevRank": 71,
       "signals": {
         "rsi": 77.9,
         "macd": "bullish",
@@ -2517,7 +2517,7 @@
         "momentum1m": -1.89,
         "momentum3m": 7.5,
         "momentum6m": 32.11,
-        "sectorOutperf3m": 18.85
+        "sectorOutperf3m": 18.86
       }
     },
     {
@@ -2533,7 +2533,7 @@
       "momentumScore": 83.7,
       "sectorScore": 89.4,
       "rank": 74,
-      "prevRank": 77,
+      "prevRank": 74,
       "signals": {
         "rsi": 62.0,
         "macd": "bullish",
@@ -2555,6 +2555,40 @@
       }
     },
     {
+      "ticker": "MO",
+      "name": "Altria",
+      "sector": "Consumer Staples",
+      "price": 76.34,
+      "changePct": 0.32,
+      "compositeScore": 61.9,
+      "challengerScore": 55.0,
+      "technicalScore": 43.2,
+      "fundamentalScore": 52.2,
+      "momentumScore": 69.1,
+      "sectorScore": 90.6,
+      "rank": 75,
+      "prevRank": 79,
+      "signals": {
+        "rsi": 58.2,
+        "macd": "bearish",
+        "bbPct": 0.64,
+        "ma50": 71.49,
+        "ma200": 67.87,
+        "volRatio": 0.72,
+        "pe": 15.75,
+        "sectorPe": 25.5,
+        "epsGrowth": 0.067,
+        "revGrowth": 0.036,
+        "fcfYield": 0.0555,
+        "roe": null,
+        "debtEquity": null,
+        "momentum1m": 6.68,
+        "momentum3m": 19.18,
+        "momentum6m": 10.04,
+        "sectorOutperf3m": 12.64
+      }
+    },
+    {
       "ticker": "MRSH",
       "name": "Marsh McLennan",
       "sector": "Financials",
@@ -2562,19 +2596,19 @@
       "changePct": 0.81,
       "compositeScore": 61.9,
       "challengerScore": 51.9,
-      "technicalScore": 46.8,
+      "technicalScore": 46.9,
       "fundamentalScore": 47.1,
       "momentumScore": 83.2,
       "sectorScore": 76.3,
-      "rank": 75,
-      "prevRank": 75,
+      "rank": 76,
+      "prevRank": 78,
       "signals": {
         "rsi": 66.7,
         "macd": "bullish",
         "bbPct": 0.786,
         "ma50": 183.9,
         "ma200": 176.34,
-        "volRatio": 0.66,
+        "volRatio": 0.67,
         "pe": 24.85,
         "sectorPe": 15.0,
         "epsGrowth": 0.119,
@@ -2600,8 +2634,8 @@
       "fundamentalScore": 66.3,
       "momentumScore": 47.8,
       "sectorScore": 86.4,
-      "rank": 76,
-      "prevRank": 69,
+      "rank": 77,
+      "prevRank": 75,
       "signals": {
         "rsi": 35.9,
         "macd": "bearish",
@@ -2634,8 +2668,8 @@
       "fundamentalScore": 60.9,
       "momentumScore": 68.1,
       "sectorScore": 64.5,
-      "rank": 77,
-      "prevRank": 80,
+      "rank": 78,
+      "prevRank": 81,
       "signals": {
         "rsi": 52.0,
         "macd": "bullish",
@@ -2668,7 +2702,7 @@
       "fundamentalScore": 41.1,
       "momentumScore": 79.2,
       "sectorScore": 90.8,
-      "rank": 78,
+      "rank": 79,
       "prevRank": 82,
       "signals": {
         "rsi": 66.4,
@@ -2691,40 +2725,6 @@
       }
     },
     {
-      "ticker": "MO",
-      "name": "Altria",
-      "sector": "Consumer Staples",
-      "price": 76.34,
-      "changePct": 0.32,
-      "compositeScore": 61.8,
-      "challengerScore": 55.0,
-      "technicalScore": 43.1,
-      "fundamentalScore": 52.2,
-      "momentumScore": 69.1,
-      "sectorScore": 90.6,
-      "rank": 79,
-      "prevRank": 78,
-      "signals": {
-        "rsi": 58.2,
-        "macd": "bearish",
-        "bbPct": 0.64,
-        "ma50": 71.49,
-        "ma200": 67.87,
-        "volRatio": 0.7,
-        "pe": 15.75,
-        "sectorPe": 25.5,
-        "epsGrowth": 0.067,
-        "revGrowth": 0.036,
-        "fcfYield": 0.0555,
-        "roe": null,
-        "debtEquity": null,
-        "momentum1m": 6.68,
-        "momentum3m": 19.18,
-        "momentum6m": 10.04,
-        "sectorOutperf3m": 12.64
-      }
-    },
-    {
       "ticker": "CTAS",
       "name": "Cintas",
       "sector": "Industrials",
@@ -2737,7 +2737,7 @@
       "momentumScore": 82.3,
       "sectorScore": 91.6,
       "rank": 80,
-      "prevRank": 79,
+      "prevRank": 72,
       "signals": {
         "rsi": 55.5,
         "macd": "bearish",
@@ -2771,7 +2771,7 @@
       "momentumScore": 68.2,
       "sectorScore": 97.4,
       "rank": 81,
-      "prevRank": 81,
+      "prevRank": 77,
       "signals": {
         "rsi": 62.1,
         "macd": "bearish",
@@ -2793,6 +2793,40 @@
       }
     },
     {
+      "ticker": "MMM",
+      "name": "3M",
+      "sector": "Industrials",
+      "price": 189.37,
+      "changePct": 0.78,
+      "compositeScore": 61.6,
+      "challengerScore": 55.9,
+      "technicalScore": 49.7,
+      "fundamentalScore": 53.4,
+      "momentumScore": 75.0,
+      "sectorScore": 72.3,
+      "rank": 82,
+      "prevRank": 83,
+      "signals": {
+        "rsi": 65.0,
+        "macd": "bullish",
+        "bbPct": 0.871,
+        "ma50": 169.62,
+        "ma200": 161.05,
+        "volRatio": 0.75,
+        "pe": 28.31,
+        "sectorPe": 26.2,
+        "epsGrowth": 0.697,
+        "revGrowth": 0.01,
+        "fcfYield": 0.065,
+        "roe": 0.7297,
+        "debtEquity": 3.035,
+        "momentum1m": 16.34,
+        "momentum3m": 4.13,
+        "momentum6m": 29.97,
+        "sectorOutperf3m": 13.07
+      }
+    },
+    {
       "ticker": "CINF",
       "name": "Cincinnati Financial",
       "sector": "Financials",
@@ -2804,8 +2838,8 @@
       "fundamentalScore": 53.1,
       "momentumScore": 75.7,
       "sectorScore": 77.6,
-      "rank": 82,
-      "prevRank": 84,
+      "rank": 83,
+      "prevRank": 80,
       "signals": {
         "rsi": 72.8,
         "macd": "bullish",
@@ -2838,8 +2872,8 @@
       "fundamentalScore": 43.4,
       "momentumScore": 83.7,
       "sectorScore": 85.1,
-      "rank": 83,
-      "prevRank": 83,
+      "rank": 84,
+      "prevRank": 84,
       "signals": {
         "rsi": 71.7,
         "macd": "bullish",
@@ -2861,40 +2895,6 @@
       }
     },
     {
-      "ticker": "MMM",
-      "name": "3M",
-      "sector": "Industrials",
-      "price": 189.37,
-      "changePct": 0.78,
-      "compositeScore": 61.5,
-      "challengerScore": 55.8,
-      "technicalScore": 49.1,
-      "fundamentalScore": 53.4,
-      "momentumScore": 75.0,
-      "sectorScore": 72.3,
-      "rank": 84,
-      "prevRank": 97,
-      "signals": {
-        "rsi": 65.0,
-        "macd": "bullish",
-        "bbPct": 0.871,
-        "ma50": 169.62,
-        "ma200": 161.05,
-        "volRatio": 0.6,
-        "pe": 28.31,
-        "sectorPe": 26.2,
-        "epsGrowth": 0.697,
-        "revGrowth": 0.01,
-        "fcfYield": 0.065,
-        "roe": 0.7297,
-        "debtEquity": 3.035,
-        "momentum1m": 16.34,
-        "momentum3m": 4.13,
-        "momentum6m": 29.97,
-        "sectorOutperf3m": 13.07
-      }
-    },
-    {
       "ticker": "ICE",
       "name": "Intercontinental Exchange",
       "sector": "Financials",
@@ -2907,7 +2907,7 @@
       "momentumScore": 75.5,
       "sectorScore": 88.2,
       "rank": 85,
-      "prevRank": 90,
+      "prevRank": 85,
       "signals": {
         "rsi": 71.5,
         "macd": "bullish",
@@ -2941,7 +2941,7 @@
       "momentumScore": 78.6,
       "sectorScore": 80.9,
       "rank": 86,
-      "prevRank": 85,
+      "prevRank": 86,
       "signals": {
         "rsi": 65.9,
         "macd": "bullish",
@@ -2970,19 +2970,19 @@
       "changePct": 0.34,
       "compositeScore": 61.3,
       "challengerScore": 43.7,
-      "technicalScore": 51.7,
+      "technicalScore": 51.8,
       "fundamentalScore": 32.7,
       "momentumScore": 74.2,
       "sectorScore": 100.0,
       "rank": 87,
-      "prevRank": 86,
+      "prevRank": 87,
       "signals": {
         "rsi": 64.2,
         "macd": "bullish",
         "bbPct": 0.761,
         "ma50": 284.69,
         "ma200": 275.84,
-        "volRatio": 0.71,
+        "volRatio": 0.73,
         "pe": 41.86,
         "sectorPe": 25.2,
         "epsGrowth": -0.049,
@@ -3009,7 +3009,7 @@
       "momentumScore": 74.5,
       "sectorScore": 86.7,
       "rank": 88,
-      "prevRank": 89,
+      "prevRank": 88,
       "signals": {
         "rsi": 89.6,
         "macd": "bullish",
@@ -3043,7 +3043,7 @@
       "momentumScore": 55.9,
       "sectorScore": 57.8,
       "rank": 89,
-      "prevRank": 87,
+      "prevRank": 89,
       "signals": {
         "rsi": 40.0,
         "macd": "bearish",
@@ -3077,7 +3077,7 @@
       "momentumScore": 72.2,
       "sectorScore": 71.1,
       "rank": 90,
-      "prevRank": 88,
+      "prevRank": 90,
       "signals": {
         "rsi": 71.5,
         "macd": "bullish",
@@ -3111,7 +3111,7 @@
       "momentumScore": 90.9,
       "sectorScore": 71.7,
       "rank": 91,
-      "prevRank": 95,
+      "prevRank": 91,
       "signals": {
         "rsi": 73.2,
         "macd": "bullish",
@@ -3129,7 +3129,41 @@
         "momentum1m": 13.47,
         "momentum3m": 17.53,
         "momentum6m": 49.38,
-        "sectorOutperf3m": 4.91
+        "sectorOutperf3m": 4.93
+      }
+    },
+    {
+      "ticker": "PG",
+      "name": "Procter & Gamble",
+      "sector": "Consumer Staples",
+      "price": 168.66,
+      "changePct": 0.52,
+      "compositeScore": 61.0,
+      "challengerScore": 48.0,
+      "technicalScore": 44.5,
+      "fundamentalScore": 41.1,
+      "momentumScore": 80.2,
+      "sectorScore": 87.5,
+      "rank": 92,
+      "prevRank": 93,
+      "signals": {
+        "rsi": 70.0,
+        "macd": "bullish",
+        "bbPct": 0.921,
+        "ma50": 152.24,
+        "ma200": 147.65,
+        "volRatio": 0.76,
+        "pe": 25.48,
+        "sectorPe": 25.5,
+        "epsGrowth": 0.008,
+        "revGrowth": 0.04,
+        "fcfYield": 0.0323,
+        "roe": 0.2961,
+        "debtEquity": 0.7034,
+        "momentum1m": 10.94,
+        "momentum3m": 17.69,
+        "momentum6m": 20.25,
+        "sectorOutperf3m": 11.15
       }
     },
     {
@@ -3144,7 +3178,7 @@
       "fundamentalScore": 21.7,
       "momentumScore": 95.7,
       "sectorScore": 91.7,
-      "rank": 92,
+      "rank": 93,
       "prevRank": 92,
       "signals": {
         "rsi": 50.3,
@@ -3163,41 +3197,7 @@
         "momentum1m": 15.64,
         "momentum3m": 22.94,
         "momentum6m": 112.34,
-        "sectorOutperf3m": 10.32
-      }
-    },
-    {
-      "ticker": "PG",
-      "name": "Procter & Gamble",
-      "sector": "Consumer Staples",
-      "price": 168.66,
-      "changePct": 0.52,
-      "compositeScore": 60.9,
-      "challengerScore": 48.0,
-      "technicalScore": 44.3,
-      "fundamentalScore": 41.1,
-      "momentumScore": 80.2,
-      "sectorScore": 87.5,
-      "rank": 93,
-      "prevRank": 93,
-      "signals": {
-        "rsi": 70.0,
-        "macd": "bullish",
-        "bbPct": 0.921,
-        "ma50": 152.24,
-        "ma200": 147.65,
-        "volRatio": 0.71,
-        "pe": 25.48,
-        "sectorPe": 25.5,
-        "epsGrowth": 0.008,
-        "revGrowth": 0.04,
-        "fcfYield": 0.0323,
-        "roe": 0.2961,
-        "debtEquity": 0.7034,
-        "momentum1m": 10.94,
-        "momentum3m": 17.69,
-        "momentum6m": 20.25,
-        "sectorOutperf3m": 11.15
+        "sectorOutperf3m": 10.34
       }
     },
     {
@@ -3247,7 +3247,7 @@
       "momentumScore": 81.9,
       "sectorScore": 56.7,
       "rank": 95,
-      "prevRank": 91,
+      "prevRank": 95,
       "signals": {
         "rsi": 67.5,
         "macd": "bullish",
@@ -3265,7 +3265,7 @@
         "momentum1m": 9.22,
         "momentum3m": 13.07,
         "momentum6m": 35.61,
-        "sectorOutperf3m": 0.45
+        "sectorOutperf3m": 0.47
       }
     },
     {
@@ -3281,7 +3281,7 @@
       "momentumScore": 69.8,
       "sectorScore": 100.0,
       "rank": 96,
-      "prevRank": 99,
+      "prevRank": 98,
       "signals": {
         "rsi": 67.7,
         "macd": "bullish",
@@ -3315,7 +3315,7 @@
       "momentumScore": 82.3,
       "sectorScore": 97.4,
       "rank": 97,
-      "prevRank": 100,
+      "prevRank": 96,
       "signals": {
         "rsi": 63.9,
         "macd": "bearish",
@@ -3333,7 +3333,7 @@
         "momentum1m": 1.34,
         "momentum3m": 27.72,
         "momentum6m": 39.59,
-        "sectorOutperf3m": 39.07
+        "sectorOutperf3m": 39.08
       }
     },
     {
@@ -3349,7 +3349,7 @@
       "momentumScore": 73.0,
       "sectorScore": 87.5,
       "rank": 98,
-      "prevRank": 101,
+      "prevRank": 100,
       "signals": {
         "rsi": 56.5,
         "macd": "bullish",
@@ -3383,7 +3383,7 @@
       "momentumScore": 81.6,
       "sectorScore": 81.2,
       "rank": 99,
-      "prevRank": 107,
+      "prevRank": 99,
       "signals": {
         "rsi": 58.6,
         "macd": "bullish",
@@ -3417,7 +3417,7 @@
       "momentumScore": 59.1,
       "sectorScore": 67.1,
       "rank": 100,
-      "prevRank": 104,
+      "prevRank": 97,
       "signals": {
         "rsi": 60.0,
         "macd": "bullish",
@@ -3435,7 +3435,7 @@
         "momentum1m": 12.88,
         "momentum3m": 0.83,
         "momentum6m": 12.59,
-        "sectorOutperf3m": 12.18
+        "sectorOutperf3m": 12.19
       }
     },
     {
@@ -3469,7 +3469,7 @@
         "momentum1m": 17.45,
         "momentum3m": 13.7,
         "momentum6m": 33.29,
-        "sectorOutperf3m": 25.05
+        "sectorOutperf3m": 25.06
       }
     },
     {
@@ -3480,19 +3480,19 @@
       "changePct": 0.17,
       "compositeScore": 60.1,
       "challengerScore": 46.4,
-      "technicalScore": 47.2,
+      "technicalScore": 47.3,
       "fundamentalScore": 38.8,
       "momentumScore": 84.1,
       "sectorScore": 78.3,
       "rank": 102,
-      "prevRank": 103,
+      "prevRank": 101,
       "signals": {
         "rsi": 50.1,
         "macd": "bearish",
         "bbPct": 0.687,
         "ma50": 166.81,
         "ma200": 137.0,
-        "volRatio": 0.77,
+        "volRatio": 0.8,
         "pe": 35.18,
         "sectorPe": 33.9,
         "epsGrowth": 0.085,
@@ -3503,7 +3503,7 @@
         "momentum1m": 3.66,
         "momentum3m": 19.33,
         "momentum6m": 58.32,
-        "sectorOutperf3m": 6.71
+        "sectorOutperf3m": 6.73
       }
     },
     {
@@ -3519,7 +3519,7 @@
       "momentumScore": 77.0,
       "sectorScore": 71.9,
       "rank": 103,
-      "prevRank": 96,
+      "prevRank": 103,
       "signals": {
         "rsi": 62.2,
         "macd": "bullish",
@@ -3553,7 +3553,7 @@
       "momentumScore": 82.7,
       "sectorScore": 61.7,
       "rank": 104,
-      "prevRank": 98,
+      "prevRank": 104,
       "signals": {
         "rsi": 48.8,
         "macd": "bullish",
@@ -3571,7 +3571,7 @@
         "momentum1m": 5.55,
         "momentum3m": 13.92,
         "momentum6m": 59.62,
-        "sectorOutperf3m": 1.3
+        "sectorOutperf3m": 1.32
       }
     },
     {
@@ -3605,7 +3605,7 @@
         "momentum1m": 9.6,
         "momentum3m": 22.41,
         "momentum6m": 70.78,
-        "sectorOutperf3m": 9.79
+        "sectorOutperf3m": 9.81
       }
     },
     {
@@ -3616,19 +3616,19 @@
       "changePct": 0.9,
       "compositeScore": 59.7,
       "challengerScore": 48.2,
-      "technicalScore": 45.3,
+      "technicalScore": 45.4,
       "fundamentalScore": 41.8,
       "momentumScore": 71.2,
       "sectorScore": 90.0,
       "rank": 106,
-      "prevRank": 114,
+      "prevRank": 109,
       "signals": {
         "rsi": 87.7,
         "macd": "bullish",
         "bbPct": 0.802,
         "ma50": 140.3,
         "ma200": 140.51,
-        "volRatio": 1.3,
+        "volRatio": 1.31,
         "pe": 32.48,
         "sectorPe": 30.8,
         "epsGrowth": 0.503,
@@ -3643,6 +3643,40 @@
       }
     },
     {
+      "ticker": "KIM",
+      "name": "Kimco Realty",
+      "sector": "Real Estate",
+      "price": 25.68,
+      "changePct": 0.69,
+      "compositeScore": 59.7,
+      "challengerScore": 53.0,
+      "technicalScore": 44.4,
+      "fundamentalScore": 50.0,
+      "momentumScore": 67.6,
+      "sectorScore": 83.3,
+      "rank": 107,
+      "prevRank": 116,
+      "signals": {
+        "rsi": 81.9,
+        "macd": "bullish",
+        "bbPct": 0.829,
+        "ma50": 23.26,
+        "ma200": 23.33,
+        "volRatio": 1.23,
+        "pe": 24.04,
+        "sectorPe": 30.8,
+        "epsGrowth": 1.137,
+        "revGrowth": 0.019,
+        "fcfYield": 0.0514,
+        "roe": 0.072,
+        "debtEquity": 0.8324,
+        "momentum1m": 14.39,
+        "momentum3m": 6.54,
+        "momentum6m": 13.82,
+        "sectorOutperf3m": 6.91
+      }
+    },
+    {
       "ticker": "OTIS",
       "name": "Otis Worldwide",
       "sector": "Industrials",
@@ -3654,7 +3688,7 @@
       "fundamentalScore": 51.5,
       "momentumScore": 64.9,
       "sectorScore": 81.9,
-      "rank": 107,
+      "rank": 108,
       "prevRank": 106,
       "signals": {
         "rsi": 66.1,
@@ -3677,40 +3711,6 @@
       }
     },
     {
-      "ticker": "KIM",
-      "name": "Kimco Realty",
-      "sector": "Real Estate",
-      "price": 25.68,
-      "changePct": 0.69,
-      "compositeScore": 59.6,
-      "challengerScore": 53.0,
-      "technicalScore": 44.2,
-      "fundamentalScore": 50.0,
-      "momentumScore": 67.6,
-      "sectorScore": 83.3,
-      "rank": 108,
-      "prevRank": 116,
-      "signals": {
-        "rsi": 81.9,
-        "macd": "bullish",
-        "bbPct": 0.829,
-        "ma50": 23.26,
-        "ma200": 23.33,
-        "volRatio": 1.21,
-        "pe": 24.04,
-        "sectorPe": 30.8,
-        "epsGrowth": 1.137,
-        "revGrowth": 0.019,
-        "fcfYield": 0.0514,
-        "roe": 0.072,
-        "debtEquity": 0.8324,
-        "momentum1m": 14.39,
-        "momentum3m": 6.54,
-        "momentum6m": 13.82,
-        "sectorOutperf3m": 6.91
-      }
-    },
-    {
       "ticker": "AAPL",
       "name": "Apple Inc.",
       "sector": "Information Technology",
@@ -3723,7 +3723,7 @@
       "momentumScore": 68.8,
       "sectorScore": 90.8,
       "rank": 109,
-      "prevRank": 71,
+      "prevRank": 107,
       "signals": {
         "rsi": 53.1,
         "macd": "bearish",
@@ -3741,7 +3741,7 @@
         "momentum1m": 2.12,
         "momentum3m": 14.17,
         "momentum6m": 16.71,
-        "sectorOutperf3m": 25.52
+        "sectorOutperf3m": 25.53
       }
     },
     {
@@ -3757,7 +3757,7 @@
       "momentumScore": 65.7,
       "sectorScore": 68.4,
       "rank": 110,
-      "prevRank": 113,
+      "prevRank": 110,
       "signals": {
         "rsi": 61.7,
         "macd": "bullish",
@@ -3825,7 +3825,7 @@
       "momentumScore": 67.6,
       "sectorScore": 72.7,
       "rank": 112,
-      "prevRank": 110,
+      "prevRank": 113,
       "signals": {
         "rsi": 68.9,
         "macd": "bullish",
@@ -3961,7 +3961,7 @@
       "momentumScore": 68.6,
       "sectorScore": 71.1,
       "rank": 116,
-      "prevRank": 119,
+      "prevRank": 114,
       "signals": {
         "rsi": 72.2,
         "macd": "bullish",
@@ -4029,7 +4029,7 @@
       "momentumScore": 81.9,
       "sectorScore": 84.3,
       "rank": 118,
-      "prevRank": 109,
+      "prevRank": 118,
       "signals": {
         "rsi": 67.0,
         "macd": "bullish",
@@ -4063,7 +4063,7 @@
       "momentumScore": 72.9,
       "sectorScore": 51.1,
       "rank": 119,
-      "prevRank": 122,
+      "prevRank": 119,
       "signals": {
         "rsi": 60.3,
         "macd": "bullish",
@@ -4097,7 +4097,7 @@
       "momentumScore": 86.3,
       "sectorScore": 67.1,
       "rank": 120,
-      "prevRank": 129,
+      "prevRank": 122,
       "signals": {
         "rsi": 74.9,
         "macd": "bullish",
@@ -4119,6 +4119,40 @@
       }
     },
     {
+      "ticker": "HUM",
+      "name": "Humana",
+      "sector": "Health Care",
+      "price": 438.06,
+      "changePct": 0.21,
+      "compositeScore": 58.4,
+      "challengerScore": 48.0,
+      "technicalScore": 52.0,
+      "fundamentalScore": 42.0,
+      "momentumScore": 80.8,
+      "sectorScore": 63.3,
+      "rank": 121,
+      "prevRank": 136,
+      "signals": {
+        "rsi": 57.6,
+        "macd": "bullish",
+        "bbPct": 1.067,
+        "ma50": 405.21,
+        "ma200": 312.53,
+        "volRatio": 1.43,
+        "pe": 42.76,
+        "sectorPe": 33.9,
+        "epsGrowth": -0.179,
+        "revGrowth": 0.261,
+        "fcfYield": 0.0625,
+        "roe": 0.0674,
+        "debtEquity": 0.7081,
+        "momentum1m": 4.43,
+        "momentum3m": 14.03,
+        "momentum6m": 44.34,
+        "sectorOutperf3m": 1.43
+      }
+    },
+    {
       "ticker": "DHR",
       "name": "Danaher Corporation",
       "sector": "Health Care",
@@ -4130,15 +4164,15 @@
       "fundamentalScore": 42.0,
       "momentumScore": 82.8,
       "sectorScore": 70.0,
-      "rank": 121,
-      "prevRank": 123,
+      "rank": 122,
+      "prevRank": 120,
       "signals": {
         "rsi": 52.4,
         "macd": "bearish",
         "bbPct": 0.839,
         "ma50": 220.91,
         "ma200": 200.3,
-        "volRatio": 0.77,
+        "volRatio": 0.78,
         "pe": 38.99,
         "sectorPe": 33.9,
         "epsGrowth": 0.378,
@@ -4149,7 +4183,7 @@
         "momentum1m": 5.95,
         "momentum3m": 16.01,
         "momentum6m": 42.79,
-        "sectorOutperf3m": 3.39
+        "sectorOutperf3m": 3.41
       }
     },
     {
@@ -4164,8 +4198,8 @@
       "fundamentalScore": 52.0,
       "momentumScore": 63.3,
       "sectorScore": 69.9,
-      "rank": 122,
-      "prevRank": 121,
+      "rank": 123,
+      "prevRank": 123,
       "signals": {
         "rsi": 63.3,
         "macd": "bullish",
@@ -4198,8 +4232,8 @@
       "fundamentalScore": 44.5,
       "momentumScore": 78.9,
       "sectorScore": 65.8,
-      "rank": 123,
-      "prevRank": 124,
+      "rank": 124,
+      "prevRank": 121,
       "signals": {
         "rsi": 66.0,
         "macd": "bullish",
@@ -4232,8 +4266,8 @@
       "fundamentalScore": 29.3,
       "momentumScore": 77.0,
       "sectorScore": 96.8,
-      "rank": 124,
-      "prevRank": 118,
+      "rank": 125,
+      "prevRank": 127,
       "signals": {
         "rsi": 75.2,
         "macd": "bullish",
@@ -4252,40 +4286,6 @@
         "momentum3m": 10.19,
         "momentum6m": 18.83,
         "sectorOutperf3m": 10.16
-      }
-    },
-    {
-      "ticker": "HUM",
-      "name": "Humana",
-      "sector": "Health Care",
-      "price": 438.06,
-      "changePct": 0.21,
-      "compositeScore": 58.1,
-      "challengerScore": 47.8,
-      "technicalScore": 50.6,
-      "fundamentalScore": 42.0,
-      "momentumScore": 80.8,
-      "sectorScore": 63.3,
-      "rank": 125,
-      "prevRank": 143,
-      "signals": {
-        "rsi": 57.6,
-        "macd": "bullish",
-        "bbPct": 1.067,
-        "ma50": 405.21,
-        "ma200": 312.53,
-        "volRatio": 1.18,
-        "pe": 42.76,
-        "sectorPe": 33.9,
-        "epsGrowth": -0.179,
-        "revGrowth": 0.261,
-        "fcfYield": 0.0625,
-        "roe": 0.0674,
-        "debtEquity": 0.7081,
-        "momentum1m": 4.43,
-        "momentum3m": 14.03,
-        "momentum6m": 44.34,
-        "sectorOutperf3m": 1.41
       }
     },
     {
@@ -4319,7 +4319,7 @@
         "momentum1m": 5.96,
         "momentum3m": 3.12,
         "momentum6m": 14.74,
-        "sectorOutperf3m": 14.47
+        "sectorOutperf3m": 14.48
       }
     },
     {
@@ -4335,7 +4335,7 @@
       "momentumScore": 36.2,
       "sectorScore": 57.1,
       "rank": 127,
-      "prevRank": 135,
+      "prevRank": 128,
       "signals": {
         "rsi": 29.3,
         "macd": "bearish",
@@ -4369,7 +4369,7 @@
       "momentumScore": 54.3,
       "sectorScore": 90.9,
       "rank": 128,
-      "prevRank": 120,
+      "prevRank": 124,
       "signals": {
         "rsi": 61.4,
         "macd": "bullish",
@@ -4391,6 +4391,40 @@
       }
     },
     {
+      "ticker": "ABBV",
+      "name": "AbbVie",
+      "sector": "Health Care",
+      "price": 293.89,
+      "changePct": 0.37,
+      "compositeScore": 57.9,
+      "challengerScore": 46.5,
+      "technicalScore": 38.3,
+      "fundamentalScore": 41.2,
+      "momentumScore": 85.2,
+      "sectorScore": 73.3,
+      "rank": 129,
+      "prevRank": 129,
+      "signals": {
+        "rsi": 60.9,
+        "macd": "bearish",
+        "bbPct": 0.868,
+        "ma50": 272.45,
+        "ma200": 237.0,
+        "volRatio": 0.63,
+        "pe": 50.43,
+        "sectorPe": 33.9,
+        "epsGrowth": null,
+        "revGrowth": 0.103,
+        "fcfYield": 0.0341,
+        "roe": null,
+        "debtEquity": null,
+        "momentum1m": 7.78,
+        "momentum3m": 17.89,
+        "momentum6m": 42.83,
+        "sectorOutperf3m": 5.29
+      }
+    },
+    {
       "ticker": "AMD",
       "name": "Advanced Micro Devices",
       "sector": "Information Technology",
@@ -4402,8 +4436,8 @@
       "fundamentalScore": 51.0,
       "momentumScore": 55.7,
       "sectorScore": 78.9,
-      "rank": 129,
-      "prevRank": 127,
+      "rank": 130,
+      "prevRank": 126,
       "signals": {
         "rsi": 45.8,
         "macd": "bearish",
@@ -4421,41 +4455,7 @@
         "momentum1m": -14.92,
         "momentum3m": 6.67,
         "momentum6m": 15.65,
-        "sectorOutperf3m": 18.02
-      }
-    },
-    {
-      "ticker": "ABBV",
-      "name": "AbbVie",
-      "sector": "Health Care",
-      "price": 293.89,
-      "changePct": 0.37,
-      "compositeScore": 57.8,
-      "challengerScore": 46.4,
-      "technicalScore": 38.0,
-      "fundamentalScore": 41.2,
-      "momentumScore": 85.2,
-      "sectorScore": 73.3,
-      "rank": 130,
-      "prevRank": 128,
-      "signals": {
-        "rsi": 60.9,
-        "macd": "bearish",
-        "bbPct": 0.868,
-        "ma50": 272.45,
-        "ma200": 237.0,
-        "volRatio": 0.56,
-        "pe": 50.43,
-        "sectorPe": 33.9,
-        "epsGrowth": null,
-        "revGrowth": 0.103,
-        "fcfYield": 0.0341,
-        "roe": null,
-        "debtEquity": null,
-        "momentum1m": 7.78,
-        "momentum3m": 17.89,
-        "momentum6m": 42.83,
-        "sectorOutperf3m": 5.27
+        "sectorOutperf3m": 18.03
       }
     },
     {
@@ -4489,7 +4489,7 @@
         "momentum1m": 18.25,
         "momentum3m": 15.22,
         "momentum6m": 46.49,
-        "sectorOutperf3m": 2.6
+        "sectorOutperf3m": 2.62
       }
     },
     {
@@ -4505,7 +4505,7 @@
       "momentumScore": 64.4,
       "sectorScore": 60.5,
       "rank": 132,
-      "prevRank": 132,
+      "prevRank": 131,
       "signals": {
         "rsi": 61.6,
         "macd": "bullish",
@@ -4539,7 +4539,7 @@
       "momentumScore": 69.8,
       "sectorScore": 53.9,
       "rank": 133,
-      "prevRank": 137,
+      "prevRank": 140,
       "signals": {
         "rsi": 52.8,
         "macd": "bullish",
@@ -4573,7 +4573,7 @@
       "momentumScore": 78.8,
       "sectorScore": 55.0,
       "rank": 134,
-      "prevRank": 133,
+      "prevRank": 134,
       "signals": {
         "rsi": 55.1,
         "macd": "bullish",
@@ -4591,7 +4591,7 @@
         "momentum1m": 5.63,
         "momentum3m": 12.7,
         "momentum6m": 36.96,
-        "sectorOutperf3m": 0.08
+        "sectorOutperf3m": 0.1
       }
     },
     {
@@ -4607,7 +4607,7 @@
       "momentumScore": 74.1,
       "sectorScore": 78.1,
       "rank": 135,
-      "prevRank": 126,
+      "prevRank": 141,
       "signals": {
         "rsi": 64.2,
         "macd": "bullish",
@@ -4641,7 +4641,7 @@
       "momentumScore": 69.5,
       "sectorScore": 62.7,
       "rank": 136,
-      "prevRank": 156,
+      "prevRank": 132,
       "signals": {
         "rsi": 61.2,
         "macd": "bullish",
@@ -4670,19 +4670,19 @@
       "changePct": 1.13,
       "compositeScore": 57.6,
       "challengerScore": 54.0,
-      "technicalScore": 38.6,
+      "technicalScore": 38.8,
       "fundamentalScore": 53.5,
       "momentumScore": 66.1,
       "sectorScore": 76.6,
       "rank": 137,
-      "prevRank": 134,
+      "prevRank": 137,
       "signals": {
         "rsi": 76.2,
         "macd": "bullish",
         "bbPct": 0.916,
         "ma50": 197.32,
         "ma200": 221.64,
-        "volRatio": 0.69,
+        "volRatio": 0.72,
         "pe": 19.59,
         "sectorPe": 20.7,
         "epsGrowth": null,
@@ -4709,7 +4709,7 @@
       "momentumScore": 60.1,
       "sectorScore": 72.3,
       "rank": 138,
-      "prevRank": 131,
+      "prevRank": 138,
       "signals": {
         "rsi": 77.6,
         "macd": "bullish",
@@ -4743,7 +4743,7 @@
       "momentumScore": 83.3,
       "sectorScore": 81.7,
       "rank": 139,
-      "prevRank": 136,
+      "prevRank": 133,
       "signals": {
         "rsi": 58.8,
         "macd": "bearish",
@@ -4761,7 +4761,7 @@
         "momentum1m": 10.64,
         "momentum3m": 20.22,
         "momentum6m": 23.82,
-        "sectorOutperf3m": 7.6
+        "sectorOutperf3m": 7.62
       }
     },
     {
@@ -4777,7 +4777,7 @@
       "momentumScore": 59.7,
       "sectorScore": 87.1,
       "rank": 140,
-      "prevRank": 140,
+      "prevRank": 135,
       "signals": {
         "rsi": 74.9,
         "macd": "bullish",
@@ -4811,7 +4811,7 @@
       "momentumScore": 85.3,
       "sectorScore": 50.0,
       "rank": 141,
-      "prevRank": 147,
+      "prevRank": 139,
       "signals": {
         "rsi": 65.1,
         "macd": "bullish",
@@ -4829,7 +4829,7 @@
         "momentum1m": 12.69,
         "momentum3m": 11.99,
         "momentum6m": 40.13,
-        "sectorOutperf3m": -0.63
+        "sectorOutperf3m": -0.61
       }
     },
     {
@@ -4845,7 +4845,7 @@
       "momentumScore": 45.4,
       "sectorScore": 52.6,
       "rank": 142,
-      "prevRank": 141,
+      "prevRank": 143,
       "signals": {
         "rsi": 53.3,
         "macd": "bullish",
@@ -4879,7 +4879,7 @@
       "momentumScore": 52.5,
       "sectorScore": 84.2,
       "rank": 143,
-      "prevRank": 139,
+      "prevRank": 142,
       "signals": {
         "rsi": 57.3,
         "macd": "bearish",
@@ -4897,7 +4897,7 @@
         "momentum1m": 4.91,
         "momentum3m": 10.44,
         "momentum6m": -0.92,
-        "sectorOutperf3m": 21.79
+        "sectorOutperf3m": 21.8
       }
     },
     {
@@ -4913,7 +4913,7 @@
       "momentumScore": 58.3,
       "sectorScore": 75.9,
       "rank": 144,
-      "prevRank": 150,
+      "prevRank": 144,
       "signals": {
         "rsi": 45.7,
         "macd": "bearish",
@@ -4947,7 +4947,7 @@
       "momentumScore": 50.0,
       "sectorScore": 56.6,
       "rank": 145,
-      "prevRank": 142,
+      "prevRank": 146,
       "signals": {
         "rsi": 38.2,
         "macd": "bearish",
@@ -4965,7 +4965,7 @@
         "momentum1m": -7.22,
         "momentum3m": -8.32,
         "momentum6m": 36.62,
-        "sectorOutperf3m": 3.03
+        "sectorOutperf3m": 3.04
       }
     },
     {
@@ -4981,7 +4981,7 @@
       "momentumScore": 79.2,
       "sectorScore": 93.4,
       "rank": 146,
-      "prevRank": 144,
+      "prevRank": 145,
       "signals": {
         "rsi": 51.4,
         "macd": "bearish",
@@ -4999,7 +4999,41 @@
         "momentum1m": 8.03,
         "momentum3m": 18.56,
         "momentum6m": 22.44,
-        "sectorOutperf3m": 29.91
+        "sectorOutperf3m": 29.92
+      }
+    },
+    {
+      "ticker": "TEL",
+      "name": "TE Connectivity",
+      "sector": "Information Technology",
+      "price": 217.76,
+      "changePct": 0.04,
+      "compositeScore": 57.1,
+      "challengerScore": 62.2,
+      "technicalScore": 48.0,
+      "fundamentalScore": 66.3,
+      "momentumScore": 45.9,
+      "sectorScore": 68.4,
+      "rank": 147,
+      "prevRank": 148,
+      "signals": {
+        "rsi": 52.5,
+        "macd": "bearish",
+        "bbPct": 0.636,
+        "ma50": 212.73,
+        "ma200": 211.21,
+        "volRatio": 0.71,
+        "pe": 19.72,
+        "sectorPe": 29.6,
+        "epsGrowth": 0.391,
+        "revGrowth": 0.119,
+        "fcfYield": 0.0389,
+        "roe": 0.2461,
+        "debtEquity": 0.4109,
+        "momentum1m": 0.85,
+        "momentum3m": 1.8,
+        "momentum6m": 5.68,
+        "sectorOutperf3m": 13.16
       }
     },
     {
@@ -5014,8 +5048,8 @@
       "fundamentalScore": 53.7,
       "momentumScore": 50.7,
       "sectorScore": 71.4,
-      "rank": 147,
-      "prevRank": 152,
+      "rank": 148,
+      "prevRank": 151,
       "signals": {
         "rsi": 44.1,
         "macd": "bearish",
@@ -5037,40 +5071,6 @@
       }
     },
     {
-      "ticker": "TEL",
-      "name": "TE Connectivity",
-      "sector": "Information Technology",
-      "price": 217.76,
-      "changePct": 0.04,
-      "compositeScore": 57.0,
-      "challengerScore": 62.1,
-      "technicalScore": 47.7,
-      "fundamentalScore": 66.3,
-      "momentumScore": 45.9,
-      "sectorScore": 68.4,
-      "rank": 148,
-      "prevRank": 138,
-      "signals": {
-        "rsi": 52.5,
-        "macd": "bearish",
-        "bbPct": 0.636,
-        "ma50": 212.73,
-        "ma200": 211.21,
-        "volRatio": 0.64,
-        "pe": 19.72,
-        "sectorPe": 29.6,
-        "epsGrowth": 0.391,
-        "revGrowth": 0.119,
-        "fcfYield": 0.0389,
-        "roe": 0.2461,
-        "debtEquity": 0.4109,
-        "momentum1m": 0.85,
-        "momentum3m": 1.8,
-        "momentum6m": 5.68,
-        "sectorOutperf3m": 13.15
-      }
-    },
-    {
       "ticker": "SNPS",
       "name": "Synopsys",
       "sector": "Information Technology",
@@ -5083,7 +5083,7 @@
       "momentumScore": 43.9,
       "sectorScore": 85.5,
       "rank": 149,
-      "prevRank": 146,
+      "prevRank": 147,
       "signals": {
         "rsi": 52.4,
         "macd": "bearish",
@@ -5101,7 +5101,7 @@
         "momentum1m": -6.99,
         "momentum3m": 11.71,
         "momentum6m": -9.69,
-        "sectorOutperf3m": 23.06
+        "sectorOutperf3m": 23.07
       }
     },
     {
@@ -5117,7 +5117,7 @@
       "momentumScore": 74.4,
       "sectorScore": 68.8,
       "rank": 150,
-      "prevRank": 154,
+      "prevRank": 152,
       "signals": {
         "rsi": 64.5,
         "macd": "bullish",
@@ -5151,7 +5151,7 @@
       "momentumScore": 61.0,
       "sectorScore": 65.8,
       "rank": 151,
-      "prevRank": 148,
+      "prevRank": 149,
       "signals": {
         "rsi": 43.4,
         "macd": "bearish",
@@ -5169,7 +5169,7 @@
         "momentum1m": -13.57,
         "momentum3m": 0.1,
         "momentum6m": 60.52,
-        "sectorOutperf3m": 11.45
+        "sectorOutperf3m": 11.46
       }
     },
     {
@@ -5180,19 +5180,19 @@
       "changePct": 0.42,
       "compositeScore": 56.7,
       "challengerScore": 54.2,
-      "technicalScore": 48.1,
+      "technicalScore": 48.2,
       "fundamentalScore": 53.5,
       "momentumScore": 63.2,
       "sectorScore": 63.9,
       "rank": 152,
-      "prevRank": 149,
+      "prevRank": 154,
       "signals": {
         "rsi": 63.3,
         "macd": "bullish",
         "bbPct": 0.893,
         "ma50": 76.99,
         "ma200": 81.0,
-        "volRatio": 0.92,
+        "volRatio": 0.94,
         "pe": 24.42,
         "sectorPe": 26.2,
         "epsGrowth": 1.836,
@@ -5271,7 +5271,7 @@
         "momentum1m": -6.92,
         "momentum3m": -3.38,
         "momentum6m": 28.68,
-        "sectorOutperf3m": 7.97
+        "sectorOutperf3m": 7.98
       }
     },
     {
@@ -5287,7 +5287,7 @@
       "momentumScore": 47.7,
       "sectorScore": 57.9,
       "rank": 155,
-      "prevRank": 158,
+      "prevRank": 156,
       "signals": {
         "rsi": 25.3,
         "macd": "bearish",
@@ -5305,7 +5305,7 @@
         "momentum1m": -19.1,
         "momentum3m": -5.69,
         "momentum6m": 29.81,
-        "sectorOutperf3m": 5.66
+        "sectorOutperf3m": 5.67
       }
     },
     {
@@ -5321,7 +5321,7 @@
       "momentumScore": 62.9,
       "sectorScore": 56.2,
       "rank": 156,
-      "prevRank": 160,
+      "prevRank": 159,
       "signals": {
         "rsi": 66.2,
         "macd": "bullish",
@@ -5355,7 +5355,7 @@
       "momentumScore": 71.5,
       "sectorScore": 92.8,
       "rank": 157,
-      "prevRank": 159,
+      "prevRank": 160,
       "signals": {
         "rsi": 71.8,
         "macd": "bullish",
@@ -5389,7 +5389,7 @@
       "momentumScore": 64.1,
       "sectorScore": 61.7,
       "rank": 158,
-      "prevRank": 151,
+      "prevRank": 150,
       "signals": {
         "rsi": 57.6,
         "macd": "bearish",
@@ -5423,7 +5423,7 @@
       "momentumScore": 72.3,
       "sectorScore": 48.3,
       "rank": 159,
-      "prevRank": 145,
+      "prevRank": 157,
       "signals": {
         "rsi": 28.5,
         "macd": "bearish",
@@ -5441,7 +5441,7 @@
         "momentum1m": -20.75,
         "momentum3m": 11.56,
         "momentum6m": 48.21,
-        "sectorOutperf3m": -1.06
+        "sectorOutperf3m": -1.04
       }
     },
     {
@@ -5457,7 +5457,7 @@
       "momentumScore": 67.1,
       "sectorScore": 61.4,
       "rank": 160,
-      "prevRank": 157,
+      "prevRank": 158,
       "signals": {
         "rsi": 60.7,
         "macd": "bearish",
@@ -5491,7 +5491,7 @@
       "momentumScore": 65.0,
       "sectorScore": 83.1,
       "rank": 161,
-      "prevRank": 164,
+      "prevRank": 163,
       "signals": {
         "rsi": 77.4,
         "macd": "bullish",
@@ -5559,7 +5559,7 @@
       "momentumScore": 62.0,
       "sectorScore": 86.7,
       "rank": 163,
-      "prevRank": 167,
+      "prevRank": 162,
       "signals": {
         "rsi": 77.0,
         "macd": "bullish",
@@ -5593,7 +5593,7 @@
       "momentumScore": 59.3,
       "sectorScore": 57.4,
       "rank": 164,
-      "prevRank": 162,
+      "prevRank": 165,
       "signals": {
         "rsi": 69.2,
         "macd": "bullish",
@@ -5627,7 +5627,7 @@
       "momentumScore": 55.1,
       "sectorScore": 95.8,
       "rank": 165,
-      "prevRank": 165,
+      "prevRank": 164,
       "signals": {
         "rsi": 64.5,
         "macd": "bullish",
@@ -5695,7 +5695,7 @@
       "momentumScore": 45.5,
       "sectorScore": 47.4,
       "rank": 167,
-      "prevRank": 168,
+      "prevRank": 167,
       "signals": {
         "rsi": 28.6,
         "macd": "bearish",
@@ -5713,7 +5713,7 @@
         "momentum1m": -26.37,
         "momentum3m": -13.95,
         "momentum6m": 49.2,
-        "sectorOutperf3m": -2.6
+        "sectorOutperf3m": -2.59
       }
     },
     {
@@ -5729,7 +5729,7 @@
       "momentumScore": 55.0,
       "sectorScore": 56.6,
       "rank": 168,
-      "prevRank": 169,
+      "prevRank": 168,
       "signals": {
         "rsi": 66.7,
         "macd": "bullish",
@@ -5763,7 +5763,7 @@
       "momentumScore": 81.9,
       "sectorScore": 45.0,
       "rank": 169,
-      "prevRank": 172,
+      "prevRank": 170,
       "signals": {
         "rsi": 74.9,
         "macd": "bullish",
@@ -5781,7 +5781,7 @@
         "momentum1m": 12.14,
         "momentum3m": 9.9,
         "momentum6m": 36.47,
-        "sectorOutperf3m": -2.72
+        "sectorOutperf3m": -2.7
       }
     },
     {
@@ -5797,7 +5797,7 @@
       "momentumScore": 69.8,
       "sectorScore": 37.5,
       "rank": 170,
-      "prevRank": 163,
+      "prevRank": 169,
       "signals": {
         "rsi": 90.0,
         "macd": "bullish",
@@ -5865,7 +5865,7 @@
       "momentumScore": 65.8,
       "sectorScore": 74.7,
       "rank": 172,
-      "prevRank": 170,
+      "prevRank": 172,
       "signals": {
         "rsi": 73.1,
         "macd": "bullish",
@@ -5899,14 +5899,14 @@
       "momentumScore": 53.8,
       "sectorScore": 93.5,
       "rank": 173,
-      "prevRank": 173,
+      "prevRank": 174,
       "signals": {
         "rsi": 71.0,
         "macd": "bullish",
         "bbPct": 0.828,
         "ma50": 41.54,
         "ma200": 44.34,
-        "volRatio": 0.56,
+        "volRatio": 0.57,
         "pe": 23.2,
         "sectorPe": 20.4,
         "epsGrowth": 0.346,
@@ -5967,7 +5967,7 @@
       "momentumScore": 36.2,
       "sectorScore": 75.0,
       "rank": 175,
-      "prevRank": 174,
+      "prevRank": 173,
       "signals": {
         "rsi": 46.6,
         "macd": "bearish",
@@ -5985,7 +5985,7 @@
         "momentum1m": -5.16,
         "momentum3m": 3.5,
         "momentum6m": -8.51,
-        "sectorOutperf3m": 14.85
+        "sectorOutperf3m": 14.86
       }
     },
     {
@@ -6001,7 +6001,7 @@
       "momentumScore": 63.1,
       "sectorScore": 75.0,
       "rank": 176,
-      "prevRank": 184,
+      "prevRank": 175,
       "signals": {
         "rsi": 66.5,
         "macd": "bullish",
@@ -6069,7 +6069,7 @@
       "momentumScore": 65.4,
       "sectorScore": 61.8,
       "rank": 178,
-      "prevRank": 180,
+      "prevRank": 181,
       "signals": {
         "rsi": 62.7,
         "macd": "bullish",
@@ -6103,7 +6103,7 @@
       "momentumScore": 36.5,
       "sectorScore": 76.3,
       "rank": 179,
-      "prevRank": 175,
+      "prevRank": 177,
       "signals": {
         "rsi": 47.5,
         "macd": "bearish",
@@ -6121,7 +6121,7 @@
         "momentum1m": -1.88,
         "momentum3m": 5.88,
         "momentum6m": -17.85,
-        "sectorOutperf3m": 17.23
+        "sectorOutperf3m": 17.24
       }
     },
     {
@@ -6137,7 +6137,7 @@
       "momentumScore": 67.8,
       "sectorScore": 100.0,
       "rank": 180,
-      "prevRank": 177,
+      "prevRank": 180,
       "signals": {
         "rsi": 72.2,
         "macd": "bearish",
@@ -6171,7 +6171,7 @@
       "momentumScore": 69.8,
       "sectorScore": 63.8,
       "rank": 181,
-      "prevRank": 182,
+      "prevRank": 184,
       "signals": {
         "rsi": 68.3,
         "macd": "bullish",
@@ -6268,19 +6268,19 @@
       "changePct": -1.44,
       "compositeScore": 53.1,
       "challengerScore": 62.5,
-      "technicalScore": 56.9,
+      "technicalScore": 57.0,
       "fundamentalScore": 68.4,
       "momentumScore": 42.9,
       "sectorScore": 38.2,
       "rank": 184,
-      "prevRank": 181,
+      "prevRank": 182,
       "signals": {
         "rsi": 34.2,
         "macd": "bearish",
         "bbPct": 0.191,
         "ma50": 58.99,
         "ma200": 41.59,
-        "volRatio": 0.74,
+        "volRatio": 0.77,
         "pe": 24.47,
         "sectorPe": 29.6,
         "epsGrowth": 4.102,
@@ -6291,7 +6291,7 @@
         "momentum1m": -30.34,
         "momentum3m": -19.67,
         "momentum6m": 50.27,
-        "sectorOutperf3m": -8.32
+        "sectorOutperf3m": -8.31
       }
     },
     {
@@ -6300,9 +6300,9 @@
       "sector": "Communication Services",
       "price": 178.25,
       "changePct": 0.19,
-      "compositeScore": 52.6,
-      "challengerScore": 56.3,
-      "technicalScore": 56.7,
+      "compositeScore": 52.8,
+      "challengerScore": 56.4,
+      "technicalScore": 57.5,
       "fundamentalScore": 58.0,
       "momentumScore": 40.6,
       "sectorScore": 54.5,
@@ -6314,7 +6314,7 @@
         "bbPct": 0.709,
         "ma50": 172.67,
         "ma200": 167.89,
-        "volRatio": 1.24,
+        "volRatio": 1.38,
         "pe": null,
         "sectorPe": 16.2,
         "epsGrowth": 1.312,
@@ -6341,14 +6341,14 @@
       "momentumScore": 60.6,
       "sectorScore": 67.5,
       "rank": 186,
-      "prevRank": 188,
+      "prevRank": 186,
       "signals": {
         "rsi": 55.3,
         "macd": "bearish",
         "bbPct": 0.73,
         "ma50": 158.49,
         "ma200": 147.07,
-        "volRatio": 0.71,
+        "volRatio": 0.73,
         "pe": 35.12,
         "sectorPe": 26.2,
         "epsGrowth": 0.185,
@@ -6375,7 +6375,7 @@
       "momentumScore": 56.0,
       "sectorScore": 26.7,
       "rank": 187,
-      "prevRank": 189,
+      "prevRank": 187,
       "signals": {
         "rsi": 40.8,
         "macd": "bearish",
@@ -6393,7 +6393,7 @@
         "momentum1m": -0.4,
         "momentum3m": 3.55,
         "momentum6m": 16.36,
-        "sectorOutperf3m": -9.07
+        "sectorOutperf3m": -9.05
       }
     },
     {
@@ -6409,7 +6409,7 @@
       "momentumScore": 62.3,
       "sectorScore": 50.0,
       "rank": 188,
-      "prevRank": 187,
+      "prevRank": 191,
       "signals": {
         "rsi": 63.4,
         "macd": "bullish",
@@ -6443,7 +6443,7 @@
       "momentumScore": 67.2,
       "sectorScore": 59.6,
       "rank": 189,
-      "prevRank": 195,
+      "prevRank": 192,
       "signals": {
         "rsi": 66.6,
         "macd": "bullish",
@@ -6495,7 +6495,7 @@
         "momentum1m": 21.98,
         "momentum3m": 12.37,
         "momentum6m": 27.79,
-        "sectorOutperf3m": -0.25
+        "sectorOutperf3m": -0.23
       }
     },
     {
@@ -6511,7 +6511,7 @@
       "momentumScore": 26.6,
       "sectorScore": 52.6,
       "rank": 191,
-      "prevRank": 192,
+      "prevRank": 188,
       "signals": {
         "rsi": 35.5,
         "macd": "bearish",
@@ -6529,7 +6529,7 @@
         "momentum1m": 0.18,
         "momentum3m": -12.49,
         "momentum6m": 0.27,
-        "sectorOutperf3m": -1.14
+        "sectorOutperf3m": -1.13
       }
     },
     {
@@ -6545,7 +6545,7 @@
       "momentumScore": 46.7,
       "sectorScore": 53.9,
       "rank": 192,
-      "prevRank": 186,
+      "prevRank": 189,
       "signals": {
         "rsi": 50.3,
         "macd": "bullish",
@@ -6563,7 +6563,7 @@
         "momentum1m": -9.53,
         "momentum3m": -9.13,
         "momentum6m": 31.51,
-        "sectorOutperf3m": 2.22
+        "sectorOutperf3m": 2.23
       }
     },
     {
@@ -6572,21 +6572,21 @@
       "sector": "Financials",
       "price": 85.58,
       "changePct": 0.54,
-      "compositeScore": 51.9,
+      "compositeScore": 52.0,
       "challengerScore": 41.5,
-      "technicalScore": 50.1,
+      "technicalScore": 50.2,
       "fundamentalScore": 34.8,
       "momentumScore": 68.4,
       "sectorScore": 59.2,
       "rank": 193,
-      "prevRank": 191,
+      "prevRank": 193,
       "signals": {
         "rsi": 61.1,
         "macd": "bullish",
         "bbPct": 0.857,
         "ma50": 78.08,
         "ma200": 71.78,
-        "volRatio": 0.8,
+        "volRatio": 0.82,
         "pe": 111.14,
         "sectorPe": 15.0,
         "epsGrowth": 0.238,
@@ -6613,7 +6613,7 @@
       "momentumScore": 49.4,
       "sectorScore": 40.4,
       "rank": 194,
-      "prevRank": 194,
+      "prevRank": 195,
       "signals": {
         "rsi": 53.5,
         "macd": "bullish",
@@ -6647,7 +6647,7 @@
       "momentumScore": 48.5,
       "sectorScore": 68.7,
       "rank": 195,
-      "prevRank": 193,
+      "prevRank": 196,
       "signals": {
         "rsi": 61.1,
         "macd": "bullish",
@@ -6681,7 +6681,7 @@
       "momentumScore": 41.6,
       "sectorScore": 25.0,
       "rank": 196,
-      "prevRank": 206,
+      "prevRank": 198,
       "signals": {
         "rsi": 44.6,
         "macd": "bearish",
@@ -6709,20 +6709,20 @@
       "price": 254.23,
       "changePct": 0.46,
       "compositeScore": 51.6,
-      "challengerScore": 46.9,
-      "technicalScore": 53.3,
+      "challengerScore": 47.0,
+      "technicalScore": 53.4,
       "fundamentalScore": 43.7,
       "momentumScore": 59.0,
       "sectorScore": 52.1,
       "rank": 197,
-      "prevRank": 197,
+      "prevRank": 194,
       "signals": {
         "rsi": 63.2,
         "macd": "bullish",
         "bbPct": 0.678,
         "ma50": 238.42,
         "ma200": 228.5,
-        "volRatio": 0.7,
+        "volRatio": 0.72,
         "pe": 31.48,
         "sectorPe": 25.2,
         "epsGrowth": 0.167,
@@ -6749,7 +6749,7 @@
       "momentumScore": 60.0,
       "sectorScore": 37.3,
       "rank": 198,
-      "prevRank": 200,
+      "prevRank": 199,
       "signals": {
         "rsi": 57.3,
         "macd": "bullish",
@@ -6783,7 +6783,7 @@
       "momentumScore": 63.3,
       "sectorScore": 34.4,
       "rank": 199,
-      "prevRank": 196,
+      "prevRank": 197,
       "signals": {
         "rsi": 56.8,
         "macd": "bullish",
@@ -6817,7 +6817,7 @@
       "momentumScore": 46.5,
       "sectorScore": 43.4,
       "rank": 200,
-      "prevRank": 218,
+      "prevRank": 215,
       "signals": {
         "rsi": 54.9,
         "macd": "bullish",
@@ -6839,6 +6839,40 @@
       }
     },
     {
+      "ticker": "DUK",
+      "name": "Duke Energy",
+      "sector": "Utilities",
+      "price": 128.94,
+      "changePct": 0.43,
+      "compositeScore": 51.2,
+      "challengerScore": 41.3,
+      "technicalScore": 49.2,
+      "fundamentalScore": 34.8,
+      "momentumScore": 55.9,
+      "sectorScore": 72.6,
+      "rank": 201,
+      "prevRank": 204,
+      "signals": {
+        "rsi": 69.7,
+        "macd": "bullish",
+        "bbPct": 0.784,
+        "ma50": 120.17,
+        "ma200": 123.46,
+        "volRatio": 1.24,
+        "pe": 18.9,
+        "sectorPe": 20.4,
+        "epsGrowth": 0.1,
+        "revGrowth": 0.066,
+        "fcfYield": -0.0599,
+        "roe": 0.101,
+        "debtEquity": 1.6298,
+        "momentum1m": 9.1,
+        "momentum3m": 4.49,
+        "momentum6m": 5.89,
+        "sectorOutperf3m": 4.46
+      }
+    },
+    {
       "ticker": "AFL",
       "name": "Aflac",
       "sector": "Financials",
@@ -6850,8 +6884,8 @@
       "fundamentalScore": 40.3,
       "momentumScore": 60.0,
       "sectorScore": 63.2,
-      "rank": 201,
-      "prevRank": 198,
+      "rank": 202,
+      "prevRank": 202,
       "signals": {
         "rsi": 68.1,
         "macd": "bullish",
@@ -6884,8 +6918,8 @@
       "fundamentalScore": 52.7,
       "momentumScore": 51.5,
       "sectorScore": 46.8,
-      "rank": 202,
-      "prevRank": 201,
+      "rank": 203,
+      "prevRank": 200,
       "signals": {
         "rsi": 58.9,
         "macd": "bullish",
@@ -6918,8 +6952,8 @@
       "fundamentalScore": 54.3,
       "momentumScore": 56.1,
       "sectorScore": 41.7,
-      "rank": 203,
-      "prevRank": 204,
+      "rank": 204,
+      "prevRank": 203,
       "signals": {
         "rsi": 49.1,
         "macd": "bearish",
@@ -6937,7 +6971,7 @@
         "momentum1m": 7.29,
         "momentum3m": 9.65,
         "momentum6m": 1.95,
-        "sectorOutperf3m": -2.97
+        "sectorOutperf3m": -2.95
       }
     },
     {
@@ -6952,8 +6986,8 @@
       "fundamentalScore": 61.2,
       "momentumScore": 38.5,
       "sectorScore": 60.5,
-      "rank": 204,
-      "prevRank": 205,
+      "rank": 205,
+      "prevRank": 201,
       "signals": {
         "rsi": 52.2,
         "macd": "bearish",
@@ -6971,7 +7005,7 @@
         "momentum1m": 12.93,
         "momentum3m": -4.54,
         "momentum6m": -7.58,
-        "sectorOutperf3m": 6.81
+        "sectorOutperf3m": 6.82
       }
     },
     {
@@ -6982,11 +7016,11 @@
       "changePct": 1.0,
       "compositeScore": 50.8,
       "challengerScore": 53.6,
-      "technicalScore": 48.4,
+      "technicalScore": 48.5,
       "fundamentalScore": 55.9,
       "momentumScore": 53.6,
       "sectorScore": 42.6,
-      "rank": 205,
+      "rank": 206,
       "prevRank": 208,
       "signals": {
         "rsi": 68.1,
@@ -7009,40 +7043,6 @@
       }
     },
     {
-      "ticker": "DUK",
-      "name": "Duke Energy",
-      "sector": "Utilities",
-      "price": 128.94,
-      "changePct": 0.43,
-      "compositeScore": 50.5,
-      "challengerScore": 40.9,
-      "technicalScore": 46.4,
-      "fundamentalScore": 34.8,
-      "momentumScore": 55.9,
-      "sectorScore": 72.6,
-      "rank": 206,
-      "prevRank": 199,
-      "signals": {
-        "rsi": 69.7,
-        "macd": "bullish",
-        "bbPct": 0.784,
-        "ma50": 120.17,
-        "ma200": 123.46,
-        "volRatio": 0.99,
-        "pe": 18.9,
-        "sectorPe": 20.4,
-        "epsGrowth": 0.1,
-        "revGrowth": 0.066,
-        "fcfYield": -0.0599,
-        "roe": 0.101,
-        "debtEquity": 1.6298,
-        "momentum1m": 9.1,
-        "momentum3m": 4.49,
-        "momentum6m": 5.89,
-        "sectorOutperf3m": 4.46
-      }
-    },
-    {
       "ticker": "PNR",
       "name": "Pentair",
       "sector": "Industrials",
@@ -7055,7 +7055,7 @@
       "momentumScore": 55.3,
       "sectorScore": 73.5,
       "rank": 207,
-      "prevRank": 202,
+      "prevRank": 205,
       "signals": {
         "rsi": 80.6,
         "macd": "bullish",
@@ -7089,7 +7089,7 @@
       "momentumScore": 63.4,
       "sectorScore": 53.1,
       "rank": 208,
-      "prevRank": 211,
+      "prevRank": 209,
       "signals": {
         "rsi": 59.7,
         "macd": "bullish",
@@ -7123,7 +7123,7 @@
       "momentumScore": 29.3,
       "sectorScore": 52.4,
       "rank": 209,
-      "prevRank": 216,
+      "prevRank": 217,
       "signals": {
         "rsi": 29.6,
         "macd": "bearish",
@@ -7157,7 +7157,7 @@
       "momentumScore": 56.2,
       "sectorScore": 36.7,
       "rank": 210,
-      "prevRank": 217,
+      "prevRank": 211,
       "signals": {
         "rsi": 47.9,
         "macd": "bearish",
@@ -7175,7 +7175,7 @@
         "momentum1m": 1.03,
         "momentum3m": 8.36,
         "momentum6m": 8.42,
-        "sectorOutperf3m": -4.26
+        "sectorOutperf3m": -4.24
       }
     },
     {
@@ -7259,7 +7259,7 @@
       "momentumScore": 49.4,
       "sectorScore": 60.0,
       "rank": 213,
-      "prevRank": 209,
+      "prevRank": 212,
       "signals": {
         "rsi": 72.7,
         "macd": "bullish",
@@ -7293,7 +7293,7 @@
       "momentumScore": 63.2,
       "sectorScore": 48.9,
       "rank": 214,
-      "prevRank": 212,
+      "prevRank": 213,
       "signals": {
         "rsi": 68.5,
         "macd": "bullish",
@@ -7322,19 +7322,19 @@
       "changePct": 0.21,
       "compositeScore": 50.2,
       "challengerScore": 56.4,
-      "technicalScore": 57.4,
+      "technicalScore": 57.5,
       "fundamentalScore": 59.7,
       "momentumScore": 39.0,
       "sectorScore": 40.8,
       "rank": 215,
-      "prevRank": 203,
+      "prevRank": 206,
       "signals": {
         "rsi": 49.9,
         "macd": "bullish",
         "bbPct": 0.638,
         "ma50": 315.41,
         "ma200": 323.24,
-        "volRatio": 0.76,
+        "volRatio": 0.78,
         "pe": 18.28,
         "sectorPe": 15.0,
         "epsGrowth": 0.309,
@@ -7361,7 +7361,7 @@
       "momentumScore": 79.2,
       "sectorScore": 38.3,
       "rank": 216,
-      "prevRank": 215,
+      "prevRank": 216,
       "signals": {
         "rsi": 79.3,
         "macd": "bullish",
@@ -7379,7 +7379,7 @@
         "momentum1m": 18.07,
         "momentum3m": 9.25,
         "momentum6m": 22.54,
-        "sectorOutperf3m": -3.37
+        "sectorOutperf3m": -3.35
       }
     },
     {
@@ -7395,7 +7395,7 @@
       "momentumScore": 50.7,
       "sectorScore": 39.5,
       "rank": 217,
-      "prevRank": 214,
+      "prevRank": 218,
       "signals": {
         "rsi": 57.6,
         "macd": "bullish",
@@ -7429,7 +7429,7 @@
       "momentumScore": 30.9,
       "sectorScore": 64.5,
       "rank": 218,
-      "prevRank": 213,
+      "prevRank": 214,
       "signals": {
         "rsi": 54.4,
         "macd": "bullish",
@@ -7447,7 +7447,7 @@
         "momentum1m": 2.88,
         "momentum3m": -0.22,
         "momentum6m": -17.49,
-        "sectorOutperf3m": 11.13
+        "sectorOutperf3m": 11.14
       }
     },
     {
@@ -7463,7 +7463,7 @@
       "momentumScore": 59.9,
       "sectorScore": 66.0,
       "rank": 219,
-      "prevRank": 220,
+      "prevRank": 219,
       "signals": {
         "rsi": 80.1,
         "macd": "bullish",
@@ -7599,7 +7599,7 @@
       "momentumScore": 47.6,
       "sectorScore": 59.1,
       "rank": 223,
-      "prevRank": 235,
+      "prevRank": 220,
       "signals": {
         "rsi": 69.8,
         "macd": "bullish",
@@ -7628,19 +7628,19 @@
       "changePct": -1.67,
       "compositeScore": 49.1,
       "challengerScore": 50.6,
-      "technicalScore": 57.5,
+      "technicalScore": 57.7,
       "fundamentalScore": 50.4,
       "momentumScore": 37.3,
       "sectorScore": 51.3,
       "rank": 224,
-      "prevRank": 230,
+      "prevRank": 224,
       "signals": {
         "rsi": 34.0,
         "macd": "bearish",
         "bbPct": 0.154,
         "ma50": 120.35,
         "ma200": 86.74,
-        "volRatio": 0.7,
+        "volRatio": 0.77,
         "pe": 137.96,
         "sectorPe": 29.6,
         "epsGrowth": 0.5,
@@ -7651,7 +7651,7 @@
         "momentum1m": -35.03,
         "momentum3m": -13.1,
         "momentum6m": 20.79,
-        "sectorOutperf3m": -1.75
+        "sectorOutperf3m": -1.74
       }
     },
     {
@@ -7667,7 +7667,7 @@
       "momentumScore": 46.9,
       "sectorScore": 39.8,
       "rank": 225,
-      "prevRank": 224,
+      "prevRank": 226,
       "signals": {
         "rsi": 65.8,
         "macd": "bullish",
@@ -7701,7 +7701,7 @@
       "momentumScore": 54.1,
       "sectorScore": 45.8,
       "rank": 226,
-      "prevRank": 225,
+      "prevRank": 228,
       "signals": {
         "rsi": 61.9,
         "macd": "bearish",
@@ -7730,19 +7730,19 @@
       "changePct": 0.95,
       "compositeScore": 49.1,
       "challengerScore": 36.5,
-      "technicalScore": 32.9,
+      "technicalScore": 33.0,
       "fundamentalScore": 29.6,
       "momentumScore": 61.3,
       "sectorScore": 83.3,
       "rank": 227,
-      "prevRank": 227,
+      "prevRank": 229,
       "signals": {
         "rsi": 80.4,
         "macd": "bullish",
         "bbPct": 0.981,
         "ma50": 21.66,
         "ma200": 23.37,
-        "volRatio": 0.82,
+        "volRatio": 0.83,
         "pe": null,
         "sectorPe": 25.2,
         "epsGrowth": null,
@@ -7769,7 +7769,7 @@
       "momentumScore": 44.1,
       "sectorScore": 35.5,
       "rank": 228,
-      "prevRank": 226,
+      "prevRank": 225,
       "signals": {
         "rsi": 66.2,
         "macd": "bullish",
@@ -7803,7 +7803,7 @@
       "momentumScore": 41.9,
       "sectorScore": 27.6,
       "rank": 229,
-      "prevRank": 219,
+      "prevRank": 230,
       "signals": {
         "rsi": 63.7,
         "macd": "bullish",
@@ -7837,7 +7837,7 @@
       "momentumScore": 51.8,
       "sectorScore": 25.5,
       "rank": 230,
-      "prevRank": 236,
+      "prevRank": 231,
       "signals": {
         "rsi": 48.4,
         "macd": "bullish",
@@ -7871,7 +7871,7 @@
       "momentumScore": 40.1,
       "sectorScore": 34.2,
       "rank": 231,
-      "prevRank": 242,
+      "prevRank": 227,
       "signals": {
         "rsi": 54.4,
         "macd": "bullish",
@@ -7893,6 +7893,40 @@
       }
     },
     {
+      "ticker": "PFE",
+      "name": "Pfizer",
+      "sector": "Health Care",
+      "price": 29.36,
+      "changePct": 0.24,
+      "compositeScore": 48.9,
+      "challengerScore": 38.5,
+      "technicalScore": 52.7,
+      "fundamentalScore": 31.4,
+      "momentumScore": 67.8,
+      "sectorScore": 46.7,
+      "rank": 232,
+      "prevRank": 233,
+      "signals": {
+        "rsi": 49.4,
+        "macd": "bearish",
+        "bbPct": 0.429,
+        "ma50": 28.4,
+        "ma200": 26.14,
+        "volRatio": 0.85,
+        "pe": 41.89,
+        "sectorPe": 33.9,
+        "epsGrowth": -0.097,
+        "revGrowth": -0.004,
+        "fcfYield": 0.0778,
+        "roe": 0.0447,
+        "debtEquity": 0.7101,
+        "momentum1m": 5.0,
+        "momentum3m": 11.15,
+        "momentum6m": 16.76,
+        "sectorOutperf3m": -1.45
+      }
+    },
+    {
       "ticker": "CDNS",
       "name": "Cadence Design Systems",
       "sector": "Information Technology",
@@ -7904,8 +7938,8 @@
       "fundamentalScore": 45.8,
       "momentumScore": 37.4,
       "sectorScore": 71.1,
-      "rank": 232,
-      "prevRank": 228,
+      "rank": 233,
+      "prevRank": 232,
       "signals": {
         "rsi": 52.2,
         "macd": "bearish",
@@ -7923,7 +7957,7 @@
         "momentum1m": -0.77,
         "momentum3m": 2.43,
         "momentum6m": -6.46,
-        "sectorOutperf3m": 13.78
+        "sectorOutperf3m": 13.79
       }
     },
     {
@@ -7938,8 +7972,8 @@
       "fundamentalScore": 46.7,
       "momentumScore": 43.9,
       "sectorScore": 66.7,
-      "rank": 233,
-      "prevRank": 229,
+      "rank": 234,
+      "prevRank": 235,
       "signals": {
         "rsi": 55.5,
         "macd": "bearish",
@@ -7961,40 +7995,6 @@
       }
     },
     {
-      "ticker": "PFE",
-      "name": "Pfizer",
-      "sector": "Health Care",
-      "price": 29.36,
-      "changePct": 0.24,
-      "compositeScore": 48.8,
-      "challengerScore": 38.4,
-      "technicalScore": 52.5,
-      "fundamentalScore": 31.4,
-      "momentumScore": 67.8,
-      "sectorScore": 46.7,
-      "rank": 234,
-      "prevRank": 231,
-      "signals": {
-        "rsi": 49.4,
-        "macd": "bearish",
-        "bbPct": 0.429,
-        "ma50": 28.4,
-        "ma200": 26.14,
-        "volRatio": 0.8,
-        "pe": 41.89,
-        "sectorPe": 33.9,
-        "epsGrowth": -0.097,
-        "revGrowth": -0.004,
-        "fcfYield": 0.0778,
-        "roe": 0.0447,
-        "debtEquity": 0.7101,
-        "momentum1m": 5.0,
-        "momentum3m": 11.15,
-        "momentum6m": 16.76,
-        "sectorOutperf3m": -1.47
-      }
-    },
-    {
       "ticker": "ATO",
       "name": "Atmos Energy",
       "sector": "Utilities",
@@ -8007,7 +8007,7 @@
       "momentumScore": 47.0,
       "sectorScore": 67.7,
       "rank": 235,
-      "prevRank": 234,
+      "prevRank": 236,
       "signals": {
         "rsi": 66.5,
         "macd": "bullish",
@@ -8041,7 +8041,7 @@
       "momentumScore": 41.7,
       "sectorScore": 76.7,
       "rank": 236,
-      "prevRank": 232,
+      "prevRank": 234,
       "signals": {
         "rsi": 73.5,
         "macd": "bullish",
@@ -8070,19 +8070,19 @@
       "changePct": 0.36,
       "compositeScore": 48.6,
       "challengerScore": 54.8,
-      "technicalScore": 50.6,
+      "technicalScore": 50.7,
       "fundamentalScore": 59.0,
       "momentumScore": 46.6,
       "sectorScore": 32.9,
       "rank": 237,
-      "prevRank": 233,
+      "prevRank": 237,
       "signals": {
         "rsi": 63.3,
         "macd": "bullish",
         "bbPct": 0.809,
         "ma50": 149.35,
         "ma200": 139.35,
-        "volRatio": 0.66,
+        "volRatio": 0.69,
         "pe": 16.73,
         "sectorPe": 15.0,
         "epsGrowth": 0.245,
@@ -8097,6 +8097,40 @@
       }
     },
     {
+      "ticker": "CNC",
+      "name": "Centene Corporation",
+      "sector": "Health Care",
+      "price": 70.19,
+      "changePct": 0.09,
+      "compositeScore": 48.6,
+      "challengerScore": 47.0,
+      "technicalScore": 50.8,
+      "fundamentalScore": 46.1,
+      "momentumScore": 63.0,
+      "sectorScore": 31.7,
+      "rank": 238,
+      "prevRank": 238,
+      "signals": {
+        "rsi": 49.9,
+        "macd": "bearish",
+        "bbPct": 0.552,
+        "ma50": 66.85,
+        "ma200": 56.21,
+        "volRatio": 0.99,
+        "pe": 23.92,
+        "sectorPe": 33.9,
+        "epsGrowth": null,
+        "revGrowth": 0.002,
+        "fcfYield": 0.0895,
+        "roe": 0.0674,
+        "debtEquity": 0.6967,
+        "momentum1m": 1.93,
+        "momentum3m": 6.28,
+        "momentum6m": 19.35,
+        "sectorOutperf3m": -6.32
+      }
+    },
+    {
       "ticker": "AMCR",
       "name": "Amcor",
       "sector": "Materials",
@@ -8108,8 +8142,8 @@
       "fundamentalScore": 41.4,
       "momentumScore": 58.1,
       "sectorScore": 41.7,
-      "rank": 238,
-      "prevRank": 237,
+      "rank": 239,
+      "prevRank": 239,
       "signals": {
         "rsi": 49.7,
         "macd": "bearish",
@@ -8131,40 +8165,6 @@
       }
     },
     {
-      "ticker": "CNC",
-      "name": "Centene Corporation",
-      "sector": "Health Care",
-      "price": 70.19,
-      "changePct": 0.09,
-      "compositeScore": 48.5,
-      "challengerScore": 46.9,
-      "technicalScore": 50.6,
-      "fundamentalScore": 46.1,
-      "momentumScore": 63.0,
-      "sectorScore": 31.7,
-      "rank": 239,
-      "prevRank": 240,
-      "signals": {
-        "rsi": 49.9,
-        "macd": "bearish",
-        "bbPct": 0.552,
-        "ma50": 66.85,
-        "ma200": 56.21,
-        "volRatio": 0.94,
-        "pe": 23.92,
-        "sectorPe": 33.9,
-        "epsGrowth": null,
-        "revGrowth": 0.002,
-        "fcfYield": 0.0895,
-        "roe": 0.0674,
-        "debtEquity": 0.6967,
-        "momentum1m": 1.93,
-        "momentum3m": 6.28,
-        "momentum6m": 19.35,
-        "sectorOutperf3m": -6.34
-      }
-    },
-    {
       "ticker": "MRK",
       "name": "Merck & Co.",
       "sector": "Health Care",
@@ -8172,19 +8172,19 @@
       "changePct": 0.2,
       "compositeScore": 48.3,
       "challengerScore": 33.3,
-      "technicalScore": 57.7,
+      "technicalScore": 57.8,
       "fundamentalScore": 22.6,
       "momentumScore": 73.5,
       "sectorScore": 43.3,
       "rank": 240,
-      "prevRank": 243,
+      "prevRank": 240,
       "signals": {
         "rsi": 47.5,
         "macd": "bullish",
         "bbPct": 0.655,
         "ma50": 146.22,
         "ma200": 126.94,
-        "volRatio": 0.48,
+        "volRatio": 0.49,
         "pe": 148.7,
         "sectorPe": 33.9,
         "epsGrowth": -0.12,
@@ -8195,7 +8195,7 @@
         "momentum1m": 4.28,
         "momentum3m": 9.87,
         "momentum6m": 32.21,
-        "sectorOutperf3m": -2.75
+        "sectorOutperf3m": -2.73
       }
     },
     {
@@ -8211,7 +8211,7 @@
       "momentumScore": 50.5,
       "sectorScore": 40.6,
       "rank": 241,
-      "prevRank": 239,
+      "prevRank": 241,
       "signals": {
         "rsi": 64.7,
         "macd": "bullish",
@@ -8245,7 +8245,7 @@
       "momentumScore": 37.5,
       "sectorScore": 18.4,
       "rank": 242,
-      "prevRank": 238,
+      "prevRank": 242,
       "signals": {
         "rsi": 27.7,
         "macd": "bearish",
@@ -8263,7 +8263,7 @@
         "momentum1m": -41.51,
         "momentum3m": -32.29,
         "momentum6m": 37.53,
-        "sectorOutperf3m": -20.94
+        "sectorOutperf3m": -20.93
       }
     },
     {
@@ -8279,7 +8279,7 @@
       "momentumScore": 35.5,
       "sectorScore": 36.2,
       "rank": 243,
-      "prevRank": 241,
+      "prevRank": 243,
       "signals": {
         "rsi": 59.0,
         "macd": "bullish",
@@ -8313,7 +8313,7 @@
       "momentumScore": 43.4,
       "sectorScore": 48.7,
       "rank": 244,
-      "prevRank": 255,
+      "prevRank": 252,
       "signals": {
         "rsi": 47.1,
         "macd": "bearish",
@@ -8347,7 +8347,7 @@
       "momentumScore": 48.3,
       "sectorScore": 77.1,
       "rank": 245,
-      "prevRank": 245,
+      "prevRank": 244,
       "signals": {
         "rsi": 72.8,
         "macd": "bullish",
@@ -8415,7 +8415,7 @@
       "momentumScore": 37.5,
       "sectorScore": 61.8,
       "rank": 247,
-      "prevRank": 247,
+      "prevRank": 248,
       "signals": {
         "rsi": 53.7,
         "macd": "bearish",
@@ -8433,7 +8433,7 @@
         "momentum1m": 5.71,
         "momentum3m": -4.09,
         "momentum6m": 1.6,
-        "sectorOutperf3m": 7.26
+        "sectorOutperf3m": 7.27
       }
     },
     {
@@ -8449,7 +8449,7 @@
       "momentumScore": 47.2,
       "sectorScore": 62.9,
       "rank": 248,
-      "prevRank": 244,
+      "prevRank": 245,
       "signals": {
         "rsi": 65.2,
         "macd": "bullish",
@@ -8483,7 +8483,7 @@
       "momentumScore": 46.4,
       "sectorScore": 41.0,
       "rank": 249,
-      "prevRank": 249,
+      "prevRank": 251,
       "signals": {
         "rsi": 63.3,
         "macd": "bullish",
@@ -8517,7 +8517,7 @@
       "momentumScore": 43.4,
       "sectorScore": 49.4,
       "rank": 250,
-      "prevRank": 248,
+      "prevRank": 247,
       "signals": {
         "rsi": 62.8,
         "macd": "bullish",
@@ -8551,7 +8551,7 @@
       "momentumScore": 44.3,
       "sectorScore": 47.0,
       "rank": 251,
-      "prevRank": 250,
+      "prevRank": 249,
       "signals": {
         "rsi": 67.1,
         "macd": "bullish",
@@ -8585,7 +8585,7 @@
       "momentumScore": 31.7,
       "sectorScore": 28.6,
       "rank": 252,
-      "prevRank": 263,
+      "prevRank": 261,
       "signals": {
         "rsi": 38.5,
         "macd": "bearish",
@@ -8619,7 +8619,7 @@
       "momentumScore": 57.7,
       "sectorScore": 53.2,
       "rank": 253,
-      "prevRank": 252,
+      "prevRank": 250,
       "signals": {
         "rsi": 71.4,
         "macd": "bullish",
@@ -8721,7 +8721,7 @@
       "momentumScore": 42.3,
       "sectorScore": 54.8,
       "rank": 256,
-      "prevRank": 258,
+      "prevRank": 254,
       "signals": {
         "rsi": 51.4,
         "macd": "bearish",
@@ -8755,7 +8755,7 @@
       "momentumScore": 34.1,
       "sectorScore": 25.0,
       "rank": 257,
-      "prevRank": 254,
+      "prevRank": 255,
       "signals": {
         "rsi": 42.0,
         "macd": "bullish",
@@ -8789,7 +8789,7 @@
       "momentumScore": 26.8,
       "sectorScore": 40.9,
       "rank": 258,
-      "prevRank": 262,
+      "prevRank": 259,
       "signals": {
         "rsi": 29.2,
         "macd": "bearish",
@@ -8857,7 +8857,7 @@
       "momentumScore": 62.8,
       "sectorScore": 16.7,
       "rank": 260,
-      "prevRank": 251,
+      "prevRank": 256,
       "signals": {
         "rsi": 60.5,
         "macd": "bullish",
@@ -8875,7 +8875,7 @@
         "momentum1m": 10.75,
         "momentum3m": -0.18,
         "momentum6m": 21.74,
-        "sectorOutperf3m": -12.8
+        "sectorOutperf3m": -12.78
       }
     },
     {
@@ -8891,14 +8891,14 @@
       "momentumScore": 53.4,
       "sectorScore": 42.1,
       "rank": 261,
-      "prevRank": 259,
+      "prevRank": 263,
       "signals": {
         "rsi": 77.3,
         "macd": "bullish",
         "bbPct": 0.774,
         "ma50": 299.65,
         "ma200": 324.12,
-        "volRatio": 0.34,
+        "volRatio": 0.35,
         "pe": 18.46,
         "sectorPe": 15.0,
         "epsGrowth": 0.057,
@@ -8959,7 +8959,7 @@
       "momentumScore": 11.1,
       "sectorScore": 32.9,
       "rank": 263,
-      "prevRank": 261,
+      "prevRank": 258,
       "signals": {
         "rsi": 35.2,
         "macd": "bearish",
@@ -8977,7 +8977,7 @@
         "momentum1m": -23.92,
         "momentum3m": -23.65,
         "momentum6m": -9.74,
-        "sectorOutperf3m": -12.3
+        "sectorOutperf3m": -12.29
       }
     },
     {
@@ -8993,7 +8993,7 @@
       "momentumScore": 51.5,
       "sectorScore": 44.7,
       "rank": 264,
-      "prevRank": 256,
+      "prevRank": 264,
       "signals": {
         "rsi": 61.3,
         "macd": "bullish",
@@ -9027,7 +9027,7 @@
       "momentumScore": 43.1,
       "sectorScore": 28.9,
       "rank": 265,
-      "prevRank": 268,
+      "prevRank": 266,
       "signals": {
         "rsi": 60.7,
         "macd": "bullish",
@@ -9061,7 +9061,7 @@
       "momentumScore": 44.2,
       "sectorScore": 63.3,
       "rank": 266,
-      "prevRank": 269,
+      "prevRank": 262,
       "signals": {
         "rsi": 66.0,
         "macd": "bullish",
@@ -9095,7 +9095,7 @@
       "momentumScore": 46.9,
       "sectorScore": 43.8,
       "rank": 267,
-      "prevRank": 271,
+      "prevRank": 273,
       "signals": {
         "rsi": 45.9,
         "macd": "bearish",
@@ -9129,7 +9129,7 @@
       "momentumScore": 59.8,
       "sectorScore": 51.7,
       "rank": 268,
-      "prevRank": 270,
+      "prevRank": 267,
       "signals": {
         "rsi": 57.2,
         "macd": "bearish",
@@ -9147,7 +9147,7 @@
         "momentum1m": 6.63,
         "momentum3m": 12.15,
         "momentum6m": 4.11,
-        "sectorOutperf3m": -0.47
+        "sectorOutperf3m": -0.45
       }
     },
     {
@@ -9163,7 +9163,7 @@
       "momentumScore": 75.7,
       "sectorScore": 33.3,
       "rank": 269,
-      "prevRank": 266,
+      "prevRank": 268,
       "signals": {
         "rsi": 69.4,
         "macd": "bullish",
@@ -9181,7 +9181,41 @@
         "momentum1m": 12.94,
         "momentum3m": 7.66,
         "momentum6m": 23.16,
-        "sectorOutperf3m": -4.96
+        "sectorOutperf3m": -4.94
+      }
+    },
+    {
+      "ticker": "NSC",
+      "name": "Norfolk Southern",
+      "sector": "Industrials",
+      "price": 327.93,
+      "changePct": 0.12,
+      "compositeScore": 46.1,
+      "challengerScore": 43.2,
+      "technicalScore": 55.9,
+      "fundamentalScore": 40.1,
+      "momentumScore": 42.0,
+      "sectorScore": 48.2,
+      "rank": 270,
+      "prevRank": 275,
+      "signals": {
+        "rsi": 50.8,
+        "macd": "bearish",
+        "bbPct": 0.39,
+        "ma50": 322.85,
+        "ma200": 314.1,
+        "volRatio": 1.05,
+        "pe": 27.45,
+        "sectorPe": 26.2,
+        "epsGrowth": 0.067,
+        "revGrowth": 0.136,
+        "fcfYield": 0.022,
+        "roe": 0.1684,
+        "debtEquity": 1.0249,
+        "momentum1m": 2.53,
+        "momentum3m": -2.54,
+        "momentum6m": 6.44,
+        "sectorOutperf3m": 6.4
       }
     },
     {
@@ -9196,8 +9230,8 @@
       "fundamentalScore": 72.5,
       "momentumScore": 6.6,
       "sectorScore": 28.9,
-      "rank": 270,
-      "prevRank": 267,
+      "rank": 271,
+      "prevRank": 269,
       "signals": {
         "rsi": 19.3,
         "macd": "bearish",
@@ -9215,7 +9249,7 @@
         "momentum1m": -26.09,
         "momentum3m": -24.95,
         "momentum6m": -25.04,
-        "sectorOutperf3m": -13.6
+        "sectorOutperf3m": -13.59
       }
     },
     {
@@ -9230,8 +9264,8 @@
       "fundamentalScore": 63.2,
       "momentumScore": 31.1,
       "sectorScore": 45.5,
-      "rank": 271,
-      "prevRank": 272,
+      "rank": 272,
+      "prevRank": 270,
       "signals": {
         "rsi": 64.4,
         "macd": "bullish",
@@ -9264,8 +9298,8 @@
       "fundamentalScore": 58.1,
       "momentumScore": 20.4,
       "sectorScore": 50.0,
-      "rank": 272,
-      "prevRank": 264,
+      "rank": 273,
+      "prevRank": 271,
       "signals": {
         "rsi": 37.2,
         "macd": "bearish",
@@ -9283,7 +9317,7 @@
         "momentum1m": -14.7,
         "momentum3m": -13.17,
         "momentum6m": -2.92,
-        "sectorOutperf3m": -1.82
+        "sectorOutperf3m": -1.81
       }
     },
     {
@@ -9298,8 +9332,8 @@
       "fundamentalScore": 44.8,
       "momentumScore": 42.3,
       "sectorScore": 31.2,
-      "rank": 273,
-      "prevRank": 290,
+      "rank": 274,
+      "prevRank": 272,
       "signals": {
         "rsi": 44.4,
         "macd": "bearish",
@@ -9318,40 +9352,6 @@
         "momentum3m": -2.87,
         "momentum6m": 5.53,
         "sectorOutperf3m": -9.41
-      }
-    },
-    {
-      "ticker": "NSC",
-      "name": "Norfolk Southern",
-      "sector": "Industrials",
-      "price": 327.93,
-      "changePct": 0.12,
-      "compositeScore": 45.6,
-      "challengerScore": 42.9,
-      "technicalScore": 53.6,
-      "fundamentalScore": 40.1,
-      "momentumScore": 42.0,
-      "sectorScore": 48.2,
-      "rank": 274,
-      "prevRank": 273,
-      "signals": {
-        "rsi": 50.8,
-        "macd": "bearish",
-        "bbPct": 0.39,
-        "ma50": 322.85,
-        "ma200": 314.1,
-        "volRatio": 0.89,
-        "pe": 27.45,
-        "sectorPe": 26.2,
-        "epsGrowth": 0.067,
-        "revGrowth": 0.136,
-        "fcfYield": 0.022,
-        "roe": 0.1684,
-        "debtEquity": 1.0249,
-        "momentum1m": 2.53,
-        "momentum3m": -2.54,
-        "momentum6m": 6.44,
-        "sectorOutperf3m": 6.4
       }
     },
     {
@@ -9385,7 +9385,7 @@
         "momentum1m": 10.82,
         "momentum3m": -1.86,
         "momentum6m": 13.79,
-        "sectorOutperf3m": -14.48
+        "sectorOutperf3m": -14.46
       }
     },
     {
@@ -9401,7 +9401,7 @@
       "momentumScore": 41.6,
       "sectorScore": 30.3,
       "rank": 276,
-      "prevRank": 277,
+      "prevRank": 276,
       "signals": {
         "rsi": 57.5,
         "macd": "bullish",
@@ -9435,7 +9435,7 @@
       "momentumScore": 40.5,
       "sectorScore": 44.6,
       "rank": 277,
-      "prevRank": 276,
+      "prevRank": 278,
       "signals": {
         "rsi": 69.2,
         "macd": "bullish",
@@ -9469,7 +9469,7 @@
       "momentumScore": 44.0,
       "sectorScore": 42.1,
       "rank": 278,
-      "prevRank": 275,
+      "prevRank": 277,
       "signals": {
         "rsi": 43.6,
         "macd": "bearish",
@@ -9487,7 +9487,7 @@
         "momentum1m": -17.8,
         "momentum3m": -17.59,
         "momentum6m": 43.27,
-        "sectorOutperf3m": -6.24
+        "sectorOutperf3m": -6.23
       }
     },
     {
@@ -9503,7 +9503,7 @@
       "momentumScore": 56.4,
       "sectorScore": 15.0,
       "rank": 279,
-      "prevRank": 283,
+      "prevRank": 280,
       "signals": {
         "rsi": 71.3,
         "macd": "bullish",
@@ -9521,7 +9521,7 @@
         "momentum1m": 21.4,
         "momentum3m": -1.1,
         "momentum6m": 7.73,
-        "sectorOutperf3m": -13.72
+        "sectorOutperf3m": -13.7
       }
     },
     {
@@ -9537,7 +9537,7 @@
       "momentumScore": 55.4,
       "sectorScore": 38.7,
       "rank": 280,
-      "prevRank": 278,
+      "prevRank": 286,
       "signals": {
         "rsi": 72.0,
         "macd": "bullish",
@@ -9571,7 +9571,7 @@
       "momentumScore": 24.9,
       "sectorScore": 42.9,
       "rank": 281,
-      "prevRank": 280,
+      "prevRank": 281,
       "signals": {
         "rsi": 37.0,
         "macd": "bearish",
@@ -9673,7 +9673,7 @@
       "momentumScore": 28.1,
       "sectorScore": 33.3,
       "rank": 284,
-      "prevRank": 281,
+      "prevRank": 283,
       "signals": {
         "rsi": 43.2,
         "macd": "bearish",
@@ -9741,7 +9741,7 @@
       "momentumScore": 33.4,
       "sectorScore": 6.4,
       "rank": 286,
-      "prevRank": 286,
+      "prevRank": 284,
       "signals": {
         "rsi": 40.3,
         "macd": "bearish",
@@ -9775,7 +9775,7 @@
       "momentumScore": 46.4,
       "sectorScore": 30.1,
       "rank": 287,
-      "prevRank": 284,
+      "prevRank": 288,
       "signals": {
         "rsi": 58.6,
         "macd": "bullish",
@@ -9843,7 +9843,7 @@
       "momentumScore": 31.9,
       "sectorScore": 20.0,
       "rank": 289,
-      "prevRank": 298,
+      "prevRank": 293,
       "signals": {
         "rsi": 51.9,
         "macd": "bearish",
@@ -9861,7 +9861,7 @@
         "momentum1m": -1.54,
         "momentum3m": 0.06,
         "momentum6m": -9.5,
-        "sectorOutperf3m": -12.56
+        "sectorOutperf3m": -12.54
       }
     },
     {
@@ -9877,7 +9877,7 @@
       "momentumScore": 42.8,
       "sectorScore": 48.4,
       "rank": 290,
-      "prevRank": 288,
+      "prevRank": 291,
       "signals": {
         "rsi": 74.0,
         "macd": "bullish",
@@ -9945,7 +9945,7 @@
       "momentumScore": 24.0,
       "sectorScore": 36.4,
       "rank": 292,
-      "prevRank": 292,
+      "prevRank": 290,
       "signals": {
         "rsi": 34.1,
         "macd": "bearish",
@@ -9979,7 +9979,7 @@
       "momentumScore": 36.3,
       "sectorScore": 18.4,
       "rank": 293,
-      "prevRank": 294,
+      "prevRank": 292,
       "signals": {
         "rsi": 52.1,
         "macd": "bullish",
@@ -10013,7 +10013,7 @@
       "momentumScore": 64.6,
       "sectorScore": 10.0,
       "rank": 294,
-      "prevRank": 291,
+      "prevRank": 294,
       "signals": {
         "rsi": 58.8,
         "macd": "bullish",
@@ -10031,7 +10031,7 @@
         "momentum1m": 6.15,
         "momentum3m": -2.29,
         "momentum6m": 52.77,
-        "sectorOutperf3m": -14.91
+        "sectorOutperf3m": -14.89
       }
     },
     {
@@ -10047,7 +10047,7 @@
       "momentumScore": 31.5,
       "sectorScore": 47.6,
       "rank": 295,
-      "prevRank": 295,
+      "prevRank": 296,
       "signals": {
         "rsi": 33.4,
         "macd": "bearish",
@@ -10115,7 +10115,7 @@
       "momentumScore": 36.1,
       "sectorScore": 56.7,
       "rank": 297,
-      "prevRank": 296,
+      "prevRank": 295,
       "signals": {
         "rsi": 57.9,
         "macd": "bullish",
@@ -10183,7 +10183,7 @@
       "momentumScore": 41.9,
       "sectorScore": 45.2,
       "rank": 299,
-      "prevRank": 358,
+      "prevRank": 309,
       "signals": {
         "rsi": 65.7,
         "macd": "bullish",
@@ -10212,19 +10212,19 @@
       "changePct": 0.3,
       "compositeScore": 43.6,
       "challengerScore": 40.8,
-      "technicalScore": 39.5,
+      "technicalScore": 39.6,
       "fundamentalScore": 39.4,
       "momentumScore": 46.3,
       "sectorScore": 51.6,
       "rank": 300,
-      "prevRank": 301,
+      "prevRank": 300,
       "signals": {
         "rsi": 62.5,
         "macd": "bearish",
         "bbPct": 0.712,
         "ma50": 88.39,
         "ma200": 91.73,
-        "volRatio": 0.61,
+        "volRatio": 0.63,
         "pe": 21.37,
         "sectorPe": 20.4,
         "epsGrowth": 0.143,
@@ -10245,20 +10245,20 @@
       "price": 96.86,
       "changePct": 0.99,
       "compositeScore": 43.5,
-      "challengerScore": 41.4,
-      "technicalScore": 40.3,
+      "challengerScore": 41.5,
+      "technicalScore": 40.4,
       "fundamentalScore": 40.3,
       "momentumScore": 43.8,
       "sectorScore": 52.1,
       "rank": 301,
-      "prevRank": 315,
+      "prevRank": 305,
       "signals": {
         "rsi": 68.2,
         "macd": "bullish",
         "bbPct": 0.822,
         "ma50": 87.26,
         "ma200": 102.66,
-        "volRatio": 0.89,
+        "volRatio": 0.93,
         "pe": 18.21,
         "sectorPe": 25.2,
         "epsGrowth": -0.158,
@@ -10285,7 +10285,7 @@
       "momentumScore": 57.8,
       "sectorScore": 29.8,
       "rank": 302,
-      "prevRank": 300,
+      "prevRank": 301,
       "signals": {
         "rsi": 68.4,
         "macd": "bullish",
@@ -10307,6 +10307,40 @@
       }
     },
     {
+      "ticker": "NVR",
+      "name": "NVR, Inc.",
+      "sector": "Consumer Discretionary",
+      "price": 6036.42,
+      "changePct": 0.2,
+      "compositeScore": 43.5,
+      "challengerScore": 46.6,
+      "technicalScore": 51.0,
+      "fundamentalScore": 48.0,
+      "momentumScore": 39.7,
+      "sectorScore": 31.9,
+      "rank": 303,
+      "prevRank": 302,
+      "signals": {
+        "rsi": 52.9,
+        "macd": "bullish",
+        "bbPct": 0.516,
+        "ma50": 6097.88,
+        "ma200": 6490.26,
+        "volRatio": 0.73,
+        "pe": 16.76,
+        "sectorPe": 20.7,
+        "epsGrowth": -0.204,
+        "revGrowth": -0.082,
+        "fcfYield": 0.044,
+        "roe": 0.283,
+        "debtEquity": 0.3217,
+        "momentum1m": 4.12,
+        "momentum3m": -5.31,
+        "momentum6m": 5.53,
+        "sectorOutperf3m": -7.73
+      }
+    },
+    {
       "ticker": "DPZ",
       "name": "Domino's",
       "sector": "Consumer Discretionary",
@@ -10318,8 +10352,8 @@
       "fundamentalScore": 51.5,
       "momentumScore": 48.0,
       "sectorScore": 27.7,
-      "rank": 303,
-      "prevRank": 302,
+      "rank": 304,
+      "prevRank": 298,
       "signals": {
         "rsi": 66.1,
         "macd": "bullish",
@@ -10338,40 +10372,6 @@
         "momentum3m": -5.35,
         "momentum6m": 8.32,
         "sectorOutperf3m": -7.77
-      }
-    },
-    {
-      "ticker": "NVR",
-      "name": "NVR, Inc.",
-      "sector": "Consumer Discretionary",
-      "price": 6036.42,
-      "changePct": 0.2,
-      "compositeScore": 43.4,
-      "challengerScore": 46.6,
-      "technicalScore": 50.9,
-      "fundamentalScore": 48.0,
-      "momentumScore": 39.7,
-      "sectorScore": 31.9,
-      "rank": 304,
-      "prevRank": 293,
-      "signals": {
-        "rsi": 52.9,
-        "macd": "bullish",
-        "bbPct": 0.516,
-        "ma50": 6097.88,
-        "ma200": 6490.26,
-        "volRatio": 0.71,
-        "pe": 16.76,
-        "sectorPe": 20.7,
-        "epsGrowth": -0.204,
-        "revGrowth": -0.082,
-        "fcfYield": 0.044,
-        "roe": 0.283,
-        "debtEquity": 0.3217,
-        "momentum1m": 4.12,
-        "momentum3m": -5.31,
-        "momentum6m": 5.53,
-        "sectorOutperf3m": -7.73
       }
     },
     {
@@ -10421,7 +10421,7 @@
       "momentumScore": 50.5,
       "sectorScore": 58.3,
       "rank": 306,
-      "prevRank": 306,
+      "prevRank": 304,
       "signals": {
         "rsi": 59.7,
         "macd": "bearish",
@@ -10455,7 +10455,7 @@
       "momentumScore": 40.6,
       "sectorScore": 46.7,
       "rank": 307,
-      "prevRank": 316,
+      "prevRank": 307,
       "signals": {
         "rsi": 72.4,
         "macd": "bullish",
@@ -10489,7 +10489,7 @@
       "momentumScore": 50.8,
       "sectorScore": 38.6,
       "rank": 308,
-      "prevRank": 304,
+      "prevRank": 308,
       "signals": {
         "rsi": 68.4,
         "macd": "bullish",
@@ -10523,7 +10523,7 @@
       "momentumScore": 43.9,
       "sectorScore": 23.3,
       "rank": 309,
-      "prevRank": 308,
+      "prevRank": 306,
       "signals": {
         "rsi": 55.7,
         "macd": "bearish",
@@ -10541,7 +10541,7 @@
         "momentum1m": 7.19,
         "momentum3m": 1.11,
         "momentum6m": -0.52,
-        "sectorOutperf3m": -11.51
+        "sectorOutperf3m": -11.49
       }
     },
     {
@@ -10557,7 +10557,7 @@
       "momentumScore": 12.7,
       "sectorScore": 39.5,
       "rank": 310,
-      "prevRank": 317,
+      "prevRank": 310,
       "signals": {
         "rsi": 54.6,
         "macd": "bullish",
@@ -10575,7 +10575,7 @@
         "momentum1m": -3.01,
         "momentum3m": -19.09,
         "momentum6m": -22.86,
-        "sectorOutperf3m": -7.74
+        "sectorOutperf3m": -7.73
       }
     },
     {
@@ -10591,7 +10591,7 @@
       "momentumScore": 43.4,
       "sectorScore": 62.9,
       "rank": 311,
-      "prevRank": 326,
+      "prevRank": 316,
       "signals": {
         "rsi": 56.3,
         "macd": "bearish",
@@ -10625,7 +10625,7 @@
       "momentumScore": 1.4,
       "sectorScore": 3.9,
       "rank": 312,
-      "prevRank": 310,
+      "prevRank": 311,
       "signals": {
         "rsi": 26.8,
         "macd": "bearish",
@@ -10643,7 +10643,7 @@
         "momentum1m": -41.98,
         "momentum3m": -43.72,
         "momentum6m": -40.58,
-        "sectorOutperf3m": -32.37
+        "sectorOutperf3m": -32.36
       }
     },
     {
@@ -10659,7 +10659,7 @@
       "momentumScore": 58.0,
       "sectorScore": 13.3,
       "rank": 313,
-      "prevRank": 311,
+      "prevRank": 312,
       "signals": {
         "rsi": 57.6,
         "macd": "bullish",
@@ -10677,7 +10677,41 @@
         "momentum1m": 4.36,
         "momentum3m": -1.53,
         "momentum6m": 27.78,
-        "sectorOutperf3m": -14.15
+        "sectorOutperf3m": -14.13
+      }
+    },
+    {
+      "ticker": "KEYS",
+      "name": "Keysight Technologies",
+      "sector": "Information Technology",
+      "price": 291.46,
+      "changePct": -1.01,
+      "compositeScore": 42.5,
+      "challengerScore": 55.9,
+      "technicalScore": 50.4,
+      "fundamentalScore": 63.6,
+      "momentumScore": 10.6,
+      "sectorScore": 40.8,
+      "rank": 314,
+      "prevRank": 314,
+      "signals": {
+        "rsi": 35.6,
+        "macd": "bearish",
+        "bbPct": 0.27,
+        "ma50": 336.14,
+        "ma200": 319.23,
+        "volRatio": 0.82,
+        "pe": 39.39,
+        "sectorPe": 29.6,
+        "epsGrowth": 1.091,
+        "revGrowth": 0.365,
+        "fcfYield": 0.0377,
+        "roe": 0.209,
+        "debtEquity": 0.4209,
+        "momentum1m": -21.27,
+        "momentum3m": -17.63,
+        "momentum6m": -19.31,
+        "sectorOutperf3m": -6.27
       }
     },
     {
@@ -10692,7 +10726,7 @@
       "fundamentalScore": 61.3,
       "momentumScore": 29.9,
       "sectorScore": 25.0,
-      "rank": 314,
+      "rank": 315,
       "prevRank": 313,
       "signals": {
         "rsi": 55.7,
@@ -10715,40 +10749,6 @@
       }
     },
     {
-      "ticker": "KEYS",
-      "name": "Keysight Technologies",
-      "sector": "Information Technology",
-      "price": 291.46,
-      "changePct": -1.01,
-      "compositeScore": 42.4,
-      "challengerScore": 55.9,
-      "technicalScore": 50.1,
-      "fundamentalScore": 63.6,
-      "momentumScore": 10.6,
-      "sectorScore": 40.8,
-      "rank": 315,
-      "prevRank": 312,
-      "signals": {
-        "rsi": 35.6,
-        "macd": "bearish",
-        "bbPct": 0.27,
-        "ma50": 336.14,
-        "ma200": 319.23,
-        "volRatio": 0.76,
-        "pe": 39.39,
-        "sectorPe": 29.6,
-        "epsGrowth": 1.091,
-        "revGrowth": 0.365,
-        "fcfYield": 0.0377,
-        "roe": 0.209,
-        "debtEquity": 0.4209,
-        "momentum1m": -21.27,
-        "momentum3m": -17.63,
-        "momentum6m": -19.31,
-        "sectorOutperf3m": -6.28
-      }
-    },
-    {
       "ticker": "EQT",
       "name": "EQT Corporation",
       "sector": "Energy",
@@ -10761,14 +10761,14 @@
       "momentumScore": 28.6,
       "sectorScore": 38.1,
       "rank": 316,
-      "prevRank": 332,
+      "prevRank": 317,
       "signals": {
         "rsi": 43.5,
         "macd": "bearish",
         "bbPct": 0.297,
         "ma50": 52.72,
         "ma200": 55.17,
-        "volRatio": 0.77,
+        "volRatio": 0.79,
         "pe": 12.34,
         "sectorPe": 14.3,
         "epsGrowth": -0.17,
@@ -10795,7 +10795,7 @@
       "momentumScore": 34.7,
       "sectorScore": 23.7,
       "rank": 317,
-      "prevRank": 321,
+      "prevRank": 315,
       "signals": {
         "rsi": 52.6,
         "macd": "bullish",
@@ -10829,7 +10829,7 @@
       "momentumScore": 48.2,
       "sectorScore": 41.9,
       "rank": 318,
-      "prevRank": 309,
+      "prevRank": 318,
       "signals": {
         "rsi": 67.0,
         "macd": "bullish",
@@ -10863,7 +10863,7 @@
       "momentumScore": 24.7,
       "sectorScore": 19.0,
       "rank": 319,
-      "prevRank": 307,
+      "prevRank": 319,
       "signals": {
         "rsi": 35.0,
         "macd": "bearish",
@@ -10915,7 +10915,7 @@
         "momentum1m": -35.22,
         "momentum3m": -25.31,
         "momentum6m": 5.0,
-        "sectorOutperf3m": -13.96
+        "sectorOutperf3m": -13.95
       }
     },
     {
@@ -10931,7 +10931,7 @@
       "momentumScore": 37.8,
       "sectorScore": 31.3,
       "rank": 321,
-      "prevRank": 325,
+      "prevRank": 323,
       "signals": {
         "rsi": 51.0,
         "macd": "bullish",
@@ -10960,19 +10960,19 @@
       "changePct": 0.4,
       "compositeScore": 42.0,
       "challengerScore": 36.9,
-      "technicalScore": 47.6,
+      "technicalScore": 47.7,
       "fundamentalScore": 33.5,
       "momentumScore": 65.5,
       "sectorScore": 18.3,
       "rank": 322,
-      "prevRank": 328,
+      "prevRank": 324,
       "signals": {
         "rsi": 68.3,
         "macd": "bullish",
         "bbPct": 0.748,
         "ma50": 103.58,
         "ma200": 100.39,
-        "volRatio": 0.66,
+        "volRatio": 0.68,
         "pe": 41.04,
         "sectorPe": 33.9,
         "epsGrowth": -0.436,
@@ -10983,7 +10983,7 @@
         "momentum1m": 8.31,
         "momentum3m": -0.12,
         "momentum6m": 33.52,
-        "sectorOutperf3m": -12.74
+        "sectorOutperf3m": -12.72
       }
     },
     {
@@ -11033,7 +11033,7 @@
       "momentumScore": 42.7,
       "sectorScore": 45.8,
       "rank": 324,
-      "prevRank": 305,
+      "prevRank": 325,
       "signals": {
         "rsi": 34.7,
         "macd": "bearish",
@@ -11067,7 +11067,7 @@
       "momentumScore": 32.2,
       "sectorScore": 6.2,
       "rank": 325,
-      "prevRank": 324,
+      "prevRank": 326,
       "signals": {
         "rsi": 51.3,
         "macd": "bullish",
@@ -11101,7 +11101,7 @@
       "momentumScore": 9.9,
       "sectorScore": 9.1,
       "rank": 326,
-      "prevRank": 318,
+      "prevRank": 321,
       "signals": {
         "rsi": 44.3,
         "macd": "bullish",
@@ -11135,7 +11135,7 @@
       "momentumScore": 32.1,
       "sectorScore": 34.9,
       "rank": 327,
-      "prevRank": 314,
+      "prevRank": 328,
       "signals": {
         "rsi": 42.8,
         "macd": "bearish",
@@ -11169,7 +11169,7 @@
       "momentumScore": 8.1,
       "sectorScore": 25.0,
       "rank": 328,
-      "prevRank": 342,
+      "prevRank": 327,
       "signals": {
         "rsi": 29.8,
         "macd": "bearish",
@@ -11187,7 +11187,7 @@
         "momentum1m": -28.87,
         "momentum3m": -29.03,
         "momentum6m": -13.16,
-        "sectorOutperf3m": -17.68
+        "sectorOutperf3m": -17.67
       }
     },
     {
@@ -11203,7 +11203,7 @@
       "momentumScore": 34.0,
       "sectorScore": 17.1,
       "rank": 329,
-      "prevRank": 340,
+      "prevRank": 339,
       "signals": {
         "rsi": 35.6,
         "macd": "bearish",
@@ -11237,7 +11237,7 @@
       "momentumScore": 31.3,
       "sectorScore": 21.1,
       "rank": 330,
-      "prevRank": 323,
+      "prevRank": 329,
       "signals": {
         "rsi": 48.0,
         "macd": "bullish",
@@ -11271,7 +11271,7 @@
       "momentumScore": 18.1,
       "sectorScore": 14.3,
       "rank": 331,
-      "prevRank": 327,
+      "prevRank": 330,
       "signals": {
         "rsi": 30.3,
         "macd": "bearish",
@@ -11305,7 +11305,7 @@
       "momentumScore": 34.1,
       "sectorScore": 33.7,
       "rank": 332,
-      "prevRank": 344,
+      "prevRank": 333,
       "signals": {
         "rsi": 54.3,
         "macd": "bullish",
@@ -11339,7 +11339,7 @@
       "momentumScore": 38.4,
       "sectorScore": 50.0,
       "rank": 333,
-      "prevRank": 319,
+      "prevRank": 331,
       "signals": {
         "rsi": 63.4,
         "macd": "bullish",
@@ -11373,7 +11373,7 @@
       "momentumScore": 26.3,
       "sectorScore": 19.7,
       "rank": 334,
-      "prevRank": 329,
+      "prevRank": 334,
       "signals": {
         "rsi": 48.2,
         "macd": "bullish",
@@ -11407,7 +11407,7 @@
       "momentumScore": 29.3,
       "sectorScore": 19.4,
       "rank": 335,
-      "prevRank": 331,
+      "prevRank": 332,
       "signals": {
         "rsi": 48.7,
         "macd": "bullish",
@@ -11441,7 +11441,7 @@
       "momentumScore": 30.3,
       "sectorScore": 22.4,
       "rank": 336,
-      "prevRank": 330,
+      "prevRank": 336,
       "signals": {
         "rsi": 42.4,
         "macd": "bearish",
@@ -11475,7 +11475,7 @@
       "momentumScore": 38.1,
       "sectorScore": 50.0,
       "rank": 337,
-      "prevRank": 335,
+      "prevRank": 338,
       "signals": {
         "rsi": 51.7,
         "macd": "bullish",
@@ -11509,7 +11509,7 @@
       "momentumScore": 27.3,
       "sectorScore": 26.7,
       "rank": 338,
-      "prevRank": 334,
+      "prevRank": 337,
       "signals": {
         "rsi": 54.5,
         "macd": "bullish",
@@ -11543,7 +11543,7 @@
       "momentumScore": 46.5,
       "sectorScore": 32.3,
       "rank": 339,
-      "prevRank": 338,
+      "prevRank": 345,
       "signals": {
         "rsi": 68.5,
         "macd": "bullish",
@@ -11577,7 +11577,7 @@
       "momentumScore": 36.3,
       "sectorScore": 21.3,
       "rank": 340,
-      "prevRank": 333,
+      "prevRank": 335,
       "signals": {
         "rsi": 68.3,
         "macd": "bullish",
@@ -11611,7 +11611,7 @@
       "momentumScore": 36.8,
       "sectorScore": 21.9,
       "rank": 341,
-      "prevRank": 336,
+      "prevRank": 341,
       "signals": {
         "rsi": 40.6,
         "macd": "bearish",
@@ -11645,7 +11645,7 @@
       "momentumScore": 66.1,
       "sectorScore": 21.7,
       "rank": 342,
-      "prevRank": 345,
+      "prevRank": 343,
       "signals": {
         "rsi": 61.0,
         "macd": "bullish",
@@ -11663,7 +11663,7 @@
         "momentum1m": 0.47,
         "momentum3m": 1.01,
         "momentum6m": 62.7,
-        "sectorOutperf3m": -11.61
+        "sectorOutperf3m": -11.59
       }
     },
     {
@@ -11679,7 +11679,7 @@
       "momentumScore": 46.9,
       "sectorScore": 5.0,
       "rank": 343,
-      "prevRank": 337,
+      "prevRank": 340,
       "signals": {
         "rsi": 49.4,
         "macd": "bullish",
@@ -11697,7 +11697,7 @@
         "momentum1m": -6.04,
         "momentum3m": -12.64,
         "momentum6m": 36.45,
-        "sectorOutperf3m": -25.26
+        "sectorOutperf3m": -25.24
       }
     },
     {
@@ -11713,7 +11713,7 @@
       "momentumScore": 35.3,
       "sectorScore": 34.0,
       "rank": 344,
-      "prevRank": 343,
+      "prevRank": 342,
       "signals": {
         "rsi": 54.7,
         "macd": "bullish",
@@ -11747,7 +11747,7 @@
       "momentumScore": 28.7,
       "sectorScore": 6.7,
       "rank": 345,
-      "prevRank": 346,
+      "prevRank": 344,
       "signals": {
         "rsi": 44.1,
         "macd": "bearish",
@@ -11765,7 +11765,7 @@
         "momentum1m": 2.4,
         "momentum3m": -5.62,
         "momentum6m": -8.06,
-        "sectorOutperf3m": -18.24
+        "sectorOutperf3m": -18.22
       }
     },
     {
@@ -11781,7 +11781,7 @@
       "momentumScore": 25.2,
       "sectorScore": 15.8,
       "rank": 346,
-      "prevRank": 339,
+      "prevRank": 347,
       "signals": {
         "rsi": 51.1,
         "macd": "bullish",
@@ -11815,7 +11815,7 @@
       "momentumScore": 28.8,
       "sectorScore": 35.5,
       "rank": 347,
-      "prevRank": 348,
+      "prevRank": 346,
       "signals": {
         "rsi": 14.3,
         "macd": "bearish",
@@ -11833,7 +11833,7 @@
         "momentum1m": -28.14,
         "momentum3m": -21.72,
         "momentum6m": 14.43,
-        "sectorOutperf3m": -10.37
+        "sectorOutperf3m": -10.36
       }
     },
     {
@@ -11849,7 +11849,7 @@
       "momentumScore": 48.4,
       "sectorScore": 23.4,
       "rank": 348,
-      "prevRank": 341,
+      "prevRank": 349,
       "signals": {
         "rsi": 49.9,
         "macd": "bullish",
@@ -11883,7 +11883,7 @@
       "momentumScore": 18.8,
       "sectorScore": 16.9,
       "rank": 349,
-      "prevRank": 347,
+      "prevRank": 348,
       "signals": {
         "rsi": 39.5,
         "macd": "bullish",
@@ -11917,7 +11917,7 @@
       "momentumScore": 7.6,
       "sectorScore": 10.8,
       "rank": 350,
-      "prevRank": 350,
+      "prevRank": 351,
       "signals": {
         "rsi": 41.3,
         "macd": "bearish",
@@ -11951,7 +11951,7 @@
       "momentumScore": 35.7,
       "sectorScore": 38.3,
       "rank": 351,
-      "prevRank": 349,
+      "prevRank": 350,
       "signals": {
         "rsi": 50.5,
         "macd": "bearish",
@@ -12019,7 +12019,7 @@
       "momentumScore": 4.3,
       "sectorScore": 1.3,
       "rank": 353,
-      "prevRank": 352,
+      "prevRank": 355,
       "signals": {
         "rsi": 30.6,
         "macd": "bearish",
@@ -12053,7 +12053,7 @@
       "momentumScore": 62.9,
       "sectorScore": 28.3,
       "rank": 354,
-      "prevRank": 351,
+      "prevRank": 353,
       "signals": {
         "rsi": 56.8,
         "macd": "bullish",
@@ -12071,7 +12071,7 @@
         "momentum1m": 4.38,
         "momentum3m": 4.19,
         "momentum6m": 21.06,
-        "sectorOutperf3m": -8.43
+        "sectorOutperf3m": -8.41
       }
     },
     {
@@ -12087,7 +12087,7 @@
       "momentumScore": 11.6,
       "sectorScore": 36.8,
       "rank": 355,
-      "prevRank": 355,
+      "prevRank": 352,
       "signals": {
         "rsi": 48.3,
         "macd": "bearish",
@@ -12105,7 +12105,7 @@
         "momentum1m": -7.09,
         "momentum3m": -20.4,
         "momentum6m": -20.08,
-        "sectorOutperf3m": -9.05
+        "sectorOutperf3m": -9.04
       }
     },
     {
@@ -12121,7 +12121,7 @@
       "momentumScore": 10.8,
       "sectorScore": 6.5,
       "rank": 356,
-      "prevRank": 353,
+      "prevRank": 356,
       "signals": {
         "rsi": 47.8,
         "macd": "bullish",
@@ -12143,6 +12143,40 @@
       }
     },
     {
+      "ticker": "CMI",
+      "name": "Cummins",
+      "sector": "Industrials",
+      "price": 454.18,
+      "changePct": -0.68,
+      "compositeScore": 39.0,
+      "challengerScore": 59.4,
+      "technicalScore": 60.3,
+      "fundamentalScore": 70.6,
+      "momentumScore": 6.1,
+      "sectorScore": 6.0,
+      "rank": 357,
+      "prevRank": 363,
+      "signals": {
+        "rsi": 21.2,
+        "macd": "bearish",
+        "bbPct": 0.08,
+        "ma50": 522.52,
+        "ma200": 596.8,
+        "volRatio": 1.01,
+        "pe": 18.92,
+        "sectorPe": 26.2,
+        "epsGrowth": 1.137,
+        "revGrowth": 0.135,
+        "fcfYield": 0.0377,
+        "roe": 0.2505,
+        "debtEquity": 0.566,
+        "momentum1m": -14.2,
+        "momentum3m": -27.82,
+        "momentum6m": -35.55,
+        "sectorOutperf3m": -18.88
+      }
+    },
+    {
       "ticker": "SLB",
       "name": "Schlumberger",
       "sector": "Energy",
@@ -12154,8 +12188,8 @@
       "fundamentalScore": 42.4,
       "momentumScore": 29.7,
       "sectorScore": 33.3,
-      "rank": 357,
-      "prevRank": 359,
+      "rank": 358,
+      "prevRank": 357,
       "signals": {
         "rsi": 44.9,
         "macd": "bearish",
@@ -12188,8 +12222,8 @@
       "fundamentalScore": 66.2,
       "momentumScore": 9.2,
       "sectorScore": 11.8,
-      "rank": 358,
-      "prevRank": 363,
+      "rank": 359,
+      "prevRank": 358,
       "signals": {
         "rsi": 37.1,
         "macd": "bullish",
@@ -12207,7 +12241,7 @@
         "momentum1m": 1.06,
         "momentum3m": -34.22,
         "momentum6m": -31.37,
-        "sectorOutperf3m": -22.87
+        "sectorOutperf3m": -22.86
       }
     },
     {
@@ -12222,8 +12256,8 @@
       "fundamentalScore": 37.4,
       "momentumScore": 38.7,
       "sectorScore": 29.2,
-      "rank": 359,
-      "prevRank": 357,
+      "rank": 360,
+      "prevRank": 360,
       "signals": {
         "rsi": 56.6,
         "macd": "bullish",
@@ -12251,20 +12285,20 @@
       "price": 98.67,
       "changePct": -1.74,
       "compositeScore": 38.7,
-      "challengerScore": 63.6,
-      "technicalScore": 54.4,
+      "challengerScore": 63.7,
+      "technicalScore": 54.5,
       "fundamentalScore": 78.5,
       "momentumScore": 2.4,
       "sectorScore": 4.5,
-      "rank": 360,
-      "prevRank": 356,
+      "rank": 361,
+      "prevRank": 359,
       "signals": {
         "rsi": 19.8,
         "macd": "bearish",
         "bbPct": 0.239,
         "ma50": 142.35,
         "ma200": 155.05,
-        "volRatio": 0.69,
+        "volRatio": 0.71,
         "pe": 19.69,
         "sectorPe": 16.2,
         "epsGrowth": 0.749,
@@ -12279,60 +12313,26 @@
       }
     },
     {
-      "ticker": "CMI",
-      "name": "Cummins",
-      "sector": "Industrials",
-      "price": 454.18,
-      "changePct": -0.68,
-      "compositeScore": 38.6,
-      "challengerScore": 59.1,
-      "technicalScore": 58.7,
-      "fundamentalScore": 70.6,
-      "momentumScore": 6.1,
-      "sectorScore": 6.0,
-      "rank": 361,
-      "prevRank": 361,
-      "signals": {
-        "rsi": 21.2,
-        "macd": "bearish",
-        "bbPct": 0.08,
-        "ma50": 522.52,
-        "ma200": 596.8,
-        "volRatio": 0.97,
-        "pe": 18.92,
-        "sectorPe": 26.2,
-        "epsGrowth": 1.137,
-        "revGrowth": 0.135,
-        "fcfYield": 0.0377,
-        "roe": 0.2505,
-        "debtEquity": 0.566,
-        "momentum1m": -14.2,
-        "momentum3m": -27.82,
-        "momentum6m": -35.55,
-        "sectorOutperf3m": -18.88
-      }
-    },
-    {
       "ticker": "T",
       "name": "AT&T",
       "sector": "Communication Services",
       "price": 21.94,
       "changePct": -0.19,
-      "compositeScore": 38.5,
-      "challengerScore": 44.5,
-      "technicalScore": 51.1,
+      "compositeScore": 38.6,
+      "challengerScore": 44.6,
+      "technicalScore": 51.4,
       "fundamentalScore": 47.0,
       "momentumScore": 21.1,
       "sectorScore": 31.8,
       "rank": 362,
-      "prevRank": 360,
+      "prevRank": 361,
       "signals": {
         "rsi": 50.3,
         "macd": "bullish",
         "bbPct": 0.499,
         "ma50": 23.64,
         "ma200": 24.41,
-        "volRatio": 0.67,
+        "volRatio": 0.74,
         "pe": 11.68,
         "sectorPe": 16.2,
         "epsGrowth": -0.904,
@@ -12377,7 +12377,7 @@
         "momentum1m": -9.23,
         "momentum3m": -14.65,
         "momentum6m": -39.84,
-        "sectorOutperf3m": -3.3
+        "sectorOutperf3m": -3.29
       }
     },
     {
@@ -12393,7 +12393,7 @@
       "momentumScore": 30.2,
       "sectorScore": 36.7,
       "rank": 364,
-      "prevRank": 362,
+      "prevRank": 365,
       "signals": {
         "rsi": 57.5,
         "macd": "bullish",
@@ -12427,7 +12427,7 @@
       "momentumScore": 14.8,
       "sectorScore": 26.5,
       "rank": 365,
-      "prevRank": 368,
+      "prevRank": 362,
       "signals": {
         "rsi": 37.4,
         "macd": "bearish",
@@ -12461,7 +12461,7 @@
       "momentumScore": 41.6,
       "sectorScore": 1.7,
       "rank": 366,
-      "prevRank": 365,
+      "prevRank": 366,
       "signals": {
         "rsi": 64.0,
         "macd": "bullish",
@@ -12479,7 +12479,7 @@
         "momentum1m": 16.45,
         "momentum3m": -17.01,
         "momentum6m": 6.89,
-        "sectorOutperf3m": -29.63
+        "sectorOutperf3m": -29.61
       }
     },
     {
@@ -12495,7 +12495,7 @@
       "momentumScore": 27.7,
       "sectorScore": 20.0,
       "rank": 367,
-      "prevRank": 386,
+      "prevRank": 371,
       "signals": {
         "rsi": 49.2,
         "macd": "bearish",
@@ -12529,7 +12529,7 @@
       "momentumScore": 35.3,
       "sectorScore": 14.5,
       "rank": 368,
-      "prevRank": 366,
+      "prevRank": 368,
       "signals": {
         "rsi": 51.5,
         "macd": "bullish",
@@ -12563,7 +12563,7 @@
       "momentumScore": 6.5,
       "sectorScore": 34.2,
       "rank": 369,
-      "prevRank": 374,
+      "prevRank": 367,
       "signals": {
         "rsi": 29.9,
         "macd": "bearish",
@@ -12581,7 +12581,7 @@
         "momentum1m": -18.65,
         "momentum3m": -21.88,
         "momentum6m": -36.93,
-        "sectorOutperf3m": -10.53
+        "sectorOutperf3m": -10.52
       }
     },
     {
@@ -12597,7 +12597,7 @@
       "momentumScore": 9.5,
       "sectorScore": 31.6,
       "rank": 370,
-      "prevRank": 367,
+      "prevRank": 369,
       "signals": {
         "rsi": 13.1,
         "macd": "bearish",
@@ -12615,7 +12615,7 @@
         "momentum1m": -33.37,
         "momentum3m": -23.72,
         "momentum6m": -11.22,
-        "sectorOutperf3m": -12.37
+        "sectorOutperf3m": -12.36
       }
     },
     {
@@ -12626,19 +12626,19 @@
       "changePct": -1.02,
       "compositeScore": 37.7,
       "challengerScore": 56.0,
-      "technicalScore": 52.4,
+      "technicalScore": 52.5,
       "fundamentalScore": 66.4,
       "momentumScore": 4.9,
       "sectorScore": 17.1,
       "rank": 371,
-      "prevRank": 371,
+      "prevRank": 373,
       "signals": {
         "rsi": 37.2,
         "macd": "bearish",
         "bbPct": 0.174,
         "ma50": 291.91,
         "ma200": 307.9,
-        "volRatio": 0.85,
+        "volRatio": 0.88,
         "pe": 25.5,
         "sectorPe": 29.6,
         "epsGrowth": 0.888,
@@ -12649,7 +12649,7 @@
         "momentum1m": -21.41,
         "momentum3m": -32.53,
         "momentum6m": -29.68,
-        "sectorOutperf3m": -21.18
+        "sectorOutperf3m": -21.17
       }
     },
     {
@@ -12665,14 +12665,14 @@
       "momentumScore": 5.9,
       "sectorScore": 30.3,
       "rank": 372,
-      "prevRank": 369,
+      "prevRank": 370,
       "signals": {
         "rsi": 42.3,
         "macd": "bearish",
         "bbPct": 0.19,
         "ma50": 137.58,
         "ma200": 153.82,
-        "volRatio": 0.49,
+        "volRatio": 0.5,
         "pe": 18.36,
         "sectorPe": 29.6,
         "epsGrowth": 0.545,
@@ -12683,7 +12683,7 @@
         "momentum1m": -17.61,
         "momentum3m": -24.2,
         "momentum6m": -37.38,
-        "sectorOutperf3m": -12.85
+        "sectorOutperf3m": -12.84
       }
     },
     {
@@ -12699,7 +12699,7 @@
       "momentumScore": 26.9,
       "sectorScore": 23.3,
       "rank": 373,
-      "prevRank": 370,
+      "prevRank": 372,
       "signals": {
         "rsi": 43.6,
         "macd": "bearish",
@@ -12733,7 +12733,7 @@
       "momentumScore": 44.0,
       "sectorScore": 35.5,
       "rank": 374,
-      "prevRank": 381,
+      "prevRank": 382,
       "signals": {
         "rsi": 71.3,
         "macd": "bullish",
@@ -12767,7 +12767,7 @@
       "momentumScore": 43.3,
       "sectorScore": 8.3,
       "rank": 375,
-      "prevRank": 372,
+      "prevRank": 374,
       "signals": {
         "rsi": 58.2,
         "macd": "bullish",
@@ -12835,7 +12835,7 @@
       "momentumScore": 40.9,
       "sectorScore": 13.2,
       "rank": 377,
-      "prevRank": 373,
+      "prevRank": 376,
       "signals": {
         "rsi": 67.7,
         "macd": "bullish",
@@ -12896,21 +12896,21 @@
       "sector": "Information Technology",
       "price": 123.64,
       "changePct": 0.03,
-      "compositeScore": 37.2,
+      "compositeScore": 37.3,
       "challengerScore": 36.7,
-      "technicalScore": 52.4,
+      "technicalScore": 52.6,
       "fundamentalScore": 34.2,
       "momentumScore": 16.6,
       "sectorScore": 48.7,
       "rank": 379,
-      "prevRank": 385,
+      "prevRank": 380,
       "signals": {
         "rsi": 52.8,
         "macd": "bullish",
         "bbPct": 0.818,
         "ma50": 121.19,
         "ma200": 129.97,
-        "volRatio": 1.2,
+        "volRatio": 1.24,
         "pe": 46.15,
         "sectorPe": 29.6,
         "epsGrowth": -0.137,
@@ -12921,7 +12921,7 @@
         "momentum1m": 0.6,
         "momentum3m": -13.23,
         "momentum6m": -23.6,
-        "sectorOutperf3m": -1.88
+        "sectorOutperf3m": -1.87
       }
     },
     {
@@ -12937,7 +12937,7 @@
       "momentumScore": 39.0,
       "sectorScore": 40.0,
       "rank": 380,
-      "prevRank": 376,
+      "prevRank": 377,
       "signals": {
         "rsi": 78.8,
         "macd": "bullish",
@@ -12971,7 +12971,7 @@
       "momentumScore": 50.2,
       "sectorScore": 8.3,
       "rank": 381,
-      "prevRank": 377,
+      "prevRank": 378,
       "signals": {
         "rsi": 62.3,
         "macd": "bullish",
@@ -12989,7 +12989,7 @@
         "momentum1m": 14.77,
         "momentum3m": -4.62,
         "momentum6m": 7.98,
-        "sectorOutperf3m": -17.24
+        "sectorOutperf3m": -17.22
       }
     },
     {
@@ -13005,7 +13005,7 @@
       "momentumScore": 9.5,
       "sectorScore": 22.7,
       "rank": 382,
-      "prevRank": 378,
+      "prevRank": 379,
       "signals": {
         "rsi": 25.0,
         "macd": "bearish",
@@ -13039,7 +13039,7 @@
       "momentumScore": 2.0,
       "sectorScore": 2.4,
       "rank": 383,
-      "prevRank": 379,
+      "prevRank": 381,
       "signals": {
         "rsi": 37.0,
         "macd": "bearish",
@@ -13061,6 +13061,40 @@
       }
     },
     {
+      "ticker": "ARES",
+      "name": "Ares Management",
+      "sector": "Financials",
+      "price": 139.41,
+      "changePct": 0.98,
+      "compositeScore": 36.9,
+      "challengerScore": 24.0,
+      "technicalScore": 42.0,
+      "fundamentalScore": 15.1,
+      "momentumScore": 57.1,
+      "sectorScore": 38.2,
+      "rank": 384,
+      "prevRank": 386,
+      "signals": {
+        "rsi": 77.5,
+        "macd": "bullish",
+        "bbPct": 0.897,
+        "ma50": 124.68,
+        "ma200": 121.92,
+        "volRatio": 0.98,
+        "pe": 114.97,
+        "sectorPe": 15.0,
+        "epsGrowth": -0.819,
+        "revGrowth": -0.187,
+        "fcfYield": null,
+        "roe": 0.1106,
+        "debtEquity": 1.6717,
+        "momentum1m": 20.58,
+        "momentum3m": -5.73,
+        "momentum6m": 15.52,
+        "sectorOutperf3m": -6.14
+      }
+    },
+    {
       "ticker": "SCHW",
       "name": "Charles Schwab Corporation",
       "sector": "Financials",
@@ -13072,8 +13106,8 @@
       "fundamentalScore": 62.4,
       "momentumScore": 25.6,
       "sectorScore": 6.6,
-      "rank": 384,
-      "prevRank": 380,
+      "rank": 385,
+      "prevRank": 384,
       "signals": {
         "rsi": 55.1,
         "macd": "bullish",
@@ -13101,20 +13135,20 @@
       "price": 60.31,
       "changePct": -0.79,
       "compositeScore": 36.9,
-      "challengerScore": 47.4,
-      "technicalScore": 52.4,
+      "challengerScore": 47.5,
+      "technicalScore": 52.5,
       "fundamentalScore": 52.8,
       "momentumScore": 18.5,
       "sectorScore": 16.7,
-      "rank": 385,
-      "prevRank": 382,
+      "rank": 386,
+      "prevRank": 385,
       "signals": {
         "rsi": 32.2,
         "macd": "bearish",
         "bbPct": 0.184,
         "ma50": 69.15,
         "ma200": 65.0,
-        "volRatio": 0.9,
+        "volRatio": 0.93,
         "pe": 25.21,
         "sectorPe": 25.2,
         "epsGrowth": 0.761,
@@ -13126,40 +13160,6 @@
         "momentum3m": -9.56,
         "momentum6m": -9.79,
         "sectorOutperf3m": -11.06
-      }
-    },
-    {
-      "ticker": "ARES",
-      "name": "Ares Management",
-      "sector": "Financials",
-      "price": 139.41,
-      "changePct": 0.98,
-      "compositeScore": 36.8,
-      "challengerScore": 23.9,
-      "technicalScore": 41.4,
-      "fundamentalScore": 15.1,
-      "momentumScore": 57.1,
-      "sectorScore": 38.2,
-      "rank": 386,
-      "prevRank": 384,
-      "signals": {
-        "rsi": 77.5,
-        "macd": "bullish",
-        "bbPct": 0.897,
-        "ma50": 124.68,
-        "ma200": 121.92,
-        "volRatio": 0.84,
-        "pe": 114.97,
-        "sectorPe": 15.0,
-        "epsGrowth": -0.819,
-        "revGrowth": -0.187,
-        "fcfYield": null,
-        "roe": 0.1106,
-        "debtEquity": 1.6717,
-        "momentum1m": 20.58,
-        "momentum3m": -5.73,
-        "momentum6m": 15.52,
-        "sectorOutperf3m": -6.14
       }
     },
     {
@@ -13277,7 +13277,7 @@
       "momentumScore": 9.9,
       "sectorScore": 20.5,
       "rank": 390,
-      "prevRank": 390,
+      "prevRank": 391,
       "signals": {
         "rsi": 40.3,
         "macd": "bearish",
@@ -13311,7 +13311,7 @@
       "momentumScore": 19.5,
       "sectorScore": 15.7,
       "rank": 391,
-      "prevRank": 392,
+      "prevRank": 388,
       "signals": {
         "rsi": 48.2,
         "macd": "bullish",
@@ -13345,7 +13345,7 @@
       "momentumScore": 27.7,
       "sectorScore": 19.1,
       "rank": 392,
-      "prevRank": 394,
+      "prevRank": 393,
       "signals": {
         "rsi": 68.5,
         "macd": "bullish",
@@ -13379,7 +13379,7 @@
       "momentumScore": 9.5,
       "sectorScore": 18.2,
       "rank": 393,
-      "prevRank": 391,
+      "prevRank": 390,
       "signals": {
         "rsi": 24.0,
         "macd": "bearish",
@@ -13408,19 +13408,19 @@
       "changePct": 0.19,
       "compositeScore": 36.0,
       "challengerScore": 43.9,
-      "technicalScore": 52.5,
+      "technicalScore": 52.6,
       "fundamentalScore": 47.5,
       "momentumScore": 26.6,
       "sectorScore": 10.0,
       "rank": 394,
-      "prevRank": 393,
+      "prevRank": 392,
       "signals": {
         "rsi": 50.2,
         "macd": "bullish",
         "bbPct": 0.636,
         "ma50": 134.58,
         "ma200": 140.57,
-        "volRatio": 0.76,
+        "volRatio": 0.79,
         "pe": 29.19,
         "sectorPe": 30.8,
         "epsGrowth": 0.256,
@@ -13447,7 +13447,7 @@
       "momentumScore": 12.9,
       "sectorScore": 12.0,
       "rank": 395,
-      "prevRank": 395,
+      "prevRank": 394,
       "signals": {
         "rsi": 32.0,
         "macd": "bearish",
@@ -13469,6 +13469,40 @@
       }
     },
     {
+      "ticker": "ROK",
+      "name": "Rockwell Automation",
+      "sector": "Industrials",
+      "price": 397.16,
+      "changePct": -0.39,
+      "compositeScore": 36.0,
+      "challengerScore": 41.0,
+      "technicalScore": 51.7,
+      "fundamentalScore": 42.5,
+      "momentumScore": 18.0,
+      "sectorScore": 28.9,
+      "rank": 396,
+      "prevRank": 395,
+      "signals": {
+        "rsi": 37.0,
+        "macd": "bearish",
+        "bbPct": 0.188,
+        "ma50": 428.02,
+        "ma200": 425.31,
+        "volRatio": 0.74,
+        "pe": 31.47,
+        "sectorPe": 26.2,
+        "epsGrowth": 1.528,
+        "revGrowth": 0.007,
+        "fcfYield": -0.0107,
+        "roe": 0.3873,
+        "debtEquity": 0.9994,
+        "momentum1m": -8.13,
+        "momentum3m": -10.58,
+        "momentum6m": -12.17,
+        "sectorOutperf3m": -1.64
+      }
+    },
+    {
       "ticker": "ADM",
       "name": "Archer Daniels Midland",
       "sector": "Consumer Staples",
@@ -13480,8 +13514,8 @@
       "fundamentalScore": 50.2,
       "momentumScore": 14.7,
       "sectorScore": 9.4,
-      "rank": 396,
-      "prevRank": 406,
+      "rank": 397,
+      "prevRank": 399,
       "signals": {
         "rsi": 12.8,
         "macd": "bearish",
@@ -13503,40 +13537,6 @@
       }
     },
     {
-      "ticker": "ROK",
-      "name": "Rockwell Automation",
-      "sector": "Industrials",
-      "price": 397.16,
-      "changePct": -0.39,
-      "compositeScore": 35.9,
-      "challengerScore": 41.0,
-      "technicalScore": 51.6,
-      "fundamentalScore": 42.5,
-      "momentumScore": 18.0,
-      "sectorScore": 28.9,
-      "rank": 397,
-      "prevRank": 396,
-      "signals": {
-        "rsi": 37.0,
-        "macd": "bearish",
-        "bbPct": 0.188,
-        "ma50": 428.02,
-        "ma200": 425.31,
-        "volRatio": 0.72,
-        "pe": 31.47,
-        "sectorPe": 26.2,
-        "epsGrowth": 1.528,
-        "revGrowth": 0.007,
-        "fcfYield": -0.0107,
-        "roe": 0.3873,
-        "debtEquity": 0.9994,
-        "momentum1m": -8.13,
-        "momentum3m": -10.58,
-        "momentum6m": -12.17,
-        "sectorOutperf3m": -1.64
-      }
-    },
-    {
       "ticker": "TER",
       "name": "Teradyne",
       "sector": "Information Technology",
@@ -13549,7 +13549,7 @@
       "momentumScore": 2.5,
       "sectorScore": 6.6,
       "rank": 398,
-      "prevRank": 398,
+      "prevRank": 396,
       "signals": {
         "rsi": 26.5,
         "macd": "bearish",
@@ -13567,7 +13567,7 @@
         "momentum1m": -35.47,
         "momentum3m": -40.2,
         "momentum6m": -32.42,
-        "sectorOutperf3m": -28.85
+        "sectorOutperf3m": -28.84
       }
     },
     {
@@ -13583,7 +13583,7 @@
       "momentumScore": 42.1,
       "sectorScore": 22.6,
       "rank": 399,
-      "prevRank": 399,
+      "prevRank": 406,
       "signals": {
         "rsi": 66.2,
         "macd": "bullish",
@@ -13617,7 +13617,7 @@
       "momentumScore": 8.5,
       "sectorScore": 21.1,
       "rank": 400,
-      "prevRank": 400,
+      "prevRank": 398,
       "signals": {
         "rsi": 42.7,
         "macd": "bearish",
@@ -13635,7 +13635,7 @@
         "momentum1m": -19.75,
         "momentum3m": -30.23,
         "momentum6m": -14.48,
-        "sectorOutperf3m": -18.88
+        "sectorOutperf3m": -18.87
       }
     },
     {
@@ -13651,7 +13651,7 @@
       "momentumScore": 7.6,
       "sectorScore": 22.4,
       "rank": 401,
-      "prevRank": 401,
+      "prevRank": 400,
       "signals": {
         "rsi": 20.4,
         "macd": "bearish",
@@ -13669,7 +13669,7 @@
         "momentum1m": -37.04,
         "momentum3m": -29.27,
         "momentum6m": -13.11,
-        "sectorOutperf3m": -17.92
+        "sectorOutperf3m": -17.91
       }
     },
     {
@@ -13685,7 +13685,7 @@
       "momentumScore": 14.8,
       "sectorScore": 21.7,
       "rank": 402,
-      "prevRank": 407,
+      "prevRank": 403,
       "signals": {
         "rsi": 37.0,
         "macd": "bearish",
@@ -13719,7 +13719,7 @@
       "momentumScore": 5.3,
       "sectorScore": 13.2,
       "rank": 403,
-      "prevRank": 403,
+      "prevRank": 401,
       "signals": {
         "rsi": 38.5,
         "macd": "bearish",
@@ -13737,7 +13737,7 @@
         "momentum1m": -26.14,
         "momentum3m": -33.94,
         "momentum6m": -24.59,
-        "sectorOutperf3m": -22.59
+        "sectorOutperf3m": -22.58
       }
     },
     {
@@ -13805,7 +13805,7 @@
         "momentum1m": -42.55,
         "momentum3m": -30.5,
         "momentum6m": -13.2,
-        "sectorOutperf3m": -19.15
+        "sectorOutperf3m": -19.14
       }
     },
     {
@@ -13814,9 +13814,9 @@
       "sector": "Financials",
       "price": 187.56,
       "changePct": 0.05,
-      "compositeScore": 35.2,
-      "challengerScore": 45.1,
-      "technicalScore": 46.4,
+      "compositeScore": 35.3,
+      "challengerScore": 45.2,
+      "technicalScore": 46.6,
       "fundamentalScore": 50.7,
       "momentumScore": 24.1,
       "sectorScore": 11.8,
@@ -13828,7 +13828,7 @@
         "bbPct": 0.713,
         "ma50": 193.12,
         "ma200": 192.3,
-        "volRatio": 0.57,
+        "volRatio": 0.61,
         "pe": 14.89,
         "sectorPe": 15.0,
         "epsGrowth": 0.082,
@@ -13849,20 +13849,20 @@
       "price": 130.1,
       "changePct": -0.12,
       "compositeScore": 35.1,
-      "challengerScore": 40.0,
-      "technicalScore": 40.2,
+      "challengerScore": 40.1,
+      "technicalScore": 40.3,
       "fundamentalScore": 42.7,
       "momentumScore": 25.0,
       "sectorScore": 30.0,
       "rank": 407,
-      "prevRank": 408,
+      "prevRank": 407,
       "signals": {
         "rsi": 56.8,
         "macd": "bullish",
         "bbPct": 0.798,
         "ma50": 130.99,
         "ma200": 136.3,
-        "volRatio": 0.65,
+        "volRatio": 0.66,
         "pe": 28.62,
         "sectorPe": 30.8,
         "epsGrowth": 0.052,
@@ -13889,7 +13889,7 @@
       "momentumScore": 1.7,
       "sectorScore": 1.3,
       "rank": 408,
-      "prevRank": 410,
+      "prevRank": 408,
       "signals": {
         "rsi": 28.3,
         "macd": "bearish",
@@ -13907,7 +13907,7 @@
         "momentum1m": -32.87,
         "momentum3m": -45.51,
         "momentum6m": -38.54,
-        "sectorOutperf3m": -34.16
+        "sectorOutperf3m": -34.15
       }
     },
     {
@@ -13923,7 +13923,7 @@
       "momentumScore": 7.2,
       "sectorScore": 4.2,
       "rank": 409,
-      "prevRank": 412,
+      "prevRank": 409,
       "signals": {
         "rsi": 50.7,
         "macd": "bullish",
@@ -13957,7 +13957,7 @@
       "momentumScore": 44.1,
       "sectorScore": 22.9,
       "rank": 410,
-      "prevRank": 414,
+      "prevRank": 410,
       "signals": {
         "rsi": 75.0,
         "macd": "bullish",
@@ -13991,7 +13991,7 @@
       "momentumScore": 7.9,
       "sectorScore": 4.8,
       "rank": 411,
-      "prevRank": 417,
+      "prevRank": 413,
       "signals": {
         "rsi": 33.5,
         "macd": "bearish",
@@ -14025,7 +14025,7 @@
       "momentumScore": 8.9,
       "sectorScore": 9.9,
       "rank": 412,
-      "prevRank": 413,
+      "prevRank": 411,
       "signals": {
         "rsi": 22.0,
         "macd": "bearish",
@@ -14059,7 +14059,7 @@
       "momentumScore": 17.6,
       "sectorScore": 24.1,
       "rank": 413,
-      "prevRank": 409,
+      "prevRank": 412,
       "signals": {
         "rsi": 42.7,
         "macd": "bearish",
@@ -14093,7 +14093,7 @@
       "momentumScore": 24.2,
       "sectorScore": 2.1,
       "rank": 414,
-      "prevRank": 411,
+      "prevRank": 414,
       "signals": {
         "rsi": 50.7,
         "macd": "bullish",
@@ -14195,7 +14195,7 @@
       "momentumScore": 20.7,
       "sectorScore": 3.1,
       "rank": 417,
-      "prevRank": 418,
+      "prevRank": 417,
       "signals": {
         "rsi": 51.5,
         "macd": "bullish",
@@ -14263,7 +14263,7 @@
       "momentumScore": 9.1,
       "sectorScore": 26.3,
       "rank": 419,
-      "prevRank": 388,
+      "prevRank": 418,
       "signals": {
         "rsi": 45.1,
         "macd": "bearish",
@@ -14281,7 +14281,7 @@
         "momentum1m": -16.85,
         "momentum3m": -26.85,
         "momentum6m": -17.09,
-        "sectorOutperf3m": -15.5
+        "sectorOutperf3m": -15.49
       }
     },
     {
@@ -14331,7 +14331,7 @@
       "momentumScore": 42.0,
       "sectorScore": 12.5,
       "rank": 421,
-      "prevRank": 421,
+      "prevRank": 422,
       "signals": {
         "rsi": 63.6,
         "macd": "bullish",
@@ -14360,19 +14360,19 @@
       "changePct": -1.17,
       "compositeScore": 33.0,
       "challengerScore": 43.4,
-      "technicalScore": 51.6,
+      "technicalScore": 51.7,
       "fundamentalScore": 48.0,
       "momentumScore": 3.7,
       "sectorScore": 23.7,
       "rank": 422,
-      "prevRank": 420,
+      "prevRank": 421,
       "signals": {
         "rsi": 34.1,
         "macd": "bearish",
         "bbPct": 0.173,
         "ma50": 143.1,
         "ma200": 156.05,
-        "volRatio": 0.64,
+        "volRatio": 0.67,
         "pe": 44.97,
         "sectorPe": 29.6,
         "epsGrowth": 0.56,
@@ -14383,7 +14383,7 @@
         "momentum1m": -24.51,
         "momentum3m": -29.14,
         "momentum6m": -45.52,
-        "sectorOutperf3m": -17.79
+        "sectorOutperf3m": -17.78
       }
     },
     {
@@ -14394,19 +14394,19 @@
       "changePct": 0.59,
       "compositeScore": 32.9,
       "challengerScore": 36.6,
-      "technicalScore": 44.8,
+      "technicalScore": 44.9,
       "fundamentalScore": 38.2,
       "momentumScore": 36.9,
       "sectorScore": 5.3,
       "rank": 423,
-      "prevRank": 422,
+      "prevRank": 420,
       "signals": {
         "rsi": 66.1,
         "macd": "bullish",
         "bbPct": 0.772,
         "ma50": 118.61,
         "ma200": 120.61,
-        "volRatio": 0.54,
+        "volRatio": 0.55,
         "pe": 27.27,
         "sectorPe": 15.0,
         "epsGrowth": 0.037,
@@ -14467,7 +14467,7 @@
       "momentumScore": 13.7,
       "sectorScore": 9.6,
       "rank": 425,
-      "prevRank": 426,
+      "prevRank": 427,
       "signals": {
         "rsi": 54.7,
         "macd": "bullish",
@@ -14501,7 +14501,7 @@
       "momentumScore": 16.4,
       "sectorScore": 7.9,
       "rank": 426,
-      "prevRank": 427,
+      "prevRank": 424,
       "signals": {
         "rsi": 37.1,
         "macd": "bearish",
@@ -14535,7 +14535,7 @@
       "momentumScore": 2.5,
       "sectorScore": 10.5,
       "rank": 427,
-      "prevRank": 424,
+      "prevRank": 426,
       "signals": {
         "rsi": 44.6,
         "macd": "bullish",
@@ -14553,7 +14553,7 @@
         "momentum1m": -25.97,
         "momentum3m": -34.4,
         "momentum6m": -46.83,
-        "sectorOutperf3m": -23.05
+        "sectorOutperf3m": -23.04
       }
     },
     {
@@ -14569,7 +14569,7 @@
       "momentumScore": 23.5,
       "sectorScore": 4.3,
       "rank": 428,
-      "prevRank": 430,
+      "prevRank": 428,
       "signals": {
         "rsi": 69.8,
         "macd": "bullish",
@@ -14637,7 +14637,7 @@
       "momentumScore": 8.8,
       "sectorScore": 7.2,
       "rank": 430,
-      "prevRank": 428,
+      "prevRank": 430,
       "signals": {
         "rsi": 31.2,
         "macd": "bullish",
@@ -14689,7 +14689,7 @@
         "momentum1m": 3.21,
         "momentum3m": -13.52,
         "momentum6m": -15.76,
-        "sectorOutperf3m": -26.14
+        "sectorOutperf3m": -26.12
       }
     },
     {
@@ -14791,7 +14791,7 @@
         "momentum1m": -40.73,
         "momentum3m": -33.49,
         "momentum6m": -43.17,
-        "sectorOutperf3m": -22.14
+        "sectorOutperf3m": -22.13
       }
     },
     {
@@ -14841,7 +14841,7 @@
       "momentumScore": 19.0,
       "sectorScore": 6.7,
       "rank": 436,
-      "prevRank": 438,
+      "prevRank": 436,
       "signals": {
         "rsi": 44.9,
         "macd": "bearish",
@@ -14875,7 +14875,7 @@
       "momentumScore": 1.2,
       "sectorScore": 9.2,
       "rank": 437,
-      "prevRank": 436,
+      "prevRank": 437,
       "signals": {
         "rsi": 34.6,
         "macd": "bearish",
@@ -14893,7 +14893,7 @@
         "momentum1m": -32.04,
         "momentum3m": -38.55,
         "momentum6m": -52.92,
-        "sectorOutperf3m": -27.2
+        "sectorOutperf3m": -27.19
       }
     },
     {
@@ -14909,7 +14909,7 @@
       "momentumScore": 11.2,
       "sectorScore": 13.3,
       "rank": 438,
-      "prevRank": 437,
+      "prevRank": 438,
       "signals": {
         "rsi": 40.6,
         "macd": "bearish",
@@ -14961,7 +14961,7 @@
         "momentum1m": -31.38,
         "momentum3m": -38.79,
         "momentum6m": -47.09,
-        "sectorOutperf3m": -27.44
+        "sectorOutperf3m": -27.43
       }
     },
     {
@@ -15199,7 +15199,7 @@
         "momentum1m": -16.23,
         "momentum3m": -33.19,
         "momentum6m": -48.05,
-        "sectorOutperf3m": -21.84
+        "sectorOutperf3m": -21.83
       }
     },
     {
@@ -15339,6 +15339,40 @@
       }
     },
     {
+      "ticker": "YUM",
+      "name": "Yum! Brands",
+      "sector": "Consumer Discretionary",
+      "price": 160.21,
+      "changePct": 0.43,
+      "compositeScore": 61.5,
+      "challengerScore": 61.0,
+      "technicalScore": 53.1,
+      "fundamentalScore": 61.4,
+      "momentumScore": 59.5,
+      "sectorScore": 74.5,
+      "rank": 451,
+      "prevRank": 453,
+      "signals": {
+        "rsi": 63.9,
+        "macd": "bullish",
+        "bbPct": 0.741,
+        "ma50": 147.08,
+        "ma200": 152.67,
+        "volRatio": 1.02,
+        "pe": 12.93,
+        "sectorPe": 20.7,
+        "epsGrowth": 3.199,
+        "revGrowth": 0.038,
+        "fcfYield": 0.0308,
+        "roe": null,
+        "debtEquity": null,
+        "momentum1m": 8.94,
+        "momentum3m": 6.74,
+        "momentum6m": 8.04,
+        "sectorOutperf3m": 4.32
+      }
+    },
+    {
       "ticker": "WST",
       "name": "West Pharmaceutical Services",
       "sector": "Health Care",
@@ -15350,7 +15384,7 @@
       "fundamentalScore": 47.6,
       "momentumScore": 87.2,
       "sectorScore": 76.7,
-      "rank": 451,
+      "rank": 452,
       "prevRank": 451,
       "signals": {
         "rsi": 62.6,
@@ -15369,7 +15403,7 @@
         "momentum1m": 10.95,
         "momentum3m": 19.18,
         "momentum6m": 36.51,
-        "sectorOutperf3m": 6.56
+        "sectorOutperf3m": 6.58
       }
     },
     {
@@ -15384,7 +15418,7 @@
       "fundamentalScore": 33.8,
       "momentumScore": 88.9,
       "sectorScore": 83.3,
-      "rank": 452,
+      "rank": 453,
       "prevRank": 452,
       "signals": {
         "rsi": 56.6,
@@ -15403,41 +15437,7 @@
         "momentum1m": 8.32,
         "momentum3m": 20.62,
         "momentum6m": 61.31,
-        "sectorOutperf3m": 8.0
-      }
-    },
-    {
-      "ticker": "YUM",
-      "name": "Yum! Brands",
-      "sector": "Consumer Discretionary",
-      "price": 160.21,
-      "changePct": 0.43,
-      "compositeScore": 61.1,
-      "challengerScore": 60.8,
-      "technicalScore": 51.5,
-      "fundamentalScore": 61.4,
-      "momentumScore": 59.5,
-      "sectorScore": 74.5,
-      "rank": 453,
-      "prevRank": 453,
-      "signals": {
-        "rsi": 63.9,
-        "macd": "bullish",
-        "bbPct": 0.741,
-        "ma50": 147.08,
-        "ma200": 152.67,
-        "volRatio": 0.99,
-        "pe": 12.93,
-        "sectorPe": 20.7,
-        "epsGrowth": 3.199,
-        "revGrowth": 0.038,
-        "fcfYield": 0.0308,
-        "roe": null,
-        "debtEquity": null,
-        "momentum1m": 8.94,
-        "momentum3m": 6.74,
-        "momentum6m": 8.04,
-        "sectorOutperf3m": 4.32
+        "sectorOutperf3m": 8.02
       }
     },
     {
@@ -15471,7 +15471,7 @@
         "momentum1m": 9.16,
         "momentum3m": 14.27,
         "momentum6m": 14.56,
-        "sectorOutperf3m": 1.65
+        "sectorOutperf3m": 1.67
       }
     },
     {
@@ -15514,9 +15514,9 @@
       "sector": "Industrials",
       "price": 111.05,
       "changePct": 0.82,
-      "compositeScore": 59.4,
-      "challengerScore": 51.4,
-      "technicalScore": 45.2,
+      "compositeScore": 59.6,
+      "challengerScore": 51.5,
+      "technicalScore": 45.8,
       "fundamentalScore": 47.6,
       "momentumScore": 71.7,
       "sectorScore": 79.5,
@@ -15528,7 +15528,7 @@
         "bbPct": 0.781,
         "ma50": 100.08,
         "ma200": 102.76,
-        "volRatio": 0.69,
+        "volRatio": 0.83,
         "pe": 21.42,
         "sectorPe": 26.2,
         "epsGrowth": -0.116,
@@ -15548,9 +15548,9 @@
       "sector": "Real Estate",
       "price": 247.66,
       "changePct": 0.36,
-      "compositeScore": 59.0,
-      "challengerScore": 54.0,
-      "technicalScore": 49.2,
+      "compositeScore": 59.1,
+      "challengerScore": 54.1,
+      "technicalScore": 49.4,
       "fundamentalScore": 51.5,
       "momentumScore": 61.0,
       "sectorScore": 80.0,
@@ -15562,7 +15562,7 @@
         "bbPct": 0.883,
         "ma50": 234.2,
         "ma200": 219.66,
-        "volRatio": 0.68,
+        "volRatio": 0.74,
         "pe": 104.85,
         "sectorPe": 30.8,
         "epsGrowth": 0.303,
@@ -15607,7 +15607,7 @@
         "momentum1m": 10.8,
         "momentum3m": 15.0,
         "momentum6m": 41.98,
-        "sectorOutperf3m": 2.38
+        "sectorOutperf3m": 2.4
       }
     },
     {
@@ -15617,20 +15617,20 @@
       "price": 119.21,
       "changePct": 0.47,
       "compositeScore": 58.0,
-      "challengerScore": 42.0,
-      "technicalScore": 44.1,
+      "challengerScore": 42.1,
+      "technicalScore": 44.3,
       "fundamentalScore": 32.6,
       "momentumScore": 72.3,
       "sectorScore": 95.5,
       "rank": 459,
-      "prevRank": 461,
+      "prevRank": 460,
       "signals": {
         "rsi": 68.5,
         "macd": "bullish",
         "bbPct": 0.954,
         "ma50": 108.49,
         "ma200": 103.22,
-        "volRatio": 0.82,
+        "volRatio": 0.87,
         "pe": 24.53,
         "sectorPe": 16.2,
         "epsGrowth": -0.483,
@@ -15657,7 +15657,7 @@
       "momentumScore": 60.3,
       "sectorScore": 90.3,
       "rank": 460,
-      "prevRank": 460,
+      "prevRank": 461,
       "signals": {
         "rsi": 70.6,
         "macd": "bullish",
@@ -15709,7 +15709,7 @@
         "momentum1m": 1.54,
         "momentum3m": -8.51,
         "momentum6m": 62.14,
-        "sectorOutperf3m": 2.84
+        "sectorOutperf3m": 2.85
       }
     },
     {
@@ -15827,7 +15827,7 @@
       "momentumScore": 41.1,
       "sectorScore": 43.4,
       "rank": 465,
-      "prevRank": 466,
+      "prevRank": 465,
       "signals": {
         "rsi": 13.8,
         "macd": "bearish",
@@ -15845,7 +15845,7 @@
         "momentum1m": -16.86,
         "momentum3m": -15.34,
         "momentum6m": 30.24,
-        "sectorOutperf3m": -3.99
+        "sectorOutperf3m": -3.98
       }
     },
     {
@@ -15895,7 +15895,7 @@
       "momentumScore": 53.6,
       "sectorScore": 53.0,
       "rank": 467,
-      "prevRank": 465,
+      "prevRank": 466,
       "signals": {
         "rsi": 54.2,
         "macd": "bearish",
@@ -15929,7 +15929,7 @@
       "momentumScore": 71.7,
       "sectorScore": 68.1,
       "rank": 468,
-      "prevRank": 470,
+      "prevRank": 468,
       "signals": {
         "rsi": 70.1,
         "macd": "bullish",
@@ -15963,7 +15963,7 @@
       "momentumScore": 56.1,
       "sectorScore": 60.2,
       "rank": 469,
-      "prevRank": 469,
+      "prevRank": 470,
       "signals": {
         "rsi": 58.9,
         "macd": "bearish",
@@ -15997,7 +15997,7 @@
       "momentumScore": 55.8,
       "sectorScore": 81.6,
       "rank": 470,
-      "prevRank": 471,
+      "prevRank": 469,
       "signals": {
         "rsi": 53.6,
         "macd": "bearish",
@@ -16015,7 +16015,7 @@
         "momentum1m": 3.1,
         "momentum3m": 8.66,
         "momentum6m": 6.0,
-        "sectorOutperf3m": 20.01
+        "sectorOutperf3m": 20.02
       }
     },
     {
@@ -16031,7 +16031,7 @@
       "momentumScore": 68.3,
       "sectorScore": 40.0,
       "rank": 471,
-      "prevRank": 468,
+      "prevRank": 472,
       "signals": {
         "rsi": 55.3,
         "macd": "bullish",
@@ -16049,7 +16049,7 @@
         "momentum1m": 11.73,
         "momentum3m": 9.47,
         "momentum6m": 12.45,
-        "sectorOutperf3m": -3.15
+        "sectorOutperf3m": -3.13
       }
     },
     {
@@ -16060,19 +16060,19 @@
       "changePct": 0.28,
       "compositeScore": 51.7,
       "challengerScore": 45.7,
-      "technicalScore": 47.9,
+      "technicalScore": 48.0,
       "fundamentalScore": 41.9,
       "momentumScore": 56.5,
       "sectorScore": 65.1,
       "rank": 472,
-      "prevRank": 473,
+      "prevRank": 471,
       "signals": {
         "rsi": 57.8,
         "macd": "bullish",
         "bbPct": 1.091,
         "ma50": 284.95,
         "ma200": 269.75,
-        "volRatio": 0.95,
+        "volRatio": 0.97,
         "pe": 37.51,
         "sectorPe": 26.2,
         "epsGrowth": 0.337,
@@ -16099,7 +16099,7 @@
       "momentumScore": 40.4,
       "sectorScore": 53.3,
       "rank": 473,
-      "prevRank": 472,
+      "prevRank": 473,
       "signals": {
         "rsi": 63.6,
         "macd": "bullish",
@@ -16133,7 +16133,7 @@
       "momentumScore": 52.0,
       "sectorScore": 59.4,
       "rank": 474,
-      "prevRank": 477,
+      "prevRank": 476,
       "signals": {
         "rsi": 74.6,
         "macd": "bullish",
@@ -16185,7 +16185,7 @@
         "momentum1m": -23.93,
         "momentum3m": -14.12,
         "momentum6m": 11.21,
-        "sectorOutperf3m": -2.77
+        "sectorOutperf3m": -2.76
       }
     },
     {
@@ -16235,7 +16235,7 @@
       "momentumScore": 63.6,
       "sectorScore": 42.2,
       "rank": 477,
-      "prevRank": 476,
+      "prevRank": 477,
       "signals": {
         "rsi": 70.5,
         "macd": "bullish",
@@ -16262,21 +16262,21 @@
       "sector": "Financials",
       "price": 85.76,
       "changePct": 0.33,
-      "compositeScore": 49.8,
+      "compositeScore": 49.9,
       "challengerScore": 48.7,
-      "technicalScore": 49.2,
+      "technicalScore": 49.4,
       "fundamentalScore": 48.1,
       "momentumScore": 54.6,
       "sectorScore": 47.4,
       "rank": 478,
-      "prevRank": 479,
+      "prevRank": 478,
       "signals": {
         "rsi": 63.2,
         "macd": "bullish",
         "bbPct": 0.849,
         "ma50": 83.9,
         "ma200": 82.53,
-        "volRatio": 0.53,
+        "volRatio": 0.56,
         "pe": 12.11,
         "sectorPe": 15.0,
         "epsGrowth": 0.127,
@@ -16303,7 +16303,7 @@
       "momentumScore": 45.1,
       "sectorScore": 54.2,
       "rank": 479,
-      "prevRank": 481,
+      "prevRank": 480,
       "signals": {
         "rsi": 68.7,
         "macd": "bullish",
@@ -16337,7 +16337,7 @@
       "momentumScore": 80.0,
       "sectorScore": 35.0,
       "rank": 480,
-      "prevRank": 478,
+      "prevRank": 479,
       "signals": {
         "rsi": 67.5,
         "macd": "bullish",
@@ -16355,7 +16355,7 @@
         "momentum1m": 16.55,
         "momentum3m": 8.07,
         "momentum6m": 30.43,
-        "sectorOutperf3m": -4.55
+        "sectorOutperf3m": -4.53
       }
     },
     {
@@ -16371,7 +16371,7 @@
       "momentumScore": 47.6,
       "sectorScore": 58.1,
       "rank": 481,
-      "prevRank": 480,
+      "prevRank": 481,
       "signals": {
         "rsi": 64.9,
         "macd": "bullish",
@@ -16457,7 +16457,7 @@
         "momentum1m": 7.24,
         "momentum3m": 2.14,
         "momentum6m": 2.19,
-        "sectorOutperf3m": -10.48
+        "sectorOutperf3m": -10.46
       }
     },
     {
@@ -16473,7 +16473,7 @@
       "momentumScore": 55.1,
       "sectorScore": 65.6,
       "rank": 484,
-      "prevRank": 486,
+      "prevRank": 484,
       "signals": {
         "rsi": 64.7,
         "macd": "bullish",
@@ -16507,7 +16507,7 @@
       "momentumScore": 72.3,
       "sectorScore": 30.0,
       "rank": 485,
-      "prevRank": 484,
+      "prevRank": 485,
       "signals": {
         "rsi": 58.7,
         "macd": "bullish",
@@ -16525,7 +16525,7 @@
         "momentum1m": 12.92,
         "momentum3m": 6.09,
         "momentum6m": 20.93,
-        "sectorOutperf3m": -6.53
+        "sectorOutperf3m": -6.51
       }
     },
     {
@@ -16541,7 +16541,7 @@
       "momentumScore": 60.3,
       "sectorScore": 62.5,
       "rank": 486,
-      "prevRank": 485,
+      "prevRank": 486,
       "signals": {
         "rsi": 64.3,
         "macd": "bullish",
@@ -16593,7 +16593,7 @@
         "momentum1m": -8.78,
         "momentum3m": -4.85,
         "momentum6m": -0.27,
-        "sectorOutperf3m": 6.5
+        "sectorOutperf3m": 6.51
       }
     },
     {
@@ -16706,7 +16706,7 @@
       "changePct": -0.57,
       "compositeScore": 40.4,
       "challengerScore": 53.1,
-      "technicalScore": 49.3,
+      "technicalScore": 49.4,
       "fundamentalScore": 60.4,
       "momentumScore": 17.5,
       "sectorScore": 27.7,
@@ -16718,7 +16718,7 @@
         "bbPct": 0.328,
         "ma50": 444.53,
         "ma200": 454.18,
-        "volRatio": 0.84,
+        "volRatio": 0.86,
         "pe": 29.3,
         "sectorPe": 26.2,
         "epsGrowth": 0.254,
@@ -16779,7 +16779,7 @@
       "momentumScore": 2.5,
       "sectorScore": 5.3,
       "rank": 493,
-      "prevRank": 494,
+      "prevRank": 493,
       "signals": {
         "rsi": 33.1,
         "macd": "bearish",
@@ -16797,7 +16797,7 @@
         "momentum1m": -24.04,
         "momentum3m": -40.63,
         "momentum6m": -41.43,
-        "sectorOutperf3m": -29.28
+        "sectorOutperf3m": -29.27
       }
     },
     {
@@ -16813,7 +16813,7 @@
       "momentumScore": 18.9,
       "sectorScore": 12.9,
       "rank": 494,
-      "prevRank": 493,
+      "prevRank": 494,
       "signals": {
         "rsi": 36.1,
         "macd": "bearish",
@@ -16874,9 +16874,9 @@
       "sector": "Consumer Discretionary",
       "price": 136.92,
       "changePct": -0.15,
-      "compositeScore": 37.1,
-      "challengerScore": 44.2,
-      "technicalScore": 56.4,
+      "compositeScore": 37.7,
+      "challengerScore": 44.5,
+      "technicalScore": 58.5,
       "fundamentalScore": 46.8,
       "momentumScore": 22.4,
       "sectorScore": 17.0,
@@ -16888,7 +16888,7 @@
         "bbPct": 0.162,
         "ma50": 135.91,
         "ma200": 150.09,
-        "volRatio": 0.85,
+        "volRatio": 1.01,
         "pe": 25.36,
         "sectorPe": 20.7,
         "epsGrowth": 0.236,
@@ -16949,7 +16949,7 @@
       "momentumScore": 22.0,
       "sectorScore": 23.8,
       "rank": 498,
-      "prevRank": 499,
+      "prevRank": 498,
       "signals": {
         "rsi": 38.5,
         "macd": "bearish",
@@ -16983,7 +16983,7 @@
       "momentumScore": 3.7,
       "sectorScore": 3.6,
       "rank": 499,
-      "prevRank": 498,
+      "prevRank": 499,
       "signals": {
         "rsi": 45.3,
         "macd": "bearish",
@@ -17103,7 +17103,7 @@
         "momentum1m": -43.46,
         "momentum3m": -44.41,
         "momentum6m": -51.68,
-        "sectorOutperf3m": -33.06
+        "sectorOutperf3m": -33.05
       }
     },
     {
@@ -17112,9 +17112,9 @@
       "sector": "Consumer Discretionary",
       "price": 12.28,
       "changePct": 0.07,
-      "compositeScore": 24.6,
+      "compositeScore": 24.7,
       "challengerScore": 20.6,
-      "technicalScore": 44.9,
+      "technicalScore": 45.1,
       "fundamentalScore": 15.8,
       "momentumScore": 22.7,
       "sectorScore": 14.9,
@@ -17126,7 +17126,7 @@
         "bbPct": 0.571,
         "ma50": 12.69,
         "ma200": 13.14,
-        "volRatio": 0.67,
+        "volRatio": 0.74,
         "pe": null,
         "sectorPe": 20.7,
         "epsGrowth": -0.167,
@@ -17142,6 +17142,62 @@
     }
   ],
   "sectors": {
+    "Communication Services": {
+      "avgScore": 49.1,
+      "topStock": "FOX",
+      "stockCount": 22,
+      "etf": "XLC",
+      "etfReturn1m": -4.03,
+      "etfReturn3m": -3.94
+    },
+    "Energy": {
+      "avgScore": 55.0,
+      "topStock": "APA",
+      "stockCount": 21,
+      "etf": "XLE",
+      "etfReturn1m": -7.43,
+      "etfReturn3m": 2.49
+    },
+    "Health Care": {
+      "avgScore": 53.7,
+      "topStock": "MRNA",
+      "stockCount": 60,
+      "etf": "XLV",
+      "etfReturn1m": 11.33,
+      "etfReturn3m": 12.6
+    },
+    "Consumer Staples": {
+      "avgScore": null,
+      "topStock": "KDP",
+      "stockCount": 33,
+      "etf": "XLP",
+      "etfReturn1m": 8.12,
+      "etfReturn3m": 6.54
+    },
+    "Information Technology": {
+      "avgScore": 49.2,
+      "topStock": "ACN",
+      "stockCount": 76,
+      "etf": "XLK",
+      "etfReturn1m": -13.94,
+      "etfReturn3m": -11.36
+    },
+    "Utilities": {
+      "avgScore": 44.6,
+      "topStock": "ED",
+      "stockCount": 31,
+      "etf": "XLU",
+      "etfReturn1m": 4.44,
+      "etfReturn3m": 0.03
+    },
+    "Materials": {
+      "avgScore": 48.8,
+      "topStock": "NEM",
+      "stockCount": 24,
+      "etf": "XLB",
+      "etfReturn1m": 6.3,
+      "etfReturn3m": 1.5
+    },
     "Financials": {
       "avgScore": 52.4,
       "topStock": "AIZ",
@@ -17159,76 +17215,20 @@
       "etfReturn3m": 2.42
     },
     "Real Estate": {
-      "avgScore": 45.6,
+      "avgScore": 45.7,
       "topStock": "HST",
       "stockCount": 30,
       "etf": "XLRE",
       "etfReturn1m": 6.57,
       "etfReturn3m": -0.37
     },
-    "Communication Services": {
-      "avgScore": 49.1,
-      "topStock": "FOX",
-      "stockCount": 22,
-      "etf": "XLC",
-      "etfReturn1m": -4.03,
-      "etfReturn3m": -3.94
-    },
-    "Health Care": {
-      "avgScore": 53.7,
-      "topStock": "MRNA",
-      "stockCount": 60,
-      "etf": "XLV",
-      "etfReturn1m": 11.35,
-      "etfReturn3m": 12.62
-    },
-    "Consumer Staples": {
-      "avgScore": null,
-      "topStock": "KDP",
-      "stockCount": 33,
-      "etf": "XLP",
-      "etfReturn1m": 8.12,
-      "etfReturn3m": 6.54
-    },
-    "Materials": {
-      "avgScore": 48.8,
-      "topStock": "NEM",
-      "stockCount": 24,
-      "etf": "XLB",
-      "etfReturn1m": 6.3,
-      "etfReturn3m": 1.5
-    },
-    "Information Technology": {
-      "avgScore": 49.2,
-      "topStock": "ACN",
-      "stockCount": 76,
-      "etf": "XLK",
-      "etfReturn1m": -13.93,
-      "etfReturn3m": -11.35
-    },
-    "Energy": {
-      "avgScore": 55.0,
-      "topStock": "APA",
-      "stockCount": 21,
-      "etf": "XLE",
-      "etfReturn1m": -7.43,
-      "etfReturn3m": 2.49
-    },
     "Industrials": {
-      "avgScore": 48.5,
+      "avgScore": 48.6,
       "topStock": "SWK",
       "stockCount": 83,
       "etf": "XLI",
       "etfReturn1m": 0.04,
       "etfReturn3m": -8.94
-    },
-    "Utilities": {
-      "avgScore": 44.5,
-      "topStock": "ED",
-      "stockCount": 31,
-      "etf": "XLU",
-      "etfReturn1m": 4.44,
-      "etfReturn3m": 0.03
     }
   }
 }
