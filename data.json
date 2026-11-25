@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T01:03:53Z",
+  "lastUpdated": "2026-11-25T01:18:54Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -17142,19 +17142,11 @@
     }
   ],
   "sectors": {
-    "Consumer Discretionary": {
+    "Information Technology": {
       "avgScore": null,
-      "topStock": "ABNB",
-      "stockCount": 47,
-      "etf": "XLY",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Financials": {
-      "avgScore": null,
-      "topStock": "AFL",
+      "topStock": "ACN",
       "stockCount": 76,
-      "etf": "XLF",
+      "etf": "XLK",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17166,19 +17158,11 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Materials": {
+    "Consumer Discretionary": {
       "avgScore": null,
-      "topStock": "APD",
-      "stockCount": 24,
-      "etf": "XLB",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Communication Services": {
-      "avgScore": null,
-      "topStock": "GOOGL",
-      "stockCount": 22,
-      "etf": "XLC",
+      "topStock": "ABNB",
+      "stockCount": 47,
+      "etf": "XLY",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17190,27 +17174,43 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Information Technology": {
-      "avgScore": null,
-      "topStock": "ACN",
-      "stockCount": 76,
-      "etf": "XLK",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
-    "Industrials": {
-      "avgScore": null,
-      "topStock": "MMM",
-      "stockCount": 83,
-      "etf": "XLI",
-      "etfReturn1m": null,
-      "etfReturn3m": null
-    },
     "Consumer Staples": {
       "avgScore": null,
       "topStock": "MO",
       "stockCount": 33,
       "etf": "XLP",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Materials": {
+      "avgScore": null,
+      "topStock": "APD",
+      "stockCount": 24,
+      "etf": "XLB",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Real Estate": {
+      "avgScore": null,
+      "topStock": "ARE",
+      "stockCount": 30,
+      "etf": "XLRE",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Communication Services": {
+      "avgScore": null,
+      "topStock": "GOOGL",
+      "stockCount": 22,
+      "etf": "XLC",
+      "etfReturn1m": null,
+      "etfReturn3m": null
+    },
+    "Financials": {
+      "avgScore": null,
+      "topStock": "AFL",
+      "stockCount": 76,
+      "etf": "XLF",
       "etfReturn1m": null,
       "etfReturn3m": null
     },
@@ -17222,11 +17222,11 @@
       "etfReturn1m": null,
       "etfReturn3m": null
     },
-    "Real Estate": {
+    "Industrials": {
       "avgScore": null,
-      "topStock": "ARE",
-      "stockCount": 30,
-      "etf": "XLRE",
+      "topStock": "MMM",
+      "stockCount": 83,
+      "etf": "XLI",
       "etfReturn1m": null,
       "etfReturn3m": null
     }
