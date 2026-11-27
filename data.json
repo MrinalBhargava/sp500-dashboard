@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T03:00:11Z",
+  "lastUpdated": "2026-11-27T03:15:11Z",
   "marketStatus": "after-hours",
   "totalStocks": 503,
   "topPick": {
@@ -17142,13 +17142,13 @@
     }
   ],
   "sectors": {
-    "Materials": {
-      "avgScore": 47.9,
-      "topStock": "PPG",
-      "stockCount": 24,
-      "etf": "XLB",
-      "etfReturn1m": -1.25,
-      "etfReturn3m": -3.26
+    "Information Technology": {
+      "avgScore": null,
+      "topStock": "ACN",
+      "stockCount": 76,
+      "etf": "XLK",
+      "etfReturn1m": -18.43,
+      "etfReturn3m": -16.0
     },
     "Communication Services": {
       "avgScore": 50.2,
@@ -17158,14 +17158,6 @@
       "etfReturn1m": 2.17,
       "etfReturn3m": -6.43
     },
-    "Financials": {
-      "avgScore": 52.3,
-      "topStock": "AIZ",
-      "stockCount": 76,
-      "etf": "XLF",
-      "etfReturn1m": 0.68,
-      "etfReturn3m": -2.39
-    },
     "Utilities": {
       "avgScore": 46.1,
       "topStock": "ED",
@@ -17173,14 +17165,6 @@
       "etf": "XLU",
       "etfReturn1m": 2.64,
       "etfReturn3m": 2.81
-    },
-    "Real Estate": {
-      "avgScore": 47.6,
-      "topStock": "EXR",
-      "stockCount": 30,
-      "etf": "XLRE",
-      "etfReturn1m": 4.11,
-      "etfReturn3m": -0.56
     },
     "Industrials": {
       "avgScore": 49.2,
@@ -17190,13 +17174,13 @@
       "etfReturn1m": -3.29,
       "etfReturn3m": -7.76
     },
-    "Information Technology": {
+    "Consumer Staples": {
       "avgScore": null,
-      "topStock": "ACN",
-      "stockCount": 76,
-      "etf": "XLK",
-      "etfReturn1m": -18.43,
-      "etfReturn3m": -16.0
+      "topStock": "DLTR",
+      "stockCount": 33,
+      "etf": "XLP",
+      "etfReturn1m": 6.29,
+      "etfReturn3m": 8.73
     },
     "Health Care": {
       "avgScore": 53.6,
@@ -17222,13 +17206,29 @@
       "etfReturn1m": 1.87,
       "etfReturn3m": 0.46
     },
-    "Consumer Staples": {
-      "avgScore": null,
-      "topStock": "DLTR",
-      "stockCount": 33,
-      "etf": "XLP",
-      "etfReturn1m": 6.29,
-      "etfReturn3m": 8.73
+    "Materials": {
+      "avgScore": 47.9,
+      "topStock": "PPG",
+      "stockCount": 24,
+      "etf": "XLB",
+      "etfReturn1m": -1.25,
+      "etfReturn3m": -3.26
+    },
+    "Real Estate": {
+      "avgScore": 47.6,
+      "topStock": "EXR",
+      "stockCount": 30,
+      "etf": "XLRE",
+      "etfReturn1m": 4.11,
+      "etfReturn3m": -0.56
+    },
+    "Financials": {
+      "avgScore": 52.3,
+      "topStock": "AIZ",
+      "stockCount": 76,
+      "etf": "XLF",
+      "etfReturn1m": 0.68,
+      "etfReturn3m": -2.39
     }
   }
 }
